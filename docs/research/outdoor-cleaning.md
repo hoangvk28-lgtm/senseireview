@@ -1,0 +1,15 @@
+# outdoor-cleaning
+- Pressure washer output: PSI (pressure) and GPM (flow); cleaning units = PSI x GPM; flow does the rinsing.
+- "Max PSI" on listings is often peak, not rated working pressure; the rated figure is lower. Look for the rated number.
+- Electric: roughly 1.2 to 2.0 GPM; light to medium duty; quiet; needs an outlet; a 120V 15A circuit limits power.
+- Gas: 2.5+ GPM, 3000+ PSI, for large decks and driveways; loud, needs fuel and upkeep.
+- Induction motors outlast universal motors; brushless is quieter.
+- Nozzles: 0 degree (can damage), 15, 25 (general), 40 (gentle), soap nozzle (low pressure).
+- Damage risk: wood, siding, cars, paint; start far away, use a wide fan; never aim at people.
+- Foam cannons need decent GPM; low-flow units make thin foam.
+- Hose 25-35 ft and cord length; GFCI plug; extension cords reduce performance, use heavy gauge.
+- Needs a garden hose with enough flow; clean the inlet filter.
+- Pumps: axial cam pumps on cheap units; triplex pumps on pro and gas units last far longer.
+- Winterize: drain water; freezing cracks pumps.
+- Wear: O-rings, inlet screen, nozzle tips, gun seals, hose fittings.
+- Never spray electrical equipment; unplug before changing nozzles.

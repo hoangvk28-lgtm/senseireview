@@ -1,0 +1,16 @@
+# floor-care (robot vacuums)
+- Pa suction figures are not standardized across brands; compare design (roller brush, tangle-free, carpet detection) not raw Pa.
+- Navigation: LiDAR maps quickly and works in the dark; camera/AI systems see obstacles like cords and socks; basic gyro bots bump around.
+- Self-empty dock moves dust into a bag or bin for weeks; bags are an ongoing cost, bagless bins need emptying and filters.
+- Rubber roller beats bristle on hair; anti-tangle designs reduce hair wrap but still need cutting.
+- Mopping on cheap bots is a damp pad dragged around, not scrubbing; real mop systems lift pads on carpet and wash them in a dock.
+- High pile rugs and fringe are trouble; thresholds over about 2 cm stop most bots.
+- Battery runtime 90 to 180 minutes; large homes need recharge-and-resume.
+- LiDAR turret models are about 9 to 10 cm tall and may not fit under low furniture.
+- Apps: no-go zones, room cleaning, scheduling; camera models raise a privacy question.
+- Wear parts: side brush, filter, mop pad, roller every few months to a year; cheap bots have scarce spares.
+- Pet accidents are the failure case; obstacle-avoiding cameras help.
+- Loud at max suction; quiet mode cuts it.
+- Dock footprint and clearance needed for self-empty stations.
+- Setup often needs a 2.4 GHz network.
+- Year three: battery fade, dirty sensors, hair on drive wheels.

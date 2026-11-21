@@ -1,0 +1,16 @@
+# home-gym
+- Adjustable dumbbells replace a rack; mechanisms: dial, pin selector, twist, spin-lock nuts, quick-lock collars. Dial and pin are fastest; spin-lock is slowest but cheap and sturdy.
+- Increment size matters: 2.5 lb steps suit progression; 5 or 10 lb jumps feel coarse at low weights.
+- Max weight per hand: 25 lb for beginners; 50 lb for most; strong lifters outgrow 52.5 and 55 lb sets.
+- Handle length and shape differ from fixed dumbbells; bulky end plates limit some moves.
+- Footprint: tray width and floor space.
+- Plastic mechanisms can crack when dropped; do not slam into the cradle.
+- Yoga mat thickness: 3-6 mm for stability, 10-12 mm for comfort but wobbly standing poses; 1/2 in NBR foam suits floor work, not balance poses.
+- Materials: NBR foam (cheap, soft, less grip when sweaty), PVC (durable, heavy), natural rubber (grippy, latex), TPE (lighter).
+- Mat length 68-72 in; tall users want 74 in or more. Width 24 in standard.
+- Rowers: air (flywheel, resistance rises with pull), magnetic (quiet, preset levels), water (tank, smooth, bulky).
+- Rail length: tall users need a long rail for full leg drive.
+- Monitor and apps: some rely on subscriptions; check what works without.
+- Rowing is low impact, but form (legs, then back, then arms) matters; poor technique strains the back.
+- Storage: folding or upright; check stored footprint.
+- Weight capacity is a static rating, not comfort or stability.

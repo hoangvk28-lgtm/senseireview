@@ -1,0 +1,16 @@
+# audio (noise-cancelling headphones)
+- ANC uses microphones plus an inverse sound wave; best on steady low-frequency noise (engines, hum), weak on voices and sudden sounds.
+- Hybrid ANC uses feed-forward and feedback mics.
+- Battery claims are with moderate volume; real use is a bit lower; 100+ hour claims usually mean ANC off.
+- Over-ear clamp force and weight (about 250 to 350 g) decide long-wear comfort; glasses wearers care about pad softness.
+- Codecs: SBC baseline, AAC iPhone, aptX and LDAC on Android, LC3 for LE Audio; fit and tuning matter more.
+- Multipoint lets two devices connect at once; check before buying.
+- Wired mode with 3.5 mm or USB-C helps flights and when the battery dies.
+- Transparency mode and call mic quality vary a lot; budget models are weaker on calls.
+- App EQ and ANC levels exist on most major brands.
+- Folding designs and hard cases matter for travel.
+- Pads wear and flake in two to three years; replaceable pads extend life.
+- Battery degrades after several hundred cycles; not user replaceable.
+- Hi-Res claims are marketing without codec support.
+- Some Apple-chip features on Beats work fully only with Apple devices.
+- Strong ANC pressure feeling bothers some people.

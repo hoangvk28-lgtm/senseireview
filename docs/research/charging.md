@@ -1,0 +1,16 @@
+# charging (power banks, USB-C chargers)
+- mAh rating is at cell voltage (3.6 to 3.7 V); usable output at 5 V is about 60 to 70 percent. Convert to Wh: mAh x 3.7 / 1000.
+- 10,000 mAh is about 37 Wh and gives a modern phone roughly 1.5 to 2 charges.
+- Airlines allow carry-on power banks up to 100 Wh; 100 to 160 Wh needs airline approval; over 160 Wh is prohibited. Power banks go in carry-on only.
+- Total output wattage is shared across ports; headline wattage is often the sum, not per port.
+- USB PD with PPS suits Samsung and newer phones; laptops need 45 to 100 W per port and a capable cable.
+- 60 W cables are fine for most; 100 W and above needs an e-marked cable.
+- Generic 40,000 to 60,000 mAh banks usually overstate capacity and charge slowly (22.5 W); check Wh.
+- Built-in cables are convenient but a failure point when they fray.
+- Qi2 magnetic banks are convenient but charge slower and run warm.
+- GaN chargers are smaller and run cooler at the same wattage; port wattage splits when several are used.
+- Wall charger: the phone sets the speed; 20 to 30 W fits most phones, 65 W covers many laptops.
+- Pass-through charging is not universal and heats cells.
+- Li-ion cells degrade after several hundred cycles; store partly charged and cool.
+- Retire swollen or hot banks; avoid unbranded chargers without safety certification marks.
+- Power stations (300 Wh class) are a different category: AC outlets, heavy.

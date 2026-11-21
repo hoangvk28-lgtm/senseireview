@@ -1,0 +1,16 @@
+# measuring-tools
+- Electronic stud finders sense change in wall density via capacitance; calibrate on an empty section of wall.
+- Multi-sensor models (Franklin ProSensor) scan a wide area at once, need no calibration, show full stud width; single-sensor models need calibration and sweeping.
+- Typical depth: 3/4 in standard; deep modes 1-1/2 in; 2.5 in on some multi-sensor models.
+- Plaster and lath, thick texture, tile and wallpaper confuse finders.
+- Live AC wire detection warns but is not a guarantee: never drill assuming no wire.
+- Metal detection finds screws, nails, pipes; nearby metal can mislead as a stud.
+- Studs commonly 16 in or 24 in on center; use spacing to verify readings.
+- Verify by scanning from multiple directions and finding both edges; confirm with a thin test hole.
+- Magnetic finders find fasteners, not studs, no batteries.
+- Batteries: 9V common, AAA on compact, rechargeable on newer units.
+- Laser level combos usually trade stud-finding quality for convenience.
+- Heavy loads (TV, shelving): use studs or rated anchors, not a reading alone.
+- Metal studs are thin; metal modes find edges differently.
+- Joist and ceiling scanning works the same way but depth limit matters.
+- Generic units copy each other; "5 in 1" claims are mostly mode selectors.

@@ -1,0 +1,15 @@
+# networking (mesh wifi)
+- Mesh nodes talk to each other and to the router node; each wireless hop can cut throughput; wired Ethernet backhaul keeps full speed.
+- Tri-band systems dedicate a radio to backhaul; dual-band shares it, so far nodes slow down.
+- Wi-Fi 5 (AC), Wi-Fi 6 (AX), 6E adds 6 GHz, Wi-Fi 7 adds 320 MHz channels and multi-link; client devices must support them.
+- Aggregate speed labels (AX3000, BE10000) add all bands and are not what one device gets.
+- Coverage sq ft claims are best case, open space; walls, brick and metal reduce it.
+- Place nodes about halfway between router and dead zone, not inside the dead zone.
+- Ethernet ports on nodes vary: some only 1 Gbps, higher tiers have 2.5G.
+- Internet plans above 1 Gbps need a 2.5G WAN port to use them.
+- Some brands put parental controls and security behind a subscription.
+- Firmware updates arrive automatically; support length matters.
+- Mesh gives one network name and roaming, unlike a range extender.
+- A single router can serve a smaller home; 3-packs suit large homes.
+- Each node draws on the order of 10 to 20 W.
+- Wired backhaul lets you upgrade standards later.

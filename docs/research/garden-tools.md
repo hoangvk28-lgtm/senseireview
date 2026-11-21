@@ -1,0 +1,19 @@
+# garden-tools
+- Leaf blower: CFM (volume) moves bulk leaves; MPH (speed) lifts stuck debris; peak vs sustained figures; test methods differ between brands.
+- Cordless: platform voltage; battery Ah and runtime at max vs low speed; turbo drains in minutes.
+- "990,000 RPM" claims are internal fan RPM marketing, not blowing power.
+- Brushless motors, variable trigger, cruise control; handheld vs axial vs backpack.
+- Weight with battery: about 4-9 lb for handhelds.
+- Noise: electric is quieter but still needs ear protection; local rules on gas blowers.
+- Battery ecosystems: buying on a platform you own saves money.
+- Wet leaves need high CFM and a concentrator nozzle; handhelds of 400-600 CFM suit small yards.
+- Pruning shears: bypass (scissor action, clean cuts on live wood) vs anvil (crushes, for dead wood). Bypass for most gardeners.
+- Cut capacity: 5/8 to 1 in typical; forcing past it damages blades and bruises wood; use loppers or a saw beyond.
+- Blade steel: SK5 high-carbon steel with coating; stainless resists rust but is softer; coatings wear.
+- Sap groove, spring, lock, grip size and hand fit; left-hand options; replaceable parts on pro models.
+- Keep clean, oil, sharpen; disinfect between diseased plants.
+- Garden hose: diameter 1/2, 5/8, 3/4 in; flow falls with length; fittings brass vs aluminum; 3/4 in standard thread.
+- Materials: rubber (heavy, durable), vinyl (cheap, kinks), hybrid polymer (light, flexible), expandable (light, fragile), stainless steel (kink-free, hot in sun, heavy).
+- Drinking-water safe labelling: look for it; not all hoses carry it.
+- Store drained, out of sun; replace washers; leaks at connections.
+- Expandables fail from high pressure and abrasion.

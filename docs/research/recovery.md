@@ -1,0 +1,15 @@
+# recovery
+- Percussion massage guns: amplitude (stroke length, mm) and stall force matter more than max RPM or number of speed levels; speed counts are inflated.
+- Amplitude: about 10-16 mm is common; mini guns use less.
+- Stall force: pressure before the motor stalls; some listings quote it, many do not.
+- Noise: brushless motors and heavier builds tend quieter; quoted dB is not standardized.
+- Battery: mAh or Wh and charging port (USB-C vs proprietary); runtime figures are at low speed.
+- Attachments: ball, flat, bullet, fork; extras are marketing; 4-6 heads is plenty.
+- Heated heads are modest; warmth is at the surface.
+- No medical claims: comfort devices; avoid bones, joints, front of neck and injuries; people with medical conditions should ask a clinician.
+- Typical use: short time per muscle group, light pressure.
+- Weight and handle design affect reaching your own back; triangle handle helps.
+- Wear: attachments, battery capacity decline, casing, charge port.
+- App and Bluetooth: optional; a pressure indicator helps beginners.
+- Cheap guns often have loud motors and weak stall force.
+- Case and storage; battery rules for air travel.

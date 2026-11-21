@@ -1,0 +1,16 @@
+# air-comfort (dehumidifiers, humidifiers)
+- Healthy indoor humidity is about 30 to 50 percent; above 60 percent favors mould and dust mites.
+- DOE changed dehumidifier pint test conditions in 2019; the same machine has a lower pint label under the newer test. Listings may mix old and new standards.
+- Compressor dehumidifiers work best warm (above about 65 F); small Peltier or desiccant units suit tiny or cold spaces but remove far less water.
+- Peltier mini dehumidifiers (35 to 95 oz tank types) are for closets and small rooms, not basements.
+- Sq ft claims assume light dampness; wet basements need higher capacity or a pump.
+- Continuous drain via hose beats emptying a bucket; gravity drain needs a lower spot.
+- Auto-defrost matters in cool rooms or coils ice up.
+- Energy Star models use less power per liter removed.
+- Humidifier types: ultrasonic cool mist (quiet, white dust with hard water), evaporative (wick, self-limiting, fan noise), warm mist (heated, burn risk), hybrid.
+- Distilled or demineralized water avoids white dust in ultrasonic units.
+- Clean every few days to weekly; biofilm grows in standing water; vinegar descales.
+- Top-fill tanks are easier to refill and clean than bottom-fill.
+- Output is in mL/h so a bigger tank at the same output lasts longer.
+- Coverage claims are optimistic in dry winters; a hygrometer verifies.
+- Place humidifiers off the floor, away from walls and electronics; windows should not fog.

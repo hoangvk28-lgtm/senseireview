@@ -1,0 +1,14 @@
+# cookware (cast iron)
+- Cast iron holds heat rather than conducting it fast; preheat 5 to 10 minutes on medium.
+- Pre-seasoned means factory oil baked on; it improves with use but early eggs stick.
+- Rough sand-cast surface (Lodge style) vs machined smooth finish on premium pans.
+- 12-inch is the all-rounder; 10-inch for 1 to 2 people; about 7 to 8 lb for 12 inch.
+- Helper handle helps lifting; long handle gets very hot, use a mitt.
+- Works on induction, gas, electric, oven, grill and campfire; can scratch glass cooktops if dragged.
+- Clean with hot water and a brush, dry immediately, wipe a thin oil film; dishwasher is not for cast iron.
+- Rust is surface and fixable with scrub and reseason.
+- Long acidic simmers (tomato, wine) strip seasoning on bare iron.
+- Sets bundle small skillets, griddles and lids: more pieces, same iron.
+- Premium made-in-USA pans cost several times more; the gap is surface finish and weight.
+- Bare iron has no synthetic nonstick coating at all.
+- Cast iron lasts generations; ownership is seasoning upkeep, not replacement.

@@ -1,0 +1,20 @@
+node_modules/
+.next/
+out/
+.env*.local
+*.tsbuildinfo
+next-env.d.ts
+.DS_Store
+
+# Source image folder, the cropped webp lives in public/authors/
+/Brianna Cole avatar/
+
+# info article work files
+/scripts/info/work/
+commons.json
+/scripts/clone/work/*.input.json
+/scripts/clone/work/*.compact.json
+
+# Amazon Creators API credentials and author source photos
+*credentials*.csv
+/Brianna Cole ava/

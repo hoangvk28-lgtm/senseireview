@@ -1,0 +1,16 @@
+# power-tools (cordless drills)
+- 20V MAX is the peak voltage label; nominal is 18V, the same class as other 18V tools.
+- Battery Ah sets runtime, voltage sets power class; 2.0 Ah kits run limited heavy-use time.
+- Brushless is more efficient and longer lasting; most budget drills are brushed.
+- 1/2 inch chuck handles larger bits; 3/8 inch is lighter duty.
+- Torque is in in-lbs; clutch settings (15 to 21 positions) avoid stripping screws.
+- Two-speed gearbox: low for torque, high for drilling.
+- Drill driver for holes and precision; impact driver for long screws and lag bolts with 1/4 inch hex bits.
+- Hammer drill is for masonry; standard drills are not for concrete.
+- Battery platform lock-in matters for later tools.
+- Weight matters for overhead work.
+- LED light and belt hook are small quality-of-life features.
+- Kit bit sets from off-brand makers are low quality.
+- Li-ion packs last roughly 3 to 5 years; store at partial charge, avoid heat.
+- Keyless chuck slip under load is a common cheap-drill complaint.
+- No-name cordless drills often have scarce replacement batteries.

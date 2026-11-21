@@ -1,0 +1,16 @@
+# kitchen-appliances (air fryers)
+- Air fryer is a compact high-speed convection oven; fan speed and wattage (about 1,500 to 1,800 W typical) drive crisping more than quart size.
+- Advertised quarts can be gross interior volume; usable basket volume is smaller. Rough sizing: 3-4 qt for 1-2 people, 5-6 qt for 3-4, 8 qt or more or dual zone for families.
+- Basket style: simple, easy to clean, shake mid-cook. Oven style (rack, door): bigger footprint, multi-rack cooking, more surface to clean.
+- Dual-zone lets two foods finish together with sync functions; each zone is smaller than the headline capacity.
+- Max temperature 400 to 450 F; extra heat shortens finishing time but wears coatings faster.
+- Nonstick basket coatings wear with metal utensils and harsh detergents; PFAS-free ceramic coatings are marketed but also wear.
+- Preheat is short (about 2 to 3 minutes); cook times drop versus conventional oven recipes.
+- Overcrowding the basket is the top cause of soggy results; single layer, shake halfway.
+- Needs several inches of clearance behind and above; hot exhaust leaves at the rear.
+- Fan noise is typically in the range of normal conversation to a busy kitchen depending on speed.
+- Around 1,700 to 1,800 W means little else on the same kitchen circuit.
+- Cleaning: crisper plate and basket by hand or dishwasher per manual; grease buildup near the element smokes.
+- Smart apps add presets but rarely change results; a dial or touch presets are enough.
+- Rotisserie and dehydrator functions are real on oven styles only.
+- Year three: coating flaking, handle looseness and fan noise are common ownership complaints.
