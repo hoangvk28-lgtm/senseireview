@@ -1,0 +1,614 @@
+{
+ "guideSlug": "best-power-banks",
+ "categorySlug": "tech-electronics",
+ "mainKeyword": "power bank",
+ "guideTitle": "Best Power Banks (2026)",
+ "metaTitle": "Best Power Banks for Phones, Laptops",
+ "metaDescription": "Six power banks compared on real watt-hours, shared port output, size and ownership, with picks for phones, magnetic charging, travel and laptops.",
+ "lastUpdated": "2026-11-21",
+ "readTime": "12 min",
+ "heroImage": "https://m.media-amazon.com/images/I/31MR83Q19kL._SL500_.jpg",
+ "expertTake": "The Anker Prime 26,250 mAh 300W is our top pick for people who charge a laptop and a phone from one bank, and the INIU 10,000 mAh 45W is the value pick for everyday phone top-ups. If you rarely leave a wall outlet for more than a day, skip the category, because a small bank in a bag is all most people ever need.",
+ "introParagraphs": [
+  "A power bank is a battery, a charging circuit and a set of ports, and the label on the box rarely tells you how those three behave together. Capacity is quoted in a unit that flatters the product, and headline wattage is often the sum of every port.",
+  "The useful questions are how many full charges you actually get, how fast one device can pull power, how heavy the unit is in a bag and how long it stays healthy. This guide compares six banks on those points, from pocket size to laptop class."
+ ],
+ "products": [
+  {
+   "id": "B0F66LNB8D",
+   "rank": 1,
+   "badge": "Best Overall",
+   "name": "Anker Prime 26,250 mAh 300W 3-port power bank",
+   "amazonUrl": "https://www.amazon.com/dp/B0F66LNB8D?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31MR83Q19kL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "26,250 mAh",
+    "300W total",
+    "3 ports",
+    "Two-way charging"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "26,250 mAh, about 97 Wh"
+    },
+    {
+     "label": "Total output",
+     "value": "300W"
+    },
+    {
+     "label": "Ports",
+     "value": "3"
+    },
+    {
+     "label": "Two-way",
+     "value": "Yes, bank can recharge fast"
+    },
+    {
+     "label": "Air travel",
+     "value": "Under the 100 Wh carry-on limit"
+    }
+   ],
+   "description": "Anker designs the Prime as a desk and travel hub in a power bank body, with a 26,250 mAh cell pack, three ports and a listed 300W total output. At roughly 97 watt-hours it sits just under the common 100 Wh carry-on airline limit, which is why capacity stops here and not at a bigger round number. Two-way charging means the bank itself can be refilled quickly with a strong charger.\n\nThe tradeoff is size and tier. It is the second most expensive bank here, tier twelve of thirteen, and it is larger than the Anker 25,000 mAh 165W model, so it only makes sense if you actually need the 300W ceiling. Most phones will never ask for it, and a laptop that tops out at 65W gains nothing over the cheaper Anker bank.\n\nIn ownership terms, the main care points are heat and cables. Use a good USB-C cable rated for the wattage you want, keep it out of hot cars and recharge it from time to time even in storage. Expect the cells to fade after several hundred cycles, and retire it if it swells or gets unusually hot.",
+   "bestFor": "Travelers who charge a laptop and a phone from one carry-on bank.",
+   "pros": [
+    "300W total output covers laptops, tablets and phones at once",
+    "Ninety-seven Wh stays under the 100 Wh carry-on limit",
+    "Fast two-way charging refills the bank in a short time",
+    "Three ports let you share it with another traveler"
+   ],
+   "cons": [
+    "Second highest price tier, wasted on phone-only users",
+    "Larger and heavier than 10,000 mAh and 20,000 mAh models",
+    "Full wattage needs capable cables and chargers"
+   ]
+  },
+  {
+   "id": "B0DCBB2YTR",
+   "rank": 2,
+   "badge": "Best for Laptops",
+   "name": "Anker 25,000 mAh laptop power bank, 165W total, 3 USB-C",
+   "amazonUrl": "https://www.amazon.com/dp/B0DCBB2YTR?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31BN5UBXRJL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "25,000 mAh",
+    "165W total",
+    "100W per port",
+    "3 USB-C"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "25,000 mAh, about 92 Wh"
+    },
+    {
+     "label": "Total output",
+     "value": "165W"
+    },
+    {
+     "label": "Per-port max",
+     "value": "100W on each USB-C"
+    },
+    {
+     "label": "Ports",
+     "value": "3 USB-C"
+    },
+    {
+     "label": "Air travel",
+     "value": "Under the 100 Wh carry-on limit"
+    }
+   ],
+   "description": "This Anker bank is built for laptops, with three USB-C ports that can each deliver up to 100W and a combined cap of 165W. A 25,000 mAh pack is about 92 watt-hours, enough for a full laptop top-up and a phone charge on a short trip. Three USB-C ports mean no mix of port types to remember.\n\nThe compromise is that the 100W figure applies per port but the 165W total is shared, so two laptops at once will not each get 100W. Compared with the Anker Prime at 300W, it gives up headroom and some charging speed but costs one tier less and fits more easily in a carry-on. If you have a 14 inch or thinner laptop, 100W is rarely the limit.\n\nOwnership is straightforward. Use a certified 100W cable for laptops, avoid pass-through charging as a daily habit and keep the ports clear of lint. Over a few years, expect the usable capacity to drop gradually, and plan on replacing the cable before the bank.",
+   "bestFor": "Remote workers who want laptop-class output without the largest bank.",
+   "pros": [
+    "Each of three USB-C ports delivers up to 100W for laptops",
+    "Ninety-two Wh capacity stays within carry-on airline limits",
+    "Single port type avoids cable mix-ups when packing",
+    "One tier cheaper than the Anker Prime with similar capacity"
+   ],
+   "cons": [
+    "The 165W total is shared, so two big loads share the limit",
+    "No Qi2 or built-in cable, so cables are your responsibility",
+    "Heavier than any 10,000 mAh model in this lineup"
+   ]
+  },
+  {
+   "id": "B0GVYMQ3GT",
+   "rank": 3,
+   "badge": "Best for Magnetic Charging",
+   "name": "Anker MagGo 2 Pro 10,000 mAh Qi2.2 25W magnetic power bank",
+   "amazonUrl": "https://www.amazon.com/dp/B0GVYMQ3GT?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31zPSSlylpL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "10,000 mAh",
+    "Qi2.2 25W",
+    "Magnetic",
+    "MagSafe compatible"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "10,000 mAh, about 37 Wh"
+    },
+    {
+     "label": "Wireless",
+     "value": "Qi2.2, up to 25W"
+    },
+    {
+     "label": "Attachment",
+     "value": "Magnetic"
+    },
+    {
+     "label": "Compatibility",
+     "value": "MagSafe compatible"
+    },
+    {
+     "label": "Air travel",
+     "value": "Well under 100 Wh"
+    }
+   ],
+   "description": "Anker's MagGo 2 Pro is a magnetic power bank that snaps onto the back of a phone and charges wirelessly under the Qi2.2 standard at up to 25W. The cell pack is 10,000 mAh, about 37 watt-hours, which is the right size for one to two phone charges without becoming a brick. Magnetic alignment keeps the coil lined up, so charging does not depend on careful placement.\n\nThe tradeoff is speed and heat. Wireless charging is less efficient than a cable, so the bank loses more energy to warmth, and fewer full charges are usable compared with a wired bank of the same size. Compared with the INIU 10,000 mAh 45W, which uses a cable, the MagGo is more convenient and costs much more at tier ten against tier one.\n\nIn ownership, the magnets are the main consideration: keep it away from credit cards and cases that block coupling. A thick case can weaken the grip, and heavy use will warm both phone and bank. Wipe the face clean, and expect the cell to age like any lithium pack after several hundred cycles.",
+   "bestFor": "Magnetic-phone owners who want cable-free top-ups at a desk or on the sofa.",
+   "pros": [
+    "Qi2.2 wireless at up to 25W with magnetic alignment",
+    "Ten thousand mAh is a sensible pocket size for one to two charges",
+    "MagSafe compatibility suits recent iPhones and some cases",
+    "Snaps on, so you can use the phone while it charges"
+   ],
+   "cons": [
+    "Wireless losses mean fewer usable charges than a cabled bank",
+    "Costs far more than the INIU 10,000 mAh for the same capacity",
+    "Runs warm in heavy use and needs a thin, compatible case"
+   ]
+  },
+  {
+   "id": "B0CZ9LH53B",
+   "rank": 4,
+   "badge": "Best Built-In Cable",
+   "name": "Anker Zolo 20,000 mAh 30W power bank with built-in USB-C",
+   "amazonUrl": "https://www.amazon.com/dp/B0CZ9LH53B?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31I0Ym5iexL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "20,000 mAh",
+    "30W",
+    "Built-in USB-C",
+    "Travel size"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "20,000 mAh, about 74 Wh"
+    },
+    {
+     "label": "Output",
+     "value": "30W"
+    },
+    {
+     "label": "Cable",
+     "value": "Built-in USB-C"
+    },
+    {
+     "label": "Best with",
+     "value": "Phones and tablets"
+    },
+    {
+     "label": "Air travel",
+     "value": "Under the 100 Wh limit"
+    }
+   ],
+   "description": "Anker's Zolo power bank puts a 20,000 mAh pack, about 74 watt-hours, behind a 30W output with a USB-C cable built into the body. That means one less cable to forget, and the integrated cable handles most modern phones and tablets without extra gear. It is a bank you can leave in a jacket and ignore until needed.\n\nThe tradeoff is that 30W is not enough for most laptops. Next to the 25,000 mAh 165W bank and the 26,250 mAh Prime, it gives up laptop capability but sits several tiers lower, at tier six of thirteen. A built-in cable is also a single point of failure, so if it frays you lose the whole bank's convenience.\n\nTreat the cable gently. Do not wrap it tightly around the body, check where it meets the housing for kinks, and keep a spare cable in your bag for ports. Over a few years the cell will fade, so a bank that sat in a drawer for a year should be recharged before a trip.",
+   "bestFor": "Commuters and travelers who want a no-extras bank for a phone and a tablet.",
+   "pros": [
+    "Built-in USB-C cable removes the most-forgotten accessory",
+    "Seventy-four Wh gives several phone charges between wall visits",
+    "Thirty watts covers modern phones and tablets comfortably",
+    "Mid price tier with a named brand and clear listing"
+   ],
+   "cons": [
+    "Thirty watts is too low for most laptops",
+    "A frayed built-in cable can end the bank's convenience",
+    "Larger than a 10,000 mAh model for the same phone use"
+   ]
+  },
+  {
+   "id": "B0FX7T4H7D",
+   "rank": 5,
+   "badge": "Best Value Capacity",
+   "name": "INIU 20,000 mAh 22.5W compact power bank, flight-safe",
+   "amazonUrl": "https://www.amazon.com/dp/B0FX7T4H7D?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/319I+nbNQGL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "20,000 mAh",
+    "22.5W",
+    "USB-C cable",
+    "Flight-safe"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "20,000 mAh, about 74 Wh"
+    },
+    {
+     "label": "Output",
+     "value": "22.5W"
+    },
+    {
+     "label": "Cable",
+     "value": "USB-C included"
+    },
+    {
+     "label": "Best with",
+     "value": "Phones"
+    },
+    {
+     "label": "Air travel",
+     "value": "Labelled flight-safe"
+    }
+   ],
+   "description": "INIU designs this 20,000 mAh bank around a 22.5W output, a USB-C cable in the box and a compact body that the maker positions as flight-safe. At about 74 watt-hours it sits below the 100 Wh carry-on threshold, and 22.5W is enough for fast-charging most phones. It is the lowest-tier way to carry roughly four phone charges.\n\nThe compromise is output and finish. Against the Anker Zolo 20,000 mAh at 30W, the INIU has the same capacity at a lower tier, but with less power and a brand that has a shorter track record. It is not a laptop bank, and 22.5W will feel slow for tablets that can draw more.\n\nOwnership is simple but keep expectations modest. Use the included cable, check it periodically for fraying, and do not leave it in a hot car. Replacement support from smaller brands is thinner, so treat it as a three year purchase and retire it if it swells or gets hot.",
+   "bestFor": "Budget buyers who want maximum phone charges at a low tier.",
+   "pros": [
+    "Seventy-four Wh gives roughly four phone charges per fill",
+    "Lowest-tier route to a 20,000 mAh capacity on this list",
+    "USB-C cable included in the box for immediate use",
+    "Compact body is labelled for carry-on air travel"
+   ],
+   "cons": [
+    "Twenty-two watts is slow for tablets and unusable for laptops",
+    "Smaller brand with a shorter track record than Anker",
+    "No wireless or advanced features for more complex setups"
+   ]
+  },
+  {
+   "id": "B0CB1FW5FC",
+   "rank": 6,
+   "badge": "Best Pocket Size",
+   "name": "INIU 10,000 mAh 45W fast-charging power bank, detachable cable",
+   "amazonUrl": "https://www.amazon.com/dp/B0CB1FW5FC?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41wk2K15e9L._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "10,000 mAh",
+    "45W",
+    "Detachable cable",
+    "Flight-safe"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "10,000 mAh, about 37 Wh"
+    },
+    {
+     "label": "Output",
+     "value": "45W"
+    },
+    {
+     "label": "Cable",
+     "value": "Detachable USB-C"
+    },
+    {
+     "label": "Best with",
+     "value": "Phones, small tablets"
+    },
+    {
+     "label": "Air travel",
+     "value": "Labelled flight-safe"
+    }
+   ],
+   "description": "INIU builds this small bank around a 10,000 mAh cell and a 45W output, with a detachable USB-C cable so you can swap it when it frays. At about 37 watt-hours, it delivers one to two phone charges and fits in a pocket. The 45W peak suits phones and small tablets, and some small laptops can draw from it slowly.\n\nThe tradeoff is endurance and support. Against the Anker Zolo 20,000 mAh at 30W, it holds half the capacity but offers higher peak power, so it is faster, not longer-lasting. It is the cheapest of the six at tier one of thirteen, which comes with a smaller brand's service risk.\n\nOwnership is easy: carry a spare cable, charge it before travel and avoid leaving it in direct sun. Expect it to fade after a few hundred cycles. Because the cable is detachable, a damaged lead is a cheap fix, not a dead bank.",
+   "bestFor": "Daily carry for people who need one reliable top-up and no bulk.",
+   "pros": [
+    "Smallest and lightest bank in this lineup for a pocket or purse",
+    "Forty-five watt peak is quick for phones and small tablets",
+    "Detachable cable means a damaged lead is a cheap fix",
+    "Lowest price tier on the list"
+   ],
+   "cons": [
+    "Only one to two phone charges before it needs recharging",
+    "Smaller brand with less established support",
+    "Too small for a laptop beyond a short emergency top-up"
+   ]
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Capacity in watt-hours",
+   "explanation": "A mAh rating is measured at the cell voltage of about 3.7 volts, so convert to watt-hours with mAh times 3.7 divided by 1000. A 10,000 mAh bank like the INIU is about 37 Wh, and the Anker 25,000 mAh is about 92 Wh. Usable output at the port is roughly 60 to 70 percent of the label. Buyers get caught thinking 10,000 mAh means ten full phone charges."
+  },
+  {
+   "criterion": "Output wattage and shared ports",
+   "explanation": "Wattage decides how fast a device can charge, but the total is shared across ports. The Anker laptop bank lists 100W per USB-C and 165W total, so two heavy loads split the budget. The Anker Prime lists 300W total. A phone usually draws 20 to 30W, so a 22.5W INIU is fine for phones and too slow for laptops."
+  },
+  {
+   "criterion": "Size and flight rules",
+   "explanation": "Airlines commonly allow carry-on power banks up to 100 Wh, and 100 to 160 Wh usually needs approval. The Anker Prime at about 97 Wh and the Anker 25,000 mAh at about 92 Wh both sit under the first line. Power banks go in carry-on, not checked luggage. Check your airline, because rules can change."
+  },
+  {
+   "criterion": "Cable design",
+   "explanation": "A built-in cable like the Anker Zolo's saves carrying a lead, but a frayed cable can end the bank's usefulness. A detachable cable, as on the INIU 10,000 mAh, is cheaper to replace. For laptop loads, the cable must support the wattage, and 100W needs an e-marked lead. Most failures are the cable, not the cell."
+  },
+  {
+   "criterion": "Magnetic or wired",
+   "explanation": "Qi2 magnetic banks like the Anker MagGo 2 Pro are convenient and keep the phone usable, but wireless charging is less efficient and warms the pack. A cabled bank of the same 10,000 mAh size, like the INIU, delivers more usable charges. Pick magnetic for convenience and wired for usable capacity."
+  },
+  {
+   "criterion": "Longevity and safety",
+   "explanation": "Lithium cells fade after several hundred cycles, and a bank lasts about three to four years of regular use. Store it partly charged in a cool place. Retire any unit that swells, gets hot or smells odd. Unbranded mega-capacity banks claiming 50,000 mAh or more usually overstate their cells, so check the watt-hours."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "mAh vs Wh",
+   "meaning": "mAh depends on voltage and flatters the number, while Wh is the real energy. Convert so you can compare banks fairly.",
+   "watchFor": "The Anker Prime at about 97 Wh holds roughly two and a half times the INIU 10,000 mAh at about 37 Wh."
+  },
+  {
+   "spec": "Total output (W)",
+   "meaning": "The total is the sum across ports, not what a single port delivers. One port may peak lower when others are in use.",
+   "watchFor": "The Anker laptop bank lists 100W per port inside a 165W total."
+  },
+  {
+   "spec": "Qi2.2 wireless",
+   "meaning": "Qi2 uses magnets to align the coil, which improves wireless efficiency. The number is a ceiling, not a typical speed.",
+   "watchFor": "The Anker MagGo 2 Pro lists 25W but runs warmer than a cable."
+  },
+  {
+   "spec": "PD and PPS",
+   "meaning": "USB Power Delivery negotiates voltage with the device, and PPS fine-tunes it for some phones. Without PD, a high wattage label does little.",
+   "watchFor": "Check the product page for PD support on budget models like the INIU 20,000 mAh."
+  },
+  {
+   "spec": "Flight-safe",
+   "meaning": "This label usually means the bank is under 100 Wh. The airline, not the label, has the final word.",
+   "watchFor": "Both INIU banks carry the label, and their capacity is far under the limit."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Real capacity",
+   "description": "We converted every bank to watt-hours from the listed mAh. The Anker Prime at about 97 Wh and the INIU 10,000 mAh at about 37 Wh show why mAh alone misleads. Figures are calculated from published specifications, not measured."
+  },
+  {
+   "title": "Output and sharing",
+   "description": "We read the port layout and total output for each model. We noted which banks share a wattage budget across ports and which suit laptops. This is based on the spec sheet."
+  },
+  {
+   "title": "Travel fit",
+   "description": "We checked each bank against the common 100 Wh airline carry-on limit. We also considered size, since a 25,000 mAh bank is heavier than a 10,000 mAh one. Weight scores are editorial assessments."
+  },
+  {
+   "title": "Ownership",
+   "description": "We looked at cable design, brand support and how cells age. Based on patterns in owner feedback, cables fail before cells, and detachable leads age better."
+  },
+  {
+   "title": "Value tier",
+   "description": "We ordered the six by relative price from tier one to twelve of thirteen and asked what each step buys. The INIU 10,000 mAh at tier one and the Anker Prime at tier twelve define the range."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Device",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Phone only",
+      "INIU 10,000 mAh 45W",
+      "Small, quick and the lowest tier"
+     ],
+     [
+      "Phone and tablet",
+      "Anker Zolo 20,000 mAh",
+      "Thirty watts and a built-in cable"
+     ],
+     [
+      "Laptop plus phone",
+      "Anker 25,000 mAh 165W",
+      "Each port up to 100W"
+     ],
+     [
+      "Heavy travel",
+      "Anker Prime 26,250 mAh",
+      "300W total and about 97 Wh"
+     ],
+     [
+      "Magnetic iPhone",
+      "Anker MagGo 2 Pro",
+      "Qi2.2 up to 25W"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest tier",
+      "INIU 10,000 mAh 45W",
+      "Cheapest, pocket size"
+     ],
+     [
+      "Low tier",
+      "INIU 20,000 mAh 22.5W",
+      "Most phone charges for the least"
+     ],
+     [
+      "Mid tier",
+      "Anker Zolo 20,000 mAh",
+      "Named brand with built-in cable"
+     ],
+     [
+      "Upper tier",
+      "Anker MagGo 2 Pro",
+      "Convenience of magnetic charging"
+     ],
+     [
+      "High tier",
+      "Anker 25,000 mAh 165W",
+      "Laptop output at a lower step"
+     ],
+     [
+      "Top tier",
+      "Anker Prime 26,250 mAh",
+      "Highest output and capacity"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "10,000 mAh vs 20,000 mAh",
+   "cards": [
+    {
+     "label": "10,000 mAh class",
+     "text": "The INIU 10,000 mAh and Anker MagGo 2 Pro are about 37 Wh, light and pocketable, and good for one to two phone charges."
+    },
+    {
+     "label": "20,000 mAh class",
+     "text": "The INIU 20,000 mAh and Anker Zolo are about 74 Wh, heavier, and give roughly four phone charges."
+    }
+   ],
+   "note": "Choose 10,000 mAh for daily carry and 20,000 mAh for trips of two or more days away from outlets."
+  },
+  {
+   "subheading": "By Charging Style",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Cable-free on a desk",
+      "Anker MagGo 2 Pro",
+      "Magnetic Qi2.2 alignment"
+     ],
+     [
+      "Never forget a cable",
+      "Anker Zolo 20,000 mAh",
+      "Built-in USB-C"
+     ],
+     [
+      "Swap a worn cable",
+      "INIU 10,000 mAh 45W",
+      "Detachable lead"
+     ],
+     [
+      "Several devices at once",
+      "Anker Prime 26,250 mAh",
+      "Three ports and 300W total"
+     ],
+     [
+      "Two laptops",
+      "Anker 25,000 mAh 165W",
+      "Three USB-C ports"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Air Travel Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A capacity at or under 100 Wh, a clear label and carry-on stowage. Check your airline, as rules vary."
+    },
+    {
+     "label": "In this comparison",
+     "text": "Every bank here is under 100 Wh, and the Anker Prime at about 97 Wh is the closest to the limit."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You charge a laptop or travel often. The Anker 25,000 mAh 165W and Prime 26,250 mAh are the right class."
+    },
+    {
+     "label": "Save if",
+     "text": "You only charge a phone. The INIU 10,000 mAh and 20,000 mAh models cover that for the lowest tiers."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Inspect the cable",
+   "interval": "Monthly",
+   "why": "Cables fail before cells, and fraying is the usual end of a bank's convenience. Replace a damaged lead immediately."
+  },
+  {
+   "task": "Recharge stored banks",
+   "interval": "Every 3 months",
+   "why": "Lithium cells slowly self-discharge and dislike sitting empty. A partial charge keeps the cell healthy."
+  },
+  {
+   "task": "Keep it cool",
+   "interval": "Always",
+   "why": "Heat accelerates cell aging and is the main safety concern. Avoid hot cars and direct sun."
+  },
+  {
+   "task": "Clean the ports",
+   "interval": "Every 6 months",
+   "why": "Pocket lint prevents a firm connection. Use a dry wooden toothpick and never liquid."
+  },
+  {
+   "task": "Retire a failing bank",
+   "interval": "At first sign",
+   "why": "A swollen, very hot or leaking bank is a hazard. Stop using it and recycle it properly."
+  }
+ ],
+ "faq": [
+  {
+   "q": "How many phone charges does a power bank give?",
+   "a": "A 10,000 mAh bank gives roughly one to two charges of a modern phone, and a 20,000 mAh bank about four. The label overstates by about a third because of conversion losses."
+  },
+  {
+   "q": "Can I charge a laptop with a power bank?",
+   "a": "Yes, if the bank supports USB Power Delivery at the wattage your laptop needs. The Anker 25,000 mAh and Prime models do, while 22.5W banks do not."
+  },
+  {
+   "q": "Are 50,000 mAh banks worth it?",
+   "a": "Usually not. Extremely high capacity from unbranded makers often overstates the cells and charges slowly. Check the watt-hours and the carry-on limit before buying."
+  },
+  {
+   "q": "Is a magnetic power bank as fast as a cabled one?",
+   "a": "No. Qi2.2 wireless on the MagGo 2 Pro tops out at 25W and loses more energy as heat. A cabled bank delivers more usable charge."
+  },
+  {
+   "q": "Can I take a power bank on a plane?",
+   "a": "Power banks go in carry-on bags, not checked luggage. Most airlines allow up to 100 Wh, which covers every bank here. Confirm with your airline."
+  },
+  {
+   "q": "How long does a power bank last?",
+   "a": "Expect three to four years of regular use, or several hundred charge cycles. The cable usually fails first, so choose a detachable one if you can."
+  }
+ ],
+ "relatedGuides": [
+  {
+   "title": "Power Bank Capacity Explained",
+   "href": "/guide/power-bank-capacity-explained"
+  },
+  {
+   "title": "USB-C Charging Standards Explained",
+   "href": "/guide/usb-c-charging-standards-explained"
+  }
+ ]
+}

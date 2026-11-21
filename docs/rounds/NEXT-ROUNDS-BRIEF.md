@@ -1,5 +1,11 @@
 # SenseiReview rounds
 
+## STATUS 2026-11-21 (end of session)
+All 50 info guides and all 20 best guides published and pushed to origin/main. 18 info
+guides use Amazon product photos from the matching best guide where Pixabay had nothing;
+docs/rounds/missing-images.tsv can still take Imgur links to swap those in later.
+The RESUME note below is historical.
+
 ## RESUME 2026-11-21 (session paused by the user)
 
 ### Done
