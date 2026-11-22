@@ -1,0 +1,602 @@
+{
+ "guideSlug": "best-chainsaws",
+ "categorySlug": "outdoor-garden",
+ "mainKeyword": "cordless chainsaw",
+ "guideTitle": "Best Chainsaws (2026)",
+ "metaTitle": "Best Cordless Chainsaws",
+ "metaDescription": "Six cordless chainsaws compared on bar length, voltage, brushless motor, chain brake, tool free tensioning, weight and battery, with picks for homeowners.",
+ "lastUpdated": "2026-11-21",
+ "readTime": "13 min",
+ "heroImage": "https://m.media-amazon.com/images/I/41XdtGpsbsL._SL500_.jpg",
+ "expertTake": "The EGO Power+ CS1613 16 inch is our top pick because of its brushless motor, a stated gas equivalent power class and a tool free chain system on a well supported battery platform. The Greenworks 40V 12 inch is the value pick for limbing and storm cleanup around a typical yard. Skip a mini chainsaw for anything beyond pruning, because they are built for small branches and a one handed grip is a poor way to control a saw.",
+ "introParagraphs": [
+  "A cordless chainsaw swaps the two stroke engine for a brushless motor and a lithium ion battery. It starts instantly, needs no fuel mixing and runs far quieter than gas, which makes it a good fit for homeowners who cut a few trees, limbs and logs a year.",
+  "The real choices are bar length, battery voltage and capacity, weight and the safety features that control kickback. We evaluated six models from the candidate pool using spec sheets, listing details and owner feedback patterns, then ranked them by fit for typical yard work. A chainsaw is a dangerous tool, so protective gear and training matter more than any spec."
+ ],
+ "products": [
+  {
+   "id": "B09SBX1MW6",
+   "badge": "Best Overall",
+   "name": "EGO Power+ CS1613 16 inch 56V cordless chainsaw with 4.0Ah battery and charger",
+   "specs": [
+    "16 inch bar",
+    "56V brushless",
+    "4.0Ah battery",
+    "Tool free tension"
+   ],
+   "specList": [
+    {
+     "label": "Bar",
+     "value": "16 inch, 3/8 inch pitch chain"
+    },
+    {
+     "label": "Voltage",
+     "value": "56V brushless"
+    },
+    {
+     "label": "Battery",
+     "value": "4.0Ah included"
+    },
+    {
+     "label": "Power class",
+     "value": "Described as 40 cc gas equivalent"
+    },
+    {
+     "label": "Best for",
+     "value": "Yard trees and firewood"
+    }
+   ],
+   "description": "The CS1613 has a 16 inch bar with a 3/8 inch pitch, 0.043 inch gauge chain with 56 drive links, a brushless motor and a 4.0Ah battery included. The maker describes the power as equivalent to a 40 cc gas saw, a comparison that is a marketing class, not a measurement.\n\nThe listing says the included battery delivers up to 130 cuts on a 4x4. That is useful for judging how much work one charge does, but cut counts depend on wood species and moisture. Against the Greenworks 80V 16 inch, the EGO has a lower voltage but a larger battery and a widely supported platform. Against the SEESII 40V 16 inch, it is a more established brand with parts support.\n\nCheck the bar oil level before each use and clean the chain brake area. Keep the chain sharp, because a dull chain forces you to push, which is when kickback risk rises. Owners often say that a second battery is the best accessory, because a firewood session eats through one pack quicker than the cut count suggests.",
+   "bestFor": "Homeowners with trees and firewood who want a trusted battery platform.",
+   "pros": [
+    "Brushless 56V motor with a stated 40 cc gas class of power",
+    "16 inch bar handles most yard trees and firewood",
+    "Included 4.0Ah battery gives a good number of cuts per charge",
+    "Wide parts and battery support across the EGO range"
+   ],
+   "cons": [
+    "Upper price tier for a homeowner saw",
+    "Battery is heavy, so the saw is not light",
+    "Still needs protective gear and training"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B09SBX1MW6?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41XdtGpsbsL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0CLSFKCS1",
+   "badge": "Best High Voltage",
+   "name": "Greenworks 80V 16 inch cordless chainsaw kit, 2.5Ah battery, brushless, mechanical chain brake",
+   "specs": [
+    "16 inch bar",
+    "80V brushless",
+    "2.5Ah battery",
+    "Chain brake"
+   ],
+   "specList": [
+    {
+     "label": "Bar",
+     "value": "16 inch"
+    },
+    {
+     "label": "Voltage",
+     "value": "80V brushless"
+    },
+    {
+     "label": "Battery",
+     "value": "2.5Ah included"
+    },
+    {
+     "label": "Power class",
+     "value": "Described as 50 cc gas equivalent"
+    },
+    {
+     "label": "Safety",
+     "value": "Mechanical chain brake"
+    }
+   ],
+   "description": "The Greenworks 80V chainsaw includes a 16 inch bar, a brushless motor, a 2.5Ah battery and a mechanical chain brake. The listing says it has twice the torque of the previous design and gives power equivalent to a 50 cc gas engine, which is again a marketing class.\n\nThe 80V platform is the highest voltage here and gives a strong cut, but a 2.5Ah battery limits runtime, so expect fewer cuts per charge than the EGO's 4.0Ah pack. The mechanical chain brake adds a layer of safety, stopping the chain when the front guard is pushed forward. Against the EGO CS1613, the Greenworks has more headline voltage and a smaller battery. Against the Greenworks 40V 12 inch, it cuts larger logs at a higher tier.\n\nCheck the chain brake works each time before cutting and lubricate the bar. Keep the battery cool. Because the pack is small for the voltage, plan your cuts in batches and keep a spare charged if you work on a large property.",
+   "bestFor": "Heavier cutting where voltage and a mechanical chain brake matter.",
+   "pros": [
+    "80V brushless motor delivers strong torque",
+    "Mechanical chain brake adds a safety layer",
+    "16 inch bar handles larger logs",
+    "Maker describes power as 50 cc gas equivalent"
+   ],
+   "cons": [
+    "2.5Ah battery limits cuts per charge",
+    "Higher price tier than 40V models",
+    "80V packs are heavier and cost more to replace"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0CLSFKCS1?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41x9NiCQb4L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B09Y6D7CTY",
+   "badge": "Best Value 12 Inch",
+   "name": "Greenworks 40V 12 inch cordless chainsaw kit, 2Ah battery, about 6 lb, dual safety start",
+   "specs": [
+    "12 inch bar",
+    "40V",
+    "2Ah battery",
+    "6 lb"
+   ],
+   "specList": [
+    {
+     "label": "Bar",
+     "value": "12 inch low recoil chain"
+    },
+    {
+     "label": "Battery",
+     "value": "2Ah, about 50 cuts of 4x4 per charge per listing"
+    },
+    {
+     "label": "Weight",
+     "value": "About 6 lb"
+    },
+    {
+     "label": "Safety",
+     "value": "Dual safety start, lock plus trigger"
+    },
+    {
+     "label": "Best for",
+     "value": "Limbing and storm cleanup"
+    }
+   ],
+   "description": "The Greenworks 40V is a 12 inch saw with a low recoil chain, dual safety start with a lock and trigger and tool free auto tensioning. The listing says a single charge makes about 50 cuts on treated 4x4 lumber, and it weighs about 6 lb with a wrapped grip.\n\nIt is a light saw for limbing, pruning and cutting small trees, and it is easy to carry for camping or storm cleanup. The 12 inch bar limits the diameter of what you can cut in one pass, so a 16 inch saw is better for bigger logs. Against the EGO CS1613, it is lighter and cheaper. Against the SEESII 12 inch, it has a smaller battery but a more established brand.\n\nOil the bar and clean the chain. Replace the chain when it dulls. Its light weight also makes it easier to use at awkward angles, which is where most injuries happen with heavier saws.",
+   "bestFor": "Limbing, pruning and storm cleanup on a small property.",
+   "pros": [
+    "Light at about 6 lb, easy to carry and control",
+    "Low recoil chain and dual safety start add safety",
+    "Tool free auto tensioning is convenient",
+    "Lower price tier than the 16 inch saws"
+   ],
+   "cons": [
+    "12 inch bar limits cut diameter",
+    "2Ah battery gives about 50 cuts per the listing",
+    "Less power than 56V and 80V saws"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B09Y6D7CTY?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41G8SfUu74L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0FJF9NVYB",
+   "badge": "Best Two Battery Value",
+   "name": "SEESII 12 inch cordless chainsaw, 1200 W brushless, 2 x 4.0Ah batteries, auto oiling",
+   "specs": [
+    "12 inch bar",
+    "1200 W brushless",
+    "2 x 4.0Ah",
+    "Auto oiling"
+   ],
+   "specList": [
+    {
+     "label": "Bar",
+     "value": "12 inch cutting bar"
+    },
+    {
+     "label": "Motor",
+     "value": "1200 W brushless"
+    },
+    {
+     "label": "Batteries",
+     "value": "2 x 4.0Ah lithium ion"
+    },
+    {
+     "label": "Lubrication",
+     "value": "Auto oiling"
+    },
+    {
+     "label": "Best for",
+     "value": "Longer sessions on a budget"
+    }
+   ],
+   "description": "The SEESII 12 inch saw has a 1200 W brushless motor, auto oiling and two 4.0Ah batteries, with tool free tensioning. Two large batteries let you cut longer before a recharge, which is the main advantage over the single battery Greenworks.\n\nThe brand is newer and parts support is thinner, so consider the long term. Against the Greenworks 40V 12 inch, it has more batteries and more stated motor power. Against the SEESII 40V 16 inch, it is smaller and lighter. For a homeowner who needs a lot of cutting time, the second battery is valuable.\n\nCheck the oil reservoir level before cutting and sharpen the chain regularly. With two packs you can charge one while the other runs, which turns a weekend job into a continuous session.",
+   "bestFor": "Longer yard sessions where two batteries matter.",
+   "pros": [
+    "Two 4.0Ah batteries extend working time",
+    "1200 W brushless motor for a 12 inch saw",
+    "Auto oiling keeps the bar lubricated",
+    "Tool free tensioning"
+   ],
+   "cons": [
+    "Newer brand with less parts support",
+    "12 inch bar limits cut diameter",
+    "Stated motor power is a maker figure"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0FJF9NVYB?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41AmgSOeC3L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0H9S39MHZ",
+   "badge": "Best 16 Inch Budget",
+   "name": "SEESII 40V 16 inch cordless chainsaw, 2000 W brushless, battery powered",
+   "specs": [
+    "16 inch bar",
+    "40V brushless",
+    "2000 W motor",
+    "Battery powered"
+   ],
+   "specList": [
+    {
+     "label": "Bar",
+     "value": "16 inch guide bar"
+    },
+    {
+     "label": "Voltage",
+     "value": "40V native brushless"
+    },
+    {
+     "label": "Motor",
+     "value": "2000 W brushless"
+    },
+    {
+     "label": "Capacity",
+     "value": "Thick logs per the listing"
+    },
+    {
+     "label": "Best for",
+     "value": "Occasional larger cuts on a budget"
+    }
+   ],
+   "description": "The SEESII 40V 16 inch saw has a native 40V brushless motor that the listing rates at 2000 W, with a 16 inch bar for thicker logs. It aims to give large saw capacity at a lower tier.\n\nThe wattage figure is a maker claim, and real performance depends on battery output and chain sharpness. Against the EGO CS1613, it has a lower price tier but also less brand support and a shorter track record. Against the Greenworks 80V, it has lower voltage. If you need a 16 inch bar for occasional cutting, it is a budget route.\n\nCheck the battery fit and lubricate the bar. Wear full protective gear. Because support is thin, buy a spare chain and bar oil at the same time so the saw is never stuck waiting for parts.",
+   "bestFor": "Occasional larger cuts when budget is the priority.",
+   "pros": [
+    "16 inch bar handles thicker logs",
+    "Native 40V brushless motor",
+    "Lower price tier than EGO and Greenworks",
+    "2000 W stated motor power"
+   ],
+   "cons": [
+    "Brand support is thinner than EGO or Greenworks",
+    "Wattage is a maker claim",
+    "Less safety feature detail in the listing"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0H9S39MHZ?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41gutWYDrvL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0B3LVT3CD",
+   "badge": "Best Mini for Pruning",
+   "name": "SEESII 6 inch mini cordless chainsaw, 900 W, 2.7 lb, 2 batteries",
+   "specs": [
+    "6 inch bar",
+    "900 W",
+    "2.7 lb",
+    "2 batteries"
+   ],
+   "specList": [
+    {
+     "label": "Bar",
+     "value": "6 inch"
+    },
+    {
+     "label": "Motor",
+     "value": "900 W"
+    },
+    {
+     "label": "Weight",
+     "value": "2.7 lb"
+    },
+    {
+     "label": "Batteries",
+     "value": "2 x 21V 2000 mAh"
+    },
+    {
+     "label": "Best for",
+     "value": "Pruning small branches"
+    }
+   ],
+   "description": "The SEESII mini chainsaw has a 6 inch bar, a 900 W motor and two 21V 2000 mAh batteries, and weighs only 2.7 lb. It is a handheld pruning saw, built for small branches and tidying.\n\nThe listing mentions one handed operation, which is something to treat with caution, since a chainsaw is safest with two hands. A mini saw is not a substitute for a full size saw for firewood or felling trees. Against the Greenworks 12 inch, it is far lighter and cuts only small diameters.\n\nUse two hands whenever possible and wear eye and hand protection. Keep the chain oiled and sharpen it. If you only prune ornamental shrubs and fruit trees, a compact saw like this keeps a bigger saw in the shed.",
+   "bestFor": "Light pruning of small branches and shrubs.",
+   "pros": [
+    "2.7 lb is very light and easy to carry",
+    "Two batteries extend pruning sessions",
+    "Compact size fits small gardens",
+    "Lowest price tier"
+   ],
+   "cons": [
+    "6 inch bar is for small branches only",
+    "One handed use is a safety concern",
+    "Not suited to firewood or felling"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0B3LVT3CD?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51K3nBHOQ-L._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Bar length and cut diameter",
+   "explanation": "The bar sets the maximum log diameter and the saw's size. A 12 inch bar suits limbing and small trees, a 16 inch bar handles most yard trees and firewood, and a 6 inch mini is for pruning. A bar that is too long for your strength is unsafe, so match length to the job. The usual buyer mistake is buying the longest bar available and then struggling to control it."
+  },
+  {
+   "criterion": "Voltage and battery capacity",
+   "explanation": "Voltage describes power and amp hours describe how long it lasts. The EGO uses 56V with 4.0Ah, the Greenworks 80V uses 2.5Ah and the SEESII has two 4.0Ah packs. Cut counts, like up to 130 cuts on a 4x4, depend on wood and chain sharpness. See our guide on battery voltage and amp hours. Chain sharpening is a skill worth learning, because a sharp chain does more for safety than any extra volts."
+  },
+  {
+   "criterion": "Brushless motor",
+   "explanation": "Brushless motors are more efficient, cooler and need less maintenance than brushed ones. The EGO, Greenworks 80V and SEESII saws are brushless. A motor's wattage claim is less useful than its torque and the battery that feeds it. Check that spare chains and bars are easy to buy for the model before committing to it."
+  },
+  {
+   "criterion": "Chain brake and safety features",
+   "explanation": "A mechanical chain brake stops the chain when the front guard is pushed. The Greenworks 80V lists one, and the Greenworks 40V has a dual safety start. Low kickback chains reduce risk. No feature replaces proper gear, a stable stance and a sharp chain. Wear chainsaw chaps even for small jobs, since leg injuries are the most common serious ones."
+  },
+  {
+   "criterion": "Tensioning and oiling",
+   "explanation": "A chain that is too loose can jump off the bar, and one that is too tight wears quickly. Tool free tensioning, as on the EGO and Greenworks, makes adjustments easier. Auto oiling, as on the SEESII, keeps the bar lubricated, but you must keep the reservoir filled. Choose a saw with a visible oil window so you can see the level without opening a cap."
+  },
+  {
+   "criterion": "Weight and handling",
+   "explanation": "A saw you cannot control is dangerous. The Greenworks 12 inch weighs about 6 lb and the mini 2.7 lb, while 16 inch saws with batteries are heavier. A heavier saw is steadier but tires you faster. Plan the cut before you start and clear a retreat path, because kickback gives you very little time to react."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Bar length",
+   "meaning": "The length of the guide bar in inches, a rough guide to the largest log you can cut. The cutting capacity is a little less than the bar length.",
+   "watchFor": "A 16 inch bar is not a 16 inch cut capacity in every case, because of the nose and the cut angle."
+  },
+  {
+   "spec": "Gas equivalent",
+   "meaning": "A marketing comparison that describes power as similar to a gas saw of a given engine size. It is not a standard measurement.",
+   "watchFor": "The EGO claims 40 cc and the Greenworks 80V claims 50 cc equivalence."
+  },
+  {
+   "spec": "Chain brake",
+   "meaning": "A safety device that stops the chain quickly when the front hand guard is pushed forward.",
+   "watchFor": "The Greenworks 80V lists a mechanical brake, but not all listings detail it."
+  },
+  {
+   "spec": "Pitch and gauge",
+   "meaning": "The chain pitch is the spacing of drive links and the gauge is the thickness of the drive link. They must match the bar.",
+   "watchFor": "The EGO lists 3/8 inch pitch and 0.043 inch gauge, so buy matching replacement chains."
+  },
+  {
+   "spec": "Tool free tensioning",
+   "meaning": "A knob or lever that adjusts chain tension without a wrench.",
+   "watchFor": "The EGO and Greenworks saws have it, but check tension before each cut."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Bar and capacity",
+   "description": "We compared 6, 12 and 16 inch bars against typical yard jobs. We favoured a match between bar length and the task. We did not cut test any saw. Owner feedback patterns about chain stretch and battery fade shaped our view of ownership cost."
+  },
+  {
+   "title": "Battery and power",
+   "description": "We looked at voltage platforms from 40V to 80V, battery capacity and stated cut counts. Maker power equivalence claims were treated as marketing. We treated manufacturer cut counts as indicative, since wood species changes everything."
+  },
+  {
+   "title": "Safety features",
+   "description": "We weighed chain brakes, dual start and low recoil chains. Features that reduce kickback risk scored higher. Where a listing was silent on a brake we noted the absence."
+  },
+  {
+   "title": "Convenience",
+   "description": "We reviewed tool free tensioning, auto oiling and weight. Easier maintenance scored higher. We compared how easy it is to retension the chain without tools."
+  },
+  {
+   "title": "Platform and ownership",
+   "description": "We considered brand support, chain and bar availability and owner feedback patterns. Established platforms scored higher. Replacement chain and bar availability counted for each brand."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Job",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Firewood and yard trees",
+      "EGO CS1613",
+      "16 inch and 56V"
+     ],
+     [
+      "Limbing and storm cleanup",
+      "Greenworks 40V",
+      "Light 12 inch"
+     ],
+     [
+      "Heavier cutting",
+      "Greenworks 80V",
+      "80V and chain brake"
+     ],
+     [
+      "Pruning small branches",
+      "SEESII mini",
+      "2.7 lb"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest tier",
+      "SEESII mini",
+      "Pruning only"
+     ],
+     [
+      "Low tier",
+      "SEESII 12 inch",
+      "Two batteries"
+     ],
+     [
+      "Mid tier",
+      "Greenworks 40V or SEESII 16 inch",
+      "Brand or bar length"
+     ],
+     [
+      "Upper tier",
+      "EGO CS1613 or Greenworks 80V",
+      "Platform or voltage"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "12 Inch vs 16 Inch",
+   "cards": [
+    {
+     "label": "12 inch",
+     "text": "The Greenworks 40V and SEESII 12 inch are lighter and easier to control. They suit limbing and small logs."
+    },
+    {
+     "label": "16 inch",
+     "text": "The EGO, Greenworks 80V and SEESII 16 inch cut larger logs. They are heavier and need more care."
+    }
+   ],
+   "note": "Choose 12 inch for yard cleanup and 16 inch if you cut firewood."
+  },
+  {
+   "subheading": "By Experience",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "First time user",
+      "Greenworks 40V",
+      "Lighter and low recoil"
+     ],
+     [
+      "Occasional firewood",
+      "EGO CS1613",
+      "Tool free and brushless"
+     ],
+     [
+      "Wants long runtime",
+      "SEESII 12 inch",
+      "Two batteries"
+     ],
+     [
+      "Needs a brake",
+      "Greenworks 80V",
+      "Mechanical chain brake"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Storm Cleanup Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A saw that you can carry and control, a chain brake and enough battery for a dozen cuts. Leave leaning or tangled trees to professionals."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Greenworks 40V is light and quick, and the EGO provides a larger battery for longer work."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You cut firewood often or want a platform with other tools. The EGO and Greenworks 80V suit that."
+    },
+    {
+     "label": "Save if",
+     "text": "You cut a few limbs a year. The Greenworks 40V or SEESII 12 inch are enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Sharpen or replace the chain",
+   "interval": "After heavy use",
+   "why": "A dull chain forces you to push, which raises kickback risk and drains the battery."
+  },
+  {
+   "task": "Check bar oil level",
+   "interval": "Before each use",
+   "why": "A dry bar overheats and wears quickly. Top up even on auto oiling saws."
+  },
+  {
+   "task": "Check chain tension",
+   "interval": "Before each use",
+   "why": "A loose chain can derail and a tight chain wears. Adjust when the bar is cool."
+  },
+  {
+   "task": "Clean the bar groove and brake area",
+   "interval": "After each use",
+   "why": "Sawdust jams the chain brake and bar. Clear with a stick or brush."
+  },
+  {
+   "task": "Store the battery indoors",
+   "interval": "Off season",
+   "why": "Heat and cold shorten battery life. Store at partial charge."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is a cordless chainsaw powerful enough for firewood?",
+   "a": "A 16 inch brushless saw on a 56V or 80V platform handles firewood for a typical household, though gas saws still lead for big, continuous jobs. Many owners find that a second chain, kept sharp, saves more time than any upgrade."
+  },
+  {
+   "q": "Is a mini chainsaw a good idea?",
+   "a": "Only for small branches and pruning. They are not designed for felling or firewood, and one handed use is unsafe. Mix your sharpening with a file guide so every tooth matches."
+  },
+  {
+   "q": "What protective gear do I need?",
+   "a": "At minimum eye and hearing protection, gloves, sturdy boots and chainsaw chaps. A helmet with a face shield is recommended for tree work. Replace the bar if it shows burrs or heavy wear on the rails."
+  },
+  {
+   "q": "How do I avoid kickback?",
+   "a": "Keep the chain sharp, avoid cutting with the tip of the bar and hold the saw with both hands. A chain brake and low kickback chain help but do not remove the risk. Let a hot motor cool before storing the saw in a cold shed."
+  },
+  {
+   "q": "How many cuts does one battery make?",
+   "a": "Listings give figures such as up to 130 cuts on a 4x4 for the EGO, but results vary with wood and chain sharpness. Treat them as a guide. Store the saw with the bar cover on, which also protects your hands."
+  },
+  {
+   "q": "Should I fell trees myself?",
+   "a": "Only if you have training and the tree is small and clear. Leaning, large or tangled trees are a job for a professional. Never cut above shoulder height, because control drops sharply."
+  }
+ ],
+ "relatedGuides": [
+  {
+   "title": "Battery voltage and amp hours explained",
+   "href": "/guide/battery-voltage-and-amp-hours-explained"
+  },
+  {
+   "title": "Brushed vs brushless motors",
+   "href": "/guide/brushed-vs-brushless-drill-motors"
+  },
+  {
+   "title": "Best Hose Reels",
+   "href": "/guide/best-hose-reels"
+  },
+  {
+   "title": "Best Lawn Sprinklers",
+   "href": "/guide/best-sprinklers"
+  }
+ ]
+}
