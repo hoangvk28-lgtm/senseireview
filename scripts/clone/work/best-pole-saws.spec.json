@@ -1,0 +1,597 @@
+{
+ "guideSlug": "best-pole-saws",
+ "categorySlug": "outdoor-garden",
+ "mainKeyword": "pole saw",
+ "guideTitle": "Best Pole Saws (2026)",
+ "metaTitle": "Best Pole Saws (2026)",
+ "metaDescription": "We evaluated six pole saws, cordless, corded and manual, on reach, bar length, battery platform and weight to help you trim high branches from the ground.",
+ "lastUpdated": "2026-11-21",
+ "readTime": "12 min",
+ "heroImage": "https://m.media-amazon.com/images/I/31NV1Jf36-L._SL500_.jpg",
+ "expertTake": "The EGO Power+ cordless pole saw is our best overall pick for its telescopic carbon fiber shaft, LED cut line indicator and strong platform support. The Greenworks 40V kit is the value pick if you want an 8 inch bar and a reasonable battery system at a gentler tier. Anyone with only a few small branches to cut should skip power and buy a manual pole saw instead.",
+ "introParagraphs": [
+  "A pole saw lets you trim branches that are out of reach without a ladder, which is both safer and quicker than climbing. It puts a small chainsaw or a curved blade on the end of a long, often telescoping shaft, and you cut from the ground.",
+  "The category covers cordless saws on a battery platform, corded electric saws and manual pole pruners. The right choice depends on branch thickness, how high you must reach, and whether you already own batteries that fit."
+ ],
+ "products": [
+  {
+   "id": "B0BRXJKRLP",
+   "rank": 1,
+   "badge": "Best Overall",
+   "name": "EGO Power+ Cordless Pole Saw with LED Cut Line, 56V",
+   "specs": [
+    "56V battery",
+    "Telescopic shaft",
+    "LED cut line",
+    "Up to 100 cuts"
+   ],
+   "specList": [
+    {
+     "label": "Battery",
+     "value": "56V, 2.5Ah included"
+    },
+    {
+     "label": "Shaft",
+     "value": "Telescopic carbon fiber"
+    },
+    {
+     "label": "Cuts per charge",
+     "value": "Up to 100 per the listing"
+    },
+    {
+     "label": "Cut guide",
+     "value": "LED cut line indicator"
+    },
+    {
+     "label": "Warranty",
+     "value": "Limited lifetime on shaft"
+    }
+   ],
+   "description": "The EGO pole saw is a 56V cordless unit with a telescopic carbon fiber shaft that the maker covers with a limited lifetime warranty. Its signature feature is an LED cut line indicator, a light that projects a line to show where the bar will cut, which helps when you are looking up at an angle. The listing quotes up to 100 cuts per charge with the included 2.5Ah battery.\n\nThe tradeoff is cost and ecosystem. EGO's 56V batteries are expensive, and if you do not already own the platform you are paying for a system, not just a saw. Compared with the Greenworks 40V kit, which is an 8 inch bar on a cheaper platform, the EGO is more refined and lighter to hold at full extension, but the cut capacity is similar. A carbon fiber shaft is also less tiring than aluminium over a long session.\n\nOwnership centres on the chain. Keep the oil reservoir topped up, check chain tension before each use, and sharpen or replace the chain when sawdust turns to powder. The battery and shaft are low maintenance, but store the battery indoors in cold weather.",
+   "bestFor": "Homeowners already on EGO or willing to invest in a quality cordless platform.",
+   "pros": [
+    "LED cut line indicator helps you aim while looking upward",
+    "Telescopic carbon fiber shaft is light and rigid",
+    "Strong 56V battery platform with plenty of tool options",
+    "Limited lifetime warranty covers the shaft"
+   ],
+   "cons": [
+    "Battery platform is costly if you are not already invested",
+    "Cut count depends on the 2.5Ah battery included"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0BRXJKRLP?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31NV1Jf36-L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B07M9YC1CZ",
+   "rank": 2,
+   "badge": "Best Value Cordless",
+   "name": "Greenworks 40V 8 Inch Cordless Pole Saw Kit",
+   "specs": [
+    "40V battery",
+    "8 in bar",
+    "11 ft reach",
+    "Auto oiler"
+   ],
+   "specList": [
+    {
+     "label": "Battery",
+     "value": "40V, 2Ah with charger"
+    },
+    {
+     "label": "Bar length",
+     "value": "8 inches"
+    },
+    {
+     "label": "Chain speed",
+     "value": "31.2 feet per second"
+    },
+    {
+     "label": "Max reach",
+     "value": "11 feet"
+    },
+    {
+     "label": "Shaft",
+     "value": "Three-piece aluminium"
+    }
+   ],
+   "description": "The Greenworks is a 40V cordless kit with an 8 inch bar, a chain speed of 31.2 feet per second and a three-piece aluminium shaft that reaches 11 feet. It includes a 2Ah battery and charger, plus an auto oiler that keeps the chain lubricated as you cut. The listing quotes up to 15 minutes of continuous runtime on a charge and compares its weight to gas models.\n\nThe tradeoff is runtime and refinement. A 2Ah battery is on the small side, so a lot of cutting means swapping or recharging. Compared with the EGO, the Greenworks lacks the LED line and the carbon shaft, but it costs less and gives a clear 8 inch cut. It suits a suburban yard with a few trees where you cut for short bursts.\n\nCheck the auto oiler reservoir before each session, keep the chain sharp and tension snug, and wipe sap off the bar. Charge the battery indoors and do not leave it on the charger for months.",
+   "bestFor": "Suburban owners who want a capable cordless saw without paying for a premium platform.",
+   "pros": [
+    "Eight inch bar handles typical limbs on a suburban tree",
+    "Auto oiler keeps the chain lubricated while you cut",
+    "Eleven foot reach covers most single-story branches",
+    "Included battery and charger make it ready out of the box"
+   ],
+   "cons": [
+    "Two amp-hour battery limits continuous cutting time",
+    "Aluminium shaft is heavier at full extension than carbon fiber"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B07M9YC1CZ?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31Ib+VbCYeL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B004JMZH1C",
+   "rank": 3,
+   "badge": "Best for Light Pruning",
+   "name": "BLACK+DECKER 20V MAX Cordless Pole Saw Kit",
+   "specs": [
+    "20V MAX battery",
+    "Up to 100 cuts",
+    "Lithium ion",
+    "Kit included"
+   ],
+   "specList": [
+    {
+     "label": "Battery",
+     "value": "20V MAX lithium ion"
+    },
+    {
+     "label": "Cut test claim",
+     "value": "Up to 100 cuts of 1.5 inch pine"
+    },
+    {
+     "label": "Kit",
+     "value": "Battery and charger included"
+    },
+    {
+     "label": "Oil",
+     "value": "Includes bar oil"
+    },
+    {
+     "label": "Platform",
+     "value": "BLACK+DECKER 20V MAX"
+    }
+   ],
+   "description": "The BLACK+DECKER kit pairs a 20V MAX lithium ion battery with a pole saw head and includes a charger and bar oil. The maker says a charge delivers up to 100 cuts of 1.5 inch pine branches and that the battery holds its charge for long storage periods. It targets homeowners with light pruning needs.\n\nThe tradeoff is power. A 20V platform is gentler than the 40V and 56V options, so it is better at small limbs than thick ones. Compared with the Greenworks 40V, the BLACK+DECKER is lighter and cheaper to own, and its battery works with other tools in the 20V MAX family, but it is slower on dense wood. It suits small yards and shrubs.\n\nCheck the chain tension and bar oil often, because light-duty saws still bind if the chain runs dry. Keep the chain sharp, and store the battery indoors between seasons.",
+   "bestFor": "Small yards and light pruning where a lighter 20V platform is enough.",
+   "pros": [
+    "Twenty volt platform shares batteries with other BLACK+DECKER tools",
+    "Kit includes a charger and bar oil for immediate use",
+    "Light head and battery are easy to hold at height",
+    "Rated by the maker for 100 cuts of 1.5 inch branches"
+   ],
+   "cons": [
+    "Less power than 40V and 56V saws on thick limbs",
+    "Slow on dense hardwood and wet branches"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B004JMZH1C?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/21z-+9ghy2L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0FS77BTKX",
+   "rank": 4,
+   "badge": "Best Corded",
+   "name": "WORX WG311 Corded 8 Amp 10 Inch Pole Saw",
+   "specs": [
+    "8 amp corded",
+    "10 in bar",
+    "28 ft/s chain",
+    "10 ft reach"
+   ],
+   "specList": [
+    {
+     "label": "Power",
+     "value": "8 amp corded motor"
+    },
+    {
+     "label": "Bar length",
+     "value": "10 inches"
+    },
+    {
+     "label": "Chain speed",
+     "value": "28 feet per second"
+    },
+    {
+     "label": "Reach",
+     "value": "Up to 10 feet"
+    },
+    {
+     "label": "Weight",
+     "value": "10 pounds"
+    }
+   ],
+   "description": "The WORX WG311 is a corded electric saw with an 8 amp motor, a 10 inch bar, a chain speed of 28 feet per second and a reach of up to 10 feet. It weighs about 10 pounds and works as a pole saw or a handheld saw, so you can detach the pole for work at ground level. With no battery to run down, it keeps cutting as long as it is plugged in.\n\nThe tradeoff is the cord. You need an outdoor extension cord rated for the load and a power outlet close to the work, and the cord can snag on shrubs. Compared with the cordless Greenworks, the WORX has a longer bar and no runtime limit, but it is less convenient and you must watch the cord. It suits owners with trees close to the house who dislike battery costs.\n\nKeep the chain sharp and oiled, check the cord for nicks, and never cut near the cord. Store it dry, and wipe sap from the bar after each session.",
+   "bestFor": "Owners with trees near the house who want unlimited runtime without batteries.",
+   "pros": [
+    "Corded power means no battery to charge or replace",
+    "Ten inch bar cuts thicker limbs in one pass",
+    "Detaches from the pole for handheld cutting",
+    "Light at about ten pounds for a corded saw"
+   ],
+   "cons": [
+    "Cord limits range and can snag on shrubs",
+    "Needs a nearby outlet and a suitable extension cord"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0FS77BTKX?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31pP+WxZeVL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0C5L18PKM",
+   "rank": 5,
+   "badge": "Best 2-in-1",
+   "name": "SEESII 2-in-1 Cordless 8 Inch Pole Saw and Mini Chainsaw",
+   "specs": [
+    "8 in bar",
+    "6 to 10 ft pole",
+    "Brushless",
+    "2 batteries"
+   ],
+   "specList": [
+    {
+     "label": "Bar length",
+     "value": "8 inches"
+    },
+    {
+     "label": "Pole reach",
+     "value": "6 to 10 feet telescoping"
+    },
+    {
+     "label": "Motor",
+     "value": "Brushless"
+    },
+    {
+     "label": "Batteries",
+     "value": "Two 4.0Ah"
+    },
+    {
+     "label": "Modes",
+     "value": "Pole saw or handheld"
+    }
+   ],
+   "description": "The SEESII is a 2-in-1 cordless saw: a brushless motor on an 8 inch bar that works as a handheld mini chainsaw or clips onto a telescoping pole that adjusts from 6 to 10 feet. It ships with two 4.0Ah batteries, which doubles your runtime compared with single-battery kits.\n\nThe tradeoff is shaft strength and brand depth. Telescoping poles at this tier can flex at full extension, and the platform has less ecosystem support than EGO or Greenworks. Compared with the Greenworks, the SEESII gives you two batteries and a handheld mode, but a shorter 10 foot reach. It suits people who also want a small handheld saw for storm cleanup.\n\nCheck the telescoping locks and chain tension before each session, keep the bar oiled, and charge both batteries after use. Store the chain guard on the bar when not in use.",
+   "bestFor": "Buyers who want a handheld mini chainsaw and a pole saw in one kit.",
+   "pros": [
+    "Two 4.0Ah batteries double the cutting time per session",
+    "Brushless motor runs cooler and wastes less energy",
+    "Works as a handheld saw or an extendable pole saw",
+    "Reach adjusts from 6 to 10 feet for varied jobs"
+   ],
+   "cons": [
+    "Telescoping pole can flex at full extension",
+    "Less ecosystem support than major battery platforms"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0C5L18PKM?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41Tsf0cv3lL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0FBL1SZ8Q",
+   "rank": 6,
+   "badge": "Best Manual",
+   "name": "Silanit 14 Ft Manual Pole Saw with Dual Pulley Pruner",
+   "specs": [
+    "14 ft assembled",
+    "Dual pulley",
+    "10 pole sections",
+    "No battery"
+   ],
+   "specList": [
+    {
+     "label": "Power",
+     "value": "Manual, no battery"
+    },
+    {
+     "label": "Length",
+     "value": "14 feet assembled"
+    },
+    {
+     "label": "Sections",
+     "value": "Ten threaded sections, about 15.9 inches each"
+    },
+    {
+     "label": "Cutters",
+     "value": "Pruning saw and pull-rope pruner"
+    },
+    {
+     "label": "Mechanism",
+     "value": "Dual-pulley rope"
+    }
+   ],
+   "description": "The Silanit is a manual pole saw with a curved pruning blade for larger branches and a pull-rope pruner with a dual-pulley system for smaller twigs. It assembles from ten threaded sections of about 15.9 inches each to reach 14 feet. With no battery or fuel, it is quiet and always ready.\n\nThe tradeoff is effort. Sawing overhead with a manual blade is tiring, and a 14 foot assembled pole is long and unwieldy. Compared with the cordless EGO, it cannot cut thick limbs quickly, but it costs far less and requires no charging. It suits occasional pruning of thin branches, not a yard full of mature trees.\n\nMaintenance is small. Keep the blade clean and dry to prevent rust, wipe off sap, tighten the threaded joints before each use, and check the pull rope for fraying.",
+   "bestFor": "Occasional pruning of thin branches where power is not worth the cost.",
+   "pros": [
+    "No battery, fuel or cord so it is always ready to use",
+    "Fourteen foot reach covers many higher branches",
+    "Quiet, light and cheap to own over many years",
+    "Dual-pulley rope pruner trims small twigs easily"
+   ],
+   "cons": [
+    "Manual sawing is tiring on thick or high branches",
+    "Long assembled pole is unwieldy and hard to control"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0FBL1SZ8Q?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41qdzrj6NuL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Power source: battery, cord or manual",
+   "explanation": "Cordless saws like the EGO and Greenworks give freedom of movement, corded saws like the WORX give unlimited runtime, and manual saws like the Silanit need no power at all. The usual mistake is buying cordless without checking battery size. A 2Ah battery runs out fast on thick limbs, so pair the saw with the right battery for the job."
+  },
+  {
+   "criterion": "Bar length and cut capacity",
+   "explanation": "Bar lengths run from 6 to 10 inches on most pole saws, and a safe cut is usually a branch a couple of inches narrower than the bar. The Greenworks and SEESII have 8 inch bars, while the WORX has 10 inches. Do not try to force a saw through a branch thicker than its bar, because it binds and kicks."
+  },
+  {
+   "criterion": "Reach and shaft design",
+   "explanation": "Reach is the pole length plus your arm length, so a saw advertised with a 10 foot pole lets you work at about 12 to 14 feet. Telescopic shafts like the EGO adjust, while sectional shafts like the Greenworks assemble. Longer reach increases weight at the tip, which tires you faster."
+  },
+  {
+   "criterion": "Weight and balance",
+   "explanation": "A pole saw feels much heavier at full extension than the scale says, because you hold the weight at the end of a lever. A carbon fiber shaft, as on the EGO, reduces fatigue. The WORX at 10 pounds is manageable, but a long manual pole can be worse in practice."
+  },
+  {
+   "criterion": "Battery platform and ecosystem",
+   "explanation": "If you already own batteries for a platform, buying a bare tool is the cheapest path. The EGO 56V and Greenworks 40V lines each cover mowers, blowers and trimmers. A one-off pole saw on a brand you do not use means buying batteries you will never share."
+  },
+  {
+   "criterion": "Safety features and chain care",
+   "explanation": "Look for a chain brake, a guarded bar and an auto oiler, as on the Greenworks. Always wear eye protection and a hard hat, keep the chain sharp and never stand under the branch. Falling limbs are the real hazard, so plan the cut before you start."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Battery voltage",
+   "meaning": "The platform voltage, such as 20V, 40V or 56V, indicates the class of power. Higher voltage generally supports stronger motors.",
+   "watchFor": "The BLACK+DECKER is 20V MAX, the Greenworks is 40V and the EGO is 56V, so they sit in different power classes."
+  },
+  {
+   "spec": "Amp-hour rating",
+   "meaning": "Battery capacity in Ah controls runtime, since a bigger battery stores more energy. Two batteries double the work time.",
+   "watchFor": "The Greenworks includes 2Ah and the SEESII includes two 4.0Ah batteries, so compare capacity, not just voltage."
+  },
+  {
+   "spec": "Chain speed",
+   "meaning": "Measured in feet per second, it shows how fast the chain moves around the bar. Faster chains cut quicker but need better oiling.",
+   "watchFor": "The Greenworks lists 31.2 feet per second and the WORX lists 28, which are close in practice."
+  },
+  {
+   "spec": "Bar length",
+   "meaning": "The length of the guide bar in inches, which sets the maximum branch diameter you can cut safely.",
+   "watchFor": "The WORX has a 10 inch bar, while the Greenworks and SEESII use 8 inches."
+  },
+  {
+   "spec": "Reach",
+   "meaning": "The extended length of the saw, which determines how high you can cut from the ground. Actual working height adds your own arm length.",
+   "watchFor": "The Silanit is 14 feet assembled, while the WORX and SEESII reach about 10 feet."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Power and cut capacity",
+   "description": "We compared bar length, chain speed and battery platform from published specifications. The EGO 56V and Greenworks 40V sit above the 20V BLACK+DECKER. We matched cut capacity to realistic branch sizes."
+  },
+  {
+   "title": "Reach and shaft quality",
+   "description": "We researched shaft type, material and maximum reach. A carbon fiber telescopic shaft like the EGO scored well for weight. We flagged long manual poles for handling difficulty."
+  },
+  {
+   "title": "Weight and fatigue",
+   "description": "We considered stated weights and how the load is felt at full extension, using patterns in owner feedback. The WORX at about 10 pounds is manageable. Heavier tip weight earned a lower mark."
+  },
+  {
+   "title": "Battery and ecosystem",
+   "description": "We looked at battery voltage, capacity and how many tools share the platform. The SEESII's two 4.0Ah batteries add runtime, but EGO and Greenworks have wider ecosystems. We did not reward voltage claims without capacity."
+  },
+  {
+   "title": "Maintenance and safety",
+   "description": "We checked for auto oilers, chain brakes and simple chain care. The Greenworks auto oiler reduces upkeep. Corded and manual designs were judged on cord handling and rust care."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Power Source",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Quality cordless platform",
+      "EGO Power+ 56V",
+      "Carbon shaft, LED line and strong battery"
+     ],
+     [
+      "Value cordless",
+      "Greenworks 40V 8 Inch",
+      "Eight inch bar at a gentler tier"
+     ],
+     [
+      "Light pruning, 20V tools owned",
+      "BLACK+DECKER 20V MAX",
+      "Shares batteries with the 20V family"
+     ],
+     [
+      "Unlimited runtime",
+      "WORX WG311 Corded",
+      "Ten inch bar with no battery"
+     ],
+     [
+      "Occasional thin branches",
+      "Silanit Manual 14 Ft",
+      "No power or charging needed"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest cost entry",
+      "Silanit Manual 14 Ft",
+      "Manual saws cost the least to own"
+     ],
+     [
+      "Mid-range corded",
+      "WORX WG311 Corded",
+      "Strong cutting without a battery"
+     ],
+     [
+      "Mid-range cordless",
+      "Greenworks 40V 8 Inch",
+      "A kit with battery and charger"
+     ],
+     [
+      "Higher tier for quality",
+      "EGO Power+ 56V",
+      "You pay for platform and refinement"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Cordless vs Corded",
+   "cards": [
+    {
+     "label": "Cordless",
+     "text": "A cordless saw like the Greenworks or EGO moves freely and suits larger yards, but runtime is limited by the battery."
+    },
+    {
+     "label": "Corded",
+     "text": "A corded saw like the WORX never runs out of power but is tied to an outlet and a cord that can snag."
+    }
+   ],
+   "note": "Choose cordless for freedom and corded if your trees are near the house and you dislike battery costs."
+  },
+  {
+   "subheading": "By Branch Size",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Thin twigs and shrubs",
+      "Silanit Manual 14 Ft",
+      "Pull-rope pruner trims small branches"
+     ],
+     [
+      "Branches up to about 1.5 inches",
+      "BLACK+DECKER 20V MAX",
+      "Maker quotes cuts of 1.5 inch pine"
+     ],
+     [
+      "Typical limbs of 3 to 6 inches",
+      "Greenworks 40V 8 Inch",
+      "Eight inch bar and 40V power"
+     ],
+     [
+      "Larger limbs with refined handling",
+      "EGO Power+ 56V",
+      "Stronger platform with a cut line guide"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Suburban Yards Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A saw with enough reach for your tallest limbs, an auto oiler and a battery you can swap. Avoid overbuying for a few small trees."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Greenworks balances reach and cost, the EGO adds refinement, and the SEESII adds a second battery."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You prune often, have tall trees or want a lighter carbon shaft. The EGO justifies it with refinement and platform."
+    },
+    {
+     "label": "Save if",
+     "text": "You cut a few limbs a year. A manual saw or the BLACK+DECKER is plenty."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Check chain tension",
+   "interval": "Before each use",
+   "why": "A loose chain can derail and a tight chain overheats. Correct tension keeps cuts clean."
+  },
+  {
+   "task": "Fill bar oil",
+   "interval": "Before each use",
+   "why": "A dry chain wears the bar quickly and binds in the cut. Auto oilers still need a full reservoir."
+  },
+  {
+   "task": "Sharpen or replace chain",
+   "interval": "Every 10 to 20 hours of use",
+   "why": "A dull chain produces powder instead of chips and wastes battery. A sharp chain cuts faster."
+  },
+  {
+   "task": "Clean sap from bar",
+   "interval": "After each session",
+   "why": "Sap gums the bar groove and slows the chain. A damp cloth keeps it free."
+  },
+  {
+   "task": "Store batteries indoors",
+   "interval": "Between seasons",
+   "why": "Cold and heat shorten battery life. Store at part charge in a dry place."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is a cordless pole saw better than a manual one?",
+   "a": "For thick or many branches, yes, because power saves effort. A manual saw is cheaper and fine for occasional thin branches, but overhead sawing is tiring."
+  },
+  {
+   "q": "How much should I spend on a pole saw?",
+   "a": "A manual saw costs the least, while a cordless kit costs more and a premium platform costs the most. Spend according to how much you cut."
+  },
+  {
+   "q": "How long does a pole saw last?",
+   "a": "A decent saw lasts many years if the chain is kept sharp and oiled. The battery and chain are the wear items, so budget for replacements."
+  },
+  {
+   "q": "Does a longer bar cut better?",
+   "a": "A longer bar cuts thicker branches in one pass, but it adds weight and needs more power. For most yards, an 8 inch bar is enough."
+  },
+  {
+   "q": "Is a pole saw dangerous?",
+   "a": "Yes, falling branches and kickback are real hazards. Wear eye protection and a hard hat, stand clear of the drop zone and keep clear of power lines. Hire a professional for large trees."
+  },
+  {
+   "q": "Can I use a pole saw near power lines?",
+   "a": "No. Stay well away from overhead lines, and never use a metal or wet pole near them. Call a professional or the utility if branches touch lines."
+  }
+ ],
+ "relatedGuides": [
+  {
+   "title": "Best Chainsaws",
+   "href": "/guide/best-chainsaws"
+  },
+  {
+   "title": "Best Pruning Shears",
+   "href": "/guide/best-pruning-shears"
+  },
+  {
+   "title": "Battery Voltage and Amp Hours Explained",
+   "href": "/guide/battery-voltage-and-amp-hours-explained"
+  }
+ ]
+}

@@ -1,0 +1,588 @@
+{
+ "guideSlug": "best-kvm-switches",
+ "categorySlug": "tech-electronics",
+ "mainKeyword": "kvm switch Because the USB hub is shared, a printer or a drive that is connected will follow whichever computer is active, so do not start a large file copy and then switch away mid-transfer. The four-port design is popular with people who run a gaming PC, a work laptop, a mini PC and a console capture box, since a single hotkey moves the keyboard and screen to the right machine. Before you buy, check which graphics outputs each computer has, since a laptop with only one HDMI port will give a single screen to the switch no matter how many monitors are attached. For people who hot-desk with a laptop, the single-cable docking feature is the real saving, because you plug in once and get charging, monitors, network and peripherals together. Check that both your monitors support the refresh rate you want, since the switch will fall back to the slower of the two displays when they differ. Because it works below the operating system, it can be used to reinstall an operating system or change BIOS settings on a machine that is in another room or building. If a computer is asleep when you switch, it may take a moment for the picture to appear, so give it a few seconds before assuming the switch has failed. Keep the HDMI cables short and of the same type, as a long cheap cable on one input is a common reason one of four computers misbehaves. The desktop controller is worth placing within easy reach, since reaching behind the monitors for a button makes the switch much less convenient. Before relying on it, confirm that your laptop charger wattage and your laptop USB-C port both match what the dock provides, because a mismatch limits charging speed. If you use it for gaming, test the refresh rate after every switch, because some graphics drivers reset to a lower rate when a monitor reconnects. For a first setup, connect it to a spare machine and practice before using it on a server that you cannot easily reach if something goes wrong.",
+ "guideTitle": "Best KVM Switches (2026)",
+ "metaTitle": "Best KVM Switches (2026)",
+ "metaDescription": "Six KVM switches compared on monitor count, 4K refresh rate, USB ports, laptop docking and remote access, with picks for two PCs, four PCs and dual monitors.",
+ "lastUpdated": "2026-11-21",
+ "readTime": "12 min",
+ "heroImage": "https://m.media-amazon.com/images/I/41BTOg3hx3L._SL500_.jpg",
+ "expertTake": "The Hearvo 2-port USB 3.0 HDMI KVM is the best pick for most people sharing one monitor between two computers, and the AV Access KVM docking station is the best pick for a laptop and desktop on a dual-monitor desk. Anyone who only swaps between machines once a week should skip the category and use the monitor's own input button.",
+ "introParagraphs": [
+  "A KVM switch lets several computers share one keyboard, mouse and monitor, with a button or hotkey to switch between them. It clears away the second keyboard and screen, and for people with a work laptop and a personal desktop it can make a small desk usable.",
+  "The details that matter are monitor count, refresh rate and cable type. A switch that does 4K at 60 Hz may only manage 30 Hz on a cheaper cable or port, and a dual monitor setup needs a switch built for two displays. Check your video ports and USB cables before buying."
+ ],
+ "products": [
+  {
+   "id": "B0HMVTN843",
+   "rank": 1,
+   "badge": "Best Overall",
+   "name": "Hearvo USB 3.0 HDMI KVM switch for 2 computers 1 monitor, 4K at 60 Hz, 4 USB ports",
+   "amazonUrl": "https://www.amazon.com/dp/B0HMVTN843?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41BTOg3hx3L._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "2 computers",
+    "1 monitor",
+    "4K at 60 Hz",
+    "4 USB 3.0 ports"
+   ],
+   "specList": [
+    {
+     "label": "Computers",
+     "value": "2"
+    },
+    {
+     "label": "Monitors",
+     "value": "1"
+    },
+    {
+     "label": "Resolution",
+     "value": "4K at 60 Hz"
+    },
+    {
+     "label": "USB",
+     "value": "4 ports, 3 USB-A and 1 USB-C, 5 Gbps"
+    },
+    {
+     "label": "Brand",
+     "value": "Hearvo"
+    }
+   ],
+   "description": "The Hearvo KVM lets two computers share one HDMI monitor, a keyboard and a mouse, with four USB 3.0 ports at 5 Gbps shared among them, including three USB-A ports and one USB-C. It supports 4K at 60 Hz, according to the listing. It can also share a hard drive or a webcam across the machines.\n\nThe tradeoff is that it is a single-monitor, HDMI-only design. Compared with the Unitek dual-monitor KVM, it supports one screen, and against the UGREEN four-port, it handles only two computers. It requires USB and HDMI cables for each computer, which the listing may not include in the box. It suits a simple two-computer, one-monitor desk.\n\nIn ownership, use good HDMI cables rated for 4K at 60 Hz, since cheap cables are the first cause of flicker. Label the cables for each computer. Update the monitor firmware if you see blank screens after switching.",
+   "bestFor": "People who share one monitor and a keyboard between two computers.",
+   "pros": [
+    "Shares one monitor, keyboard and mouse between two computers",
+    "4K at 60 Hz supports sharp, smooth desktop work",
+    "Four 5 Gbps USB ports share drives and webcams",
+    "Simple setup with plug and play operation"
+   ],
+   "cons": [
+    "Supports only one monitor and two computers",
+    "HDMI-only and cable quality can limit 4K at 60 Hz"
+   ]
+  },
+  {
+   "id": "B0GTPLMZBC",
+   "rank": 2,
+   "badge": "Best for Four Computers",
+   "name": "UGREEN HDMI KVM switch for 4 computers sharing 1 monitor, 4K at 60 Hz, 6 USB ports",
+   "amazonUrl": "https://www.amazon.com/dp/B0GTPLMZBC?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41oRrHrUepL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "4 computers",
+    "1 monitor",
+    "4K at 60 Hz",
+    "6 USB ports"
+   ],
+   "specList": [
+    {
+     "label": "Computers",
+     "value": "4"
+    },
+    {
+     "label": "Monitors",
+     "value": "1"
+    },
+    {
+     "label": "Resolution",
+     "value": "4K at 60 Hz"
+    },
+    {
+     "label": "USB",
+     "value": "4 USB 3.0 plus 2 USB 2.0"
+    },
+    {
+     "label": "Brand",
+     "value": "UGREEN"
+    }
+   ],
+   "description": "The UGREEN KVM lets four computers share one monitor, with six USB ports made up of four USB 3.0 and two USB 2.0 and support for 4K at 60 Hz. The listing notes EDID emulation, which keeps windows from rearranging themselves when you switch. Each computer needs an HDMI cable and a USB A to C cable for data.\n\nThe tradeoff is cabling and complexity. Four computers means eight cables on the desk, which reduces the tidy effect. Compared with the Hearvo, it handles more machines but costs more. Against the AV Access, it has no laptop docking or power delivery. It suits a home lab, a repair bench or a desk with several test machines.\n\nFor ownership, label every cable and use cable ties. Use certified HDMI cables for 4K at 60 Hz. Check that your computers support USB-C or USB-A as needed.",
+   "bestFor": "Home labs, workshops and testers who need to share one monitor among four machines.",
+   "pros": [
+    "Four computers share one monitor, which saves a lot of desk space",
+    "EDID emulation keeps window layouts stable when switching",
+    "Six USB ports share keyboards, mice and drives",
+    "4K at 60 Hz supports crisp desktop work"
+   ],
+   "cons": [
+    "Eight cables for four machines is a lot of clutter",
+    "No laptop charging or docking features"
+   ]
+  },
+  {
+   "id": "B0DBYMBMKN",
+   "rank": 3,
+   "badge": "Best Dual Monitor Value",
+   "name": "Unitek KVM switch for 2 monitors and 2 computers, HDMI and DisplayPort, 4K at 60 Hz",
+   "amazonUrl": "https://www.amazon.com/dp/B0DBYMBMKN?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41FDtx3CVLL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "2 monitors",
+    "2 computers",
+    "4K at 60 Hz",
+    "3 USB 3.0"
+   ],
+   "specList": [
+    {
+     "label": "Computers",
+     "value": "2"
+    },
+    {
+     "label": "Monitors",
+     "value": "2"
+    },
+    {
+     "label": "Video",
+     "value": "HDMI and DisplayPort"
+    },
+    {
+     "label": "USB",
+     "value": "3 USB 3.0 ports"
+    },
+    {
+     "label": "Brand",
+     "value": "Unitek"
+    }
+   ],
+   "description": "The Unitek KVM supports two monitors and two computers, with HDMI and DisplayPort inputs and up to 4K at 60 Hz, plus three USB 3.0 ports. A one-button switch or a desktop controller changes between the computers. The listing says it handles resolutions down to 1080P and 3D.\n\nThe tradeoff is complexity of cables. Dual monitors mean four video cables plus USB, and the mix of HDMI and DisplayPort needs care. Compared with the Hearvo, it supports two screens but costs more. Against the AV Access, it lacks 8K and docking features, but is simpler.\n\nIn ownership, match each cable to the right port and use rated cables. Test the extended desktop after the first switch. Update graphics drivers if the second monitor shows blank screens.",
+   "bestFor": "Two-monitor desks that need to share between two computers.",
+   "pros": [
+    "Supports two monitors and two computers in one box",
+    "HDMI and DisplayPort inputs fit many graphics setups",
+    "One-button or desktop controller switching is quick",
+    "Three USB 3.0 ports share peripherals"
+   ],
+   "cons": [
+    "Four video cables plus USB make a cluttered desk",
+    "Dual-monitor support can be fussy with mixed ports"
+   ]
+  },
+  {
+   "id": "B0F6MTC9LR",
+   "rank": 4,
+   "badge": "Best Laptop Docking",
+   "name": "AV Access KVM docking station, 2 monitors 2 computers, 100 W PD, 1G Ethernet, 8K",
+   "amazonUrl": "https://www.amazon.com/dp/B0F6MTC9LR?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/412Owft2A2L._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "Dual monitor",
+    "100 W PD",
+    "1G Ethernet",
+    "8K at 60 Hz"
+   ],
+   "specList": [
+    {
+     "label": "Computers",
+     "value": "Desktop plus a USB-C laptop"
+    },
+    {
+     "label": "Monitors",
+     "value": "2"
+    },
+    {
+     "label": "Charging",
+     "value": "100 W power delivery"
+    },
+    {
+     "label": "Network",
+     "value": "1G Ethernet"
+    },
+    {
+     "label": "Brand",
+     "value": "AV Access"
+    }
+   ],
+   "description": "The AV Access KVM combines a dual-monitor switch with a USB-C docking station for a laptop. The desktop side supports up to dual 8K at 60 Hz or dual 4K at 165 Hz, and the laptop connects with a single USB-C cable for dual 4K at 60 Hz, up to 10 Gbps data, 100 W power delivery and 1G Ethernet. It is designed for people who bring a work laptop to a desk with a personal PC.\n\nThe tradeoff is cost and complexity. It is the most expensive item in the lineup and relies on the laptop supporting video over USB-C. Compared with the Unitek, it adds docking and 8K but needs more careful cabling. Against the Hearvo, it does far more but is overkill for a simple two-computer setup.\n\nFor ownership, check that your laptop USB-C port supports DisplayPort alt mode. Use cables rated for 10 Gbps. Keep firmware updated.",
+   "bestFor": "People with a work laptop and a desktop who share a dual-monitor desk.",
+   "pros": [
+    "One USB-C cable connects a laptop to two monitors, power and network",
+    "100 W power delivery charges most laptops",
+    "Desktop side supports high refresh rates and 8K",
+    "1G Ethernet gives a wired network connection"
+   ],
+   "cons": [
+    "Highest price tier in the lineup",
+    "Needs a laptop with USB-C video support"
+   ]
+  },
+  {
+   "id": "B0H31Z26CW",
+   "rank": 5,
+   "badge": "Best High Refresh",
+   "name": "CMSTEDCD 8K HDMI KVM switch for 2 monitors and 2 computers, 8K at 60 Hz, 4K at 120 Hz",
+   "amazonUrl": "https://www.amazon.com/dp/B0H31Z26CW?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41y+BYs50pL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "2 monitors",
+    "8K at 60 Hz",
+    "4K at 120 Hz",
+    "4 USB 3.0"
+   ],
+   "specList": [
+    {
+     "label": "Computers",
+     "value": "2"
+    },
+    {
+     "label": "Monitors",
+     "value": "2"
+    },
+    {
+     "label": "Resolution",
+     "value": "8K at 60 Hz or 4K at 120 Hz"
+    },
+    {
+     "label": "USB",
+     "value": "4 USB 3.0 ports, 5 Gbps"
+    },
+    {
+     "label": "Brand",
+     "value": "CMSTEDCD"
+    }
+   ],
+   "description": "The CMSTEDCD dual monitor KVM supports 8K at 60 Hz or 4K at 120 Hz across two HDMI monitors for two computers, and it adds a four-port USB 3.0 hub at 5 Gbps. It is aimed at gamers and creators with fast displays and an extended desktop. The listing says the data speed is ten times faster than USB 2.0.\n\nThe tradeoff is that high refresh rates need the right cables and graphics cards. Compared with the Unitek, it supports higher refresh rates but is HDMI only. Against the Hearvo, it costs more for dual monitors. A lesser-known brand also carries more uncertainty than a major brand.\n\nFor ownership, use certified high-speed HDMI cables, set the refresh rate in your operating system after switching and check the firmware. Keep the switch ventilated.",
+   "bestFor": "Gamers and creators who want a dual monitor KVM with fast refresh rates.",
+   "pros": [
+    "Supports 4K at 120 Hz for smooth gaming and video",
+    "Dual monitors extend the desktop on both computers",
+    "Four USB 3.0 ports share peripherals",
+    "Eight K support future-proofs the setup"
+   ],
+   "cons": [
+    "Needs high quality HDMI cables and capable graphics cards",
+    "Lesser-known brand with limited long-term feedback"
+   ]
+  },
+  {
+   "id": "B0G1BS7WWK",
+   "rank": 6,
+   "badge": "Best Remote KVM",
+   "name": "GL.iNet GL-RM10 Comet Pro remote KVM over Wi-Fi 6, 4K passthrough, touchscreen",
+   "amazonUrl": "https://www.amazon.com/dp/B0G1BS7WWK?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31VEyee0-LL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "KVM over IP",
+    "Wi-Fi 6",
+    "4K at 30 fps",
+    "Touchscreen"
+   ],
+   "specList": [
+    {
+     "label": "Type",
+     "value": "Remote KVM over IP"
+    },
+    {
+     "label": "Network",
+     "value": "Wi-Fi 6 dual band and Ethernet"
+    },
+    {
+     "label": "Video",
+     "value": "4K at 30 fps passthrough"
+    },
+    {
+     "label": "Display",
+     "value": "2.22 inch touchscreen"
+    },
+    {
+     "label": "Brand",
+     "value": "GL.iNet"
+    }
+   ],
+   "description": "The GL.iNet Comet Pro is not a desk switch but a remote KVM, a small device that lets you control a computer's screen, keyboard and mouse over a network, even at the BIOS level. It supports dual-band Wi-Fi 6 and wired connection, 4K at 30 fps video passthrough, two-way audio and a 2.22 inch touchscreen. It is designed for home labs, servers and remote support.\n\nThe tradeoff is that it controls one machine at a time over a network, and 30 fps is fine for admin work but not for gaming. Compared with the desk KVMs, it does a different job. Against the Hearvo, it is for remote access, not for sharing a monitor on a desk. It suits tinkerers and IT users.\n\nFor care, secure the device with a strong password and keep firmware updated. Keep it off the open internet unless you use a secure tunnel.",
+   "bestFor": "Home lab users and IT folk who need remote BIOS-level control of a machine.",
+   "pros": [
+    "Remote control works even before the operating system loads",
+    "Wi-Fi 6 and Ethernet give flexible network options",
+    "Built-in touchscreen simplifies setup",
+    "4K passthrough supports a local monitor"
+   ],
+   "cons": [
+    "30 fps is not suitable for gaming or fast video",
+    "Needs network security care and is not a desk switch"
+   ]
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Monitor count",
+   "explanation": "Single-monitor switches like the Hearvo and UGREEN share one display, while dual-monitor models like the Unitek, AV Access and CMSTEDCD 8K handle two. A dual-monitor KVM needs four video cables for two computers, so the desk gets busy. Count your screens first."
+  },
+  {
+   "criterion": "Resolution and refresh rate",
+   "explanation": "Many switches list 4K at 60 Hz, while the CMSTEDCD lists 4K at 120 Hz and 8K at 60 Hz. These figures hold only with the right cables, ports and graphics cards. Check that the maximum matches your monitor, because a mismatch gives a lower refresh rate or blank screens."
+  },
+  {
+   "criterion": "Video input type",
+   "explanation": "HDMI is common, while the Unitek adds DisplayPort. Using the wrong cable or adapter can lose features such as high refresh rates. Match the switch to your video outputs and avoid cheap adapters."
+  },
+  {
+   "criterion": "USB ports and speed",
+   "explanation": "USB 3.0 ports at 5 Gbps, as on the Hearvo and CMSTEDCD, share drives and webcams. USB 2.0 ports are fine for keyboards and mice. The AV Access adds 10 Gbps. Plan your peripherals before choosing."
+  },
+  {
+   "criterion": "Laptop docking and power",
+   "explanation": "The AV Access charges a laptop with 100 W power delivery and adds Ethernet over one USB-C cable. Basic KVMs do not charge anything. If a laptop is one of the machines, docking can replace a separate dock."
+  },
+  {
+   "criterion": "Switching method and EDID",
+   "explanation": "Buttons, hotkeys and desktop controllers switch the active computer. EDID emulation, listed by UGREEN, keeps window layouts stable. Without it, windows can jump after each switch."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "KVM",
+   "meaning": "KVM stands for keyboard, video and mouse. It describes a switch that shares them among computers.",
+   "watchFor": "Remote KVM over IP is a different product."
+  },
+  {
+   "spec": "EDID emulation",
+   "meaning": "EDID emulation fakes a monitor's identity so computers do not think the screen was unplugged. It keeps windows in place.",
+   "watchFor": "Check for it if you switch often."
+  },
+  {
+   "spec": "HDCP",
+   "meaning": "HDCP is a copy protection system for video. Some KVMs block it, so protected streams may not play.",
+   "watchFor": "Check if you stream protected content."
+  },
+  {
+   "spec": "USB 3.0 5 Gbps",
+   "meaning": "USB 3.0 at 5 Gbps is ten times faster than USB 2.0. It matters for drives and webcams.",
+   "watchFor": "The shared bandwidth is split among devices."
+  },
+  {
+   "spec": "Power delivery",
+   "meaning": "Power delivery is USB charging at up to 100 W. It can charge a laptop through a dock.",
+   "watchFor": "Check the wattage your laptop needs."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Research basis",
+   "description": "We evaluated each KVM from published specifications, listing details and recurring owner feedback. Our opinions are editorial assessments, not measurements. Resolutions, ports and docking features come from the listings."
+  },
+  {
+   "title": "Monitor and video",
+   "description": "We compared single and dual monitor designs and resolutions from 4K at 60 Hz to 8K at 60 Hz."
+  },
+  {
+   "title": "USB and docking",
+   "description": "We looked at USB speeds, ports and power delivery. The AV Access docking was credited for laptops."
+  },
+  {
+   "title": "Remote use",
+   "description": "We included the GL.iNet remote KVM as a separate category."
+  },
+  {
+   "title": "Fit for desks",
+   "description": "We matched each KVM to a desk type. Each pick says who should skip it."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Setup",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Two PCs, one monitor",
+      "Hearvo",
+      "Simple 4K at 60 Hz switch."
+     ],
+     [
+      "Four machines",
+      "UGREEN",
+      "Four computers, one monitor."
+     ],
+     [
+      "Dual monitors",
+      "Unitek",
+      "HDMI and DisplayPort."
+     ],
+     [
+      "Laptop and desktop",
+      "AV Access",
+      "Docking and 100 W charging."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest tier",
+      "Hearvo",
+      "Basic two-port KVM."
+     ],
+     [
+      "Lower to middle",
+      "Unitek or CMSTEDCD",
+      "Dual monitors."
+     ],
+     [
+      "Middle",
+      "UGREEN",
+      "Four ports."
+     ],
+     [
+      "Higher tier",
+      "AV Access or GL.iNet",
+      "Docking or remote access."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Desk KVM vs Remote KVM",
+   "cards": [
+    {
+     "label": "Desk KVM",
+     "text": "The Hearvo, UGREEN, Unitek and AV Access share a keyboard and monitor at your desk."
+    },
+    {
+     "label": "Remote KVM",
+     "text": "The GL.iNet Comet Pro controls a machine over a network for admin work."
+    }
+   ],
+   "note": "Choose a desk KVM for daily use. Choose a remote KVM for servers and labs."
+  },
+  {
+   "subheading": "By Refresh Rate",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Office work",
+      "Hearvo",
+      "4K at 60 Hz is smooth enough."
+     ],
+     [
+      "Gaming",
+      "CMSTEDCD",
+      "4K at 120 Hz."
+     ],
+     [
+      "Creative work",
+      "AV Access",
+      "High resolution and docking."
+     ],
+     [
+      "Admin",
+      "GL.iNet",
+      "30 fps is fine for remote."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Work Laptops Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "USB-C docking, power delivery and Ethernet. A KVM that charges the laptop reduces clutter."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The AV Access is the only one with docking, 100 W power and Ethernet."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You use a dual monitor setup or a docking laptop daily, as with the AV Access."
+    },
+    {
+     "label": "Save if",
+     "text": "You switch between two computers with one screen, as with the Hearvo."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Label cables",
+   "interval": "At setup",
+   "why": "With several cables, labels prevent mix-ups."
+  },
+  {
+   "task": "Use rated cables",
+   "interval": "Always",
+   "why": "Cheap cables cause flicker and low refresh rates."
+  },
+  {
+   "task": "Update firmware",
+   "interval": "When available",
+   "why": "Fixes compatibility issues."
+  },
+  {
+   "task": "Check ventilation",
+   "interval": "Quarterly",
+   "why": "Heat shortens life. Keep vents clear."
+  },
+  {
+   "task": "Test after driver updates",
+   "interval": "After updates",
+   "why": "Graphics driver changes can break switching."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Does a KVM reduce video quality?",
+   "a": "A good one passes the signal with little loss, but cheap cables and low-spec switches can limit refresh rates. Match the rated resolution."
+  },
+  {
+   "q": "Do I need a KVM or a monitor input switch?",
+   "a": "A monitor's input button shares a screen, but a KVM also shares the keyboard and mouse. A KVM is worth it if you switch often."
+  },
+  {
+   "q": "Why does my screen flicker?",
+   "a": "Often a cable that is not rated for 4K at 60 Hz. Try a certified cable and check the port."
+  },
+  {
+   "q": "Can a KVM charge my laptop?",
+   "a": "Only models with power delivery, like the AV Access. Basic KVMs do not charge."
+  },
+  {
+   "q": "What is KVM over IP?",
+   "a": "A device like the GL.iNet Comet Pro that gives remote keyboard, video and mouse control over a network."
+  },
+  {
+   "q": "Will it work with Mac and Windows?",
+   "a": "Many do, but check each listing. Some features like dual monitor extension vary on Mac."
+  }
+ ],
+ "relatedGuides": [
+  {
+   "title": "Monitor refresh rate explained",
+   "href": "/guide/monitor-refresh-rate-explained"
+  },
+  {
+   "title": "USB-C charging standards explained",
+   "href": "/guide/usb-c-charging-standards-explained"
+  }
+ ]
+}

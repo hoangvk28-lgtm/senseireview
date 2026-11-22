@@ -1766,5 +1766,405 @@
   "title": "",
   "asins": [],
   "status": "inprogress"
+ },
+ {
+  "slug": "best-waffle-makers",
+  "category": "home-kitchen",
+  "mainKeyword": "waffle maker",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-electric-griddles",
+  "category": "home-kitchen",
+  "mainKeyword": "electric griddle",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-kitchen-scales",
+  "category": "home-kitchen",
+  "mainKeyword": "digital kitchen scale",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-pasta-makers",
+  "category": "home-kitchen",
+  "mainKeyword": "pasta maker machine",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-ice-cream-makers",
+  "category": "home-kitchen",
+  "mainKeyword": "ice cream maker",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-cold-press-juicers",
+  "category": "home-kitchen",
+  "mainKeyword": "cold press juicer",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-yogurt-makers",
+  "category": "home-kitchen",
+  "mainKeyword": "yogurt maker",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-popcorn-makers",
+  "category": "home-kitchen",
+  "mainKeyword": "popcorn maker",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-food-dehydrators",
+  "category": "home-kitchen",
+  "mainKeyword": "food dehydrator",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-countertop-dishwashers",
+  "category": "home-kitchen",
+  "mainKeyword": "countertop dishwasher",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-tablet-stands",
+  "category": "tech-electronics",
+  "mainKeyword": "tablet stand",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-usb-flash-drives",
+  "category": "tech-electronics",
+  "mainKeyword": "usb flash drive",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-smart-thermostats",
+  "category": "tech-electronics",
+  "mainKeyword": "smart thermostat",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-smart-light-bulbs",
+  "category": "tech-electronics",
+  "mainKeyword": "smart light bulb",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-gaming-headsets",
+  "category": "tech-electronics",
+  "mainKeyword": "gaming headset",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-document-scanners",
+  "category": "tech-electronics",
+  "mainKeyword": "document scanner",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-bluetooth-trackers",
+  "category": "tech-electronics",
+  "mainKeyword": "bluetooth tracker tag",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-surge-protectors",
+  "category": "tech-electronics",
+  "mainKeyword": "surge protector power strip",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-kvm-switches",
+  "category": "tech-electronics",
+  "mainKeyword": "kvm switch",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-wireless-earbuds-for-small-ears",
+  "category": "tech-electronics",
+  "mainKeyword": "wireless earbuds for small ears",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-yoga-blocks",
+  "category": "health-fitness",
+  "mainKeyword": "yoga block",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-knee-sleeves-for-squats",
+  "category": "health-fitness",
+  "mainKeyword": "knee sleeves weightlifting",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-lifting-straps",
+  "category": "health-fitness",
+  "mainKeyword": "lifting straps",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-dip-stations",
+  "category": "health-fitness",
+  "mainKeyword": "dip station",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-battle-ropes",
+  "category": "health-fitness",
+  "mainKeyword": "battle rope",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-stretching-straps",
+  "category": "health-fitness",
+  "mainKeyword": "stretching strap",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-plyo-boxes",
+  "category": "health-fitness",
+  "mainKeyword": "plyo box",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-agility-ladders",
+  "category": "health-fitness",
+  "mainKeyword": "agility ladder",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-medicine-balls",
+  "category": "health-fitness",
+  "mainKeyword": "medicine ball",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-massage-balls",
+  "category": "health-fitness",
+  "mainKeyword": "massage ball",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-pole-saws",
+  "category": "outdoor-garden",
+  "mainKeyword": "pole saw",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-garden-carts",
+  "category": "outdoor-garden",
+  "mainKeyword": "garden cart",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-rain-barrels",
+  "category": "outdoor-garden",
+  "mainKeyword": "rain barrel",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-outdoor-string-lights",
+  "category": "outdoor-garden",
+  "mainKeyword": "outdoor string lights",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-patio-heaters",
+  "category": "outdoor-garden",
+  "mainKeyword": "patio heater",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-camping-chairs",
+  "category": "outdoor-garden",
+  "mainKeyword": "camping chair",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-sleeping-bags",
+  "category": "outdoor-garden",
+  "mainKeyword": "sleeping bag",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-solar-fountain-pumps",
+  "category": "outdoor-garden",
+  "mainKeyword": "solar fountain pump",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-gardening-gloves",
+  "category": "outdoor-garden",
+  "mainKeyword": "gardening gloves",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-lawn-spreaders",
+  "category": "outdoor-garden",
+  "mainKeyword": "lawn spreader",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-impact-wrenches",
+  "category": "tools-diy",
+  "mainKeyword": "cordless impact wrench",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-belt-sanders",
+  "category": "tools-diy",
+  "mainKeyword": "belt sander",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-miter-saws",
+  "category": "tools-diy",
+  "mainKeyword": "miter saw",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-jobsite-table-saws",
+  "category": "tools-diy",
+  "mainKeyword": "jobsite table saw",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-electric-hand-planers",
+  "category": "tools-diy",
+  "mainKeyword": "electric hand planer",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-step-ladders",
+  "category": "tools-diy",
+  "mainKeyword": "step ladder",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-wood-chisel-sets",
+  "category": "tools-diy",
+  "mainKeyword": "wood chisel set",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-utility-knives",
+  "category": "tools-diy",
+  "mainKeyword": "utility knife",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-rotary-hammer-drills",
+  "category": "tools-diy",
+  "mainKeyword": "rotary hammer drill",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-digital-angle-finders",
+  "category": "tools-diy",
+  "mainKeyword": "digital angle finder",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
  }
 ]

@@ -1,0 +1,597 @@
+{
+ "guideSlug": "best-medicine-balls",
+ "categorySlug": "health-fitness",
+ "mainKeyword": "medicine ball",
+ "guideTitle": "Best Medicine Balls (2026)",
+ "metaTitle": "Best Medicine Balls (2026)",
+ "metaDescription": "We evaluated six medicine balls, from slam to bouncing rubber and soft wall balls, on shell, fill, grip and weight range to help you pick one for your training.",
+ "lastUpdated": "2026-11-21",
+ "readTime": "12 min",
+ "heroImage": "https://m.media-amazon.com/images/I/31Vv6l27DxL._SL500_.jpg",
+ "expertTake": "The Amazon Basics 15 lb slam ball is our best overall pick because its sand-filled PVC shell takes repeated floor slams without bouncing back at you, and it costs little for the weight. The Amazon Basics 6 lb rubber ball is the value pick for throws, core work and partner passes. Anyone who wants soft, wall-ball style training should read the Mikolo notes, and anyone with shoulder or back problems should check with a clinician before slams.",
+ "introParagraphs": [
+  "A medicine ball is a weighted ball you throw, slam, catch and carry. It is one of the oldest training tools and still one of the most useful, because it trains the whole body in motion and loads the core without a rack or a bench.",
+  "The category splits into three styles that behave very differently: dead-weight slam balls, bouncing rubber balls and soft wall balls. Pick the wrong style and the ball either bounces at your face, splits at a seam or is too hard for the wall."
+ ],
+ "products": [
+  {
+   "id": "B0DPQHRFSN",
+   "rank": 1,
+   "badge": "Best Overall",
+   "name": "Amazon Basics 15 lb Heavy-Duty Slam Medicine Ball",
+   "specs": [
+    "15 lb weight",
+    "Sand-filled core",
+    "PVC shell",
+    "Textured grip"
+   ],
+   "specList": [
+    {
+     "label": "Weight",
+     "value": "15 pounds"
+    },
+    {
+     "label": "Shell",
+     "value": "Heavy-duty PVC"
+    },
+    {
+     "label": "Fill",
+     "value": "Sand core"
+    },
+    {
+     "label": "Bounce",
+     "value": "Minimal, dead-weight"
+    },
+    {
+     "label": "Surface",
+     "value": "Textured non-slip"
+    }
+   ],
+   "description": "This Amazon Basics slam ball uses a PVC shell around a sand-filled core, which makes it a dead-weight design that lands and stays put instead of rebounding. The listing highlights a textured, non-slip surface so the ball stays in your hands when sweaty, and the shell is meant to absorb repeated slams. At 15 pounds it is a solid weight for overhead slams, rotational throws and carries.\n\nThe tradeoff is that a dead-weight ball cannot be thrown at a wall and caught on the rebound, so it is a poor choice for wall-ball drills or partner catches. Compared with the Amazon Basics 6 lb rubber ball from the same brand, which bounces, this model is for slamming and conditioning rather than throwing. It is also heavy enough that beginners should start lighter.\n\nOwnership is easy. Wipe off grit after floor slams, keep the ball off sharp edges, and inspect the shell for cracks or seam splits. Sand-filled balls leak slowly if the shell is breached, so retire the ball if you see grains escaping or a bulge.",
+   "bestFor": "Conditioning-minded lifters who want a dead-weight ball for slams and carries.",
+   "pros": [
+    "Sand-filled core absorbs slams without bouncing back at you",
+    "Textured shell keeps its grip when hands are sweaty",
+    "Fifteen pound weight suits overhead slams and rotational throws",
+    "Heavy-duty PVC is built for repeated floor impact"
+   ],
+   "cons": [
+    "Does not bounce, so it is unusable for wall-ball drills",
+    "Fifteen pounds is too heavy for many beginners"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0DPQHRFSN?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31Vv6l27DxL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B01CKHEHPO",
+   "rank": 2,
+   "badge": "Best Bouncing Rubber Ball",
+   "name": "Amazon Basics 6 lb Rubber Medicine Ball, 7.6 Inch",
+   "specs": [
+    "6 lb weight",
+    "7.6 in diameter",
+    "Rubber shell",
+    "Weight on both sides"
+   ],
+   "specList": [
+    {
+     "label": "Weight",
+     "value": "6 pounds"
+    },
+    {
+     "label": "Diameter",
+     "value": "7.6 inches"
+    },
+    {
+     "label": "Shell",
+     "value": "Firm rubber"
+    },
+    {
+     "label": "Markings",
+     "value": "Weight printed on both sides"
+    },
+    {
+     "label": "Surface",
+     "value": "Lightly textured"
+    }
+   ],
+   "description": "This is a classic bouncing medicine ball: 6 pounds, 7.6 inches across, with a firm rubber shell and a lightly textured surface. The weight is printed on both sides, which helps when you keep several balls in a rack. Because the rubber is firm and lively, it bounces off the floor and walls, which makes it suitable for partner passes, chest throws and core work like Russian twists.\n\nThe tradeoff is that a bouncing ball is a poor slam tool, since it rebounds with force and can hit you in the face. Compared with the 15 lb Amazon Basics slam ball, this one is a throwing and core tool, not a conditioning slam ball. At 7.6 inches it is a comfortable size for most hands, but larger hands might prefer a softer wall ball.\n\nCare is minimal. Wipe off dirt, store it away from heat and sunlight, which can harden or crack rubber, and check for flat spots or cracks in the shell periodically.",
+   "bestFor": "Throwing, passing and core work in a home gym or with a training partner.",
+   "pros": [
+    "Firm rubber bounces back for partner and wall throws",
+    "Six pound weight suits most adults for core drills",
+    "Weight is printed on both sides for easy sorting",
+    "Seven point six inch size fits comfortably in two hands"
+   ],
+   "cons": [
+    "Bouncing makes it a poor choice for hard floor slams",
+    "Rubber can harden or crack if left in heat or sun"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B01CKHEHPO?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41PMy03qZcL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B07FR67WS2",
+   "rank": 3,
+   "badge": "Best Tread Grip Slam Ball",
+   "name": "ProsourceFit Tread-Textured Slam Medicine Ball",
+   "specs": [
+    "Tire tread grip",
+    "Supple PVC shell",
+    "Dead weight",
+    "Multiple weights"
+   ],
+   "specList": [
+    {
+     "label": "Surface",
+     "value": "Tire tread texture"
+    },
+    {
+     "label": "Shell",
+     "value": "Supple PVC rubber"
+    },
+    {
+     "label": "Behaviour",
+     "value": "Dead-weight, minimal bounce"
+    },
+    {
+     "label": "Weights",
+     "value": "Several options offered"
+    },
+    {
+     "label": "Uses",
+     "value": "Slams, squats, presses, core work"
+    }
+   ],
+   "description": "ProsourceFit's slam ball has a tire tread surface and a supple PVC rubber shell, which the listing says absorbs impact and holds up through repeated slams. The tread gives a bite when hands are sweaty, and the dead-weight behaviour means it does not rebound. It is offered in a range of weights, which makes it handy if you want to progress from lighter to heavier balls.\n\nThe tradeoff is the same as other slam balls: no bounce, so wall drills are out. Compared with the Amazon Basics 15 lb, the ProsourceFit gives you more weight choices and a more aggressive texture, which some people find rough on bare hands during high-rep sets. The listing also offers a classic smooth version if you prefer less texture.\n\nOwnership is easy. Brush off grit, inspect the shell for tears and seams, and avoid dragging the ball across rough concrete. A split shell means the fill can escape, so replace the ball at the first sign of damage.",
+   "bestFor": "Lifters who want a gripping dead-weight ball and a choice of weights.",
+   "pros": [
+    "Tire tread surface gives strong grip on sweaty hands",
+    "Supple PVC shell absorbs impact from floor slams",
+    "Available in multiple weights for progressive training",
+    "Dead-weight design stays put instead of rebounding"
+   ],
+   "cons": [
+    "Aggressive tread can feel rough on bare hands in long sets",
+    "No bounce, so it cannot be used for wall throws"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B07FR67WS2?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41pxYZ-OgML._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DZB9HVVR",
+   "rank": 4,
+   "badge": "Best Soft Wall Ball",
+   "name": "Mikolo Soft Medicine Wall Ball Set",
+   "specs": [
+    "Soft shell",
+    "PVC and mesh",
+    "Sand weight",
+    "Multi-weight set"
+   ],
+   "specList": [
+    {
+     "label": "Shell",
+     "value": "PVC with mesh fabric layer"
+    },
+    {
+     "label": "Stitching",
+     "value": "20+ stitches per inch"
+    },
+    {
+     "label": "Fill",
+     "value": "Metal sand weight in Oxford cloth"
+    },
+    {
+     "label": "Feel",
+     "value": "Soft, forgiving"
+    },
+    {
+     "label": "Offered",
+     "value": "Multi-weight options"
+    }
+   ],
+   "description": "The Mikolo is a soft wall ball with a dual-layer exterior of PVC and mesh fabric, a dense stitch pattern the listing puts at more than twenty stitches per inch, and a central metal sand weight held in double-layer Oxford cloth with reinforced seals. Soft balls are easier on hands, floors and walls, and they do not bounce back hard, which suits wall-ball squats and throws.\n\nThe tradeoff is that soft balls deform and can lose shape over time, and they are less suited to extreme slams than a rigid PVC ball like the Amazon Basics 15 lb. Compared with a rubber ball, the Mikolo is gentler on a wall and quieter in an apartment. It fits home users who want wall-ball style conditioning without damaging drywall.\n\nCheck the seams regularly, because soft balls fail at the stitching. Wipe the cover clean and do not store it damp, or the fabric layer can hold moisture.",
+   "bestFor": "Apartment and home users who want quiet, wall-friendly conditioning.",
+   "pros": [
+    "Soft shell is gentle on hands, floors and walls",
+    "Dual-layer cover resists sweat and water",
+    "Dense stitching is built to hold up in repeated use",
+    "Quiet landings suit apartments and shared spaces"
+   ],
+   "cons": [
+    "Soft shell can lose shape under heavy use",
+    "Less suited to hard slams than rigid PVC balls"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0DZB9HVVR?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/312dryQfrcL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DPQJRF3G",
+   "rank": 5,
+   "badge": "Best Two-Pack",
+   "name": "Amazon Basics 20 lb Heavy-Duty Slam Ball, 2-Pack",
+   "specs": [
+    "20 lb each",
+    "Two balls",
+    "Sand-filled",
+    "PVC shell"
+   ],
+   "specList": [
+    {
+     "label": "Weight",
+     "value": "20 pounds each"
+    },
+    {
+     "label": "Quantity",
+     "value": "Two balls"
+    },
+    {
+     "label": "Shell",
+     "value": "Heavy-duty PVC"
+    },
+    {
+     "label": "Fill",
+     "value": "Sand core"
+    },
+    {
+     "label": "Surface",
+     "value": "Textured non-slip"
+    }
+   ],
+   "description": "This is the heavier sibling of the 15 lb slam ball, sold as a pair of 20 pound balls with the same heavy-duty PVC shell and sand-filled core. Two balls let you do alternating slams, partner work or a circuit with a station for each person. They are meant for experienced lifters who find 15 pounds too light.\n\nThe tradeoff is weight and bulk. Twenty pounds is heavy for overhead slams and demands good form and a healthy shoulder, so it is not a beginner choice. Compared with the single 15 lb Amazon Basics ball, you get more load and a second ball, but you also take on more storage and more risk of a dropped ball on a toe.\n\nOwnership is the same as the lighter model. Keep the shell clean, store it where it will not roll, and inspect for splits. Never throw a heavy slam ball at a wall or overhead without a clear area.",
+   "bestFor": "Experienced lifters or partners who want heavier slam balls in a pair.",
+   "pros": [
+    "Twenty pounds each gives real load for strong lifters",
+    "Pair lets two people train or one person alternate",
+    "Same textured PVC shell as the lighter model",
+    "Sand core keeps the ball from bouncing back"
+   ],
+   "cons": [
+    "Twenty pounds is too heavy for beginners and casual use",
+    "Two heavy balls need more storage and careful handling"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0DPQJRF3G?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41QkbTQ7YXL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B002LF5ONU",
+   "rank": 6,
+   "badge": "Best Light Bouncing Ball",
+   "name": "Champion Sports Rhino Elite 2 lb Medicine Ball",
+   "specs": [
+    "2 lb weight",
+    "Synthetic rubber",
+    "Consistent bounce",
+    "Textured grip"
+   ],
+   "specList": [
+    {
+     "label": "Weight",
+     "value": "2 pounds"
+    },
+    {
+     "label": "Shell",
+     "value": "Synthetic rubber"
+    },
+    {
+     "label": "Bounce",
+     "value": "Consistent"
+    },
+    {
+     "label": "Surface",
+     "value": "Textured for grip"
+    },
+    {
+     "label": "Colour",
+     "value": "Yellow"
+    }
+   ],
+   "description": "The Champion Sports Rhino Elite is a light, 2 pound synthetic rubber ball with a consistent bounce and a textured surface. At that weight it is a rehab, warm-up and technique tool rather than a strength tool. It is useful for rotational drills, light partner passes and mobility work where you want a little load without stress.\n\nThe tradeoff is clear: it is light. Compared with the Amazon Basics 6 lb ball, this one will not challenge most healthy adults and is better as a starter or warm-up piece. The brand sells heavier weights in the same line, so you can progress without changing feel.\n\nOwnership is easy. Wipe it clean, keep it out of heat, and check for cracks. Rubber balls lose bounce and can crack with age, so replace it if the surface starts to break up.",
+   "bestFor": "Warm-ups, technique work and gentle rehab-style movement.",
+   "pros": [
+    "Two pound weight is gentle for warm-ups and technique",
+    "Consistent bounce suits partner passes and wall work",
+    "Textured surface is easy to hold in small hands",
+    "Heavier weights exist in the same product line"
+   ],
+   "cons": [
+    "Too light to challenge most adult strength training",
+    "Rubber can crack or lose bounce with age"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B002LF5ONU?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31HaDmVkY4L._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Slam, bounce or wall ball",
+   "explanation": "Slam balls have a sand or gel fill and stay on the ground, bouncing balls are firm rubber that rebounds, and wall balls are soft and meant for throwing at a target. The Amazon Basics 15 lb is a slam ball, the 6 lb is a bouncer and the Mikolo is a soft wall ball. Buying the wrong style is the most common mistake in this category."
+  },
+  {
+   "criterion": "Weight for your goal",
+   "explanation": "Two to six pounds suits warm-ups, rotation and rehab-style work, while ten to twenty pounds suits slams and carries. Beginners should start light, around six to ten pounds for slams, and add weight as form improves. The 20 lb Amazon Basics pair is for experienced lifters only."
+  },
+  {
+   "criterion": "Shell material and seams",
+   "explanation": "PVC and rubber shells shrug off floor impacts, while soft fabric shells like the Mikolo are gentler but fail at the stitching. Look for reinforced seams and a thick shell wall. A thin cover on a heavy ball is a common cause of early splits."
+  },
+  {
+   "criterion": "Grip and surface",
+   "explanation": "A textured or tread surface, as on the ProsourceFit slam ball, helps when hands are sweaty. Overly aggressive texture can chafe in long sets, and a smooth ball feels slippery. Weigh grip against comfort based on how long your sets run."
+  },
+  {
+   "criterion": "Size and diameter",
+   "explanation": "Larger diameter means a heavier ball is harder to grip in one hand and easier to hold in two. The Amazon Basics 6 lb is 7.6 inches across, a good size for most hands. If you have small hands, a smaller ball is safer for throws."
+  },
+  {
+   "criterion": "Noise and space",
+   "explanation": "Rubber bouncers and hard slam balls are loud on a floor and can mark walls. Soft balls like the Mikolo are quieter and gentler. If you live in an apartment or train near a thin wall, a soft ball is a practical choice."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Fill type",
+   "meaning": "Sand or gel fill makes a dead-weight ball that does not bounce, while solid rubber bounces. The fill decides whether you slam or throw.",
+   "watchFor": "The Amazon Basics 15 lb has a sand core, but the 6 lb is solid rubber, so they behave very differently."
+  },
+  {
+   "spec": "Weight",
+   "meaning": "The mass of the ball in pounds, from about two to thirty. Heavier weight means more load and slower movement.",
+   "watchFor": "The Champion Rhino Elite is 2 pounds, while the Amazon Basics pair is 20 pounds, so the range is wide."
+  },
+  {
+   "spec": "Diameter",
+   "meaning": "The width of the ball, which affects grip and comfort. Dead-weight slam balls are often smaller than bouncing balls of the same weight.",
+   "watchFor": "The Amazon Basics 6 lb is 7.6 inches, which is a comfortable size for most hands."
+  },
+  {
+   "spec": "Shell material",
+   "meaning": "PVC, rubber or fabric, each with different durability and feel. Softer shells absorb impact better but can wear faster.",
+   "watchFor": "The Mikolo uses a PVC and mesh shell with dense stitching, which needs seam checks."
+  },
+  {
+   "spec": "Surface texture",
+   "meaning": "Tread, grip or smooth finish decides how well you hold the ball when hands are sweaty or chalked.",
+   "watchFor": "The ProsourceFit tread version grips strongly but can feel rough on bare hands."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Style and intended use",
+   "description": "We sorted each ball into slam, bounce or soft wall style from the listing materials. A pick had to match its intended use, so the Amazon Basics 15 lb was judged as a slam ball. We marked down listings that blurred the categories."
+  },
+  {
+   "title": "Shell and seam construction",
+   "description": "We researched shell materials and stitching from published specifications. The Mikolo's dense stitching and the PVC shells on the Amazon Basics and ProsourceFit balls earned credit. Weak seams were treated as the main durability risk."
+  },
+  {
+   "title": "Weight range and progression",
+   "description": "We checked which weights each line offers and whether a lifter can progress within it. The ProsourceFit and Champion lines offer several weights. Single-weight listings were noted for limiting growth."
+  },
+  {
+   "title": "Grip and handling",
+   "description": "We looked at surface texture and diameter as stated, using owner feedback patterns. Tread and textured surfaces helped with sweaty hands. Overly rough surfaces were noted for comfort in long sets."
+  },
+  {
+   "title": "Value for the weight",
+   "description": "We asked how much usable training load each ball provides for its cost tier. The Amazon Basics balls scored well for weight per dollar of tier, and the 20 lb pair was judged for experienced users. Marketing claims without a physical feature were ignored."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Style",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Floor slams and conditioning",
+      "Amazon Basics 15 lb Slam",
+      "Sand-filled PVC stays on the floor"
+     ],
+     [
+      "Throws and partner passes",
+      "Amazon Basics 6 lb Rubber",
+      "Firm rubber bounces back"
+     ],
+     [
+      "Quiet apartment training",
+      "Mikolo Soft Wall Ball",
+      "Soft shell is gentle on floors and walls"
+     ],
+     [
+      "Progressive slam weights",
+      "ProsourceFit Tread Slam",
+      "Several weights in one line"
+     ],
+     [
+      "Warm-ups and technique",
+      "Champion Rhino Elite 2 lb",
+      "Light and easy on joints"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest cost entry",
+      "Amazon Basics 6 lb Rubber",
+      "A simple bouncing ball at an entry tier"
+     ],
+     [
+      "Mid-range slam ball",
+      "Amazon Basics 15 lb Slam",
+      "Real weight without a high cost"
+     ],
+     [
+      "Mid-range with grip",
+      "ProsourceFit Tread Slam",
+      "Tread surface and weight options"
+     ],
+     [
+      "Higher tier for pairs",
+      "Amazon Basics 20 lb 2-Pack",
+      "More load and two balls"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Slam Ball vs Bouncing Ball",
+   "cards": [
+    {
+     "label": "Slam ball",
+     "text": "A dead-weight design like the Amazon Basics 15 lb stays down when slammed, ideal for conditioning and power work."
+    },
+    {
+     "label": "Bouncing ball",
+     "text": "A rubber ball like the Amazon Basics 6 lb rebounds, ideal for throws, passes and wall drills."
+    }
+   ],
+   "note": "Choose a slam ball for conditioning and a bouncing ball for throwing and core drills."
+  },
+  {
+   "subheading": "By Weight Goal",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Gentle rehab-style work",
+      "Champion Rhino Elite 2 lb",
+      "Very light for controlled movement"
+     ],
+     [
+      "Core and rotation",
+      "Amazon Basics 6 lb Rubber",
+      "Moderate load that most adults handle"
+     ],
+     [
+      "Overhead slams",
+      "Amazon Basics 15 lb Slam",
+      "Heavy enough for power output"
+     ],
+     [
+      "Advanced conditioning",
+      "Amazon Basics 20 lb 2-Pack",
+      "Heavy loads for strong lifters"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Home Gyms Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A ball that matches your floor and walls, with a shell that will not split. Rubber mats under slam balls protect both floor and ball."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Mikolo is the quietest, the Amazon Basics slam ball is the most versatile, and the rubber 6 lb suits partner work."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You slam daily, train with a partner or need several weights. The ProsourceFit line and the Amazon Basics pair justify it."
+    },
+    {
+     "label": "Save if",
+     "text": "You want a single ball for core work. The Amazon Basics 6 lb is plenty for most people."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Wipe the shell clean",
+   "interval": "After each session",
+   "why": "Sweat and floor grit wear the surface and reduce grip. A damp cloth removes both."
+  },
+  {
+   "task": "Inspect seams and shell",
+   "interval": "Monthly",
+   "why": "Splits at seams let fill escape and weaken the ball. Retire the ball at the first visible tear."
+  },
+  {
+   "task": "Check for flat spots",
+   "interval": "Every 3 months",
+   "why": "Rubber balls can flatten or lose bounce. A misshapen ball throws unpredictably."
+  },
+  {
+   "task": "Store away from heat and sun",
+   "interval": "Between uses",
+   "why": "Heat hardens rubber and softens PVC. A cool, shaded corner extends life."
+  },
+  {
+   "task": "Use a mat for slams",
+   "interval": "Every slam session",
+   "why": "A rubber mat spares the floor and reduces the impact on the shell. It also keeps noise down."
+  }
+ ],
+ "faq": [
+  {
+   "q": "What is the difference between a slam ball and a medicine ball?",
+   "a": "A slam ball is a type of medicine ball with a dead-weight fill that does not bounce. A classic medicine ball is firm rubber that rebounds, which suits throws and partner passes."
+  },
+  {
+   "q": "How heavy should my medicine ball be?",
+   "a": "Beginners usually start around six to ten pounds for slams and lighter for rotational work. Choose a weight you can move quickly with good form, then add load as you improve."
+  },
+  {
+   "q": "How long does a medicine ball last?",
+   "a": "A good PVC or rubber ball can last years with regular use if you avoid sharp edges and heat. The shell and seams are the wear points, so inspect them monthly."
+  },
+  {
+   "q": "Can I throw a slam ball against a wall?",
+   "a": "No. Dead-weight balls do not bounce and can damage walls. Use a soft wall ball such as the Mikolo or a bouncing rubber ball for wall drills."
+  },
+  {
+   "q": "Are medicine ball slams safe?",
+   "a": "They are generally safe with good form, but slams load the shoulders, back and core. Anyone with an injury should ask a clinician or coach first, and should start light."
+  },
+  {
+   "q": "Do I need a rubber mat?",
+   "a": "A mat is a good idea for slam balls because it protects the floor and the ball. On a concrete garage floor, a mat reduces noise and rebound too."
+  }
+ ],
+ "relatedGuides": [
+  {
+   "title": "Best Kettlebells",
+   "href": "/guide/best-kettlebells"
+  },
+  {
+   "title": "Best Resistance Bands",
+   "href": "/guide/best-resistance-bands"
+  },
+  {
+   "title": "Best Weighted Vests",
+   "href": "/guide/best-weighted-vests-under-25"
+  }
+ ]
+}
