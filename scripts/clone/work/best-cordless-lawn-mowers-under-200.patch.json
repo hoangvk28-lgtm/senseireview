@@ -1,0 +1,454 @@
+{
+ "guideTitle": "Best Cordless Lawn Mowers Under $200 (2026)",
+ "metaTitle": "Best Cordless Mowers Under $200",
+ "metaDescription": "Six cordless push lawn mowers under $200 compared on deck width, battery voltage and capacity, runtime and weight, with the compromises of a small mower.",
+ "expertTake": "The Neobitat 40V 18 inch mower is our top pick under $200 because a wider deck and two 5.0 Ah batteries cut passes and runtime anxiety on a small to medium lawn. The Steelite 13 inch is the value pick for tiny yards at the lowest tier. Skip this price band if you have a lawn over a few thousand square feet, hills or thick grass, because those jobs need a self propelled 21 inch mower that costs more.",
+ "introParagraphs": [
+  "A cordless lawn mower under $200 is a small mower for a small lawn. The deck is 13 to 18 inches, the battery is 4 to 5 Ah and the motor is brushless on most models. That is plenty for a townhouse or a postage stamp yard, and it is quiet and easy to store.",
+  "The cost is capacity. A narrow deck needs more passes, a small battery runs out sooner and there is no self propelled drive to help on slopes. Listing prices move, so the $200 cap reflects Amazon prices when this guide was updated. We evaluated these mowers from spec sheets, listing details and owner feedback patterns, and none of it replaces the maker's safety instructions."
+ ],
+ "products": [
+  {
+   "id": "B0GTLM1G9B",
+   "badge": "Best Overall Under $200",
+   "name": "Neobitat 40V 18 inch cordless mower, 2 x 5.0 Ah batteries, brushless",
+   "specs": [
+    "18 in deck",
+    "40V dual battery",
+    "2 x 5.0 Ah",
+    "Brushless"
+   ],
+   "specList": [
+    {
+     "label": "Deck",
+     "value": "18 inch cutting width"
+    },
+    {
+     "label": "Power",
+     "value": "40V from two 20V batteries"
+    },
+    {
+     "label": "Batteries",
+     "value": "2 x 5.0 Ah with fast charger"
+    },
+    {
+     "label": "Motor",
+     "value": "Brushless"
+    },
+    {
+     "label": "Best for",
+     "value": "Small to medium lawns"
+    }
+   ],
+   "description": "The Neobitat is the widest mower here at 18 inches, powered by a brushless motor and two 20V batteries that combine into a 40V system. The kit includes two 5.0 Ah batteries and a fast charger, and the listing claims an extended runtime from the dual battery setup. A wider deck reduces the number of passes, which matters more on a lawn than raw motor speed.\n\nThe tradeoff is weight and brand history. A wide deck on a cheap frame can feel heavy to push and to store, and the maker is newer than the major brands. Against the Steelite, it cuts a much wider swath but weighs more. Against the WORX, it offers a larger deck and a bigger battery but not the cut to edge design. Against the ADEGSO, it has a slightly wider deck and bigger batteries.\n\nCharge both batteries before a big mow and swap when the first runs low. Rinse the underside of the deck after each mow and wait for it to dry, since wet clippings cake and rust. Sharpen or replace the blade each season, and store the batteries indoors in a cool place.",
+   "bestFor": "Owners of small to medium lawns who want fewer passes and long runtime.",
+   "pros": [
+    "18 inch deck is the widest in this lineup and cuts fewer passes",
+    "Two 5.0 Ah batteries support longer mowing sessions",
+    "Brushless motor reduces wear and extends runtime",
+    "Fast charger included in the kit"
+   ],
+   "cons": [
+    "Wide deck on a budget frame can feel heavy to push",
+    "Newer brand with a shorter parts and support record",
+    "No self propelled drive for slopes or thick grass"
+   ]
+  },
+  {
+   "id": "B0GYLNWTDG",
+   "badge": "Best Dual Port Charging",
+   "name": "ADEGSO 40V 17 inch cordless mower, 2 x 4.0 Ah batteries, 3600 RPM",
+   "specs": [
+    "17 in deck",
+    "40V brushless",
+    "2 x 4.0 Ah",
+    "Dual port charger"
+   ],
+   "specList": [
+    {
+     "label": "Deck",
+     "value": "17 inch"
+    },
+    {
+     "label": "Power",
+     "value": "40V brushless, up to 3600 RPM"
+    },
+    {
+     "label": "Batteries",
+     "value": "2 x 4.0 Ah"
+    },
+    {
+     "label": "Charger",
+     "value": "Dual port"
+    },
+    {
+     "label": "Best for",
+     "value": "Medium lawns on a budget"
+    }
+   ],
+   "description": "The ADEGSO is a 17 inch push mower with a 40V brushless motor that the listing says reaches 3600 RPM, plus two 4.0 Ah batteries and a dual port charger. Charging both batteries together shortens the wait between a first mow and a second. The 17 inch deck sits between the compact 13 and 14 inch units and the 18 inch Neobitat.\n\nThe tradeoff is that RPM is a motor figure, not a cutting score. Blade design and deck airflow determine mulch quality, and budget decks often clog in wet grass. Against the Neobitat, the ADEGSO has a slightly narrower deck and smaller batteries but sits at a similar tier. Against the EWORK, it has a wider deck and a stronger motor claim. Against the Litheli, it is a larger deck and a dual battery system.\n\nMow when the grass is dry, since wet grass clogs the deck and cuts runtime. Charge both batteries after a mow so they are ready. Clean the deck with a brush and rinse it with a hose, and check the blade bolt for tightness before each season.",
+   "bestFor": "Buyers who want a mid width deck with dual battery charging.",
+   "pros": [
+    "40V brushless motor with a listed 3600 RPM",
+    "Two 4.0 Ah batteries provide a spare for longer jobs",
+    "Dual port charger recharges both batteries together",
+    "17 inch deck cuts a wider path than the 13 to 14 inch mowers"
+   ],
+   "cons": [
+    "RPM is a motor claim and does not guarantee a clean cut",
+    "Batteries are smaller than the 5.0 Ah on the Neobitat",
+    "Brand has a short record for parts and support"
+   ]
+  },
+  {
+   "id": "B0HD728HG9",
+   "badge": "Best Copper Motor Kit",
+   "name": "EWORK 40V 14 inch cordless mower, 2 x 20V 4.0 Ah, fast charger, 3800 RPM",
+   "specs": [
+    "14 in deck",
+    "40V dual battery",
+    "2 x 4.0 Ah",
+    "3800 RPM"
+   ],
+   "specList": [
+    {
+     "label": "Deck",
+     "value": "14 inch"
+    },
+    {
+     "label": "Power",
+     "value": "40V from two 20V batteries"
+    },
+    {
+     "label": "Motor",
+     "value": "All copper, up to 3800 RPM"
+    },
+    {
+     "label": "Kit",
+     "value": "2 x 4.0 Ah batteries and fast charger"
+    },
+    {
+     "label": "Best for",
+     "value": "Small lawns that need a full kit"
+    }
+   ],
+   "description": "The EWORK is a 14 inch mower that comes as a complete kit with two 20V 4.0 Ah batteries and a fast charger. The listing describes an all copper motor that reaches 3800 RPM and claims it handles thick, tangled grass. It is lightweight and easy to maneuver on a small lawn, which is the strength of the 14 inch class.\n\nThe tradeoff is deck width. A 14 inch deck needs many more passes than an 18 inch one, so a lawn that takes 20 minutes with the Neobitat takes longer here. Against the Litheli and WORX, it offers a dual battery kit but a smaller battery per cell than the Litheli's 5.0 Ah. Against the Steelite, it has a wider deck and more power. It sits in the upper half of the lineup tiers.\n\nKeep both batteries charged before you start, and mow in dry weather to protect runtime. Scrape clippings from the underside after each mow and check the blade for dullness. Replace the blade when it is chipped or bent, and keep the batteries indoors in winter to protect cell life.",
+   "bestFor": "Owners of small lawns who want a complete dual battery kit.",
+   "pros": [
+    "Includes two 4.0 Ah batteries and a fast charger",
+    "All copper motor with a listed 3800 RPM",
+    "Light and easy to maneuver on a small lawn",
+    "Complete kit with no extra purchases needed"
+   ],
+   "cons": [
+    "14 inch deck needs many more passes than 17 to 18 inch decks",
+    "Batteries are 4.0 Ah, smaller than the Litheli 5.0 Ah",
+    "Upper half of the tiers for a narrow deck"
+   ]
+  },
+  {
+   "id": "B0GDCH7GHH",
+   "badge": "Best Single Big Battery"
+  },
+  {
+   "id": "B0GT4WP24L",
+   "badge": "Best Edge Cutting"
+  },
+  {
+   "id": "B0HFVRGSHW",
+   "badge": "Best Lightweight Value",
+   "name": "STEELITE 20V 13 inch cordless mower, 4.0 Ah battery, 20.5 lb, brushless",
+   "specs": [
+    "13 in deck",
+    "20.5 lb",
+    "4.0 Ah",
+    "Up to 25 min"
+   ],
+   "specList": [
+    {
+     "label": "Deck",
+     "value": "13 inch"
+    },
+    {
+     "label": "Weight",
+     "value": "20.5 lb"
+    },
+    {
+     "label": "Battery",
+     "value": "21V 4.0 Ah"
+    },
+    {
+     "label": "Runtime",
+     "value": "Up to 25 minutes per listing"
+    },
+    {
+     "label": "Best for",
+     "value": "Very small lawns and patios"
+    }
+   ],
+   "description": "The Steelite is the lightest and cheapest mower in this lineup, a 13 inch brushless model that weighs just 20.5 lb and comes with a 21V 4.0 Ah battery and charger. The listing claims up to 25 minutes of runtime, which suits a small yard. The compact deck and low weight make it easy to lift, steer and store.\n\nThe tradeoff is time. A 13 inch swath takes many passes, and 25 minutes of runtime on a battery ends quickly on a medium lawn. Against the Neobitat and ADEGSO, it covers far less ground per pass. Against the Litheli, it is lighter but has a smaller battery. It is the lowest tier here, so it suits a tiny lawn, a patio edge or a secondary mower.\n\nMow when grass is short and dry, since long or wet grass shortens runtime. Charge the battery after each use and clean the underside of the deck. Hang it by the handle in a garage to save floor space, and replace the blade when it dulls.",
+   "bestFor": "Tiny lawns, patios and secondary mowing jobs.",
+   "pros": [
+    "20.5 lb weight is easy to lift and store",
+    "Brushless motor with a 4.0 Ah battery in the box",
+    "Lowest price tier in this lineup",
+    "Compact 13 inch deck fits tight corners"
+   ],
+   "cons": [
+    "Narrow deck needs many passes",
+    "Listed runtime of about 25 minutes limits lawn size",
+    "Single battery means no spare for a bigger job"
+   ]
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Deck width and passes",
+   "explanation": "A 13 inch deck, like the Steelite, needs about 40 percent more passes than an 18 inch deck like the Neobitat to cover the same grass. The ADEGSO is 17 inches and the Litheli and WORX are 14 inches. Wider decks mow faster but weigh more and fit tight corners less well. Match the width to the lawn, not to the biggest number."
+  },
+  {
+   "criterion": "Battery voltage and capacity",
+   "explanation": "The Neobitat uses two 5.0 Ah batteries in a 40V system, the ADEGSO and EWORK use two 4.0 Ah batteries, the Litheli uses a single 5.0 Ah battery and the Steelite a 4.0 Ah battery. More amp hours means more runtime on one charge. A single battery is simpler but stops the job when it dies. Plan on a spare battery or a dual kit for any lawn larger than a patio."
+  },
+  {
+   "criterion": "Runtime honesty",
+   "explanation": "The Steelite lists up to 25 minutes, which is a rare specific figure at this price. Most listings say long runtime without a number. Runtime falls in thick or wet grass and on slopes, so the number on the box is a best case. If a listing gives no minutes, assume short and look at amp hours instead."
+  },
+  {
+   "criterion": "What this price band cuts",
+   "explanation": "Under $200 you get no self propelled drive, a small bag and a narrow deck. The motor may be brushless, but the frame is plastic and the wheels are small. Hills, thick grass and big lawns punish this class. The honest approach is to match a small lawn to a small mower and not expect it to behave like a 21 inch machine."
+  },
+  {
+   "criterion": "Weight and storage",
+   "explanation": "The Steelite weighs 20.5 lb and the wider decks weigh more. A light mower is easier to push and to hang in a garage. A heavier one cuts better but tires you out. Check that the handle folds and that the mower stores upright, since a mower that does not fit its storage spot becomes a problem."
+  },
+  {
+   "criterion": "Corners worth not cutting",
+   "explanation": "Do not give up a brushless motor or a decent battery for a small saving, since a weak battery makes the mower useless. It is fine to give up self propelled drive, a large bag and a premium deck. Buy a spare blade, because a dull blade rips grass and drains the battery."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Deck width",
+   "meaning": "The cutting path in inches. Wider decks need fewer passes.",
+   "watchFor": "The Neobitat is 18 inches, the ADEGSO 17 and the Steelite 13."
+  },
+  {
+   "spec": "Voltage",
+   "meaning": "The platform voltage, such as 20V or 40V. It indicates the battery system, not guaranteed power.",
+   "watchFor": "The Neobitat, ADEGSO and EWORK list 40V built from dual 20V batteries."
+  },
+  {
+   "spec": "Amp hours (Ah)",
+   "meaning": "Battery capacity. More Ah gives longer runtime at the same load.",
+   "watchFor": "The Neobitat lists two 5.0 Ah batteries and the Steelite a 4.0 Ah battery."
+  },
+  {
+   "spec": "Brushless motor",
+   "meaning": "A motor without carbon brushes, which wears slower and wastes less energy.",
+   "watchFor": "The Neobitat, ADEGSO, Steelite and Litheli list brushless motors."
+  },
+  {
+   "spec": "Cut to edge",
+   "meaning": "A deck design that places the blade near the wheel line so you can cut close to walls and fences.",
+   "watchFor": "The WORX lists it, so check how close the blade runs to the side."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Deck and coverage",
+   "description": "We compared deck width and the passes each implies. The Neobitat is 18 inches and the Steelite is 13. Wider decks ranked higher for lawn size."
+  },
+  {
+   "title": "Battery system",
+   "description": "We looked at voltage, amp hours and spares. The Neobitat lists two 5.0 Ah batteries, and the EWORK and ADEGSO list two 4.0 Ah batteries. A single battery ranked lower for medium lawns."
+  },
+  {
+   "title": "Runtime claims",
+   "description": "We checked how specifically each listing states runtime. The Steelite says up to 25 minutes. Listings with no minutes were treated as less transparent."
+  },
+  {
+   "title": "Weight and handling",
+   "description": "We compared weight and storage. The Steelite weighs 20.5 lb and the WORX offers cut to edge. Heavier wide decks ranked lower for comfort."
+  },
+  {
+   "title": "Budget fit",
+   "description": "We kept only listings at or below the cap and used price tiers for ordering. All of this rests on spec sheets, listing details and owner feedback patterns, not lab measurement."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Lawn Size",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Small to medium lawn",
+      "Neobitat",
+      "18 inch deck, two 5.0 Ah batteries"
+     ],
+     [
+      "Medium lawn, dual charging",
+      "ADEGSO",
+      "17 inch deck, dual port charger"
+     ],
+     [
+      "Small lawn, complete kit",
+      "EWORK",
+      "14 inch deck, two batteries, charger"
+     ],
+     [
+      "Many edges",
+      "WORX",
+      "Cut to edge, 14 inch deck"
+     ],
+     [
+      "Tiny yard or patio",
+      "Steelite",
+      "13 inch, 20.5 lb"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Cheapest tier here",
+      "Steelite",
+      "Lowest tier, lightest"
+     ],
+     [
+      "Second tier, big battery",
+      "Litheli",
+      "Single 5.0 Ah battery"
+     ],
+     [
+      "Third tier, widest deck",
+      "Neobitat",
+      "18 inch deck"
+     ],
+     [
+      "Upper tiers",
+      "WORX, ADEGSO and EWORK",
+      "Edge cutting or dual kits"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "20V vs 40V",
+   "cards": [
+    {
+     "label": "20V",
+     "text": "The WORX and Steelite use 20V class batteries. They are light and simple and share batteries with other tools."
+    },
+    {
+     "label": "40V",
+     "text": "The Neobitat, ADEGSO and EWORK combine two 20V batteries. They offer more power for thicker grass and longer jobs."
+    }
+   ],
+   "note": "Choose 20V for a tiny lawn and 40V if the lawn is larger or the grass is thick."
+  },
+  {
+   "subheading": "Weight and Handling",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lightest",
+      "Steelite",
+      "20.5 lb"
+     ],
+     [
+      "Easy edges",
+      "WORX",
+      "Cut to edge design"
+     ],
+     [
+      "Wider path",
+      "Neobitat",
+      "18 inch deck"
+     ],
+     [
+      "Balance of width and weight",
+      "ADEGSO",
+      "17 inch deck"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Small Townhouse Lawns Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A deck of 13 to 18 inches, a battery that lasts the whole lawn and a mower you can store upright. Mow dry grass, since wet grass drains the battery."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The WORX handles edges, the Steelite is the lightest and the Neobitat is the widest."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You have a lawn over a few thousand square feet, hills or thick grass, or want self propelled drive and a large bag. Those start above this cap."
+    },
+    {
+     "label": "Save if",
+     "text": "You have a small, flat lawn and want a quiet mower. The six here cover that."
+    }
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is a cordless mower under $200 enough?",
+   "a": "For a small, flat lawn, yes. You give up self propelled drive, a large bag and a wide deck, but you keep a quiet brushless motor and easy storage."
+  },
+  {
+   "q": "How big a lawn can it handle?",
+   "a": "Think small. A 13 inch deck with a 25 minute battery suits a tiny yard, and the 17 to 18 inch dual battery models suit a small to medium lawn. Hills and thick grass cut that range."
+  },
+  {
+   "q": "Do I need two batteries?",
+   "a": "For anything beyond a patio, yes. A dual battery kit like the Neobitat or ADEGSO gives you a spare so the job does not stop."
+  },
+  {
+   "q": "What do I give up compared with a 21 inch mower?",
+   "a": "Width, bag size and self propelled drive. You keep a quiet cordless motor and low weight."
+  },
+  {
+   "q": "How do I get the best runtime?",
+   "a": "Mow dry, short grass, keep the blade sharp and clean the deck. Charge batteries fully and store them indoors."
+  },
+  {
+   "q": "Are these prices permanent?",
+   "a": "No. Listing prices move, and the $200 cap reflects Amazon prices when this guide was updated. Use the Check price button for the current figure."
+  }
+ ],
+ "fixes": [
+  [
+   "Against the Greenworks 17 inch, it is smaller and lighter.",
+   "Against the ADEGSO 17 inch, it is smaller and lighter."
+  ]
+ ]
+}

@@ -1,0 +1,652 @@
+{
+ "guideSlug": "best-jigsaws-under-50",
+ "categorySlug": "tools-diy",
+ "mainKeyword": "cordless jigsaw",
+ "guideTitle": "Best Jigsaws Under $50 (2026)",
+ "metaTitle": "Best Jigsaws Under $50",
+ "metaDescription": "Seven jigsaws compared on barrel or top handle grip, orbital action, brushless motors, stroke speed, tool free blade change and corded or cordless power.",
+ "lastUpdated": "2026-11-21",
+ "readTime": "13 min",
+ "heroImage": "https://m.media-amazon.com/images/I/41BNNNgelDL._SL500_.jpg",
+ "expertTake": "The DEWALT DCS334B 20V brushless jigsaw is our top pick for a compact, top handle design with a brushless motor on a widely supported battery platform. The CRAFTSMAN V20 is the value pick for orbital settings at a low tier on a common 20V system. Skip a budget jigsaw if you need clean, straight cuts in thick hardwood, because a thin blade wanders, and a circular saw or a track saw is better for straight lines.",
+ "introParagraphs": [
+  "A jigsaw cuts curves and cutouts in wood, plywood, plastic and thin metal with a narrow blade that moves up and down. It is the tool for sink cutouts, scroll shapes and rough shaping, and a good one adds orbital action for faster cuts in softwood.",
+  "Handle style, blade change system, stroke speed and orbital settings matter more than raw voltage. We evaluated seven models from the candidate pool using spec sheets, listing details and owner feedback patterns, then ranked them by fit for common jobs. Several cordless listings are bare tools without a battery, so factor that in."
+ ],
+ "products": [
+  {
+   "id": "B0CFYM9L5W",
+   "badge": "Best Overall",
+   "name": "DEWALT DCS334B 20V cordless brushless jigsaw, tool only",
+   "specs": [
+    "Brushless motor",
+    "Top handle",
+    "20V platform",
+    "Tool only"
+   ],
+   "specList": [
+    {
+     "label": "Motor",
+     "value": "Brushless"
+    },
+    {
+     "label": "Handle",
+     "value": "Top handle"
+    },
+    {
+     "label": "Platform",
+     "value": "DEWALT 20V MAX"
+    },
+    {
+     "label": "Kit",
+     "value": "Tool only"
+    },
+    {
+     "label": "Best for",
+     "value": "General curves and cutouts"
+    }
+   ],
+   "description": "The DCS334B is a top handle cordless jigsaw with a brushless motor on the DEWALT 20V platform, sold as a tool only. A top handle gives you a firm grip over the blade and good control on curves.\n\nBrushless efficiency means more cuts per charge and less maintenance, and the 20V battery system is shared with many other tools. Against the DCS335B barrel grip saw, the DCS334B has a top handle and a brushless motor. Against the Milwaukee D handle saw, it is lighter and more compact.\n\nUse the right blade for the material and keep the shoe plate clean. Remove the battery before changing blades. Owners often say that a brushless jigsaw feels more consistent under load, because it holds speed through a cut instead of slowing as the blade heats.",
+   "bestFor": "General curves and cutouts for DIYers on the DEWALT 20V platform.",
+   "pros": [
+    "Brushless motor boosts runtime and lifespan",
+    "Top handle gives good control on curves",
+    "Shares 20V batteries with many DEWALT tools",
+    "Compact for overhead or tight work"
+   ],
+   "cons": [
+    "Tool only means batteries and charger are extra",
+    "Upper price tier for a jigsaw",
+    "Top handle can feel less comfortable for some on long cuts"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0CFYM9L5W?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41BNNNgelDL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B07KSS2BGF",
+   "badge": "Best Barrel Grip",
+   "name": "DEWALT 20V MAX cordless jigsaw DCS335B, barrel grip, 3,200 blade speed, tool only",
+   "specs": [
+    "Barrel grip",
+    "3,200 SPM",
+    "20V MAX",
+    "Tool only"
+   ],
+   "specList": [
+    {
+     "label": "Grip",
+     "value": "Barrel grip"
+    },
+    {
+     "label": "Stroke speed",
+     "value": "Up to 3,200 per minute"
+    },
+    {
+     "label": "Platform",
+     "value": "DEWALT 20V MAX"
+    },
+    {
+     "label": "Kit",
+     "value": "Tool only"
+    },
+    {
+     "label": "Best for",
+     "value": "Close, controlled cutting"
+    }
+   ],
+   "description": "The DCS335B is a barrel grip jigsaw rated at up to 3,200 strokes per minute, on the 20V MAX platform and sold as a tool only. A barrel grip puts your hand closer to the blade, which many people find gives better control for fine work.\n\nBarrel grip saws are more compact and sit low, which helps in tight spots and when you need to look along the blade. They are less comfortable for long straight cuts. Against the DCS334B, it has a barrel grip and a brushed motor in this version. Against the BLACK+DECKER, it is a stronger and more expensive saw.\n\nCheck the blade clamp and keep dust away from the shoe. Use a charged battery for long cuts. Because the grip is low, it is easy to use on a bench top where you want to see the line of cut clearly.",
+   "bestFor": "Fine, controlled cuts where you want your hand close to the work.",
+   "pros": [
+    "Barrel grip gives a lower, more controlled hold",
+    "Up to 3,200 strokes per minute for speed in softwood",
+    "20V MAX batteries are shared with other tools",
+    "Compact for tight spaces"
+   ],
+   "cons": [
+    "Not brushless in this listing",
+    "Tool only means battery is extra",
+    "Less comfortable for long straight cuts"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B07KSS2BGF?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/512IgRG2iML._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B07H7DQ3DK",
+   "badge": "Best Pro Power",
+   "name": "Milwaukee M18 FUEL D-handle jig saw, bare tool",
+   "specs": [
+    "D handle",
+    "M18 FUEL",
+    "Brushless",
+    "Bare tool"
+   ],
+   "specList": [
+    {
+     "label": "Grip",
+     "value": "D handle"
+    },
+    {
+     "label": "Platform",
+     "value": "Milwaukee M18 FUEL"
+    },
+    {
+     "label": "Motor",
+     "value": "Brushless FUEL"
+    },
+    {
+     "label": "Kit",
+     "value": "Bare tool"
+    },
+    {
+     "label": "Best for",
+     "value": "Contractors and heavy cutting"
+    }
+   ],
+   "description": "The M18 FUEL D handle jigsaw is a bare tool from Milwaukee's top tier brushless line, with a D handle that suits longer cuts. FUEL tools use brushless motors and electronics aimed at contractors.\n\nA D handle is a common style on higher end saws and gives a stable top grip. It costs more than the DEWALT or CRAFTSMAN saws, which matters mainly if you want pro grade durability or already have M18 batteries. Against the DEWALT DCS334B, it targets heavy use at a higher tier.\n\nKeep the saw clean and use a fresh blade for the material. Check the shoe plate for wear. Many tradespeople value the durability of the shoe and the blade clamp, which take daily abuse on a site.",
+   "bestFor": "Contractors and M18 owners who cut daily.",
+   "pros": [
+    "FUEL brushless motor is built for heavy use",
+    "D handle gives a stable, comfortable grip",
+    "M18 battery system has a vast tool range",
+    "Pro grade durability"
+   ],
+   "cons": [
+    "Upper price tier",
+    "Bare tool means batteries are extra",
+    "More than most DIYers need"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B07H7DQ3DK?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/515g9O5tiyL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0BDGQKRLS",
+   "badge": "Best Makita Option",
+   "name": "Makita XVJ04Z 18V LXT brushless cordless jig saw, tool only",
+   "specs": [
+    "18V LXT",
+    "Brushless",
+    "Top handle",
+    "Tool only"
+   ],
+   "specList": [
+    {
+     "label": "Platform",
+     "value": "Makita 18V LXT"
+    },
+    {
+     "label": "Motor",
+     "value": "Brushless"
+    },
+    {
+     "label": "Handle",
+     "value": "Top handle"
+    },
+    {
+     "label": "Kit",
+     "value": "Tool only"
+    },
+    {
+     "label": "Best for",
+     "value": "LXT owners"
+    }
+   ],
+   "description": "The Makita XVJ04Z is a brushless top handle jigsaw for the 18V LXT platform, sold as a tool only. LXT is one of the broadest battery systems, with a huge range of tools.\n\nMakita jigsaws have a reputation for smooth action and low vibration, which helps accuracy on curves. If you already own LXT batteries, it is a sensible addition. Against the DEWALT, it competes feature for feature with a different platform. Against the Milwaukee, it has a lower tier.\n\nUse sharp blades and keep the base plate square. Remove the battery before changing blades. The low vibration helps on long curves, where a rattly saw drifts off the line.",
+   "bestFor": "Makita LXT owners who want a smooth, brushless jigsaw.",
+   "pros": [
+    "Brushless motor for efficiency",
+    "LXT battery system is very broad",
+    "Top handle grip gives control",
+    "Known for smooth operation"
+   ],
+   "cons": [
+    "Tool only means batteries are extra",
+    "Less value without LXT batteries",
+    "Mid to upper price tier"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0BDGQKRLS?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41D4ui-zC6L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B07KKB4M9F",
+   "badge": "Best Value Orbital",
+   "name": "CRAFTSMAN V20 cordless jig saw CMCS600B, 3 orbital settings, up to 2,500 SPM, bare tool",
+   "specs": [
+    "3 orbital settings",
+    "2,500 SPM",
+    "V20 platform",
+    "Bare tool"
+   ],
+   "specList": [
+    {
+     "label": "Orbital settings",
+     "value": "3"
+    },
+    {
+     "label": "Stroke speed",
+     "value": "Up to 2,500 per minute"
+    },
+    {
+     "label": "Platform",
+     "value": "CRAFTSMAN V20"
+    },
+    {
+     "label": "Kit",
+     "value": "Bare tool"
+    },
+    {
+     "label": "Best for",
+     "value": "Occasional DIY on V20"
+    }
+   ],
+   "description": "The CRAFTSMAN V20 jigsaw has three orbital settings and a stroke speed of up to 2,500 per minute, sold as a bare tool. Orbital action pushes the blade forward on the upstroke, which cuts faster in wood.\n\nThree settings let you choose between smooth, fast and aggressive cutting, which is a lot of control for a tool at this tier. A stroke speed of 2,500 is lower than the DEWALT, so it cuts more slowly. Against the BLACK+DECKER, it has more adjustment. If you already own V20 batteries, it is a sensible add.\n\nSet the orbital level to match the material, and use sharp blades. Keep the base plate clean. A little practice with the orbital dial teaches you how much faster the saw cuts at the top setting and how rough the edge becomes.",
+   "bestFor": "V20 owners and occasional DIY work.",
+   "pros": [
+    "Three orbital settings suit different materials",
+    "Low price tier for a bare tool",
+    "V20 batteries are shared with other CRAFTSMAN tools",
+    "Simple controls"
+   ],
+   "cons": [
+    "Lower stroke speed than premium saws",
+    "Bare tool means batteries are extra",
+    "Brushed motor in this class"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B07KKB4M9F?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/415DF0bI8RL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B078C5S3NC",
+   "badge": "Best Budget Cordless",
+   "name": "BLACK+DECKER 20V MAX POWERCONNECT cordless jig saw BDCJS20C",
+   "specs": [
+    "20V MAX",
+    "Cordless",
+    "Kit with battery",
+    "Entry level"
+   ],
+   "specList": [
+    {
+     "label": "Platform",
+     "value": "BLACK+DECKER 20V MAX"
+    },
+    {
+     "label": "Power",
+     "value": "Cordless, battery included in the kit"
+    },
+    {
+     "label": "Use",
+     "value": "Light DIY"
+    },
+    {
+     "label": "Positioning",
+     "value": "Entry level"
+    },
+    {
+     "label": "Best for",
+     "value": "First jigsaw"
+    }
+   ],
+   "description": "The BLACK+DECKER BDCJS20C is an entry level cordless jigsaw on the 20V MAX POWERCONNECT platform, listed as a kit that includes a battery. It is meant for light home jobs, such as cutting craft shapes and thin boards.\n\nIt costs less than the DEWALT, Milwaukee and Makita, and the kit includes a battery so you can start cutting at once. The tradeoff is power, blade control and durability, so it suits occasional use. Against the CRAFTSMAN, it comes with a battery but has fewer adjustments.\n\nUse sharp blades and avoid forcing the saw. Charge the battery before use. Treat it as a saw for crafts and light repairs, and step up to a premium model if you start taking on bigger projects.",
+   "bestFor": "First time buyers who want a complete cordless kit.",
+   "pros": [
+    "Kit includes a battery and charger",
+    "Low price tier",
+    "Light and easy to handle",
+    "20V MAX batteries are shared with other tools"
+   ],
+   "cons": [
+    "Less power than premium saws",
+    "Less precise blade control",
+    "Not built for daily use"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B078C5S3NC?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51rGP9RcR1L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B07FD341YS",
+   "badge": "Best Corded",
+   "name": "SKIL 6 amp corded jig saw with tool free blade change JS314901",
+   "specs": [
+    "6 amp corded",
+    "Tool free blade",
+    "Unlimited runtime",
+    "Corded"
+   ],
+   "specList": [
+    {
+     "label": "Motor",
+     "value": "6 amp corded"
+    },
+    {
+     "label": "Blade change",
+     "value": "Tool free"
+    },
+    {
+     "label": "Power",
+     "value": "Corded, no battery"
+    },
+    {
+     "label": "Positioning",
+     "value": "Budget workshop saw"
+    },
+    {
+     "label": "Best for",
+     "value": "Workshop cutting"
+    }
+   ],
+   "description": "The SKIL JS314901 is a corded jigsaw with a 6 amp motor and a tool free blade change. A corded saw never runs out of battery and costs far less overall than a cordless saw with batteries.\n\nA cord is the tradeoff, and cutting with it takes care to keep it clear of the blade. For workshop or home use near an outlet, it offers strong value. Against the DEWALT cordless saws, it costs less in total but gives up cordless freedom.\n\nUse a rated extension cord and keep the cord behind you. Replace blades when they dull. A corded saw is also a good second saw for a garage or a shed with a power point on the wall.",
+   "bestFor": "Workshop cutting near an outlet at a low total cost.",
+   "pros": [
+    "6 amp motor offers consistent power",
+    "Tool free blade change is quick",
+    "No battery to buy or charge",
+    "Lowest total cost among the seven"
+   ],
+   "cons": [
+    "Cord limits range and can be cut",
+    "Less portable than cordless saws",
+    "Fewer premium features"
+   ],
+   "rank": 7,
+   "amazonUrl": "https://www.amazon.com/dp/B07FD341YS?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51GF3s2EaML._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Barrel grip versus top handle",
+   "explanation": "A barrel grip puts your hand near the blade for control on fine, close work, while a top handle sits above the saw and suits longer cuts and cutouts. Try both if you can. The DCS335B is barrel grip and the DCS334B, Makita XVJ04Z are top handle. The usual buyer mistake is choosing on voltage when blade quality and stroke control matter far more for a clean cut."
+  },
+  {
+   "criterion": "Orbital action",
+   "explanation": "Orbital settings push the blade forward on the upstroke, which makes faster cuts in wood but rougher edges. The CRAFTSMAN offers three settings. Turn it off for metal and fine finish cuts, and increase it for fast cuts in softwood. Think about the thickness of what you cut: thin plywood needs a fine blade and slow orbital, and thick softwood suits a coarse blade and a fast setting."
+  },
+  {
+   "criterion": "Stroke speed (SPM)",
+   "explanation": "Strokes per minute describe how fast the blade moves. The DCS335B lists up to 3,200 and the CRAFTSMAN up to 2,500. A higher speed cuts faster in wood, while a lower speed suits metal and plastics. Look at the dust blower, because a saw that clears the line makes accurate cuts far easier."
+  },
+  {
+   "criterion": "Brushless motor and battery",
+   "explanation": "Brushless motors are efficient and long lived, as on the DCS334B, Makita and Milwaukee saws. Most cordless saws here are bare tools, so check your battery platform. See our guide on brushed versus brushless motors and our guide on battery voltage and amp hours. Check that the shoe can be locked at square, since a loose shoe produces beveled edges you did not plan."
+  },
+  {
+   "criterion": "Blade change and shoe",
+   "explanation": "A tool free blade change saves time, and a stiff shoe plate keeps cuts square. A shoe that bevels to 45 degrees helps with angled cuts. Check that the blade clamp holds firmly. Consider an LED light if you work indoors or under cabinets, where shadows hide the line of cut."
+  },
+  {
+   "criterion": "Corded versus cordless",
+   "explanation": "A corded jigsaw like the SKIL has constant power and no battery cost. A cordless saw frees you from the outlet and suits ladders and sites. Choose based on where you cut. Buy a small set of different blades with the saw, because the stock blade is rarely the best for your material."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "SPM",
+   "meaning": "Strokes per minute, the number of blade cycles per minute. A higher number cuts faster in wood.",
+   "watchFor": "The DCS335B lists up to 3,200 and the CRAFTSMAN 2,500."
+  },
+  {
+   "spec": "Orbital action",
+   "meaning": "A forward motion of the blade on the upstroke that speeds cutting in wood.",
+   "watchFor": "The CRAFTSMAN has three settings, so turn it off for metal."
+  },
+  {
+   "spec": "Barrel grip",
+   "meaning": "A jigsaw handle shaped like a cylinder around the motor. It puts your hand close to the blade.",
+   "watchFor": "The DCS335B uses it, which suits fine work but not long straight cuts."
+  },
+  {
+   "spec": "Brushless",
+   "meaning": "A motor without carbon brushes. It is more efficient and longer lived.",
+   "watchFor": "The DCS334B, Makita and Milwaukee saws are brushless."
+  },
+  {
+   "spec": "Tool free blade change",
+   "meaning": "A clamp that releases and locks the blade without a hex key.",
+   "watchFor": "The SKIL has it, but check that it grips firmly."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Handle and control",
+   "description": "We compared barrel grip and top handle designs. We favoured designs that give control for curves. We did not run cutting trials. Owner feedback patterns about blade wandering, shoe wobble and vibration shaped our scoring."
+  },
+  {
+   "title": "Cutting performance",
+   "description": "We looked at stroke speeds of 2,500 to 3,200 per minute, orbital settings and motor type. Faster, adjustable saws scored higher. Where a listing described a bare tool we treated the battery as part of the cost."
+  },
+  {
+   "title": "Platform and value",
+   "description": "We considered battery platforms and whether the tool includes a battery. Total cost mattered. We compared stroke speeds and orbital settings as a rough measure of cutting character."
+  },
+  {
+   "title": "Features",
+   "description": "We weighed blade change systems, bevel capacity and LED lights. Practical features scored higher. We considered how clearly each listing described the blade clamp system."
+  },
+  {
+   "title": "Ownership",
+   "description": "We reviewed shoe plate wear, blade clamps and owner feedback patterns about vibration. Established brands scored higher. Platform breadth was weighed as most owners add tools over time."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Use",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "General curves",
+      "DEWALT DCS334B",
+      "Top handle and brushless"
+     ],
+     [
+      "Fine, close work",
+      "DEWALT DCS335B",
+      "Barrel grip"
+     ],
+     [
+      "Daily trade use",
+      "Milwaukee M18 FUEL",
+      "Pro durability"
+     ],
+     [
+      "Smooth, low vibration",
+      "Makita XVJ04Z",
+      "LXT brushless"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest total cost",
+      "SKIL corded",
+      "No battery"
+     ],
+     [
+      "Low tier cordless",
+      "BLACK+DECKER kit",
+      "Battery included"
+     ],
+     [
+      "Mid tier",
+      "CRAFTSMAN V20",
+      "Orbital settings"
+     ],
+     [
+      "Upper tier",
+      "DEWALT, Makita or Milwaukee",
+      "Brushless and pro"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Barrel Grip vs Top Handle",
+   "cards": [
+    {
+     "label": "Barrel grip",
+     "text": "The DCS335B keeps your hand near the blade, which helps fine and close work."
+    },
+    {
+     "label": "Top handle",
+     "text": "The DCS334B, Makita and Milwaukee saws give a stable grip for cutouts and longer cuts."
+    }
+   ],
+   "note": "Choose barrel grip for detail work and top handle for general cutting."
+  },
+  {
+   "subheading": "By Platform",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Own DEWALT 20V",
+      "DCS334B",
+      "Same batteries"
+     ],
+     [
+      "Own Makita LXT",
+      "XVJ04Z",
+      "Same batteries"
+     ],
+     [
+      "Own Milwaukee M18",
+      "M18 FUEL",
+      "Same batteries"
+     ],
+     [
+      "Own CRAFTSMAN V20",
+      "CMCS600B",
+      "Same batteries"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Curved Cuts Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A narrow scroll blade, orbital action turned off or low, a steady grip and a shoe that stays flat on the work."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The CRAFTSMAN orbital settings help tune cutting, and the Makita and DEWALT offer smooth control."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You cut often or want a smooth, brushless saw. The DEWALT, Makita or Milwaukee models fit."
+    },
+    {
+     "label": "Save if",
+     "text": "You cut occasionally. The SKIL corded or BLACK+DECKER kit are enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Replace the blade",
+   "interval": "As cuts slow or wander",
+   "why": "A dull or bent blade cuts poorly and strains the motor. Match the blade to the material."
+  },
+  {
+   "task": "Clean the shoe and guide roller",
+   "interval": "After each use",
+   "why": "Dust and resin reduce accuracy. Wipe and check that the roller spins."
+  },
+  {
+   "task": "Blow dust from vents",
+   "interval": "Monthly",
+   "why": "Dust overheats the motor. Use compressed air."
+  },
+  {
+   "task": "Lubricate the blade guide",
+   "interval": "Each season",
+   "why": "A dry guide wears and rattles. A drop of light oil helps."
+  },
+  {
+   "task": "Store batteries cool",
+   "interval": "Off season",
+   "why": "Heat shortens battery life. Store at partial charge."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Barrel grip or top handle?",
+   "a": "Barrel grip suits fine, close work, while top handle suits general cutting and cutouts. Try both if possible. Many owners say that a fresh, sharp blade fixes more cutting problems than any upgrade to the saw."
+  },
+  {
+   "q": "Do I need orbital action?",
+   "a": "It speeds cutting in wood and costs a rougher edge. Turn it off for metal and fine finish cuts. Clamp the workpiece firmly, since a moving board causes crooked cuts."
+  },
+  {
+   "q": "Are jigsaws good for straight cuts?",
+   "a": "Not really. The blade wanders in thick stock, so use a circular saw or a track saw for straight lines. Drill a starter hole for internal cutouts, then plunge the blade carefully. Cut thin sheet metal with a bi metal blade and a little cutting oil to keep the blade cool and extend its life."
+  },
+  {
+   "q": "Is brushless worth it?",
+   "a": "It gives more runtime and a longer motor life, which helps on a cordless saw. For occasional use, brushed is enough. Apply masking tape along the cut line on laminate to reduce chipping."
+  },
+  {
+   "q": "What blade should I use?",
+   "a": "A coarse tooth blade for fast wood cuts, a fine tooth blade for plywood and a bi metal blade for metal. Match the blade to the material. Let the saw reach full speed before it touches the work."
+  },
+  {
+   "q": "Why does my jigsaw cut crooked?",
+   "a": "A dull or bent blade, forcing the saw or a loose guide roller. Use a sharp blade and let the saw cut at its own speed. Support the offcut so it does not break away and pinch the blade."
+  }
+ ],
+ "relatedGuides": [
+  {
+   "title": "Brushed vs brushless motors",
+   "href": "/guide/brushed-vs-brushless-drill-motors"
+  },
+  {
+   "title": "Battery voltage and amp hours explained",
+   "href": "/guide/battery-voltage-and-amp-hours-explained"
+  },
+  {
+   "title": "Best Reciprocating Saws",
+   "href": "/guide/best-reciprocating-saws-under-100"
+  },
+  {
+   "title": "Best Orbital Sanders",
+   "href": "/guide/best-orbital-sanders-under-50"
+  }
+ ]
+}

@@ -160,7 +160,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-espresso-machines",
+  "slug": "best-espresso-machines-under-200",
   "category": "home-kitchen",
   "mainKeyword": "espresso machine",
   "title": "",
@@ -168,7 +168,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-drip-coffee-makers",
+  "slug": "best-drip-coffee-makers-under-25",
   "category": "home-kitchen",
   "mainKeyword": "drip coffee maker",
   "title": "",
@@ -176,7 +176,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-blenders",
+  "slug": "best-blenders-under-50",
   "category": "home-kitchen",
   "mainKeyword": "blender",
   "title": "",
@@ -184,7 +184,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-stand-mixers",
+  "slug": "best-stand-mixers-under-100",
   "category": "home-kitchen",
   "mainKeyword": "stand mixer",
   "title": "",
@@ -192,7 +192,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-food-processors",
+  "slug": "best-food-processors-under-50",
   "category": "home-kitchen",
   "mainKeyword": "food processor",
   "title": "",
@@ -200,7 +200,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-electric-kettles",
+  "slug": "best-electric-kettles-under-25",
   "category": "home-kitchen",
   "mainKeyword": "electric kettle",
   "title": "",
@@ -208,7 +208,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-toaster-ovens",
+  "slug": "best-toaster-ovens-under-100",
   "category": "home-kitchen",
   "mainKeyword": "toaster oven",
   "title": "",
@@ -216,7 +216,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-slow-cookers",
+  "slug": "best-slow-cookers-under-100",
   "category": "home-kitchen",
   "mainKeyword": "slow cooker",
   "title": "",
@@ -224,7 +224,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-pressure-cookers",
+  "slug": "best-pressure-cookers-under-100",
   "category": "home-kitchen",
   "mainKeyword": "electric pressure cooker",
   "title": "",
@@ -232,7 +232,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-rice-cookers",
+  "slug": "best-rice-cookers-under-50",
   "category": "home-kitchen",
   "mainKeyword": "rice cooker",
   "title": "",
@@ -240,7 +240,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-chef-knives",
+  "slug": "best-chef-knives-under-50",
   "category": "home-kitchen",
   "mainKeyword": "chef knife",
   "title": "",
@@ -248,7 +248,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-nonstick-pans",
+  "slug": "best-nonstick-pans-under-50",
   "category": "home-kitchen",
   "mainKeyword": "nonstick frying pan",
   "title": "",
@@ -256,7 +256,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-dutch-ovens",
+  "slug": "best-dutch-ovens-under-50",
   "category": "home-kitchen",
   "mainKeyword": "enameled dutch oven",
   "title": "",
@@ -264,7 +264,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-coffee-grinders",
+  "slug": "best-coffee-grinders-under-100",
   "category": "home-kitchen",
   "mainKeyword": "burr coffee grinder",
   "title": "",
@@ -272,7 +272,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-cordless-stick-vacuums",
+  "slug": "best-cordless-stick-vacuums-under-100",
   "category": "home-kitchen",
   "mainKeyword": "cordless stick vacuum",
   "title": "",
@@ -280,7 +280,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-steam-mops",
+  "slug": "best-steam-mops-under-100",
   "category": "home-kitchen",
   "mainKeyword": "steam mop",
   "title": "",
@@ -288,7 +288,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-water-filter-pitchers",
+  "slug": "best-water-filter-pitchers-under-50",
   "category": "home-kitchen",
   "mainKeyword": "water filter pitcher",
   "title": "",
@@ -296,7 +296,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-hand-mixers",
+  "slug": "best-hand-mixers-under-50",
   "category": "home-kitchen",
   "mainKeyword": "hand mixer",
   "title": "",
@@ -304,7 +304,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-immersion-blenders",
+  "slug": "best-immersion-blenders-under-50",
   "category": "home-kitchen",
   "mainKeyword": "immersion blender",
   "title": "",
@@ -312,7 +312,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-cutting-boards",
+  "slug": "best-cutting-boards-under-25",
   "category": "home-kitchen",
   "mainKeyword": "wood cutting board",
   "title": "",
@@ -320,7 +320,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-wireless-earbuds",
+  "slug": "best-wireless-earbuds-under-25",
   "category": "tech-electronics",
   "mainKeyword": "wireless earbuds",
   "title": "",
@@ -328,7 +328,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-bluetooth-speakers",
+  "slug": "best-bluetooth-speakers-under-50",
   "category": "tech-electronics",
   "mainKeyword": "portable bluetooth speaker",
   "title": "",
@@ -336,7 +336,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-gaming-monitors",
+  "slug": "best-gaming-monitors-under-100",
   "category": "tech-electronics",
   "mainKeyword": "gaming monitor",
   "title": "",
@@ -344,7 +344,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-portable-monitors",
+  "slug": "best-portable-monitors-under-50",
   "category": "tech-electronics",
   "mainKeyword": "portable monitor",
   "title": "",
@@ -352,7 +352,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-mechanical-keyboards",
+  "slug": "best-mechanical-keyboards-under-50",
   "category": "tech-electronics",
   "mainKeyword": "mechanical keyboard",
   "title": "",
@@ -360,7 +360,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-wireless-mice",
+  "slug": "best-wireless-mice-under-25",
   "category": "tech-electronics",
   "mainKeyword": "wireless mouse",
   "title": "",
@@ -368,7 +368,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-webcams",
+  "slug": "best-webcams-under-25",
   "category": "tech-electronics",
   "mainKeyword": "webcam",
   "title": "",
@@ -376,7 +376,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-external-ssds",
+  "slug": "best-external-ssds-under-200",
   "category": "tech-electronics",
   "mainKeyword": "portable external ssd",
   "title": "",
@@ -384,7 +384,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-wifi-routers",
+  "slug": "best-wifi-routers-under-100",
   "category": "tech-electronics",
   "mainKeyword": "wifi 6 router",
   "title": "",
@@ -392,7 +392,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-smart-plugs",
+  "slug": "best-smart-plugs-under-25",
   "category": "tech-electronics",
   "mainKeyword": "smart plug",
   "title": "",
@@ -400,7 +400,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-video-doorbells",
+  "slug": "best-video-doorbells-under-50",
   "category": "tech-electronics",
   "mainKeyword": "video doorbell",
   "title": "",
@@ -408,7 +408,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-security-cameras",
+  "slug": "best-security-cameras-under-100",
   "category": "tech-electronics",
   "mainKeyword": "outdoor security camera",
   "title": "",
@@ -416,7 +416,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-streaming-devices",
+  "slug": "best-streaming-devices-under-50",
   "category": "tech-electronics",
   "mainKeyword": "streaming media player",
   "title": "",
@@ -424,7 +424,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-soundbars",
+  "slug": "best-soundbars-under-100",
   "category": "tech-electronics",
   "mainKeyword": "soundbar",
   "title": "",
@@ -432,7 +432,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-usb-c-hubs",
+  "slug": "best-usb-c-hubs-under-50",
   "category": "tech-electronics",
   "mainKeyword": "usb c hub",
   "title": "",
@@ -440,7 +440,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-wireless-chargers",
+  "slug": "best-wireless-chargers-under-25",
   "category": "tech-electronics",
   "mainKeyword": "wireless charging pad",
   "title": "",
@@ -448,7 +448,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-usb-microphones",
+  "slug": "best-usb-microphones-under-50",
   "category": "tech-electronics",
   "mainKeyword": "usb microphone",
   "title": "",
@@ -456,7 +456,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-laptop-stands",
+  "slug": "best-laptop-stands-under-50",
   "category": "tech-electronics",
   "mainKeyword": "laptop stand",
   "title": "",
@@ -464,7 +464,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-dash-cams",
+  "slug": "best-dash-cams-under-100",
   "category": "tech-electronics",
   "mainKeyword": "dash cam",
   "title": "",
@@ -472,7 +472,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-e-readers",
+  "slug": "best-e-readers-under-200",
   "category": "tech-electronics",
   "mainKeyword": "e reader",
   "title": "",
@@ -480,7 +480,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-treadmills",
+  "slug": "best-treadmills-under-200",
   "category": "health-fitness",
   "mainKeyword": "folding treadmill",
   "title": "",
@@ -488,7 +488,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-exercise-bikes",
+  "slug": "best-exercise-bikes-under-200",
   "category": "health-fitness",
   "mainKeyword": "exercise bike",
   "title": "",
@@ -496,7 +496,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-resistance-bands",
+  "slug": "best-resistance-bands-under-25",
   "category": "health-fitness",
   "mainKeyword": "resistance bands set",
   "title": "",
@@ -504,7 +504,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-foam-rollers",
+  "slug": "best-foam-rollers-under-25",
   "category": "health-fitness",
   "mainKeyword": "foam roller",
   "title": "",
@@ -512,7 +512,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-kettlebells",
+  "slug": "best-kettlebells-under-50",
   "category": "health-fitness",
   "mainKeyword": "kettlebell",
   "title": "",
@@ -520,7 +520,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-weight-benches",
+  "slug": "best-weight-benches-under-100",
   "category": "health-fitness",
   "mainKeyword": "adjustable weight bench",
   "title": "",
@@ -528,7 +528,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-pull-up-bars",
+  "slug": "best-pull-up-bars-under-50",
   "category": "health-fitness",
   "mainKeyword": "doorway pull up bar",
   "title": "",
@@ -536,7 +536,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-jump-ropes",
+  "slug": "best-jump-ropes-under-25",
   "category": "health-fitness",
   "mainKeyword": "jump rope",
   "title": "",
@@ -544,7 +544,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-fitness-trackers",
+  "slug": "best-fitness-trackers-under-100",
   "category": "health-fitness",
   "mainKeyword": "fitness tracker",
   "title": "",
@@ -552,7 +552,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-smart-scales",
+  "slug": "best-smart-scales-under-50",
   "category": "health-fitness",
   "mainKeyword": "smart body fat scale",
   "title": "",
@@ -560,7 +560,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-blood-pressure-monitors",
+  "slug": "best-blood-pressure-monitors-under-25",
   "category": "health-fitness",
   "mainKeyword": "blood pressure monitor",
   "title": "",
@@ -568,7 +568,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-pulse-oximeters",
+  "slug": "best-pulse-oximeters-under-25",
   "category": "health-fitness",
   "mainKeyword": "pulse oximeter",
   "title": "",
@@ -576,7 +576,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-heating-pads",
+  "slug": "best-heating-pads-under-25",
   "category": "health-fitness",
   "mainKeyword": "electric heating pad",
   "title": "",
@@ -584,7 +584,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-tens-units",
+  "slug": "best-tens-units-under-25",
   "category": "health-fitness",
   "mainKeyword": "tens unit",
   "title": "",
@@ -592,7 +592,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-electric-toothbrushes",
+  "slug": "best-electric-toothbrushes-under-50",
   "category": "health-fitness",
   "mainKeyword": "electric toothbrush",
   "title": "",
@@ -600,7 +600,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-water-flossers",
+  "slug": "best-water-flossers-under-25",
   "category": "health-fitness",
   "mainKeyword": "water flosser",
   "title": "",
@@ -608,7 +608,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-protein-shaker-bottles",
+  "slug": "best-protein-shaker-bottles-under-25",
   "category": "health-fitness",
   "mainKeyword": "protein shaker bottle",
   "title": "",
@@ -616,7 +616,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-walking-pads",
+  "slug": "best-walking-pads-under-100",
   "category": "health-fitness",
   "mainKeyword": "walking pad",
   "title": "",
@@ -624,7 +624,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-ab-rollers",
+  "slug": "best-ab-rollers-under-25",
   "category": "health-fitness",
   "mainKeyword": "ab roller wheel",
   "title": "",
@@ -640,7 +640,7 @@
   "status": "skip"
  },
  {
-  "slug": "best-gas-grills",
+  "slug": "best-gas-grills-under-300",
   "category": "outdoor-garden",
   "mainKeyword": "propane gas grill",
   "title": "",
@@ -648,7 +648,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-charcoal-grills",
+  "slug": "best-charcoal-grills-under-200",
   "category": "outdoor-garden",
   "mainKeyword": "charcoal grill",
   "title": "",
@@ -656,7 +656,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-pellet-grills",
+  "slug": "best-pellet-grills-under-500",
   "category": "outdoor-garden",
   "mainKeyword": "pellet grill",
   "title": "",
@@ -664,7 +664,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-electric-smokers",
+  "slug": "best-electric-smokers-under-300",
   "category": "outdoor-garden",
   "mainKeyword": "electric smoker",
   "title": "",
@@ -672,7 +672,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-cordless-lawn-mowers",
+  "slug": "best-cordless-lawn-mowers-under-200",
   "category": "outdoor-garden",
   "mainKeyword": "cordless lawn mower",
   "title": "",
@@ -680,7 +680,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-string-trimmers",
+  "slug": "best-string-trimmers-under-100",
   "category": "outdoor-garden",
   "mainKeyword": "cordless string trimmer",
   "title": "",
@@ -688,7 +688,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-hedge-trimmers",
+  "slug": "best-hedge-trimmers-under-100",
   "category": "outdoor-garden",
   "mainKeyword": "cordless hedge trimmer",
   "title": "",
@@ -696,7 +696,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-chainsaws",
+  "slug": "best-chainsaws-under-100",
   "category": "outdoor-garden",
   "mainKeyword": "cordless chainsaw",
   "title": "",
@@ -704,7 +704,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-hose-reels",
+  "slug": "best-hose-reels-under-100",
   "category": "outdoor-garden",
   "mainKeyword": "garden hose reel",
   "title": "",
@@ -712,7 +712,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-sprinklers",
+  "slug": "best-sprinklers-under-25",
   "category": "outdoor-garden",
   "mainKeyword": "lawn sprinkler",
   "title": "",
@@ -720,7 +720,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-raised-garden-beds",
+  "slug": "best-raised-garden-beds-under-100",
   "category": "outdoor-garden",
   "mainKeyword": "raised garden bed",
   "title": "",
@@ -728,7 +728,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-wheelbarrows",
+  "slug": "best-wheelbarrows-under-100",
   "category": "outdoor-garden",
   "mainKeyword": "wheelbarrow",
   "title": "",
@@ -736,7 +736,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-garden-kneelers",
+  "slug": "best-garden-kneelers-under-50",
   "category": "outdoor-garden",
   "mainKeyword": "garden kneeler seat",
   "title": "",
@@ -744,7 +744,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-solar-path-lights",
+  "slug": "best-solar-path-lights-under-50",
   "category": "outdoor-garden",
   "mainKeyword": "solar pathway lights",
   "title": "",
@@ -752,7 +752,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-patio-umbrellas",
+  "slug": "best-patio-umbrellas-under-50",
   "category": "outdoor-garden",
   "mainKeyword": "patio umbrella",
   "title": "",
@@ -760,7 +760,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-fire-pits",
+  "slug": "best-fire-pits-under-100",
   "category": "outdoor-garden",
   "mainKeyword": "outdoor fire pit",
   "title": "",
@@ -768,7 +768,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-camping-tents",
+  "slug": "best-camping-tents-under-100",
   "category": "outdoor-garden",
   "mainKeyword": "camping tent",
   "title": "",
@@ -776,7 +776,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-coolers",
+  "slug": "best-coolers-under-100",
   "category": "outdoor-garden",
   "mainKeyword": "hard cooler",
   "title": "",
@@ -784,7 +784,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-bird-feeders",
+  "slug": "best-bird-feeders-under-25",
   "category": "outdoor-garden",
   "mainKeyword": "bird feeder",
   "title": "",
@@ -792,7 +792,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-snow-blowers",
+  "slug": "best-snow-blowers-under-200",
   "category": "outdoor-garden",
   "mainKeyword": "cordless snow blower",
   "title": "",
@@ -800,7 +800,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-circular-saws",
+  "slug": "best-circular-saws-under-100",
   "category": "tools-diy",
   "mainKeyword": "cordless circular saw",
   "title": "",
@@ -808,7 +808,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-jigsaws",
+  "slug": "best-jigsaws-under-50",
   "category": "tools-diy",
   "mainKeyword": "cordless jigsaw",
   "title": "",
@@ -816,7 +816,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-reciprocating-saws",
+  "slug": "best-reciprocating-saws-under-100",
   "category": "tools-diy",
   "mainKeyword": "cordless reciprocating saw",
   "title": "",
@@ -824,7 +824,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-orbital-sanders",
+  "slug": "best-orbital-sanders-under-50",
   "category": "tools-diy",
   "mainKeyword": "random orbital sander",
   "title": "",
@@ -832,7 +832,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-oscillating-multi-tools",
+  "slug": "best-oscillating-multi-tools-under-100",
   "category": "tools-diy",
   "mainKeyword": "oscillating multi tool",
   "title": "",
@@ -840,7 +840,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-laser-levels",
+  "slug": "best-laser-levels-under-50",
   "category": "tools-diy",
   "mainKeyword": "cross line laser level",
   "title": "",
@@ -848,7 +848,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-tape-measures",
+  "slug": "best-tape-measures-under-25",
   "category": "tools-diy",
   "mainKeyword": "tape measure",
   "title": "",
@@ -856,7 +856,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-torque-wrenches",
+  "slug": "best-torque-wrenches-under-50",
   "category": "tools-diy",
   "mainKeyword": "torque wrench",
   "title": "",
@@ -864,7 +864,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-socket-sets",
+  "slug": "best-socket-sets-under-100",
   "category": "tools-diy",
   "mainKeyword": "socket set",
   "title": "",
@@ -872,7 +872,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-screwdriver-sets",
+  "slug": "best-screwdriver-sets-under-25",
   "category": "tools-diy",
   "mainKeyword": "screwdriver set",
   "title": "",
@@ -880,7 +880,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-tool-boxes",
+  "slug": "best-tool-boxes-under-100",
   "category": "tools-diy",
   "mainKeyword": "rolling tool box",
   "title": "",
@@ -888,7 +888,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-shop-vacs",
+  "slug": "best-shop-vacs-under-100",
   "category": "tools-diy",
   "mainKeyword": "wet dry shop vac",
   "title": "",
@@ -896,7 +896,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-air-compressors",
+  "slug": "best-air-compressors-under-50",
   "category": "tools-diy",
   "mainKeyword": "portable air compressor",
   "title": "",
@@ -904,7 +904,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-heat-guns",
+  "slug": "best-heat-guns-under-25",
   "category": "tools-diy",
   "mainKeyword": "heat gun",
   "title": "",
@@ -912,7 +912,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-soldering-irons",
+  "slug": "best-soldering-irons-under-25",
   "category": "tools-diy",
   "mainKeyword": "soldering iron kit",
   "title": "",
@@ -920,7 +920,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-multimeters",
+  "slug": "best-multimeters-under-50",
   "category": "tools-diy",
   "mainKeyword": "digital multimeter",
   "title": "",
@@ -928,7 +928,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-work-lights",
+  "slug": "best-work-lights-under-50",
   "category": "tools-diy",
   "mainKeyword": "led work light",
   "title": "",
@@ -936,7 +936,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-glue-guns",
+  "slug": "best-glue-guns-under-25",
   "category": "tools-diy",
   "mainKeyword": "hot glue gun",
   "title": "",
@@ -944,7 +944,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-angle-grinders",
+  "slug": "best-angle-grinders-under-100",
   "category": "tools-diy",
   "mainKeyword": "cordless angle grinder",
   "title": "",
@@ -952,7 +952,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-workbenches",
+  "slug": "best-workbenches-under-100",
   "category": "tools-diy",
   "mainKeyword": "portable workbench",
   "title": "",
@@ -960,7 +960,7 @@
   "status": "inprogress"
  },
  {
-  "slug": "best-weighted-vests",
+  "slug": "best-weighted-vests-under-25",
   "category": "health-fitness",
   "mainKeyword": "weighted vest",
   "title": "",

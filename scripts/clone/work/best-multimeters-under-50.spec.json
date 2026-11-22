@@ -1,0 +1,652 @@
+{
+ "guideSlug": "best-multimeters-under-50",
+ "categorySlug": "tools-diy",
+ "mainKeyword": "digital multimeter",
+ "guideTitle": "Best Multimeters Under $50 (2026)",
+ "metaTitle": "Best Multimeters Under $50",
+ "metaDescription": "Seven digital multimeters compared on safety category rating, auto versus manual ranging, true RMS, counts, voltage limits and non contact detection.",
+ "lastUpdated": "2026-11-21",
+ "readTime": "13 min",
+ "heroImage": "https://m.media-amazon.com/images/I/31mvCY3SN5L._SL500_.jpg",
+ "expertTake": "The Fluke 17B+ is our top pick for a CAT III 600V safety rating, a wide set of functions including capacitance and a brand electricians trust. The Klein Tools MM325 is the value pick for a simple, safe manual ranging meter with lead alert LEDs. Skip a cheap meter with no stated safety category for any work on household mains, because a meter that fails under a fault can cause a serious injury.",
+ "introParagraphs": [
+  "A digital multimeter measures voltage, current and resistance and often tests continuity, diodes and capacitance. It is the first diagnostic tool for car electrics, household wiring, appliances and electronics, and it tells you whether a part or a circuit is live, open or shorted.",
+  "The most important feature is not on the front panel: it is the safety category rating that says how well the meter withstands a voltage spike on the circuit you test. We evaluated seven models from the candidate pool using spec sheets, listing details and owner feedback patterns, then ranked them by safety, function and fit for different work. Never use a meter outside its stated ratings."
+ ],
+ "products": [
+  {
+   "id": "B0779621KZ",
+   "badge": "Best Overall",
+   "name": "Fluke 17B+ digital multimeter, CAT III 600V, 1000V AC/DC, 10A, capacitance",
+   "specs": [
+    "CAT III 600V",
+    "1000V AC/DC",
+    "10A current",
+    "Capacitance"
+   ],
+   "specList": [
+    {
+     "label": "Safety",
+     "value": "CAT III 600V rating"
+    },
+    {
+     "label": "Voltage",
+     "value": "AC and DC up to 1000V"
+    },
+    {
+     "label": "Current",
+     "value": "Up to 10A"
+    },
+    {
+     "label": "Functions",
+     "value": "Resistance, continuity, capacitance and more"
+    },
+    {
+     "label": "Best for",
+     "value": "Electrical work and troubleshooting"
+    }
+   ],
+   "description": "The Fluke 17B+ has a CAT III 600V safety rating, measures AC and DC voltage up to 1000V and current up to 10A and adds resistance, continuity and capacitance. Fluke is the brand most electricians trust for diagnostic work.\n\nA CAT III 600V rating means the meter is designed for use on distribution level circuits in homes and buildings, with protection against transients. The meter is autoranging and has a wider function set than the 15B+, including capacitance, which helps with appliance and HVAC repair. Against the Klein MM325, the Fluke has more functions and costs more. Against the KAIWEETS, it has a stronger safety pedigree.\n\nInspect the leads for cracks before every use and replace fuses with the same type. Never exceed the voltage or current limits. Electricians often say the real value of a rated meter is confidence, since you trust the reading enough to act on it when a circuit might be live.",
+   "bestFor": "Electrical and appliance troubleshooting where safety and range matter.",
+   "pros": [
+    "CAT III 600V safety rating for household and building work",
+    "1000V AC/DC and 10A current ranges",
+    "Capacitance measurement helps appliance repair",
+    "Fluke brand reliability and support"
+   ],
+   "cons": [
+    "Higher price tier than budget meters",
+    "Fewer smart features than newer meters",
+    "Not true RMS"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0779621KZ?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31mvCY3SN5L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B01IH41CUW",
+   "badge": "Best Mid Fluke",
+   "name": "Fluke 15B+ digital multimeter, CAT III 600V, AC/DC voltage up to 1000V and 10A current",
+   "specs": [
+    "CAT III 600V",
+    "1000V AC/DC",
+    "10A current",
+    "Autoranging"
+   ],
+   "specList": [
+    {
+     "label": "Safety",
+     "value": "CAT III 600V rating"
+    },
+    {
+     "label": "Voltage",
+     "value": "AC and DC up to 1000V"
+    },
+    {
+     "label": "Current",
+     "value": "AC and DC up to 10A"
+    },
+    {
+     "label": "Brand",
+     "value": "Fluke"
+    },
+    {
+     "label": "Best for",
+     "value": "Home electrical and automotive work"
+    }
+   ],
+   "description": "The Fluke 15B+ shares the CAT III 600V rating, 1000V AC and DC voltage range and 10A current of the 17B+ with a slightly smaller function list. It is a straightforward, trusted tool for household electrical and automotive diagnosis.\n\nIt measures AC and DC voltage and current, resistance, continuity and diodes, which covers most home tasks. It lacks some extras such as frequency and temperature measurements on the 17B+. Against the 17B+, it costs less. Against the Klein MM325, it offers a higher voltage range and better build.\n\nInspect the leads and the fuse regularly. Keep the meter in a case away from moisture. If you do not need capacitance or frequency, this model gives the same safety rating and range for less.",
+   "bestFor": "Home electrical and automotive diagnosis on a Fluke budget.",
+   "pros": [
+    "CAT III 600V rating and 1000V voltage range",
+    "AC and DC current to 10A",
+    "Fluke brand quality",
+    "Straightforward function set"
+   ],
+   "cons": [
+    "Fewer functions than the 17B+",
+    "Higher price tier than non brand meters",
+    "Not true RMS"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B01IH41CUW?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31LpMz1bVxL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0B57L9FNL",
+   "badge": "Best Value Safe Meter",
+   "name": "Klein Tools MM325 digital manual ranging multimeter, 600V AC/DC, lead alert LEDs, backlit display",
+   "specs": [
+    "600V AC/DC",
+    "10A DC",
+    "Lead alert LEDs",
+    "Backlit display"
+   ],
+   "specList": [
+    {
+     "label": "Voltage",
+     "value": "AC and DC up to 600V"
+    },
+    {
+     "label": "Current",
+     "value": "10A DC"
+    },
+    {
+     "label": "Resistance",
+     "value": "Up to 2 megohms"
+    },
+    {
+     "label": "Protection",
+     "value": "Lead alert LEDs show correct lead placement"
+    },
+    {
+     "label": "Best for",
+     "value": "Simple household and automotive tests"
+    }
+   ],
+   "description": "The Klein MM325 is a manual ranging meter with 600V AC and DC measurement, 10A DC current, 2 megohm resistance and lead alert LEDs that light to show correct lead placement. A backlit LCD helps in dim spaces.\n\nManual ranging means you choose the range yourself, which is slower than auto ranging but teaches you what you are measuring. The lead alert feature helps prevent a common mistake, which is plugging the leads into the wrong jacks. Against the Fluke 15B+, it is simpler and cheaper. Against the KAIWEETS, it has fewer features and a stronger brand name.\n\nCheck leads and the fuse before use. Set the range with care to avoid overloading the meter. The lead alert LEDs catch the common mistake of leaving the leads in the current jacks when you switch to a voltage test.",
+   "bestFor": "Beginners and homeowners who want a safe, simple meter.",
+   "pros": [
+    "Lead alert LEDs prevent wrong jack mistakes",
+    "600V AC and DC range covers household tests",
+    "Backlit display for low light",
+    "Klein brand quality at a low tier"
+   ],
+   "cons": [
+    "Manual ranging is slower than autoranging",
+    "10A current is DC only",
+    "Fewer functions than Fluke models"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0B57L9FNL?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41LjZIzwqfL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B07SHLS639",
+   "badge": "Best Feature Value",
+   "name": "KAIWEETS HT118A digital multimeter, 6000 counts auto ranging, true RMS, NCV and live wire test",
+   "specs": [
+    "6000 counts",
+    "Auto ranging",
+    "True RMS",
+    "NCV and live wire test"
+   ],
+   "specList": [
+    {
+     "label": "Counts",
+     "value": "6000"
+    },
+    {
+     "label": "Voltage",
+     "value": "1000V DC and 750V AC"
+    },
+    {
+     "label": "Current",
+     "value": "10A AC and DC"
+    },
+    {
+     "label": "Extras",
+     "value": "True RMS, NCV, live wire test, flashlight"
+    },
+    {
+     "label": "Best for",
+     "value": "Mixed household and electronics work"
+    }
+   ],
+   "description": "The KAIWEETS HT118A is a 6000 count auto ranging meter with true RMS, a non contact voltage test, a live wire function with sound and light alarms and a rear flashlight. It measures up to 1000V DC, 750V AC and 10A AC and DC, and LED lights on the jacks show which input to use.\n\nTrue RMS measures AC voltage accurately on non sinusoidal waves, which matters with modern electronics and variable speed drives. The extra features make it a strong value, though the safety category rating and brand track record should be checked against the listing. Against the Fluke 17B+, it has more features at a lower tier. Against the AstroAI, it has NCV and a stronger build.\n\nInspect leads and fuses. Use the NCV as a hint only, and confirm with the meter probes. The flashlight on the back is surprisingly useful when you are working in a dark fuse box or under a car.",
+   "bestFor": "Hobbyists and homeowners who want many features at a low tier.",
+   "pros": [
+    "True RMS and 6000 counts for accuracy",
+    "Auto ranging for easy use",
+    "NCV and live wire test add safety hints",
+    "LED jack lights guide lead placement"
+   ],
+   "cons": [
+    "Less brand history than Fluke or Klein",
+    "Confirm the safety category rating before using on mains",
+    "Non contact tests are not a substitute for a meter reading"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B07SHLS639?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51Tk+Hl5EhL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B071JL6LLL",
+   "badge": "Best Budget True RMS",
+   "name": "AstroAI digital multimeter, true RMS, 6000 counts, auto ranging, for automotive and home electrical",
+   "specs": [
+    "6000 counts",
+    "True RMS",
+    "Auto ranging",
+    "Backlit display"
+   ],
+   "specList": [
+    {
+     "label": "Counts",
+     "value": "6000"
+    },
+    {
+     "label": "Measurements",
+     "value": "AC/DC current and voltage, capacitance, frequency, duty cycle"
+    },
+    {
+     "label": "Features",
+     "value": "Data hold, backlit LCD, auto shut off, kickstand"
+    },
+    {
+     "label": "Positioning",
+     "value": "Automotive and home use"
+    },
+    {
+     "label": "Best for",
+     "value": "Car electrics and DIY"
+    }
+   ],
+   "description": "The AstroAI 6000 count meter is a true RMS, auto ranging model that measures AC and DC current and voltage, capacitance, frequency and duty cycle, with data hold, a backlit screen, auto shut off and a kickstand. It targets automotive and home electrical use.\n\nDuty cycle and frequency measurements are useful for car sensors and electronic circuits, and the kickstand is a thoughtful touch. The safety category details are less prominent than on the Fluke, so keep it for low energy work and automotive circuits. Against the KAIWEETS, it lacks NCV. Against the 2000 count AstroAI, it has true RMS and more range.\n\nCheck leads for damage and avoid mains work unless the rating supports it. Many owners use it as a dedicated garage meter, where the duty cycle and frequency functions help with sensors and ignition parts.",
+   "bestFor": "Automotive electrics and general DIY on a budget.",
+   "pros": [
+    "True RMS and 6000 counts at a low tier",
+    "Measures capacitance, frequency and duty cycle",
+    "Kickstand, data hold and backlit display",
+    "Auto ranging for ease"
+   ],
+   "cons": [
+    "Safety category is less prominent",
+    "Less brand history",
+    "Better for low energy circuits than mains work"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B071JL6LLL?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51d2N7iy4BL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B09C6MGD7J",
+   "badge": "Best Test Kit",
+   "name": "Klein Tools 69149P electrical test kit, 3 piece, multimeter, non contact voltage tester, receptacle tester",
+   "specs": [
+    "3 piece kit",
+    "600V AC/DC",
+    "NCV tester",
+    "Receptacle tester"
+   ],
+   "specList": [
+    {
+     "label": "Kit",
+     "value": "Multimeter, non contact voltage tester and receptacle tester"
+    },
+    {
+     "label": "Meter",
+     "value": "600V AC/DC, 10A DC, 2 megohms, continuity"
+    },
+    {
+     "label": "NCV",
+     "value": "NCVT 1P with LED and audible alert"
+    },
+    {
+     "label": "Brand",
+     "value": "Klein Tools"
+    },
+    {
+     "label": "Best for",
+     "value": "Homeowners who need a basic test set"
+    }
+   ],
+   "description": "The Klein 69149P is a three piece kit with the MM320 multimeter, an NCVT 1P non contact voltage tester and a receptacle tester. The multimeter measures up to 600V AC and DC, 10A DC current and 2 megohms of resistance, with continuity indicators.\n\nA kit gives a homeowner a way to check whether a wire is live, whether an outlet is wired correctly and whether a fuse or switch is good. The non contact tester is a first step in any electrical job, but it is not a guarantee, and you should confirm with a meter. Against the MM325, it adds two tools. Against the Fluke models, it is cheaper but less capable.\n\nTest the non contact tester on a known live circuit before trusting it. Follow safe work rules. Use the receptacle tester to check outlets in a rental or a new house, since it spots common wiring faults in seconds.",
+   "bestFor": "Homeowners who want a basic test kit.",
+   "pros": [
+    "Three tools cover live checks, outlet testing and meter readings",
+    "600V AC and DC range for household circuits",
+    "Continuity indicators help with fuses and switches",
+    "Klein brand"
+   ],
+   "cons": [
+    "Manual ranging meter",
+    "Fewer functions than Fluke models",
+    "Non contact tester gives hints, not proof"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B09C6MGD7J?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41HYAwZ8i2L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B01ISAMUA6",
+   "badge": "Best Entry Level",
+   "name": "AstroAI digital multimeter tester, 2000 counts, DC AC voltmeter, ohm volt amp meter",
+   "specs": [
+    "2000 counts",
+    "AC/DC voltage",
+    "DC current",
+    "Backlit LCD"
+   ],
+   "specList": [
+    {
+     "label": "Counts",
+     "value": "2000"
+    },
+    {
+     "label": "Measurements",
+     "value": "AC/DC voltage, DC current, resistance, diode"
+    },
+    {
+     "label": "Sampling",
+     "value": "2 times per second"
+    },
+    {
+     "label": "Display",
+     "value": "Backlit LCD"
+    },
+    {
+     "label": "Best for",
+     "value": "Basic tests and learning"
+    }
+   ],
+   "description": "The AstroAI 2000 count meter measures AC and DC voltage, DC current, resistance and diode with a backlit LCD and a sampling speed of two readings per second. It is a basic meter for learning and simple tests.\n\nA 2000 count display has lower resolution than 6000 counts, which matters for small changes in voltage or resistance. It is adequate for checking a battery, a fuse or a wall wire for presence of voltage. The listing includes notes on wrong lead placement, which is a common beginner mistake. Against the 6000 count AstroAI, it is simpler and cheaper.\n\nKeep the leads in the correct jacks and check the fuse. Use it for low energy circuits only. It works well for a first meter, as it lets you learn what each setting means without a large outlay.",
+   "bestFor": "Basic tests, students and learning.",
+   "pros": [
+    "Low price tier",
+    "Measures voltage, current, resistance and diode",
+    "Backlit LCD",
+    "Simple to use"
+   ],
+   "cons": [
+    "2000 counts give lower resolution",
+    "No true RMS or autoranging features of the 6000 count model",
+    "Safety category is not prominent"
+   ],
+   "rank": 7,
+   "amazonUrl": "https://www.amazon.com/dp/B01ISAMUA6?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41Ul9is2kxL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Safety category (CAT) rating",
+   "explanation": "The CAT rating tells you where the meter can safely be used. CAT II suits wall outlets, CAT III suits distribution panels and building wiring and CAT IV suits the service entrance. The Fluke 17B+ and 15B+ list CAT III 600V. A meter without a stated rating is a risk on mains, so use it only for low energy circuits. The usual buyer mistake is choosing on price and then discovering the meter has no safety rating for the circuit you need to test."
+  },
+  {
+   "criterion": "Auto versus manual ranging",
+   "explanation": "An autoranging meter chooses the range for you, which is quick and avoids mistakes. A manual ranging meter such as the Klein MM325 makes you pick the range, which teaches you and can be faster for experts. Beginners generally prefer autoranging. Learn to test the meter on a known source, such as a fresh battery, before you trust it on an unknown circuit."
+  },
+  {
+   "criterion": "True RMS",
+   "explanation": "True RMS meters, such as the KAIWEETS and the AstroAI 6000, measure AC accurately on distorted waveforms from modern electronics. A basic meter assumes a clean sine wave and can read wrong. It matters for variable speed drives and electronics. Check that the leads are rated for the same category as the meter, since a rated meter with cheap leads is not safe."
+  },
+  {
+   "criterion": "Counts and resolution",
+   "explanation": "Counts show the number of steps the display can resolve. A 6000 count meter shows finer detail than a 2000 count one. More counts help with small changes in voltage or resistance. Think about how you will use the meter: a clamp meter is better for high currents, while a standard multimeter is better for general work."
+  },
+  {
+   "criterion": "Functions and extras",
+   "explanation": "Capacitance, frequency, duty cycle and temperature help with appliances, cars and electronics. Non contact voltage detection and live wire tests, as on the KAIWEETS and Klein kit, give a quick hint but do not replace a measurement. Choose functions you will use. A bright backlit display and a hold button matter more than they sound when you work in tight, dark spaces."
+  },
+  {
+   "criterion": "Lead quality and protection",
+   "explanation": "Good leads have thick insulation and shrouded plugs. Lead alert LEDs on the Klein and jack lights on the KAIWEETS help prevent wrong jack mistakes. Fuses protect the meter and should be a specific rated type. Buy spare fuses of the correct rating, since a blown fuse in the middle of a job is a common frustration."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "CAT III 600V",
+   "meaning": "A safety category and voltage rating that says the meter withstands transients on building distribution circuits up to 600V.",
+   "watchFor": "The Fluke models list it, so look for it on any meter you buy for mains work."
+  },
+  {
+   "spec": "True RMS",
+   "meaning": "A measurement method that gives accurate AC readings even when the waveform is not a clean sine wave.",
+   "watchFor": "The KAIWEETS and AstroAI 6000 list it, but basic meters do not."
+  },
+  {
+   "spec": "Counts",
+   "meaning": "The maximum number the display can show, which sets resolution.",
+   "watchFor": "The AstroAI lists 2000 and 6000, so the 6000 count model resolves finer detail."
+  },
+  {
+   "spec": "NCV",
+   "meaning": "Non contact voltage detection that senses an electric field without touching a wire.",
+   "watchFor": "The KAIWEETS and Klein kit have it, but treat it as a hint and confirm with a meter."
+  },
+  {
+   "spec": "Autoranging",
+   "meaning": "A meter that picks the correct measurement range automatically.",
+   "watchFor": "The Klein MM325 is manual ranging, so choose the range yourself."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Safety rating",
+   "description": "We looked for stated CAT ratings and voltage limits, favouring the CAT III 600V on the Fluke models. We did not test the meters or their protection. Owner feedback patterns about fuse failure, lead damage and display accuracy shaped our scoring."
+  },
+  {
+   "title": "Accuracy features",
+   "description": "We compared true RMS, 6000 count and 2000 count displays. Higher resolution and true RMS scored higher. We treated listing claims about accuracy as maker figures and did not test the meters."
+  },
+  {
+   "title": "Functions",
+   "description": "We weighed capacitance, frequency, duty cycle and NCV. Useful functions scored higher. Where a safety category was not stated we noted it and assumed low energy use only."
+  },
+  {
+   "title": "Ease of use",
+   "description": "We considered autoranging, lead alerts, backlights and kickstands. Easier meters scored higher for beginners. We compared functions such as capacitance, frequency and NCV across all seven models."
+  },
+  {
+   "title": "Ownership",
+   "description": "We reviewed brand support, fuse access and owner feedback patterns about reliability. Established brands scored higher. Lead design and protections were compared from the listing descriptions."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Use",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Household and building wiring",
+      "Fluke 17B+",
+      "CAT III 600V and wide functions"
+     ],
+     [
+      "Home electrical on a Fluke budget",
+      "Fluke 15B+",
+      "CAT III 600V"
+     ],
+     [
+      "Car electrics",
+      "AstroAI 6000",
+      "Frequency and duty cycle"
+     ],
+     [
+      "Simple tests",
+      "Klein MM325",
+      "Lead alert LEDs"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest tier",
+      "AstroAI 2000 count",
+      "Basic meter"
+     ],
+     [
+      "Low tier",
+      "AstroAI 6000 or Klein MM325",
+      "True RMS or safe and simple"
+     ],
+     [
+      "Mid tier",
+      "KAIWEETS or Klein kit",
+      "Feature rich or test kit"
+     ],
+     [
+      "Upper tier",
+      "Fluke 15B+ or 17B+",
+      "Safety rated"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Autoranging vs Manual",
+   "cards": [
+    {
+     "label": "Autoranging",
+     "text": "The Fluke, KAIWEETS and AstroAI 6000 choose the range for you. They are quick and forgiving."
+    },
+    {
+     "label": "Manual",
+     "text": "The Klein MM325 makes you pick the range. It is simple and teaches the basics."
+    }
+   ],
+   "note": "Choose autoranging for ease and manual for a simple meter."
+  },
+  {
+   "subheading": "By Skill",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Beginners",
+      "Klein MM325 or kit",
+      "Lead alerts"
+     ],
+     [
+      "Hobbyists",
+      "KAIWEETS",
+      "Many functions"
+     ],
+     [
+      "Electricians",
+      "Fluke 17B+",
+      "Brand and rating"
+     ],
+     [
+      "Students",
+      "AstroAI 2000 count",
+      "Low cost"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Home Wiring Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A CAT III rating, a 600V or higher voltage range, a non contact tester for a first check and fused current inputs."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Fluke models and the Klein kit give a rated meter with a basic tester. Always confirm a circuit is dead with a meter."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You work on mains or use the meter often. The Fluke models are worth it for the rating."
+    },
+    {
+     "label": "Save if",
+     "text": "You work on low voltage circuits. The AstroAI or KAIWEETS are enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Inspect the leads",
+   "interval": "Before each use",
+   "why": "Cracked insulation can expose you to live conductors. Replace damaged leads at once."
+  },
+  {
+   "task": "Check the fuse",
+   "interval": "If current readings fail",
+   "why": "A blown fuse stops current tests. Replace it with the exact rated type."
+  },
+  {
+   "task": "Replace the battery",
+   "interval": "When the display dims",
+   "why": "A weak battery gives wrong readings. Replace and keep a spare."
+  },
+  {
+   "task": "Keep the meter dry",
+   "interval": "Always",
+   "why": "Moisture damages the circuit and affects accuracy. Store it in a case."
+  },
+  {
+   "task": "Turn the dial to off",
+   "interval": "After use",
+   "why": "A meter left on drains the battery. Switch it off."
+  }
+ ],
+ "faq": [
+  {
+   "q": "What does CAT III mean?",
+   "a": "It is a safety category for use on building distribution circuits, such as panels and sub panels. A CAT III 600V meter is built for them, with protection against transients. Many owners say the best habit is to test a known live source before and after testing a circuit you think is dead."
+  },
+  {
+   "q": "Do I need true RMS?",
+   "a": "If you measure AC on electronics or variable speed drives, yes. For basic household voltage, a standard meter is often fine. Keep one hand in your pocket when testing live circuits, which reduces the chance of current crossing your chest."
+  },
+  {
+   "q": "Is a non contact tester enough?",
+   "a": "No. It is a useful first check, but confirm a circuit is dead with a meter and follow lockout rules. Use the right jack for current and move the lead back before testing voltage."
+  },
+  {
+   "q": "Auto or manual ranging?",
+   "a": "Autoranging is easier and quicker for most people, and manual ranging is simpler and cheaper. Do not measure resistance on a live circuit, because it can damage the meter."
+  },
+  {
+   "q": "Can I measure car batteries with a multimeter?",
+   "a": "Yes, on DC volts. A healthy resting 12V battery reads around 12.6V, and a reading much lower suggests a weak battery. Start on the highest range if you use a manual meter and work down."
+  },
+  {
+   "q": "How do I avoid blowing the fuse?",
+   "a": "Never measure voltage with the leads in the current jacks. Use the lead alert LEDs or jack lights where provided. Replace worn probe tips and damaged leads, since they are the parts that fail first."
+  }
+ ],
+ "relatedGuides": [
+  {
+   "title": "Best LED Work Lights",
+   "href": "/guide/best-work-lights-under-50"
+  },
+  {
+   "title": "Best Glue Guns",
+   "href": "/guide/best-glue-guns-under-25"
+  },
+  {
+   "title": "Best Angle Grinders",
+   "href": "/guide/best-angle-grinders-under-100"
+  },
+  {
+   "title": "Best Portable Workbenches",
+   "href": "/guide/best-workbenches-under-100"
+  }
+ ]
+}
