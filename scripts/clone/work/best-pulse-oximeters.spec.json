@@ -1,0 +1,602 @@
+{
+ "guideSlug": "best-pulse-oximeters",
+ "categorySlug": "health-fitness",
+ "mainKeyword": "pulse oximeter",
+ "guideTitle": "Best Pulse Oximeters (2026)",
+ "metaTitle": "Best Pulse Oximeters",
+ "metaDescription": "Six fingertip pulse oximeters compared on validation, display, waveform, perfusion index, app sync and alarms, with honest limits on accuracy and use.",
+ "lastUpdated": "2026-11-21",
+ "readTime": "11 min",
+ "heroImage": "https://m.media-amazon.com/images/I/31zvJq6ywxL._SL500_.jpg",
+ "expertTake": "The Braun clinically validated oximeter is our top pick for general home use because it states a validation basis and keeps the interface simple. The Healthtree JKS50B is the value pick with a large OLED display and quick readings. Skip the category if you want a diagnostic tool, because a fingertip oximeter is a screening aid that must be read alongside symptoms and a clinician's advice.",
+ "introParagraphs": [
+  "A fingertip pulse oximeter shines red and infrared light through a finger and estimates the share of oxygen carried in your blood, alongside your pulse rate. It is a small, battery powered device that many households keep for illness, altitude trips or managing a condition under medical guidance.",
+  "The category is crowded and the labels are loose, so a clear display and honest limits matter more than a long feature list. We evaluated six models from the candidate pool using spec sheets, listing details and owner feedback patterns. None of them replaces a clinical assessment, and a number should never override how you feel."
+ ],
+ "products": [
+  {
+   "id": "B0GVVWTRMZ",
+   "badge": "Best Overall",
+   "name": "Braun fingertip pulse oximeter, clinically validated, backlit display",
+   "specs": [
+    "Clinically validated",
+    "Ages 12 and up",
+    "Backlit display",
+    "Fingertip clip"
+   ],
+   "specList": [
+    {
+     "label": "Style",
+     "value": "Fingertip clip"
+    },
+    {
+     "label": "Validation",
+     "value": "Described by the maker as clinically validated"
+    },
+    {
+     "label": "Age range",
+     "value": "Ages 12 and up"
+    },
+    {
+     "label": "Display",
+     "value": "Backlit"
+    },
+    {
+     "label": "Best for",
+     "value": "General home use"
+    }
+   ],
+   "description": "The Braun is the model that leads with a validation claim, stating clinically validated accuracy and an age range of 12 and up. That wording is more specific than the generic accurate and reliable lines on many listings, although you should still read it as a maker statement, not as a promise about every finger. A backlit display keeps readings visible in a dim room.\n\nIt does less than the Innovo models, which add a waveform and a perfusion index, and it does not have an app. The tradeoff is simplicity: fewer screens to decode when you are unwell. Against the Healthtree JKS50B, the Braun costs more and gives you a stated validation basis, while the Healthtree gives you a large OLED screen and a quick read at a lower tier.\n\nUse it with a warm, still, clean finger and no nail polish. Check the batteries when readings stall, and wipe the finger cavity with an alcohol wipe between users.",
+   "bestFor": "Households that want a simple device with a stated validation basis.",
+   "pros": [
+    "Maker states clinically validated accuracy rather than a vague claim",
+    "Backlit display stays readable in low light",
+    "Simple interface with little to decode when you feel unwell",
+    "Ages 12 and up is stated clearly in the listing"
+   ],
+   "cons": [
+    "No waveform or perfusion index for judging signal quality",
+    "No app or stored history for trend review",
+    "Sits above budget units in the price tier"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0GVVWTRMZ?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31zvJq6ywxL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B077ZJ1ZKZ",
+   "badge": "Best for App Tracking",
+   "name": "Innovo iP900BP-B oximeter with Bluetooth app, plethysmograph, perfusion index",
+   "specs": [
+    "Bluetooth app",
+    "Plethysmograph",
+    "Perfusion index",
+    "Fingertip clip"
+   ],
+   "specList": [
+    {
+     "label": "Style",
+     "value": "Fingertip clip"
+    },
+    {
+     "label": "Connectivity",
+     "value": "Bluetooth to iPhone or Android"
+    },
+    {
+     "label": "Signal aids",
+     "value": "Plethysmograph and perfusion index"
+    },
+    {
+     "label": "Positioning",
+     "value": "Premium Innovo model"
+    },
+    {
+     "label": "Best for",
+     "value": "Spot checks with saved history"
+    }
+   ],
+   "description": "The iP900BP-B pairs the clip with a free app over Bluetooth, so readings can be viewed and logged on a phone instead of scribbled on paper. It also shows a plethysmograph, a pulse waveform, and a perfusion index, which indicates how strong the signal is at your finger. Those two aids help you tell when a reading is trustworthy.\n\nIf the waveform is jagged or the perfusion index is low, the number on screen deserves less weight, and a warm hand often fixes it. The Innovo iP900AP below drops the app and adds an alarm, so choose the BP-B if you want history and the AP if you want audible alerts on the device. The Braun is the simpler pick for someone who does not want an app.\n\nThe app adds a pairing step and one more thing to maintain, and phone updates can break connections now and then. Keep spare batteries and treat the app log as a helper, not a medical record.",
+   "bestFor": "People who want saved readings and a visible signal quality check.",
+   "pros": [
+    "Bluetooth app stores readings on a phone for trend review",
+    "Plethysmograph waveform shows whether the signal looks clean",
+    "Perfusion index reveals weak finger signal before you trust a number",
+    "Works with both iPhone and Android"
+   ],
+   "cons": [
+    "Needs pairing and an app, which some users find fiddly",
+    "Sits at the top of the price tier in this lineup",
+    "Extra screens are more than a casual user needs"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B077ZJ1ZKZ?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41jciL+3MCL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B07YVGZPRZ",
+   "badge": "Best with Alarm",
+   "name": "Innovo Deluxe iP900AP oximeter with alarm, plethysmograph, perfusion index",
+   "specs": [
+    "Audible alarm",
+    "Plethysmograph",
+    "Perfusion index",
+    "Fingertip clip"
+   ],
+   "specList": [
+    {
+     "label": "Style",
+     "value": "Fingertip clip"
+    },
+    {
+     "label": "Alerts",
+     "value": "Alarm on the device"
+    },
+    {
+     "label": "Signal aids",
+     "value": "Plethysmograph and perfusion index"
+    },
+    {
+     "label": "Connectivity",
+     "value": "None, standalone"
+    },
+    {
+     "label": "Best for",
+     "value": "Spot checks with alerts"
+    }
+   ],
+   "description": "The iP900AP is the standalone sibling of the app model, adding an alarm that sounds when a reading goes outside limits you or your clinician set. It shares the plethysmograph and perfusion index, so you can see signal quality as well as the number.\n\nThe alarm helps when someone else is watching the screen, but it does not make a clip suitable for unattended overnight monitoring, since fingertip clips are designed for spot checks. Compared with the Innovo iP900BP-B, you lose the app and gain the audible alert. Compared with the Contec, which has a waveform at a lower tier, the Innovo adds the perfusion index and the alarm.\n\nSet alarm limits only with guidance from a clinician. Replace the batteries before they run out and clean the sensor window gently so the light path stays clear.",
+   "bestFor": "Caregivers who want audible alerts during supervised spot checks.",
+   "pros": [
+    "On device alarm for readings outside set limits",
+    "Waveform and perfusion index help judge signal quality",
+    "No app needed, so there is nothing to pair",
+    "Premium Innovo build suits frequent use"
+   ],
+   "cons": [
+    "Not designed for continuous overnight monitoring",
+    "Alarm limits need clinical guidance to set sensibly",
+    "No stored history for trends"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B07YVGZPRZ?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41PMC0srZ6L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B07F7Z2HZM",
+   "badge": "Best Lightweight Value",
+   "name": "Contec fingertip oximeter with pulse waveform, about 50 g, lanyard",
+   "specs": [
+    "Pulse waveform",
+    "About 50 g",
+    "Lanyard included",
+    "Fingertip clip"
+   ],
+   "specList": [
+    {
+     "label": "Style",
+     "value": "Fingertip clip"
+    },
+    {
+     "label": "Weight",
+     "value": "About 50 g with batteries"
+    },
+    {
+     "label": "Display aid",
+     "value": "SpO2, pulse rate and waveform"
+    },
+    {
+     "label": "Carry",
+     "value": "Lanyard included"
+    },
+    {
+     "label": "Best for",
+     "value": "Travel and a bag"
+    }
+   ],
+   "description": "The Contec is a light, plain clip that weighs about 50 g with batteries and ships with a lanyard. It shows the oxygen reading, the pulse rate and a waveform, which gives you a basic sense of signal quality without the cost of the Innovo models.\n\nIt does not carry a perfusion index, an alarm or an app, and the listing does not state a validation claim like the Braun. That is why it sits in the value slot: it does the core job. Against the Healthtree JKS50B, the Contec offers a waveform while the Healthtree offers a larger OLED screen and a quick read. Choose by whether you value the waveform or the bigger digits.\n\nKeep the lanyard handy for travel. Replace the AAA batteries when the display flickers and wipe the clip pads with an alcohol wipe between users.",
+   "bestFor": "Travelers and hikers who want a light clip with a pulse waveform.",
+   "pros": [
+    "About 50 g with batteries makes it easy to carry anywhere",
+    "Pulse waveform shows basic signal quality",
+    "Lanyard included for travel or a bag",
+    "Low price tier among the lineup"
+   ],
+   "cons": [
+    "No perfusion index, alarm or app",
+    "No stated clinical validation in the listing",
+    "Basic display is smaller than the Healthtree OLED"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B07F7Z2HZM?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31LATTCaWyL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B08R1GPJ4M",
+   "badge": "Best Display",
+   "name": "Healthtree JKS50B oximeter with large OLED display, 5 to 8 second reading",
+   "specs": [
+    "Large OLED display",
+    "5 to 8 s reading",
+    "Signal strength bar",
+    "Fingertip clip"
+   ],
+   "specList": [
+    {
+     "label": "Style",
+     "value": "Fingertip clip"
+    },
+    {
+     "label": "Display",
+     "value": "Large OLED with big digits"
+    },
+    {
+     "label": "Reading time",
+     "value": "5 to 8 seconds"
+    },
+    {
+     "label": "Signal aid",
+     "value": "Signal strength indicator"
+    },
+    {
+     "label": "Best for",
+     "value": "Older users and quick checks"
+    }
+   ],
+   "description": "The JKS50B puts the readout first with a bright OLED display and large digits, and the listing says values appear in 5 to 8 seconds with a signal strength indicator. For an older user squinting at a tiny screen, that clarity matters more than a feature list.\n\nThe signal strength bar is a lighter version of the perfusion index on the Innovo models, so you can see when the finger placement is poor. It does not offer a waveform like the Contec or an app like the iP900BP-B. Against the Braun, the Healthtree trades a stated validation basis for a lower price tier and a bigger display.\n\nHold the hand still at heart level, warm cold fingers first and remove nail polish. Replace the batteries when the screen dims.",
+   "bestFor": "Older users who need big, bright digits and a fast reading.",
+   "pros": [
+    "Large OLED digits are easy to read at a glance",
+    "Readings appear in about 5 to 8 seconds",
+    "Signal strength indicator shows when placement is poor",
+    "Among the lowest price tier in this comparison"
+   ],
+   "cons": [
+    "No waveform, app or alarm",
+    "No stated clinical validation basis like the Braun",
+    "Signal bar is less detailed than a perfusion index"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B08R1GPJ4M?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41aTqJUm4dL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B01HSAG8BE",
+   "badge": "Best Reads to 100",
+   "name": "Zacurate Pro Series 500DL oximeter with silicone cover",
+   "specs": [
+    "Reads up to 100%",
+    "Silicone cover",
+    "Batteries included",
+    "Fingertip clip"
+   ],
+   "specList": [
+    {
+     "label": "Style",
+     "value": "Fingertip clip"
+    },
+    {
+     "label": "Display claim",
+     "value": "Displays full range up to 100%"
+    },
+    {
+     "label": "Included",
+     "value": "Silicone cover and batteries"
+    },
+    {
+     "label": "Line",
+     "value": "Zacurate Pro Series"
+    },
+    {
+     "label": "Best for",
+     "value": "Everyday household use"
+    }
+   ],
+   "description": "The Pro Series 500DL is a conventional clip that the maker says can read and display the full range up to 100 percent, with a silicone cover and batteries in the box. The cover protects against drops, which is the most common cause of damage.\n\nIt does not include a perfusion index or a waveform in the way the Innovo models do, so you rely on the displayed number alone. It is a practical household choice rather than a feature leader. Compared with the Contec, you lose the waveform and carry a similar weight class; compared with the Healthtree, you lose the large OLED.\n\nKeep the cover on, clean the clip pads between users, and replace the batteries before a long trip.",
+   "bestFor": "Households wanting a protected, no frills everyday clip.",
+   "pros": [
+    "Silicone cover protects the clip from drops",
+    "Maker states it displays up to 100 percent",
+    "Batteries included so it works out of the box",
+    "Simple clip with minimal controls"
+   ],
+   "cons": [
+    "No waveform or perfusion index for signal checks",
+    "Brand claims such as the only LED oximeter are marketing language",
+    "Display is plainer than the Healthtree OLED"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B01HSAG8BE?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41z1D84BzML._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Validation and stated accuracy",
+   "explanation": "Accuracy language is loose across listings, and phrases like accurate and reliable carry no standard. The Braun states clinically validated accuracy, which is a more specific claim, though still a maker statement. Compare any oximeter against a clinic device once if you can. Do not treat a consumer clip as a diagnostic instrument."
+  },
+  {
+   "criterion": "Skin tone and finger variables",
+   "explanation": "Pulse oximetry relies on light passing through tissue, and published discussion has noted that readings can differ across skin tones and in cold or poorly perfused fingers. Nail polish and movement also disturb readings. The practical mitigation is a warm, still hand and watching the trend rather than a single number, so tools like the Innovo perfusion index are useful."
+  },
+  {
+   "criterion": "Display readability",
+   "explanation": "A reading you cannot see clearly is a reading you may misread. The Healthtree uses a large OLED with big digits and the Braun adds a backlight, while smaller plain screens force squinting. Check the orientation options, since some clips flip the display for left or right hand use."
+  },
+  {
+   "criterion": "Signal quality aids",
+   "explanation": "A plethysmograph shows the pulse waveform and a perfusion index shows signal strength. The Innovo iP900AP and iP900BP-B carry both, the Contec has a waveform and the Healthtree has a signal bar. These aids tell you when to repeat a reading, which is more valuable than an extra decimal."
+  },
+  {
+   "criterion": "Alarms, apps and memory",
+   "explanation": "An alarm like the Innovo iP900AP is helpful for a caregiver watching a spot check, and an app like the iP900BP-B helps with history. Neither turns a fingertip clip into an overnight monitor. Add features only if you will actually use them."
+  },
+  {
+   "criterion": "Power and portability",
+   "explanation": "Most clips run on two AAA batteries and weigh little, with the Contec near 50 g with batteries. A lanyard, a cover and spare batteries matter on trips. Long term, the clip pads and sensor window are the parts that get dirty or wear first."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "SpO2",
+   "meaning": "Peripheral oxygen saturation is the estimated percentage of hemoglobin carrying oxygen, measured by light through the fingertip. It is an estimate, not a blood gas result.",
+   "watchFor": "Cold hands and nail polish skew it, so repeat with a warm finger before trusting a low number."
+  },
+  {
+   "spec": "Perfusion index",
+   "meaning": "A measure of the pulse strength at the sensing site. A low value means a weak signal and a less reliable reading.",
+   "watchFor": "Only the Innovo models in this lineup show it, so others rely on a signal bar or waveform."
+  },
+  {
+   "spec": "Plethysmograph",
+   "meaning": "The pulse waveform drawn on screen. A regular, smooth wave suggests a clean signal.",
+   "watchFor": "The Contec and both Innovo units show it, while the Braun and Zacurate do not."
+  },
+  {
+   "spec": "Reading time",
+   "meaning": "How long the device takes to settle on a value. Faster is convenient, but a settled value matters more than speed.",
+   "watchFor": "The Healthtree lists 5 to 8 seconds, so wait for the number to stabilise anyway."
+  },
+  {
+   "spec": "Clinically validated",
+   "meaning": "A maker statement that testing against a reference method supported the device. The scope of that testing is not always clear.",
+   "watchFor": "The Braun uses this wording, so read it as a signal of intent and confirm against a clinic reading."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Stated validation",
+   "description": "We looked for specific accuracy language such as the Braun clinically validated statement and discounted generic claims. We did not run our own comparison with a clinical device. No model here is presented as diagnostic."
+  },
+  {
+   "title": "Signal quality tools",
+   "description": "We rewarded perfusion index and waveform displays, which appear on the Innovo iP900AP and iP900BP-B. The Contec waveform and the Healthtree signal bar earned partial credit. Models with only a number scored lowest here."
+  },
+  {
+   "title": "Readability",
+   "description": "We compared the Healthtree large OLED, the Braun backlight and the plainer displays. Larger digits scored higher for older users. Reading speed counted only when the value was stable."
+  },
+  {
+   "title": "Features and use cases",
+   "description": "We considered the Innovo alarm and app against the simple Braun and Zacurate. We favored features that fit spot checks and flagged any claim that suggested continuous monitoring."
+  },
+  {
+   "title": "Portability and ownership",
+   "description": "We checked weight, such as about 50 g for the Contec, cover and lanyard extras and battery use. Clips with a protective cover or clear cleaning paths scored higher on long term wear."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Primary Use",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "General household",
+      "Braun",
+      "Stated validation and simple use"
+     ],
+     [
+      "Wants phone history",
+      "Innovo iP900BP-B",
+      "Bluetooth app and signal aids"
+     ],
+     [
+      "Caregiver wants alerts",
+      "Innovo iP900AP",
+      "On device alarm"
+     ],
+     [
+      "Hiking or travel",
+      "Contec",
+      "About 50 g with a lanyard"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest tier, clear display",
+      "Healthtree JKS50B",
+      "Large OLED and fast reading"
+     ],
+     [
+      "Low tier with waveform",
+      "Contec",
+      "Waveform and light body"
+     ],
+     [
+      "Mid tier, protected",
+      "Zacurate 500DL",
+      "Silicone cover included"
+     ],
+     [
+      "Top tier",
+      "Innovo iP900BP-B or Braun",
+      "App and signal aids, or validation"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Basic Clip vs Feature Clip",
+   "cards": [
+    {
+     "label": "Basic clip",
+     "text": "The Braun, Healthtree and Zacurate focus on a clear number. They are faster to learn and cheaper to replace."
+    },
+    {
+     "label": "Feature clip",
+     "text": "The Innovo models add a waveform, perfusion index, alarm or app. They help you judge reliability and keep a history."
+    }
+   ],
+   "note": "Choose basic if you will check occasionally. Choose a feature clip if you track a condition with a clinician."
+  },
+  {
+   "subheading": "By User",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Older user, weak eyesight",
+      "Healthtree JKS50B",
+      "Large OLED digits"
+     ],
+     [
+      "Tracking trends over weeks",
+      "Innovo iP900BP-B",
+      "App stores readings"
+     ],
+     [
+      "Anxious about accuracy",
+      "Braun",
+      "Validation statement"
+     ],
+     [
+      "Shared by a family",
+      "Zacurate 500DL",
+      "Cover and simple controls"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Illness and Altitude Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A stable reading with a waveform or signal indicator, a warm finger and a note of how you feel. Trends matter more than a single number."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Innovo models give the best signal checks, the Contec is lightest for a pack and the Braun is the simplest validated option."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You track a medical condition, need the app or alarm, or want signal quality tools to judge a reading. The Innovo pair is built for that."
+    },
+    {
+     "label": "Save if",
+     "text": "You want an occasional spot check. The Healthtree, Contec or Zacurate cover the basics at a lower tier."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Clean the finger cavity",
+   "interval": "After each user",
+   "why": "Skin oils and sweat can cloud the sensor window. Wipe with an alcohol wipe and let it dry."
+  },
+  {
+   "task": "Replace batteries",
+   "interval": "When the display dims",
+   "why": "Low power produces erratic or slow readings. Keep a spare pair in the case."
+  },
+  {
+   "task": "Check the clip spring",
+   "interval": "Every 6 months",
+   "why": "A weak spring lets light leak and the finger move. Replace the unit if it no longer grips."
+  },
+  {
+   "task": "Compare with a clinic device",
+   "interval": "Once a year",
+   "why": "A side by side reading shows whether your clip drifts. Note any consistent difference."
+  },
+  {
+   "task": "Store in a case",
+   "interval": "After each use",
+   "why": "Dust and drops damage the sensor window. A silicone cover or pouch protects it."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is a fingertip oximeter accurate enough for home use?",
+   "a": "It is useful as a spot check and a trend aid, within known limits. Cold fingers, nail polish and movement all distort readings, so repeat with a warm still hand and follow your clinician's guidance."
+  },
+  {
+   "q": "Do I need the Innovo features or is a basic clip enough?",
+   "a": "A basic clip such as the Braun or Healthtree is enough for occasional checks. The Innovo waveform, perfusion index, alarm and app help only if you track a condition regularly."
+  },
+  {
+   "q": "Can I leave one on overnight?",
+   "a": "Fingertip clips are designed for spot checks, not for sleeping use. If overnight monitoring is needed, ask a clinician about equipment made for that purpose."
+  },
+  {
+   "q": "Does a higher price mean better accuracy?",
+   "a": "Not on its own. Price tracks features such as the app or alarm. Look for a specific validation statement and compare your clip against a clinic reading."
+  },
+  {
+   "q": "Can skin tone or nail polish affect readings?",
+   "a": "Yes. Published discussion has noted skin tone related differences, and nail polish blocks light. Use a clean bare finger and watch the trend, not a single number."
+  },
+  {
+   "q": "When should I call a doctor instead of trusting the number?",
+   "a": "If you feel short of breath, confused or unwell, seek medical help regardless of what the device shows. A reassuring number should never override symptoms."
+  }
+ ],
+ "relatedGuides": [
+  {
+   "title": "Best Heating Pads",
+   "href": "/guide/best-heating-pads"
+  },
+  {
+   "title": "Best TENS Units",
+   "href": "/guide/best-tens-units"
+  },
+  {
+   "title": "Best Electric Toothbrushes",
+   "href": "/guide/best-electric-toothbrushes"
+  },
+  {
+   "title": "Best Water Flossers",
+   "href": "/guide/best-water-flossers"
+  }
+ ]
+}

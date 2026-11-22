@@ -1,0 +1,602 @@
+{
+ "guideSlug": "best-solar-path-lights",
+ "categorySlug": "outdoor-garden",
+ "mainKeyword": "solar pathway lights",
+ "guideTitle": "Best Solar Path Lights (2026)",
+ "metaTitle": "Best Solar Path Lights",
+ "metaDescription": "Six solar pathway light sets compared on pack size, panel type, battery, colour temperature, IP rating and build for walks and garden borders.",
+ "lastUpdated": "2026-11-21",
+ "readTime": "12 min",
+ "heroImage": "https://m.media-amazon.com/images/I/51i7tDc7fpL._SL500_.jpg",
+ "expertTake": "The Mancra 8 pack with a monocrystalline panel and warm filament bulb is our top pick for a refined glow and a glass and stainless build. The GIGALUMI 12 pack is the value pick for covering a long path with the most lights per set. Skip solar path lights in a deeply shaded yard, because panels need direct daylight to charge and a shaded set will glow weakly or switch off early.",
+ "introParagraphs": [
+  "Solar path lights are stakes with a small panel, a rechargeable battery and an LED, which store sunshine by day and light up automatically at dusk. They need no wiring, which makes them the easiest way to mark a path, a border or a driveway edge.",
+  "The category is crowded with similar looking sets, so the differences that matter are panel quality, battery size, light colour, water resistance and how many lights come in the pack. We evaluated six sets from the candidate pool using spec sheets, listing details and owner feedback patterns, then ranked them by fit rather than by lumen claims."
+ ],
+ "products": [
+  {
+   "id": "B0BGN3Q58K",
+   "badge": "Best Overall",
+   "name": "Mancra 8 pack solar pathway lights, glass and metal, filament bulb, monocrystalline panel",
+   "specs": [
+    "8 pack",
+    "Monocrystalline panel",
+    "Warm filament LED",
+    "Glass and steel"
+   ],
+   "specList": [
+    {
+     "label": "Pack size",
+     "value": "8 lights"
+    },
+    {
+     "label": "Panel",
+     "value": "Monocrystalline silicon, up to 25 percent conversion per listing"
+    },
+    {
+     "label": "Light",
+     "value": "Warm white LED filament bulb"
+    },
+    {
+     "label": "Build",
+     "value": "ABS shell, glass shade, stainless steel pole"
+    },
+    {
+     "label": "Best for",
+     "value": "Attractive, warm path lighting"
+    }
+   ],
+   "description": "The Mancra set uses a monocrystalline silicon panel that the listing says reaches up to a 25 percent conversion rate, with a warm white LED filament bulb behind a glass lampshade on a stainless steel pole. The combination aims at a soft glow that resembles an old fashioned lantern.\n\nMonocrystalline panels generally charge better in weak light than the cheaper polycrystalline kind, which matters on cloudy days. The materials, ABS, glass and stainless, give a more premium look than all plastic stakes. Against the DERAYSION 8 pack, the Mancra puts emphasis on the panel and the warm filament look. Against the GIGALUMI 12 pack, it is warmer in colour but covers fewer feet of path.\n\nPlace the panels in direct sun and wipe them every few weeks. Replace the rechargeable battery after a couple of years. Owners who like the look often point out that the glass shades diffuse the light, which avoids harsh glare when you walk toward a lit path.",
+   "bestFor": "Garden paths where a warm, lantern style glow matters.",
+   "pros": [
+    "Monocrystalline panel charges better in weak light",
+    "Warm filament style bulb gives a soft glow",
+    "Glass shade and stainless pole look more premium",
+    "Eight lights suit a medium path"
+   ],
+   "cons": [
+    "Fewer lights per pack than the 10 and 12 pack sets",
+    "Glass shades can break if struck",
+    "Lower brightness than cool white lights"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0BGN3Q58K?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51i7tDc7fpL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0F31Y8BLM",
+   "badge": "Best Starlight Pattern",
+   "name": "DERAYSION 8 pack solar pathway lights, stainless steel and glass, auto on off, starlight design",
+   "specs": [
+    "8 pack",
+    "Stainless and glass",
+    "Auto on and off",
+    "Starlight pattern"
+   ],
+   "specList": [
+    {
+     "label": "Pack size",
+     "value": "8 lights"
+    },
+    {
+     "label": "Build",
+     "value": "Stainless steel and glass"
+    },
+    {
+     "label": "Sensor",
+     "value": "Dusk to dawn automatic"
+    },
+    {
+     "label": "Effect",
+     "value": "Starlight pattern on the ground"
+    },
+    {
+     "label": "Best for",
+     "value": "Decorative borders"
+    }
+   ],
+   "description": "The DERAYSION set projects a starlight pattern from its glass shades and has an automatic dusk to dawn sensor, with stainless steel and glass construction. The decorative effect makes it more of a feature light than a purely functional one.\n\nIt works best along borders and around flower beds, where the pattern adds interest, and less well along a long path where you need steady, even light. Against the Mancra, it has a similar pack size but emphasises decoration over a warm lantern glow. Against the 21 inch DERAYSION, it has a different shade design.\n\nWipe the panel and shade regularly. Check the stake for cracks before winter. Because the pattern is a ground effect, it looks best on pale gravel or paving where the shapes can be seen.",
+   "bestFor": "Decorative borders and flower beds.",
+   "pros": [
+    "Starlight pattern adds decorative interest",
+    "Stainless steel and glass construction",
+    "Automatic dusk to dawn sensor",
+    "Eight lights for a medium sized border"
+   ],
+   "cons": [
+    "Decorative effect gives less even path lighting",
+    "Fewer lights than the larger packs",
+    "Glass shades can break"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0F31Y8BLM?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/512KWmY5i4L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B01K1SETD4",
+   "badge": "Best Long Path Value",
+   "name": "GIGALUMI 12 pack solar garden lights, cold white 7000K, stainless steel, IP44",
+   "specs": [
+    "12 pack",
+    "7000K cool white",
+    "Stainless steel",
+    "IP44"
+   ],
+   "specList": [
+    {
+     "label": "Pack size",
+     "value": "12 lights"
+    },
+    {
+     "label": "Colour",
+     "value": "7000K cool white"
+    },
+    {
+     "label": "Build",
+     "value": "Stainless steel, transparent shade"
+    },
+    {
+     "label": "Water resistance",
+     "value": "IP44"
+    },
+    {
+     "label": "Best for",
+     "value": "Long paths and driveways"
+    }
+   ],
+   "description": "The GIGALUMI set gives you twelve lights with a 7000K cool white LED, stainless steel bodies and an integrated lamp head with a transparent shade. The IP44 rating means it resists splashing water, which is adequate for rain and sprinklers but not for heavy flooding.\n\nCool white at 7000K is bright and clinical, which suits driveways and security style lighting more than a cosy garden. Twelve lights cover a long path at a lower cost per light than the eight packs. Against the Mancra, the GIGALUMI has more lights and a cooler colour. Against the BITPOTT, it has a lower IP rating but more units.\n\nWipe the panels and check connections after storms. Replace batteries after a couple of years. Because there are so many in the pack, you can also use a few to mark steps or a gate and still cover the main path.",
+   "bestFor": "Long paths and driveways where coverage matters more than ambience.",
+   "pros": [
+    "Twelve lights cover a long path in one set",
+    "7000K cool white is bright and clear",
+    "Stainless steel bodies resist rust",
+    "Low price tier per light"
+   ],
+   "cons": [
+    "Cool white feels clinical in a garden",
+    "IP44 is lower than the IP65 sets",
+    "Plain design is less decorative"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B01K1SETD4?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41VO40MNdGL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0C5RFY7TW",
+   "badge": "Best Two Mode",
+   "name": "XMCOSY+ 6 pack solar pathway lights, 2 brightness modes, IP65, glass and stainless, bronze finish",
+   "specs": [
+    "6 pack",
+    "2 modes",
+    "IP65",
+    "Bronze stainless"
+   ],
+   "specList": [
+    {
+     "label": "Pack size",
+     "value": "6 lights"
+    },
+    {
+     "label": "Modes",
+     "value": "2 brightness modes"
+    },
+    {
+     "label": "Water resistance",
+     "value": "IP65"
+    },
+    {
+     "label": "Build",
+     "value": "Bronze stainless steel, bubble glass"
+    },
+    {
+     "label": "Best for",
+     "value": "Warm, adjustable path lighting"
+    }
+   ],
+   "description": "The XMCOSY+ set has two brightness modes, an IP65 rating and a bronze finished stainless body with thick bubble glass over a warm white LED filament. The street lamp style glow suits traditional gardens.\n\nTwo brightness modes let you choose a brighter setting for security or a dimmer one to save battery and keep the garden relaxed. IP65 means the lights resist jets of water, a step above IP44. Against the Mancra, the XMCOSY+ has fewer lights and a mode switch. Against the BITPOTT, it uses a bronze finish and glass.\n\nCheck the mode switch after rain and wipe the panels. Replace worn seals. If you light a front walk, the brighter mode is useful when guests arrive, and the dimmer mode keeps battery in reserve.",
+   "bestFor": "Traditional gardens that want warm light with a brightness choice.",
+   "pros": [
+    "Two brightness modes balance glow and battery life",
+    "IP65 rating resists jets of water",
+    "Bronze stainless steel and bubble glass look classic",
+    "Warm white filament glow"
+   ],
+   "cons": [
+    "Only six lights in the pack",
+    "Higher price tier per light",
+    "Bubble glass can crack if struck"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0C5RFY7TW?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/410hx3TAhbL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0BV1KVY19",
+   "badge": "Best Runtime Claim",
+   "name": "BITPOTT 8 pack solar pathway lights, warm white, IP65, 11 to 24 hour runtime, geometric shades",
+   "specs": [
+    "8 pack",
+    "Warm white",
+    "IP65",
+    "11 to 24 h runtime"
+   ],
+   "specList": [
+    {
+     "label": "Pack size",
+     "value": "8 lights"
+    },
+    {
+     "label": "Colour",
+     "value": "Warm white"
+    },
+    {
+     "label": "Water resistance",
+     "value": "IP65"
+    },
+    {
+     "label": "Runtime claim",
+     "value": "11 to 24 hours on a full charge"
+    },
+    {
+     "label": "Best for",
+     "value": "Flower beds and patio edges"
+    }
+   ],
+   "description": "The BITPOTT set offers eight warm white lights with geometric shades, IP65 housings and a stated runtime of 11 to 24 hours on a full charge. The wide runtime range reflects the difference between a sunny and a poor day of charging.\n\nA claim of up to 24 hours depends on strong sun, and a dim winter day will give much less, so treat the range as a best case. Against the XMCOSY+, the BITPOTT gives more lights, and against the GIGALUMI it uses warm light and a higher IP rating. The geometric shades outline paths and flower beds crisply.\n\nKeep the panels clear of leaves and wipe them regularly. Replace batteries when runtime drops. Owners who live in a very sunny region tend to see the longest glow, while shaded beds see far less.",
+   "bestFor": "Flower beds and patio edges that need warm outlining light.",
+   "pros": [
+    "Warm white light suits gardens and patios",
+    "IP65 housings resist rain and sprays",
+    "Stated runtime of 11 to 24 hours on a full charge",
+    "Eight lights in the pack"
+   ],
+   "cons": [
+    "Runtime claim is a best case figure",
+    "Geometric shades collect dust and insects",
+    "Less brand history than established makers"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0BV1KVY19?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51ZV+rddUkL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B09W1WL9T8",
+   "badge": "Best Budget Pack",
+   "name": "Eyrosa 10 pack solar stake lights, stainless steel, waterproof, polycrystalline panel",
+   "specs": [
+    "10 pack",
+    "Polycrystalline panel",
+    "Stainless steel",
+    "Auto on and off"
+   ],
+   "specList": [
+    {
+     "label": "Pack size",
+     "value": "10 lights"
+    },
+    {
+     "label": "Panel",
+     "value": "Polycrystalline silicon"
+    },
+    {
+     "label": "Build",
+     "value": "Stainless steel"
+    },
+    {
+     "label": "Sensor",
+     "value": "Automatic on and off"
+    },
+    {
+     "label": "Best for",
+     "value": "Budget path coverage"
+    }
+   ],
+   "description": "The Eyrosa set provides ten stainless steel stake lights with a polycrystalline panel and an automatic on and off sensor. Installation is simple: no switch, no wiring, and you push the stake into the ground.\n\nPolycrystalline panels are less efficient than monocrystalline ones, so these lights charge more slowly and may glow for fewer hours after a cloudy day. Ten lights at a low price make it a pragmatic choice for a long path. Against the Mancra, it is cheaper and plainer, and against the GIGALUMI it offers fewer lights.\n\nWipe the panels and check the stake joints. Replace the battery after a couple of years. Plan a first season of use before deciding whether to upgrade the panel type on a larger purchase.",
+   "bestFor": "Budget buyers who need many lights for a long path.",
+   "pros": [
+    "Ten lights for a long path at a low price tier",
+    "Stainless steel body resists rust",
+    "No wiring or switch needed",
+    "Automatic on and off"
+   ],
+   "cons": [
+    "Polycrystalline panel charges less efficiently",
+    "Plain design is less decorative",
+    "Runtime suffers after cloudy days"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B09W1WL9T8?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51UlBqI2ANL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Panel type and size",
+   "explanation": "Monocrystalline panels, as on the Mancra, convert sunlight more efficiently than polycrystalline panels, as on the Eyrosa, which helps on cloudy days. A small panel on a stake can only collect a small amount of energy, so full sun placement matters more than any claim. The usual buyer mistake is placing lights in the shade of a hedge and then blaming the product for dim output."
+  },
+  {
+   "criterion": "Battery capacity",
+   "explanation": "The battery stores the day's charge. Listings quote mAh figures, such as the 900 mAh battery on the 21 inch DERAYSION, and a larger battery can keep the light on longer. Rechargeable cells lose capacity after a year or two, so replaceable batteries extend life. Test your site for hours of direct sun before buying, because a panel in four hours of sun will charge very differently from one in eight."
+  },
+  {
+   "criterion": "Pack size and spacing",
+   "explanation": "Pack size decides how far the set stretches. Eight lights suit a medium path, twelve a long one. Space lights close enough that pools of light overlap, and avoid putting them so close that they glare. Consider how the stake pushes into your soil, since hard clay and gravel bend thin stakes and soft sand lets them lean."
+  },
+  {
+   "criterion": "Colour temperature",
+   "explanation": "Warm white, around 2700 to 3000K, is soft and flattering for gardens, and cool white such as the GIGALUMI 7000K is brighter and more clinical. Choose warm for ambience and cool for security and driveways. Pick a height that clears your plants, because a short light is hidden by summer growth and a tall one can look out of scale."
+  },
+  {
+   "criterion": "Water resistance",
+   "explanation": "IP44 resists splashes, as on the GIGALUMI, and IP65 resists jets of water, as on the XMCOSY+ and BITPOTT. Seals fail over time, so IP65 sets last longer in rain and snow. Think about maintenance: a set with replaceable batteries can be revived for a few cents, whereas sealed units go to waste."
+  },
+  {
+   "criterion": "Materials and brightness modes",
+   "explanation": "Stainless steel and glass look better and resist UV, while cheap plastic fades and cracks. Brightness modes, as on the XMCOSY+, let you balance glow and runtime. Check that the stake is thick enough to survive being pushed into hard soil. Check that the sensor is not shaded by the light's own shade, because that makes some models switch on in daylight."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Monocrystalline vs polycrystalline",
+   "meaning": "Two types of silicon solar panel. Monocrystalline is more efficient and costs more.",
+   "watchFor": "The Mancra lists monocrystalline and the Eyrosa polycrystalline."
+  },
+  {
+   "spec": "mAh",
+   "meaning": "The battery capacity in milliamp hours. A higher number can power the light for longer.",
+   "watchFor": "The 21 inch DERAYSION lists 900 mAh, but real runtime depends on charge."
+  },
+  {
+   "spec": "IP rating",
+   "meaning": "An ingress protection code for dust and water. IP44 resists splashes and IP65 resists water jets.",
+   "watchFor": "The GIGALUMI is IP44 and the XMCOSY+ is IP65, so compare before choosing."
+  },
+  {
+   "spec": "Colour temperature (K)",
+   "meaning": "The warmth of the light in kelvin. Lower numbers are warmer and yellower, and higher numbers are cooler and bluer.",
+   "watchFor": "The GIGALUMI lists 7000K, which is very cool."
+  },
+  {
+   "spec": "Dusk to dawn sensor",
+   "meaning": "A light sensor that switches the lamp on when it gets dark and off in daylight.",
+   "watchFor": "Nearby streetlights can confuse the sensor, so place lights away from them."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Panel and battery",
+   "description": "We compared monocrystalline and polycrystalline panels and the 900 mAh battery listed on one DERAYSION set. We did not run charging tests and we treat conversion claims as maker statements. Owner feedback patterns about early battery failure and cracked shades shaped our view of lifetime."
+  },
+  {
+   "title": "Light quality",
+   "description": "We looked at warm white filament bulbs against 7000K cool white LEDs. Colour fit for gardens versus driveways shaped the scores. We treated lumen and runtime claims as maker figures and compared them only within the same pack type."
+  },
+  {
+   "title": "Build and weather",
+   "description": "We weighed stainless steel, glass and ABS construction and IP44 against IP65 water resistance. Better seals and materials scored higher. Where a listing named the panel material we gave credit for efficiency, and where it did not we assumed an ordinary panel."
+  },
+  {
+   "title": "Pack value",
+   "description": "We considered pack sizes from six to twelve lights and what they cover. More lights per set scored well for long paths. We compared pack sizes by what a typical path needs, not by the largest number on offer."
+  },
+  {
+   "title": "Ownership",
+   "description": "We reviewed battery replacement, panel cleaning and owner feedback patterns about early failure and glass breakage. Sets with replaceable parts scored higher. Colour temperature was judged against use: warm for gardens, cool for security."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Path Type",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Garden path",
+      "Mancra 8 pack",
+      "Warm glow and monocrystalline panel"
+     ],
+     [
+      "Long driveway",
+      "GIGALUMI 12 pack",
+      "Twelve bright lights"
+     ],
+     [
+      "Flower beds",
+      "BITPOTT",
+      "Warm light and IP65"
+     ],
+     [
+      "Decorative border",
+      "DERAYSION starlight",
+      "Pattern effect"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest tier",
+      "Eyrosa 10 pack",
+      "Many lights"
+     ],
+     [
+      "Low tier",
+      "GIGALUMI 12 pack",
+      "Largest pack"
+     ],
+     [
+      "Mid tier",
+      "BITPOTT or DERAYSION",
+      "Eight lights with IP65 or pattern"
+     ],
+     [
+      "Upper tier",
+      "Mancra or XMCOSY+",
+      "Better panel or finish"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Warm White vs Cool White",
+   "cards": [
+    {
+     "label": "Warm white",
+     "text": "The Mancra, XMCOSY+ and BITPOTT give a soft, inviting glow that suits gardens and patios."
+    },
+    {
+     "label": "Cool white",
+     "text": "The GIGALUMI is brighter and clearer, which suits driveways and security."
+    }
+   ],
+   "note": "Choose warm for ambience and cool for visibility."
+  },
+  {
+   "subheading": "By Climate",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Rainy climate",
+      "XMCOSY+ or BITPOTT",
+      "IP65"
+     ],
+     [
+      "Cloudy region",
+      "Mancra",
+      "Monocrystalline panel"
+     ],
+     [
+      "Sunny region",
+      "Eyrosa",
+      "Polycrystalline is enough"
+     ],
+     [
+      "Winter use",
+      "Mancra",
+      "Better charging in weak light"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Pathways Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Even spacing, a warm colour, a panel facing open sky and a stake that goes in firmly. Overlapping pools of light give a safe path."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Mancra gives the best glow, and the GIGALUMI covers the longest distance."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You want a better panel, a nicer finish or IP65 seals. The Mancra and XMCOSY+ justify the tier."
+    },
+    {
+     "label": "Save if",
+     "text": "You need many lights on a budget. The Eyrosa or GIGALUMI cover long paths."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Wipe the solar panels",
+   "interval": "Every few weeks",
+   "why": "Dust and pollen block sunlight and reduce charging. A damp cloth restores output."
+  },
+  {
+   "task": "Replace the battery",
+   "interval": "Every 1 to 2 years",
+   "why": "Rechargeable cells lose capacity. A fresh battery restores runtime."
+  },
+  {
+   "task": "Check the stake and seals",
+   "interval": "Each season",
+   "why": "Frost and impacts crack stakes and seals. Replace any damaged unit."
+  },
+  {
+   "task": "Turn off or bring in for winter",
+   "interval": "In deep winter",
+   "why": "Short days and cold drain batteries. Storing indoors preserves them."
+  },
+  {
+   "task": "Trim plants around lights",
+   "interval": "Monthly in season",
+   "why": "Leaves shade the panel and block the glow. Keep the area clear."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Do solar path lights work in winter?",
+   "a": "Yes, but with shorter runtime, because days are short and sun is weak. A monocrystalline panel like the Mancra helps, and clearing snow from panels matters. Many owners say a few lights near the front door and fewer along the rest of the path look better than an even row."
+  },
+  {
+   "q": "How far apart should I space them?",
+   "a": "Space them so that pools of light overlap on the path. Closer spacing gives more even light, while wider spacing gives scattered pools. Wipe the panels before winter so they start the season clean."
+  },
+  {
+   "q": "Why do my lights switch off early?",
+   "a": "A dirty panel, weak sun or an old battery are the usual causes. Clean the panel, move it to a sunnier spot and replace the battery if it is old. If a light stays on during the day, check that the panel is not covered by plastic film from the box."
+  },
+  {
+   "q": "Is IP65 worth paying for?",
+   "a": "In rainy climates, yes, because it resists jets of water. IP44 lights like the GIGALUMI cope with splashes but may fail sooner in heavy rain. Avoid placing lights where sprinklers hit them directly, since repeated soaking shortens seal life."
+  },
+  {
+   "q": "Are brighter lights better?",
+   "a": "Not always. Very bright cool white can glare, while warm white gives a gentler path. Brightness also drains the battery faster. Tilt the panel toward the south in the northern hemisphere, if the model allows adjustment."
+  },
+  {
+   "q": "How long do solar path lights last?",
+   "a": "Many last several years, with the battery and seals as the first parts to fail. Replace batteries and keep panels clean. Stakes can be pushed in more easily after rain, when the soil is soft."
+  }
+ ],
+ "relatedGuides": [
+  {
+   "title": "Best Patio Umbrellas",
+   "href": "/guide/best-patio-umbrellas"
+  },
+  {
+   "title": "Best Fire Pits",
+   "href": "/guide/best-fire-pits"
+  },
+  {
+   "title": "Best Camping Tents",
+   "href": "/guide/best-camping-tents"
+  },
+  {
+   "title": "Best Coolers",
+   "href": "/guide/best-coolers"
+  }
+ ]
+}

@@ -1,0 +1,602 @@
+{
+ "guideSlug": "best-string-trimmers",
+ "categorySlug": "outdoor-garden",
+ "mainKeyword": "cordless string trimmer",
+ "guideTitle": "Best String Trimmers (2026)",
+ "metaTitle": "Best String Trimmers",
+ "metaDescription": "Six string trimmers compared on swath, line feed, trimmer and edger conversion, battery voltage, runtime, weight and combo kits, with picks by yard size.",
+ "lastUpdated": "2026-11-21",
+ "readTime": "12 min",
+ "heroImage": "https://m.media-amazon.com/images/I/410YfrWne-L._SL500_.jpg",
+ "expertTake": "The EGO Power+ combo with a 15 inch trimmer and 670 CFM blower is our top pick for a high power battery system that tackles both trimming and cleanup. The WORX WG163 is the value pick for a light 2-in-1 trimmer and edger with a simple push button line feed. Skip a battery trimmer if you clear dense brush or acreage, because a gas model or a brush cutter handles heavy growth and long sessions better.",
+ "introParagraphs": [
+  "A string trimmer spins a nylon line at the end of a shaft to cut grass and weeds where a mower cannot reach, along fences, walls, beds and walks. A trimmer that converts into an edger also cuts clean lines along a driveway or border.",
+  "Battery models now cover most home trimming, but runtime, swath width and line feed design still separate them. We evaluated six models from the candidate pool using spec sheets, listing details and owner feedback patterns, then ranked them by fit for yard type rather than by marketing claims."
+ ],
+ "products": [
+  {
+   "id": "B0DY92S2VF",
+   "badge": "Best Overall",
+   "name": "EGO Power+ combo, 15 inch string trimmer ST6703 with 670 CFM leaf blower",
+   "specs": [
+    "15 inch swath",
+    "670 CFM blower",
+    "Battery combo kit",
+    "Turbo mode"
+   ],
+   "specList": [
+    {
+     "label": "Trimmer swath",
+     "value": "15 inch"
+    },
+    {
+     "label": "Blower",
+     "value": "670 CFM with turbo mode"
+    },
+    {
+     "label": "Platform",
+     "value": "EGO Power+ battery system"
+    },
+    {
+     "label": "Kit",
+     "value": "Trimmer and blower combo"
+    },
+    {
+     "label": "Best for",
+     "value": "Larger yards and all around cleanup"
+    }
+   ],
+   "description": "The EGO combo pairs a 15 inch string trimmer with a 670 CFM leaf blower on a shared battery platform. A 15 inch swath is wider than most home trimmers at 12 to 14 inches, which cuts the number of passes along a long fence line.\n\nThe blower has a turbo mode for wet leaves and debris, which makes the pair a complete yard cleanup kit. Against the CRAFTSMAN V20, the EGO is more powerful and more expensive, and it sits on a higher voltage system. Against the Greenworks 40V combo, the EGO offers a wider swath and a stronger blower.\n\nStore the batteries indoors and replace the line when it frays. Wipe grass from the shaft and check the guard for damage. Owners of higher voltage trimmers often say the difference shows in thick, wet weeds, where lower voltage motors bog down and the line slows to a crawl.",
+   "bestFor": "Larger yards where a wide swath and a strong blower both matter.",
+   "pros": [
+    "15 inch swath cuts fewer passes along long edges",
+    "670 CFM blower with turbo mode clears wet debris",
+    "High voltage battery system powers through thick weeds",
+    "Shared battery with other EGO tools"
+   ],
+   "cons": [
+    "Upper price tier for a trimmer and blower pair",
+    "Heavier than a 20V trimmer",
+    "Batteries are an extra cost if not in the kit"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0DY92S2VF?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/410YfrWne-L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0GFYJ2WYD",
+   "badge": "Best Runtime Value",
+   "name": "CRAFTSMAN V20 13 inch string trimmer and edger kit, 4Ah battery, up to 63 minutes",
+   "specs": [
+    "13 inch swath",
+    "4Ah battery",
+    "Up to 63 min",
+    "2-in-1 edger"
+   ],
+   "specList": [
+    {
+     "label": "Swath",
+     "value": "13 inch"
+    },
+    {
+     "label": "Battery",
+     "value": "V20, 4Ah"
+    },
+    {
+     "label": "Runtime",
+     "value": "Up to 63 minutes per the listing"
+    },
+    {
+     "label": "Function",
+     "value": "Trimmer and lawn edger"
+    },
+    {
+     "label": "Best for",
+     "value": "Medium yards"
+    }
+   ],
+   "description": "The CRAFTSMAN V20 trimmer has a 13 inch swath, a 4Ah battery and a stated runtime of up to 63 minutes. The listing says the motor has 52 percent more power than the maker's prior model, a comparison that does not say how it ranks against other brands.\n\nA 4Ah battery gives a generous runtime for a 20V tool, and the trimmer converts into an edger. Against the WORX WG163, it has more swath and a larger battery. Against the EGO combo, it has lower voltage and a lower tier. If you already own V20 tools, the platform fit is a plus.\n\nCharge the battery after use and replace the line spool as needed. Keep the shaft clean. The same battery fits a range of V20 tools, so a second pack can be shared with a drill or a blower if you already own them.",
+   "bestFor": "Medium yards and owners of other V20 tools.",
+   "pros": [
+    "Up to 63 minutes of stated runtime on a 4Ah battery",
+    "13 inch swath cuts wider than 12 inch trimmers",
+    "Converts into an edger",
+    "Shares the widely sold V20 battery platform"
+   ],
+   "cons": [
+    "20V power is less than 40V and 56V systems",
+    "Runtime claims depend on line and grass",
+    "Not suited to dense brush"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0GFYJ2WYD?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/319iRALbrOL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B018S68U40",
+   "badge": "Best Light 2-in-1",
+   "name": "WORX WG163 20V 12 inch cordless string trimmer and edger with Command Feed",
+   "specs": [
+    "12 inch swath",
+    "2-in-1 edger",
+    "Command Feed",
+    "20V battery"
+   ],
+   "specList": [
+    {
+     "label": "Swath",
+     "value": "12 inch"
+    },
+    {
+     "label": "Feed",
+     "value": "Command Feed push button"
+    },
+    {
+     "label": "Function",
+     "value": "Trimmer and edger"
+    },
+    {
+     "label": "Platform",
+     "value": "WORX 20V"
+    },
+    {
+     "label": "Best for",
+     "value": "Small yards"
+    }
+   ],
+   "description": "The WORX WG163 is a 12 inch trimmer and edger with a Command Feed spool that releases line when you push a button. Converting to an edger takes a pivot of the head.\n\nThe push button feed is simpler than a bump feed, because you do not tap the head on the ground. The 12 inch swath and 20V battery suit small yards and light weeds. Against the CRAFTSMAN V20, it is lighter and cheaper but has less runtime. Against the BLACK+DECKER corded unit, it frees you from a cord.\n\nReplace the line spool when empty and clean the guard. Charge the battery after each use. The pivoting head is a simple mechanism, but check that the lock clicks firmly each time you change modes.",
+   "bestFor": "Small yards and users who want a light, simple trimmer.",
+   "pros": [
+    "Command Feed releases line with a push button",
+    "Converts to an edger by pivoting the head",
+    "Light and easy for small yards",
+    "Shares the WORX 20V battery with many tools"
+   ],
+   "cons": [
+    "12 inch swath needs more passes",
+    "20V battery limits runtime on thick growth",
+    "Lower power than higher voltage rivals"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B018S68U40?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41Lqi2bnYqL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B01CA4PS8C",
+   "badge": "Best Combo Value",
+   "name": "Greenworks 40V 12 inch string trimmer and leaf blower combo, 2Ah battery",
+   "specs": [
+    "40V",
+    "12 inch swath",
+    "Auto feed",
+    "Blower included"
+   ],
+   "specList": [
+    {
+     "label": "Voltage",
+     "value": "40V"
+    },
+    {
+     "label": "Swath",
+     "value": "12 inch, 0.065 inch line"
+    },
+    {
+     "label": "Feed",
+     "value": "Auto feed"
+    },
+    {
+     "label": "Kit",
+     "value": "Trimmer and blower with 2Ah battery"
+    },
+    {
+     "label": "Best for",
+     "value": "Edges and driveways"
+    }
+   ],
+   "description": "The Greenworks combo includes a 12 inch auto feed trimmer using 0.065 inch line and a blower on a 40V platform with a 2Ah battery. The listing says it slices through weeds up to an inch thick along fences and walks.\n\nThe 2Ah battery is small, so runtime is modest for a combo, and it suits quick edge work. Against the EGO combo, the Greenworks has a narrower swath and less power but a lower tier. Against the CRAFTSMAN V20, it offers a blower in the kit and a 40V system.\n\nCharge the battery fully before use. Replace the line spool and wipe the blower intake. Because the battery is small, many owners keep the blower for last so a half charge still finishes the cleanup.",
+   "bestFor": "Driveways and edges where a blower helps cleanup.",
+   "pros": [
+    "Includes both a trimmer and a blower",
+    "Auto feed line removes the need to bump the head",
+    "40V platform has a broad tool range",
+    "Lower tier than the EGO combo"
+   ],
+   "cons": [
+    "2Ah battery limits runtime",
+    "12 inch swath is narrower than the EGO",
+    "Blower power is lower than the EGO"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B01CA4PS8C?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41eT6zqjlyL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0HP6NZHTZ",
+   "badge": "Best Multi Function",
+   "name": "WeGofly 13 inch 4-in-1 cordless trimmer, edger, mini mower, brush cutter, 2 x 6.0Ah",
+   "specs": [
+    "13 inch swath",
+    "4 in 1",
+    "2 x 6.0Ah batteries",
+    "21V platform"
+   ],
+   "specList": [
+    {
+     "label": "Swath",
+     "value": "13 inch"
+    },
+    {
+     "label": "Functions",
+     "value": "Trimmer, edger, mini mower and brush cutter"
+    },
+    {
+     "label": "Batteries",
+     "value": "2 x 6.0Ah, 21V"
+    },
+    {
+     "label": "Charger",
+     "value": "Matched charger included"
+    },
+    {
+     "label": "Best for",
+     "value": "Varied small jobs"
+    }
+   ],
+   "description": "The WeGofly is a 13 inch trimmer that converts into an edger, a mini mower and a brush cutter, with two 21V 6.0Ah batteries and a charger. Two large batteries give long runtime for a 20V class tool.\n\nThe multi tool approach appeals to someone who wants one tool for different jobs, though each conversion is a compromise compared with a dedicated tool. Against the WORX WG163, it has more functions and batteries. Against the EGO combo, it is less powerful and uses a less established platform.\n\nLearn the attachments before you need them and store them in one place. Charge both batteries after heavy use. Treat the brush cutter blade as occasional use, since it is a safety item that needs the guard fitted properly.",
+   "bestFor": "Users who want one tool for several small yard jobs.",
+   "pros": [
+    "Two 6.0Ah batteries provide long runtime",
+    "4 in 1 conversion covers trimming, edging and more",
+    "13 inch swath cuts wider than 12 inch rivals",
+    "Matched charger is included"
+   ],
+   "cons": [
+    "Each mode is a compromise compared with a dedicated tool",
+    "Less established brand and battery platform",
+    "Heavy when fitted with large batteries"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0HP6NZHTZ?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51tNISF-aOL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B077Z78YQX",
+   "badge": "Best Corded Budget",
+   "name": "BLACK+DECKER 14 inch corded 2-in-1 string trimmer and edger, 6.5 amp, auto feed",
+   "specs": [
+    "14 inch swath",
+    "6.5 amp corded",
+    "Auto feed",
+    "Wheeled edger"
+   ],
+   "specList": [
+    {
+     "label": "Swath",
+     "value": "14 inch"
+    },
+    {
+     "label": "Power",
+     "value": "6.5 amp corded"
+    },
+    {
+     "label": "Feed",
+     "value": "Automatic feed spool"
+    },
+    {
+     "label": "Edger",
+     "value": "Wheeled edge guide"
+    },
+    {
+     "label": "Best for",
+     "value": "Small yards near an outlet"
+    }
+   ],
+   "description": "The BLACK+DECKER is a corded 14 inch trimmer with a 6.5 amp motor, automatic feed spool and a wheeled edge guide that you get by rotating the head. It never runs out of battery.\n\nA cord limits range, and you must manage the cord around plants. For a small yard within reach of an outlet, that is a fair trade for lower cost and unlimited runtime. Against the WORX WG163, it has a wider swath but no battery freedom. Against the EGO combo, it is lighter and cheaper.\n\nUse a rated extension cord and keep it clear of the line. Replace the spool when empty. A cord with a bright colour is easier to see against grass, which helps you avoid cutting it by accident.",
+   "bestFor": "Small yards near an outdoor outlet.",
+   "pros": [
+    "Corded power never runs out of battery",
+    "14 inch swath is the widest in the budget group",
+    "Automatic feed spool and wheeled edge guide",
+    "Lowest price tier"
+   ],
+   "cons": [
+    "Cord limits range and must be managed",
+    "Corded tools need a nearby outlet",
+    "Less convenient than battery models"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B077Z78YQX?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31QRh4avTFL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Cutting swath",
+   "explanation": "Swath is the diameter of the cutting circle. The EGO offers 15 inches, the CRAFTSMAN 13 and the WORX 12. A wider swath cuts faster but takes more power. For thick weeds, a narrower swath with more torque can be better. The usual buyer mistake is chasing the widest swath and ending up with a heavy tool that tires the arm after ten minutes."
+  },
+  {
+   "criterion": "Line feed design",
+   "explanation": "Bump feed requires tapping the head, auto feed releases line on demand and push button feed, like WORX Command Feed, is controlled by you. Auto feed is convenient but can waste line. A push button is simple for small jobs. If your yard has many obstacles, a smaller swath that you can steer precisely often beats a wide one."
+  },
+  {
+   "criterion": "Trimmer and edger conversion",
+   "explanation": "A trimmer that pivots into an edger cuts clean lines along walks. The WORX, CRAFTSMAN and BLACK+DECKER all convert, and the WeGofly goes further. A wheeled guide helps keep a straight line. Line diameter matters, because thicker line cuts tougher weeds but needs a stronger motor to spin it."
+  },
+  {
+   "criterion": "Battery voltage and capacity",
+   "explanation": "A 20V 4Ah battery gives roughly an hour of light trimming, while 40V and higher platforms add power for thick weeds. Two batteries, as in the WeGofly kit, extend sessions. See our guide on battery voltage and amp hours for details. Look for a head that accepts replacement line in a quick load design, since rethreading a spool is the most irritating chore."
+  },
+  {
+   "criterion": "Weight and balance",
+   "explanation": "A trimmer is held at arm's length, so weight matters. A battery at the back balances the head, and a shoulder strap helps for longer jobs. A heavy unit tires you quickly. A rubber grip and a second handle angle reduce fatigue far more than a few extra volts."
+  },
+  {
+   "criterion": "Combo kits and ecosystem",
+   "explanation": "A combo with a blower, like the EGO and Greenworks, saves money if you need both tools. The battery platform decides what else you can add. Corded models avoid battery costs but limit range. If you already own tools from one battery platform, staying with it usually saves more money than any single feature."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Swath width",
+   "meaning": "The diameter of the circle the line cuts. A wider circle covers more ground per pass.",
+   "watchFor": "The EGO lists 15 inches, so check that your weeds are not too thick for the motor."
+  },
+  {
+   "spec": "Command Feed",
+   "meaning": "A push button spool that releases fresh line on demand.",
+   "watchFor": "WORX uses it, so keep spare spools on hand."
+  },
+  {
+   "spec": "CFM",
+   "meaning": "Cubic feet per minute of air from a blower. Higher CFM moves more debris.",
+   "watchFor": "The EGO blower lists 670 CFM, so read our blower guide for CFM versus MPH."
+  },
+  {
+   "spec": "Ah rating",
+   "meaning": "Amp hours describe battery capacity. More Ah gives longer runtime.",
+   "watchFor": "The WeGofly lists 6.0Ah at 21V, so compare watt hours with other platforms."
+  },
+  {
+   "spec": "Amp rating",
+   "meaning": "The current a corded motor draws, a rough power measure. Higher amps mean more power.",
+   "watchFor": "The BLACK+DECKER lists 6.5 amps, but swath and line matter too."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Power and swath",
+   "description": "We compared swath from 12 to 15 inches and platform voltage from 20V to the EGO system. We favoured a match between power and the swath width. Owner feedback patterns about spool jams and line waste were more telling than advertised feed names."
+  },
+  {
+   "title": "Runtime and batteries",
+   "description": "We looked at stated runtimes such as 63 minutes on the CRAFTSMAN and two 6.0Ah packs on the WeGofly. We did not time our own runs. We checked whether the head spins under load by comparing stated motor type and voltage."
+  },
+  {
+   "title": "Line feed and edging",
+   "description": "We weighed push button, auto and bump feed designs and edger conversion. Simple feed systems scored higher for casual use. Where a kit included extra batteries we treated them as part of the value, not a bonus."
+  },
+  {
+   "title": "Combo value",
+   "description": "We considered the EGO and Greenworks blower combos against standalone trimmers. A useful second tool scored higher. We also compared how much of each guide's advice applies to both lawn edges and weedy fence lines."
+  },
+  {
+   "title": "Weight and ownership",
+   "description": "We checked balance, battery platform support and owner feedback patterns about spool jams. Established platforms scored higher. Warranty length and parts availability were taken into account for each brand."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Yard Size",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Small yard",
+      "WORX WG163",
+      "Light and simple"
+     ],
+     [
+      "Medium yard",
+      "CRAFTSMAN V20",
+      "Long runtime"
+     ],
+     [
+      "Large yard",
+      "EGO combo",
+      "15 inch swath"
+     ],
+     [
+      "Near an outlet",
+      "BLACK+DECKER corded",
+      "Unlimited runtime"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest tier",
+      "BLACK+DECKER corded",
+      "No battery cost"
+     ],
+     [
+      "Low tier",
+      "WORX WG163",
+      "Light 20V"
+     ],
+     [
+      "Mid tier",
+      "CRAFTSMAN or Greenworks combo",
+      "Runtime or blower"
+     ],
+     [
+      "Upper tier",
+      "EGO combo",
+      "Power and blower"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Corded vs Battery",
+   "cards": [
+    {
+     "label": "Corded",
+     "text": "The BLACK+DECKER never runs out but needs an outlet and cord management."
+    },
+    {
+     "label": "Battery",
+     "text": "The WORX, CRAFTSMAN, EGO and others give freedom at the cost of runtime and battery price."
+    }
+   ],
+   "note": "Choose corded for small yards near power and battery for freedom."
+  },
+  {
+   "subheading": "By Task",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Driveway edging",
+      "WORX WG163",
+      "Edger conversion"
+     ],
+     [
+      "Thick weeds",
+      "EGO combo",
+      "High voltage"
+     ],
+     [
+      "Varied small jobs",
+      "WeGofly",
+      "4 in 1"
+     ],
+     [
+      "Trimming plus cleanup",
+      "Greenworks combo",
+      "Blower included"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Edging Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A wheeled edge guide, a pivoting head and enough power to cut grass roots. Keep the line near the edge."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The WORX and BLACK+DECKER convert easily, and the CRAFTSMAN adds a larger battery."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You trim a large yard weekly or need a blower. The EGO combo is built for that."
+    },
+    {
+     "label": "Save if",
+     "text": "You trim a small yard occasionally. The WORX or BLACK+DECKER are enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Replace the line",
+   "interval": "As needed",
+   "why": "Worn or short line cuts poorly and strains the motor. Use the line diameter the maker lists. Rewind the line neatly so it does not tangle."
+  },
+  {
+   "task": "Clean the guard and head",
+   "interval": "After each use",
+   "why": "Grass wraps around the head and hides wear. Clear it when the battery is removed. A soft brush clears dust from the vents."
+  },
+  {
+   "task": "Store the battery indoors",
+   "interval": "Off season",
+   "why": "Extreme temperatures shorten life. Store at partial charge. Spray the shaft joint lightly with silicone."
+  },
+  {
+   "task": "Check the spool and feed",
+   "interval": "Monthly",
+   "why": "Tangled line jams the feed. Rewind it neatly. Check the guard hardware is tight."
+  },
+  {
+   "task": "Inspect the shaft and cord",
+   "interval": "Each season",
+   "why": "Cracks and frays are safety issues. Replace damaged parts. Keep the plug and cord dry. Replace a cracked guard before you use the trimmer again, because it protects your legs from flying debris."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is 20V enough for a string trimmer?",
+   "a": "For light weeds and lawn edges, yes. For thick growth, a 40V or higher system like the EGO has more power. Many owners say a quick spray of silicone on the line reduces sticking in damp weather."
+  },
+  {
+   "q": "Do I need a trimmer that converts to an edger?",
+   "a": "It is useful if you cut walks and borders. Conversion models like the WORX WG163 handle both jobs. Cut dry grass whenever you can, since wet clippings clog the guard and slow the head."
+  },
+  {
+   "q": "How long should the line be?",
+   "a": "Use the diameter listed by the maker, and cut it to the length the guard allows. Overlong line strains the motor. Keep a spare spool in the shed so a failed feed does not end the job."
+  },
+  {
+   "q": "Corded or battery?",
+   "a": "Corded never runs out but limits range, while battery gives freedom. Choose based on your yard layout. Hold the trimmer so that the head is parallel to the ground for an even cut."
+  },
+  {
+   "q": "How do I avoid damaging trees?",
+   "a": "Keep the line away from bark and use a guard or mulch ring. Repeated contact can girdle a young tree. Always disconnect the battery before clearing line from the head. Check that the battery is fully seated before pulling the trigger, because a loose pack can cut out mid pass and leave you with a half trimmed edge."
+  },
+  {
+   "q": "Should I wear safety gear?",
+   "a": "Yes. Wear eye protection, long trousers and closed shoes, because the line throws debris. Trim from left to right so that debris is thrown away from you. Wear gloves to reduce vibration on long jobs and to protect your hands from sharp stones and thorns that the head may throw up from the ground."
+  }
+ ],
+ "relatedGuides": [
+  {
+   "title": "Leaf blower CFM vs MPH",
+   "href": "/guide/leaf-blower-cfm-vs-mph"
+  },
+  {
+   "title": "Battery voltage and amp hours explained",
+   "href": "/guide/battery-voltage-and-amp-hours-explained"
+  },
+  {
+   "title": "Best Hedge Trimmers",
+   "href": "/guide/best-hedge-trimmers"
+  },
+  {
+   "title": "Best Cordless Chainsaws",
+   "href": "/guide/best-chainsaws"
+  }
+ ]
+}
