@@ -1,0 +1,19 @@
+# audio-video (lavalier mics, ring lights, projectors, frames, carplay)
+- Wireless lavalier systems: clip-on transmitter (TX) plus receiver (RX) on 2.4 GHz; range claims are line of sight, real indoor range is far lower.
+- Place a lavalier 6 to 8 inches below the chin, centered on the chest; clothing rustle is the main failure.
+- 32-bit float internal recording stores a safety copy and makes clipping unlikely; gain staging matters less.
+- 24-bit/48 kHz is the video standard; extra sample rates add little.
+- Onboard noise cancellation can add watery artifacts; strong modes help in wind but color voice.
+- Phone-side receivers: USB-C or Lightning plug; some need an adapter for other phones; check Lightning vs USB-C.
+- Charging cases extend runtime: a stated 48 h figure counts the case recharges, not single-session time.
+- Single TX battery is about 6 to 10 hours; heat and noise cancellation shorten it.
+- Windscreens (furry) are needed outdoors.
+- Ring lights: diameter 10 to 18 in; larger gives softer light; color temperature range 3000K to 6500K; CRI 90+ matters for skin tones.
+- Ring lights reflect as circles in glasses; a diffused panel avoids that.
+- Mini projectors: lumens are often ANSI vs LED lumens; native 1080p vs 720p; throw ratio sets image size; no optical zoom.
+- Dark room matters more than lumen number for bedrooms; autofocus and keystone help setup.
+- Digital frames: Wi-Fi frames receive photos by app or email; 1280x800 IPS is common; no subscription is the check.
+- Wireless CarPlay adapters plug into the wired CarPlay USB port; some add lag or reconnect delays; firmware updates matter.
+- MagSafe car mounts: magnet strength depends on phone case; metal plate rings help non-magnetic cases.
+- Baby monitors without Wi-Fi use a dedicated 2.4 GHz or FHSS link and avoid cloud accounts; range claims are open air.
+- Smart locks for apartments: deadbolt retrofit keeps the exterior; check landlord rules; battery 4 AA about a year.

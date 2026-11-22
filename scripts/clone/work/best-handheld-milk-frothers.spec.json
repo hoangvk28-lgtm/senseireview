@@ -1,0 +1,607 @@
+{
+ "guideSlug": "best-handheld-milk-frothers",
+ "categorySlug": "home-kitchen",
+ "mainKeyword": "handheld milk frother",
+ "guideTitle": "Best Handheld Milk Frothers (2026)",
+ "metaTitle": "Best Handheld Milk Frothers",
+ "metaDescription": "Six handheld milk frother wands compared: motor speed, battery or USB charging, whisk type, stand, cleaning and what each can and cannot froth.",
+ "lastUpdated": "2026-11-21",
+ "readTime": "12 min",
+ "heroImage": "https://m.media-amazon.com/images/I/31F3BtyxlDL._SL500_.jpg",
+ "expertTake": "The Maestri House LunaFro is our top pick because a stand, two whisks and a high-speed motor make the wand easier to live with every day. The Zulay rechargeable is the value pick for a plain, proven wand. Skip a handheld frother if you want hot, silky microfoam for latte art, because a wand makes loose foam and does not heat the milk.",
+ "introParagraphs": [
+  "A handheld milk frother is a small motor with a whisk on a stick. It spins cold or warm milk into foam in under a minute, and it also mixes matcha, protein powder and hot chocolate.",
+  "The category is crowded with near-identical wands, so the differences that matter are small but real: how the power is supplied, how the whisk is built, whether a stand is included and how easy cleaning is. We evaluated six models from the candidate pool using spec sheets, listing details and patterns in owner feedback, and ranked them by daily usability."
+ ],
+ "products": [
+  {
+   "id": "B0BN7M8CH4",
+   "badge": "Best Overall",
+   "name": "Maestri House LunaFro rechargeable frother with stand and two whisks",
+   "amazonUrl": "https://www.amazon.com/dp/B0BN7M8CH4?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31F3BtyxlDL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "8000 RPM",
+    "Rechargeable",
+    "Stand included",
+    "Two whisks"
+   ],
+   "specList": [
+    {
+     "label": "Motor speed",
+     "value": "About 8000 RPM"
+    },
+    {
+     "label": "Power",
+     "value": "Rechargeable battery"
+    },
+    {
+     "label": "Whisks",
+     "value": "Two detachable whisks"
+    },
+    {
+     "label": "Stand",
+     "value": "Included"
+    },
+    {
+     "label": "Control",
+     "value": "One-button operation"
+    }
+   ],
+   "description": "The LunaFro is a rechargeable wand with a stand and two detachable whisks, which makes it the most complete everyday package here. A listed speed of about 8000 RPM is typical for the category and is enough to build foam from cold milk in under a minute.\n\nThe stand keeps the wand upright and charges it, so it is always ready, and the two whisks let you choose between a finer foam and a more open mix for drinks like matcha. Compared with the Zulay rechargeable, it adds the stand and a second whisk, and next to the Keurig SimpleCafe, it has more whisk options but fewer microwave-safe parts. One-button control keeps it simple.\n\nOwnership is easy: rinse the whisk under warm water right after use, wipe the shaft and let it dry on the stand. Whisk shafts are the part that wears, so check that spare whisks are sold. Keep the motor housing out of the sink, since only the whisk is meant to get wet.",
+   "bestFor": "A daily user who wants a stand, a rechargeable wand and a choice of whisks.",
+   "pros": [
+    "Included stand keeps the wand upright and ready beside the kettle",
+    "Two detachable whisks cover foam and general drink mixing",
+    "Rechargeable battery avoids a drawer of spare AA cells",
+    "One-button operation is simple to use with one hand"
+   ],
+   "cons": [
+    "Wand froths but does not heat, so milk must be warmed separately",
+    "Stand needs counter space and a charging cable"
+   ],
+   "rank": 1
+  },
+  {
+   "id": "B0F1WB2PVS",
+   "badge": "Best Value",
+   "name": "Zulay Kitchen rechargeable handheld milk frother, electric whisk",
+   "amazonUrl": "https://www.amazon.com/dp/B0F1WB2PVS?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41LEz-tTR7L._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "USB rechargeable",
+    "Handheld whisk",
+    "Simple wand",
+    "Mixer use"
+   ],
+   "specList": [
+    {
+     "label": "Power",
+     "value": "USB rechargeable"
+    },
+    {
+     "label": "Whisk",
+     "value": "Stainless steel coil"
+    },
+    {
+     "label": "Style",
+     "value": "Plain wand"
+    },
+    {
+     "label": "Uses",
+     "value": "Milk, matcha, powders"
+    },
+    {
+     "label": "Brand focus",
+     "value": "Kitchen gadgets"
+    }
+   ],
+   "description": "The Zulay rechargeable is a plain wand with a stainless steel whisk and a built-in battery. It does one job without extras, which suits a buyer who just wants foam on a morning latte.\n\nIt costs less than the LunaFro, and it lacks the stand and the second whisk, so you need a spot to lay it down. Compared with the older battery-powered Zulay wand with a stand, the rechargeable version saves on cells but is without a stand. Next to the Circle Joy models, it has a longer record behind the brand.\n\nTo look after it, rinse the whisk right away, dry it and charge it every few weeks. Do not submerge the handle. If the whisk wobbles after a few months, replace the wand, since this category is built to be low cost rather than repairable.",
+   "bestFor": "A casual user who wants an inexpensive, no-frills rechargeable wand.",
+   "pros": [
+    "USB rechargeable battery removes the need to buy cells",
+    "Stainless steel whisk is easy to rinse clean after use",
+    "Simple single-purpose layout is easy for a new user",
+    "Low cost tier from a well-known kitchen gadget brand"
+   ],
+   "cons": [
+    "No stand, so the wand lies on the counter or in a drawer",
+    "Plain whisk offers little variety for different drinks"
+   ],
+   "rank": 2
+  },
+  {
+   "id": "B0GTYWMWXH",
+   "badge": "Best Dual Spring Whisk",
+   "name": "CIRCLE JOY rechargeable frother with stand and dual spring whisk",
+   "amazonUrl": "https://www.amazon.com/dp/B0GTYWMWXH?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41oe5u+lrGL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "Dual spring whisk",
+    "Rechargeable",
+    "Stand included",
+    "Handheld"
+   ],
+   "specList": [
+    {
+     "label": "Whisk",
+     "value": "Dual spring head"
+    },
+    {
+     "label": "Power",
+     "value": "Rechargeable"
+    },
+    {
+     "label": "Stand",
+     "value": "Included"
+    },
+    {
+     "label": "Use",
+     "value": "Coffee, matcha, drink mixing"
+    },
+    {
+     "label": "Best for",
+     "value": "Thicker foam"
+    }
+   ],
+   "description": "The Circle Joy stand model uses a dual spring whisk head, which has two interlocking coils. Two coils whip more air into milk in a given time and tend to build thicker foam than a single coil design.\n\nThe included stand keeps the wand ready and tidy. Compared with the LunaFro, it has a more distinctive whisk but a less documented motor speed. Against the single-whisk Circle Joy model in the same pool, the stand version is the better pick for a kitchen counter. Neither heats the milk, so you will warm it in a pan or microwave first.\n\nCleaning is a quick rinse in warm water. Spring whisks can trap milk between the coils, so give them a few seconds of spin in clean water after use. Dry them well, since trapped moisture is the usual source of smell.",
+   "bestFor": "Someone who wants thicker foam and a stand on the counter.",
+   "pros": [
+    "Dual spring whisk builds thicker foam from cold milk quickly",
+    "Stand keeps the wand ready and the counter tidy",
+    "Rechargeable battery avoids disposable cells",
+    "Works for matcha and protein shakes as well as milk"
+   ],
+   "cons": [
+    "Interlocking coils can trap milk and need a careful rinse",
+    "Motor speed is less clearly stated than on the LunaFro"
+   ],
+   "rank": 3
+  },
+  {
+   "id": "B0CT43RWPQ",
+   "badge": "Best Microwave-Safe Design",
+   "name": "Keurig SimpleCafe rechargeable handheld frother with USB cord",
+   "amazonUrl": "https://www.amazon.com/dp/B0CT43RWPQ?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31Q9uwzKiOL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "Rechargeable",
+    "USB cord",
+    "Microwave-safe",
+    "Latte and cappuccino"
+   ],
+   "specList": [
+    {
+     "label": "Power",
+     "value": "Rechargeable via USB"
+    },
+    {
+     "label": "Feature",
+     "value": "Microwave-safe parts listed"
+    },
+    {
+     "label": "Target",
+     "value": "Lattes and cappuccinos"
+    },
+    {
+     "label": "Brand",
+     "value": "Keurig"
+    },
+    {
+     "label": "Cost tier",
+     "value": "Upper"
+    }
+   ],
+   "description": "The Keurig SimpleCafe is a rechargeable wand from a coffee brand, with a listing that mentions microwave-safe parts. If true for the whisk in your hands, that allows you to warm and froth in one cup, which cuts down on dishes.\n\nIt sits at a higher cost tier than most wands in this lineup, and the extra money buys a brand name and a clean, neat look more than a different type of frothing. Compared with the Zulay rechargeable, it does the same basic job, and next to the LunaFro, it lacks the second whisk. Check the manual before you microwave any part, since only the whisk or a specific component is likely to be safe.\n\nUpkeep is typical: rinse the whisk, dry it and charge by USB. Because it is from a coffee brand, support and parts are easier to find than for an unknown seller. It suits a buyer who prefers a known name over the lowest price.",
+   "bestFor": "A coffee drinker who prefers a known brand and a clean design.",
+   "pros": [
+    "Known coffee brand makes support and returns simpler",
+    "USB rechargeable battery is convenient for a desk or office",
+    "Listing mentions microwave-safe parts for one-cup warming",
+    "Neat, simple design is easy to store"
+   ],
+   "cons": [
+    "Higher cost tier than similar wands without a clear performance gain",
+    "Fewer accessories than the LunaFro, with no stand listed"
+   ],
+   "rank": 4
+  },
+  {
+   "id": "B0HFNB6R1W",
+   "badge": "Best Water Resistance",
+   "name": "AirChef rechargeable frother, IPX6, 1500 mAh USB-C, variable speed",
+   "amazonUrl": "https://www.amazon.com/dp/B0HFNB6R1W?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/4138x0gucvL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "IPX6 rating",
+    "1500 mAh",
+    "USB-C",
+    "Variable speed"
+   ],
+   "specList": [
+    {
+     "label": "Battery",
+     "value": "1500 mAh"
+    },
+    {
+     "label": "Charging",
+     "value": "USB-C"
+    },
+    {
+     "label": "Rating",
+     "value": "IPX6 water resistance"
+    },
+    {
+     "label": "Speed",
+     "value": "Variable"
+    },
+    {
+     "label": "Storage",
+     "value": "Hanging hook"
+    }
+   ],
+   "description": "The AirChef lists an IPX6 rating, which means it can handle strong water jets. That makes rinsing the whole wand under a tap less risky than with a model that has an unrated handle, though you should still keep the charging port dry.\n\nIt uses USB-C charging and a 1500 mAh battery, which is on the higher side for this category and gives it staying power for daily use. The variable speed lets you whip slowly for matcha and quickly for foam. Compared with the Zulay and LunaFro, it adds the water rating and speed control, but it lacks a stand, so you use the hanging hook instead.\n\nTreat the IPX6 figure as a design claim from the maker and do not leave the wand submerged. Rinse the whisk, shake it dry and hang it up. Check that USB-C charging works with the cables you already have.",
+   "bestFor": "A user who wants to rinse the whole wand and use variable speeds.",
+   "pros": [
+    "IPX6 water resistance makes rinsing the handle less risky",
+    "1500 mAh battery supports daily use between charges",
+    "USB-C charging uses the cable you already own",
+    "Variable speed suits both foam and gentle mixing"
+   ],
+   "cons": [
+    "No stand, so it hangs on a hook or lies on the counter",
+    "Water rating is a maker claim, so avoid submerging it"
+   ],
+   "rank": 5
+  },
+  {
+   "id": "B09D8T11YS",
+   "badge": "Best Battery-Powered Wand",
+   "name": "Zulay Kitchen powerful milk frother wand with stand, 2 batteries included",
+   "amazonUrl": "https://www.amazon.com/dp/B09D8T11YS?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41z93nZ3AML._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "Battery powered",
+    "Stand included",
+    "2 batteries",
+    "Stainless whisk"
+   ],
+   "specList": [
+    {
+     "label": "Power",
+     "value": "Two included batteries"
+    },
+    {
+     "label": "Stand",
+     "value": "Included"
+    },
+    {
+     "label": "Whisk",
+     "value": "Stainless steel"
+    },
+    {
+     "label": "Use",
+     "value": "Coffee and drink mixing"
+    },
+    {
+     "label": "Cost tier",
+     "value": "Low"
+    }
+   ],
+   "description": "This Zulay model runs on replaceable batteries and comes with two in the box, along with a stand. It is the classic wand design that has been sold for years, and it is the simplest option here to keep running.\n\nThe tradeoff is the battery. Replacement cells are a recurring cost and a small waste stream, while a rechargeable wand pays for itself over time. Compared with the Zulay rechargeable, it has a stand but needs new cells every few months of regular use. Against the LunaFro, it is cheaper and less capable.\n\nTo keep it working, rinse the whisk after each use and remove the batteries if you will not use it for weeks, since leaked cells can corrode the contacts. It is a fine gift or a travel frother, since you can buy cells anywhere.",
+   "bestFor": "A low-cost wand with a stand and no need for a charger.",
+   "pros": [
+    "Replaceable batteries mean no charging cable or port to fail",
+    "Stand is included to keep the wand upright on the counter",
+    "Two batteries are supplied in the box for immediate use",
+    "Lowest cost tier among the stand models in this lineup"
+   ],
+   "cons": [
+    "Replacement batteries are a recurring cost and waste",
+    "Motor weakens as the batteries run down"
+   ],
+   "rank": 6
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Power source and battery",
+   "explanation": "A rechargeable wand, like the LunaFro or AirChef, saves on batteries and runs at consistent speed as it charges. A battery-powered wand such as the Zulay stand model is simple but slows as cells weaken. USB-C charging, as on the AirChef, is easier to live with than a proprietary cable. Buyers often overlook that a wand used daily eats a lot of cells."
+  },
+  {
+   "criterion": "Whisk design",
+   "explanation": "A single coil whisk is easy to rinse and makes fine foam, while a dual spring whisk like the Circle Joy builds thicker foam but traps milk. Stainless steel resists odor better than plastic. Look for a whisk that detaches, as on the LunaFro, because that is the part that gets dirty and wears."
+  },
+  {
+   "criterion": "Motor speed",
+   "explanation": "Around 8000 RPM is typical for a good wand, and anything slower takes longer to build foam. Speed numbers on cheap listings are often unverified, so favor brands that state a figure. Variable speed, as on the AirChef, is useful for gentler mixing of powders."
+  },
+  {
+   "criterion": "Stand and storage",
+   "explanation": "A stand keeps the wand clean, upright and charged, and it makes you more likely to use it. A drawer wand gets forgotten. Models with a stand, such as the LunaFro and Circle Joy, cost slightly more but earn their place on a counter."
+  },
+  {
+   "criterion": "What a wand cannot do",
+   "explanation": "A handheld frother does not heat milk, so it cannot make hot, silky microfoam for latte art. It makes loose foam suited to lattes and cappuccinos at home. For true steamed milk you need a steam wand or an electric frother jug, and that is a different product."
+  },
+  {
+   "criterion": "Cleaning and water exposure",
+   "explanation": "Rinse the whisk right away, since dried milk is hard to remove and sours. An IPX6 rating on the AirChef eases cleaning, but the motor housing on any wand should stay out of the sink. A smell in a spring whisk means milk is trapped."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "RPM",
+   "meaning": "The revolutions per minute of the whisk shaft. A higher speed builds foam faster up to a point.",
+   "watchFor": "The LunaFro lists about 8000 RPM, while many cheap wands give no figure at all."
+  },
+  {
+   "spec": "mAh battery",
+   "meaning": "The battery capacity in milliamp hours. A larger number means longer use between charges.",
+   "watchFor": "The AirChef lists 1500 mAh, while most rechargeable wands do not publish a number."
+  },
+  {
+   "spec": "IPX6 rating",
+   "meaning": "A water resistance class meaning the housing resists strong water jets. It does not mean the wand can be submerged.",
+   "watchFor": "Check that only the AirChef claims it, and that the charging port is kept dry."
+  },
+  {
+   "spec": "Dual spring whisk",
+   "meaning": "Two interlocking coils on the head that whip more air. It builds thicker foam but traps milk.",
+   "watchFor": "The Circle Joy stand model uses one, so rinse it with a few seconds of spin."
+  },
+  {
+   "spec": "Microwave-safe",
+   "meaning": "A claim that a part can go into a microwave without damage. Motor and battery parts never can.",
+   "watchFor": "The Keurig listing mentions it, so check the manual for which part is meant."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Power and charging",
+   "description": "We compared rechargeable and battery wands and the type of charging port. The AirChef USB-C and LunaFro lead. A wand that needs disposable cells ranked lower for daily use."
+  },
+  {
+   "title": "Whisk quality",
+   "description": "We looked at whisk material, whether it detaches and whether it traps milk. The LunaFro two-whisk setup and Circle Joy spring head stood out. Foam quality is based on the spec sheet and patterns in owner feedback."
+  },
+  {
+   "title": "Stand and storage",
+   "description": "We gave credit to models that include a stand, since a wand that stays upright gets used more. The LunaFro and Circle Joy stand model benefit. Plain wands lose points for storage."
+  },
+  {
+   "title": "Cleaning ease",
+   "description": "We considered water resistance and whisk shape. The AirChef IPX6 listing helps rinsing, and plain coils rinse fast. Spring heads need extra care."
+  },
+  {
+   "title": "Honest limits",
+   "description": "We noted that no wand heats milk. Latte art and silky microfoam are outside the category. We ranked on convenience and durability instead."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Daily Routine",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "One latte every morning",
+      "Maestri House LunaFro",
+      "Stand keeps it ready beside the kettle"
+     ],
+     [
+      "Occasional use",
+      "Zulay rechargeable",
+      "Simple wand without extras"
+     ],
+     [
+      "Thick foam for cappuccinos",
+      "Circle Joy dual spring",
+      "Two coils build more foam"
+     ],
+     [
+      "Office desk",
+      "Keurig SimpleCafe",
+      "Neat design and USB charging"
+     ],
+     [
+      "Frequent rinsing",
+      "AirChef IPX6",
+      "Water resistant housing"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest cost tier",
+      "Zulay stand model with batteries",
+      "Cheap and ready to use"
+     ],
+     [
+      "Low cost, rechargeable",
+      "Zulay rechargeable",
+      "No batteries to buy"
+     ],
+     [
+      "Middle, spring whisk",
+      "Circle Joy dual spring",
+      "Thicker foam and a stand"
+     ],
+     [
+      "Middle, complete kit",
+      "Maestri House LunaFro",
+      "Stand and two whisks"
+     ],
+     [
+      "Upper, brand name",
+      "Keurig SimpleCafe",
+      "Known brand and support"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Rechargeable vs Battery",
+   "cards": [
+    {
+     "label": "Rechargeable",
+     "text": "The LunaFro, AirChef and Zulay rechargeable avoid new cells and keep a steady speed. They pay back the higher price in a few months of daily use."
+    },
+    {
+     "label": "Battery",
+     "text": "The Zulay stand model is simple, cheap and ready in a minute. It slows as cells fade and adds a recurring cost."
+    }
+   ],
+   "note": "Choose rechargeable for daily use, and battery for a gift, a drawer or travel."
+  },
+  {
+   "subheading": "By Whisk Type",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Fine foam, easy rinse",
+      "Zulay rechargeable",
+      "Single stainless coil is simple to clean"
+     ],
+     [
+      "Thick foam",
+      "Circle Joy dual spring",
+      "Interlocking coils whip more air"
+     ],
+     [
+      "Two options",
+      "Maestri House LunaFro",
+      "Detachable whisks for different drinks"
+     ],
+     [
+      "Speed control",
+      "AirChef IPX6",
+      "Variable speed for matcha and milk"
+     ],
+     [
+      "Microwave warming",
+      "Keurig SimpleCafe",
+      "Listing mentions microwave-safe parts"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Handheld Frothing Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A rechargeable battery, a stainless whisk that detaches, a stand and a stated motor speed. Expect loose foam, not microfoam."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The LunaFro covers the full set, the Circle Joy adds a thick foam head and the AirChef adds water resistance."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You froth daily and want a stand, a spare whisk and a stable battery. The LunaFro earns its place."
+    },
+    {
+     "label": "Save if",
+     "text": "You froth now and then. The Zulay wands do the job at a low cost."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Rinse the whisk",
+   "interval": "After every use",
+   "why": "Dried milk is hard to remove and sours. Spin the whisk in warm water for a few seconds."
+  },
+  {
+   "task": "Wipe the shaft and housing",
+   "interval": "Weekly",
+   "why": "Milk splashes reach the shaft and cap. A damp cloth keeps them clean without soaking the motor."
+  },
+  {
+   "task": "Charge the battery",
+   "interval": "Every few weeks",
+   "why": "A deeply drained battery ages faster. Top it up before it runs low."
+  },
+  {
+   "task": "Check the whisk fit",
+   "interval": "Monthly",
+   "why": "A loose whisk wobbles and splashes. Reseat it, and replace it if it is bent."
+  },
+  {
+   "task": "Replace batteries or the wand",
+   "interval": "Every 3 to 6 months for cells, every 1 to 2 years for the wand",
+   "why": "Low cost wands are built to be replaced. A slowing motor is the usual sign."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Can a handheld frother heat milk?",
+   "a": "No. It only whips air into milk that you have warmed or kept cold. Heat the milk in a pan or microwave first, and keep it below boiling."
+  },
+  {
+   "q": "What milk froths best?",
+   "a": "Whole milk gives the creamiest foam, while many oat and soy milks made for baristas also work. Skim milk makes a lighter foam that fades faster."
+  },
+  {
+   "q": "Is a rechargeable frother better than a battery one?",
+   "a": "For daily use yes, since it avoids buying cells and keeps a steady speed. For occasional use, a battery wand is simple and cheap."
+  },
+  {
+   "q": "How long should I froth?",
+   "a": "Usually 15 to 30 seconds, with the whisk just under the surface. Move it slowly up and down to build a stable foam."
+  },
+  {
+   "q": "Can I use it for matcha or protein powder?",
+   "a": "Yes, and many people buy a wand for exactly that. Use a tall cup and a low speed to avoid splashing."
+  },
+  {
+   "q": "How do I clean a spring whisk?",
+   "a": "Spin it in a cup of warm soapy water, then in clean water, and dry it fully. Milk trapped between the coils is the usual source of smell."
+  }
+ ],
+ "relatedGuides": [
+  {
+   "title": "Best Drip Coffee Makers",
+   "href": "/guide/best-drip-coffee-makers"
+  },
+  {
+   "title": "Best Coffee Grinders",
+   "href": "/guide/best-coffee-grinders"
+  },
+  {
+   "title": "How to Descale a Coffee Maker",
+   "href": "/guide/how-to-descale-a-coffee-maker"
+  }
+ ]
+}

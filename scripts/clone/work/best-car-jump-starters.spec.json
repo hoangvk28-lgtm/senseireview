@@ -1,0 +1,592 @@
+{
+ "guideSlug": "best-car-jump-starters",
+ "categorySlug": "tools-diy",
+ "mainKeyword": "car jump starter",
+ "guideTitle": "Best Car Jump Starters for Emergencies (2026)",
+ "metaTitle": "Best Car Jump Starters",
+ "metaDescription": "Compare six lithium car jump starters by peak amps, engine size rating, battery capacity, clamp safety and extras like a compressor, for roadside emergencies.",
+ "lastUpdated": "2026-11-21",
+ "readTime": "12 min",
+ "heroImage": "https://m.media-amazon.com/images/I/41l37y84S-L._SL500_.jpg",
+ "expertTake": "The NOCO Boost GB70 is the top pick because it combines a stated 2000 amps, up to 40 starts per charge and patented spark-proof and reverse polarity protection from a maker that specializes in battery gear. The AstroAI S8 is the value pick for a compact 1500 amp unit. Skip the category if your car is new and you rarely drive far, because roadside assistance may be cheaper and a jump starter that sits uncharged for a year will not help.",
+ "introParagraphs": [
+  "A portable jump starter is a compact lithium battery pack with heavy clamps that can start a car with a dead battery, without another vehicle. Many also act as power banks and flashlights, and some add an air compressor for tires, which makes them popular glovebox and trunk items.",
+  "Peak amps are the headline number, but they are less useful than the engine size rating, the battery capacity, the clamp safety features and whether the pack is kept charged. This guide compares those details and treats peak amp claims with care."
+ ],
+ "products": [
+  {
+   "id": "B016UG6PWE",
+   "rank": 1,
+   "badge": "Best Overall",
+   "name": "NOCO Boost GB70 2000A UltraSafe Lithium Jump Starter",
+   "price": "",
+   "specs": [
+    "2000A peak",
+    "40 starts claim",
+    "Spark-proof",
+    "Power bank"
+   ],
+   "specList": [
+    {
+     "label": "Peak current",
+     "value": "2000A"
+    },
+    {
+     "label": "Starts per charge",
+     "value": "Up to 40, per the listing"
+    },
+    {
+     "label": "Safety",
+     "value": "Spark-proof and reverse polarity protection"
+    },
+    {
+     "label": "Extra",
+     "value": "Integrated power bank"
+    },
+    {
+     "label": "Price position",
+     "value": "Most expensive of twelve"
+    }
+   ],
+   "description": "The NOCO Boost GB70 is a 12V lithium jump starter with a stated 2000 amps of peak power and up to 40 starts per charge. The listing highlights patented spark-proof and reverse polarity protection for safe connection, and an integrated power bank that recharges in about six hours.\n\nThe tradeoff is price. It is the most expensive of the twelve candidates, and a 2000A unit is bigger than a 1000A one. Compared with the NOCO GB40, it adds power and a higher start count. Compared with the cheaper 4000A and 6000A units, its peak amp number is lower, but those figures are marketing and not directly comparable.\n\nIn ownership, a jump starter must be charged to work. Recharge it every few months, store it in a moderate temperature and check the clamps for corrosion. Lithium packs lose capacity in extreme cold and heat, so keep it out of a hot trunk in summer if you can.",
+   "bestFor": "Drivers who want a safety-focused, well-supported jump starter for a family car or truck.",
+   "pros": [
+    "Stated 2000A peak power with up to 40 starts per charge suits larger engines",
+    "Spark-proof and reverse polarity protection reduces the risk of wrong connections",
+    "Integrated power bank charges phones and tablets in an emergency",
+    "Maker specializes in battery chargers and jump starters, with a track record"
+   ],
+   "cons": [
+    "Most expensive of the twelve candidates in this comparison",
+    "Larger and heavier than the 1000A and 1500A compact units"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B016UG6PWE?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41l37y84S-L._SL500_.jpg"
+  },
+  {
+   "id": "B015TKUPIC",
+   "rank": 2,
+   "badge": "Best Compact Safety Pick",
+   "name": "NOCO Boost GB40 1000A UltraSafe Lithium Jump Starter",
+   "price": "",
+   "specs": [
+    "1000A peak",
+    "20 starts claim",
+    "Spark-proof",
+    "Power bank"
+   ],
+   "specList": [
+    {
+     "label": "Peak current",
+     "value": "1000A"
+    },
+    {
+     "label": "Starts per charge",
+     "value": "Up to 20, per the listing"
+    },
+    {
+     "label": "Safety",
+     "value": "Spark-proof and reverse polarity protection"
+    },
+    {
+     "label": "Extra",
+     "value": "Integrated power bank, recharges in about 3 hours"
+    },
+    {
+     "label": "Price position",
+     "value": "Ninth of twelve"
+    }
+   ],
+   "description": "The NOCO Boost GB40 is a 1000A lithium jump starter that the listing says provides up to 20 starts per charge. It uses the same spark-proof and reverse polarity protection as the larger GB70, plus an integrated power bank that recharges in about three hours.\n\nThe tradeoff is capacity. A 1000A unit suits compact cars and smaller engines, and may struggle with large gas or diesel engines in the cold. Compared with the GB70, it is smaller and cheaper, ninth of twelve against twelfth. Compared with the 4000A units, its number is lower but its safety features are spelled out.\n\nIn ownership, keep it charged, store it in a moderate temperature and recharge it after every use. Check the engine size rating before you buy, and match it to your vehicle with some headroom, since cold weather reduces output.",
+   "bestFor": "Owners of compact cars and small engines who want a safe, compact unit.",
+   "pros": [
+    "Stated 1000A with up to 20 starts per charge suits compact cars",
+    "Spark-proof and reverse polarity protection reduces connection mistakes",
+    "Integrated power bank recharges in about 3 hours, per the listing",
+    "Ninth of twelve in price, lower than the GB70"
+   ],
+   "cons": [
+    "May struggle with large engines or cold-weather starts",
+    "Smaller battery means fewer starts than the GB70"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B015TKUPIC?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/413QJ52orPL._SL500_.jpg"
+  },
+  {
+   "id": "B0BZP6HCVS",
+   "rank": 3,
+   "badge": "Best Value Compact",
+   "name": "AstroAI S8 1500A Portable Lithium Jump Starter, 3-Mode Flashlight",
+   "price": "",
+   "specs": [
+    "1500A peak",
+    "6L gas claim",
+    "45C battery",
+    "3-mode light"
+   ],
+   "specList": [
+    {
+     "label": "Peak current",
+     "value": "1500A"
+    },
+    {
+     "label": "Battery",
+     "value": "45C high-rate cell"
+    },
+    {
+     "label": "Engine claim",
+     "value": "6L gas engines"
+    },
+    {
+     "label": "Light",
+     "value": "3-mode flashlight"
+    },
+    {
+     "label": "Price position",
+     "value": "Third lowest of twelve"
+    }
+   ],
+   "description": "The AstroAI S8 packs a 45C high-rate battery and 1500A of peak power that the listing says starts 6L gas engines, with a three-mode flashlight and a plug-and-play connection: connect the clamps, press the button and start.\n\nThe tradeoff is feature depth. The data gives no air compressor, no stated number of starts and little detail on clamp safety beyond the basics. Compared with the NOCO GB40, it has more stated peak power at a lower price, third lowest of twelve. Compared with the GOOLOO A3, it is smaller and has no compressor.\n\nIn ownership, it is a compact, low-cost unit that fits in a glovebox. Charge it every few months and after each use, and check that the clamps connect with the correct polarity. A low price means you should read the engine size rating and not rely on peak amps.",
+   "bestFor": "Drivers who want a compact, low-cost jump starter for a gas car.",
+   "pros": [
+    "Stated 1500A with a 6L gas engine claim covers most cars and light trucks",
+    "45C high-rate battery is designed to deliver current quickly",
+    "Three-mode flashlight helps with roadside work at night",
+    "Third lowest price among twelve candidates for a branded unit"
+   ],
+   "cons": [
+    "No air compressor and no stated number of starts in the data we had",
+    "Less detail on clamp safety than the NOCO models"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0BZP6HCVS?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41x0e0kVzeL._SL500_.jpg"
+  },
+  {
+   "id": "B0CL8RYBKX",
+   "rank": 4,
+   "badge": "Best Multi-Function Brand Pick",
+   "name": "DEWALT DXAEPS14 2000 Peak Amp Jump Starter with 120 PSI Inflator",
+   "price": "",
+   "specs": [
+    "2000 peak A",
+    "120 PSI inflator",
+    "500W inverter",
+    "Auto shutoff"
+   ],
+   "specList": [
+    {
+     "label": "Peak current",
+     "value": "2000 peak amps"
+    },
+    {
+     "label": "Vehicles",
+     "value": "4, 6 and 8-cylinder gas or diesel"
+    },
+    {
+     "label": "Inflator",
+     "value": "120 PSI digital with auto shutoff"
+    },
+    {
+     "label": "Inverter",
+     "value": "500W AC power inverter"
+    },
+    {
+     "label": "Price position",
+     "value": "Eleventh of twelve"
+    }
+   ],
+   "description": "The DEWALT DXAEPS14 is a 2000 peak amp jump starter for 4, 6 and 8-cylinder gas or diesel vehicles, with a 120 PSI digital inflator that shuts off at your target pressure and a 500W AC power inverter for small electronics. It is a plug-in or recharged unit on a larger chassis.\n\nThe tradeoff is size, weight and price. It is the second most expensive of the twelve candidates and is much bulkier than a pocket jump starter. Compared with the NOCO GB70, it adds an inflator and an inverter but is larger. Compared with the GOOLOO A3, it has a trusted tool brand and an AC outlet.\n\nIn ownership, a multi-function unit has more parts to maintain: keep the battery charged, test the inflator occasionally and store the cables neatly. It suits drivers who want one box for jump starts, tires and emergency power.",
+   "bestFor": "Drivers who want a jump starter, tire inflator and AC power in one unit.",
+   "pros": [
+    "Stated 2000 peak amps cover 4, 6 and 8-cylinder gas and diesel vehicles",
+    "120 PSI digital inflator with auto shutoff handles tires",
+    "500W AC inverter runs small electronics in an emergency or on a job site",
+    "Trusted tool brand with wide retail and service availability"
+   ],
+   "cons": [
+    "Bulky and heavy compared with compact pocket jump starters",
+    "Eleventh of twelve in price, near the top of the group"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0CL8RYBKX?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51BA1KzsRpL._SL500_.jpg"
+  },
+  {
+   "id": "B0D4DLXNR1",
+   "rank": 5,
+   "badge": "Best With Compressor Value",
+   "name": "GOOLOO A3 3000A Jump Starter with Air Compressor, 7-in-1",
+   "price": "",
+   "specs": [
+    "3000A peak",
+    "Air compressor",
+    "5 inflation modes",
+    "7-in-1"
+   ],
+   "specList": [
+    {
+     "label": "Peak current",
+     "value": "3000A"
+    },
+    {
+     "label": "Engine claim",
+     "value": "9L gas / 6.5L diesel"
+    },
+    {
+     "label": "Compressor",
+     "value": "5 inflation modes"
+    },
+    {
+     "label": "Function",
+     "value": "Jump starter, power bank, light and more"
+    },
+    {
+     "label": "Price position",
+     "value": "Seventh of twelve"
+    }
+   ],
+   "description": "The GOOLOO A3 is a 12V jump starter rated at 3000A with built-in air compressor that offers five inflation modes. The listing describes a 7-in-1 design that works as a jump starter, power bank, flashlight and tire inflator, and a rating for 9L gas and 6.5L diesel engines.\n\nThe tradeoff is that peak amps and engine ratings are the maker's numbers, and a multi-function unit has more to fail. Compared with the NOCO GB70, it states more peak power and adds a compressor at a lower price, seventh of twelve. Compared with the DEWALT, it has no AC outlet but costs less.\n\nIn ownership, test the inflator and the jump function every few months and recharge it. Use the clamps with the correct polarity, and do not leave them connected after the engine starts. It suits budget buyers who want a compressor included.",
+   "bestFor": "Budget buyers who want a jump starter with a built-in air compressor.",
+   "pros": [
+    "Stated 3000A peak power with a 9L gas and 6.5L diesel engine claim",
+    "Built-in air compressor with five inflation modes covers tires and balls",
+    "Seven functions in one unit, including a power bank and flashlight",
+    "Seventh of twelve in price, lower than the DEWALT multi-function unit"
+   ],
+   "cons": [
+    "Peak amps and engine ratings are maker claims and are not independent",
+    "More functions mean more parts to maintain and charge"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0D4DLXNR1?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/415p96MAc+L._SL500_.jpg"
+  },
+  {
+   "id": "B0C42Y5TPD",
+   "rank": 6,
+   "badge": "Best Large Battery Capacity",
+   "name": "S ZEVZO ET03 4000A Jump Starter, 74Wh, up to 8.0L Gas and 7.0L Diesel",
+   "price": "",
+   "specs": [
+    "4000A peak",
+    "74Wh",
+    "Force start",
+    "Power bank"
+   ],
+   "specList": [
+    {
+     "label": "Peak current",
+     "value": "4000A"
+    },
+    {
+     "label": "Battery",
+     "value": "74Wh"
+    },
+    {
+     "label": "Engine claim",
+     "value": "Up to 8.0L gas and 7.0L diesel"
+    },
+    {
+     "label": "Force start",
+     "value": "Starts 0V dead batteries"
+    },
+    {
+     "label": "Price position",
+     "value": "Fifth of twelve"
+    }
+   ],
+   "description": "The S ZEVZO ET03 is a 4000A jump starter with a 74Wh battery, rated for up to 8.0L gas and 7.0L diesel engines, with a force start function for batteries that read 0 volts and a power bank mode.\n\nThe tradeoff is brand and detail. Peak amps of 4000 are marketing numbers, and the listing in our data gives no safety certifications beyond built-in protection. Compared with the NOCO GB70, it states double the peak current at a lower price, fifth of twelve. Compared with the AstroAI S8, it has a larger battery and a force start mode.\n\nIn ownership, a force start function bypasses some safety checks on a dead battery, so use it carefully and follow the manual. Keep the pack charged, store it in a moderate temperature and inspect the clamps. It suits owners of larger engines on a budget.",
+   "bestFor": "Owners of larger gas and diesel engines who want a high stated rating on a budget.",
+   "pros": [
+    "74Wh battery is among the larger capacities in this group",
+    "Stated rating for up to 8.0L gas and 7.0L diesel engines covers big trucks",
+    "Force start function can revive a battery that reads 0 volts",
+    "Fifth of twelve in price, below the NOCO GB70 and DEWALT"
+   ],
+   "cons": [
+    "4000A is a marketing number and the safety detail is thin in our data",
+    "Force start mode bypasses some protections, so it needs careful use"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0C42Y5TPD?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/415s12kBJ6L._SL500_.jpg"
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Engine size rating, not peak amps",
+   "explanation": "Peak amps are a short burst number and vary by how the maker measures them. The engine size rating, such as 6L gas on the AstroAI or 8.0L gas and 7.0L diesel on the ET03, is more useful. Choose a unit rated above your engine, and add margin for cold weather and diesel engines."
+  },
+  {
+   "criterion": "Battery capacity and starts per charge",
+   "explanation": "Capacity is in watt-hours or mAh. The ET03 lists 74Wh and the NOCO GB70 claims up to 40 starts per charge. A larger battery handles more attempts and holds its charge longer. A small battery may give only one or two starts in the cold."
+  },
+  {
+   "criterion": "Clamp safety features",
+   "explanation": "Spark-proof clamps and reverse polarity protection, as on the NOCO models, stop sparks and mistakes when you connect the clamps. Many cheaper units list safety protections but give less detail. Safe clamps matter most because jump starts often happen in a rush."
+  },
+  {
+   "criterion": "Extras: compressor, inverter and light",
+   "explanation": "Some units add an air compressor, as on the GOOLOO and DEWALT, an AC inverter or a flashlight. These add convenience but also size, weight and parts that can fail. If you only want a jump start, a compact unit is lighter and more reliable."
+  },
+  {
+   "criterion": "Charging and upkeep",
+   "explanation": "A jump starter does nothing if it is flat. Lithium packs self-discharge, so recharge every few months and after each use. Many units have USB-C or a wall charger. A unit left in a hot trunk degrades faster, so store it in a moderate place."
+  },
+  {
+   "criterion": "Honest limits and safety",
+   "explanation": "A jump starter cannot fix a failed alternator or a dead cell, and repeated attempts can overheat it. Follow the manual, connect clamps in the right order and keep sparks away from batteries. If a battery is swollen or leaking, do not jump it. Peak amp claims vary a lot between brands."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Peak amps (A)",
+   "meaning": "The maximum current for a very short burst. It varies by how the maker measures it and is not a guarantee of starting power.",
+   "watchFor": "The NOCO GB40 lists 1000A, the AstroAI 1500A, the GB70 and DEWALT 2000A, the GOOLOO 3000A and the ET03 4000A."
+  },
+  {
+   "spec": "Engine size rating",
+   "meaning": "The largest engine the maker says the unit can start. It is more useful than peak amps.",
+   "watchFor": "The AstroAI lists 6L gas, the GOOLOO 9L gas and 6.5L diesel and the ET03 8.0L gas and 7.0L diesel."
+  },
+  {
+   "spec": "Battery capacity (Wh)",
+   "meaning": "Watt-hours measure total stored energy. A larger number means more starts and more power bank use.",
+   "watchFor": "The ET03 lists 74Wh and the WOLFBOX lists 88.8Wh."
+  },
+  {
+   "spec": "Starts per charge",
+   "meaning": "A maker claim of how many jump starts a full charge gives. It depends on engine, temperature and battery state.",
+   "watchFor": "The NOCO GB40 claims up to 20 and the GB70 up to 40."
+  },
+  {
+   "spec": "Clamp protection",
+   "meaning": "Spark-proof and reverse polarity protection prevent damage if the clamps touch or are connected backward.",
+   "watchFor": "The NOCO models list spark-proof and reverse polarity protection."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Engine rating and power",
+   "description": "We evaluated stated peak amps and engine size ratings from the published listings, from 1000A to 4000A. We did not jump any vehicles."
+  },
+  {
+   "title": "Battery and starts",
+   "description": "We compared battery capacity and starts-per-charge claims. The ET03 lists 74Wh and the NOCO GB70 claims up to 40 starts."
+  },
+  {
+   "title": "Safety and clamps",
+   "description": "We looked at clamp protections. The NOCO models state spark-proof and reverse polarity protection, and many others give less detail."
+  },
+  {
+   "title": "Extras and size",
+   "description": "We considered compressors, inverters and weight. The GOOLOO and DEWALT add inflators, and the DEWALT adds an AC inverter."
+  },
+  {
+   "title": "Claims and value",
+   "description": "We treated peak amp and starts-per-charge figures as maker claims. We weighed price position against engine rating, battery and safety features."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Engine Size",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Compact cars and small engines",
+      "NOCO GB40",
+      "1000A with spark-proof clamps"
+     ],
+     [
+      "Mid-size cars and 6L engines",
+      "AstroAI S8",
+      "1500A, 6L gas claim"
+     ],
+     [
+      "Large engines and diesels",
+      "S ZEVZO ET03 or GOOLOO A3",
+      "8.0L gas and 9L gas ratings"
+     ],
+     [
+      "Family cars and light trucks",
+      "NOCO GB70",
+      "2000A with up to 40 starts"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Low-cost compact",
+      "AstroAI S8",
+      "Third lowest of twelve"
+     ],
+     [
+      "Mid-range, large engine rating",
+      "S ZEVZO ET03",
+      "Fifth of twelve"
+     ],
+     [
+      "Mid-range with compressor",
+      "GOOLOO A3",
+      "Seventh of twelve"
+     ],
+     [
+      "Premium",
+      "NOCO GB70 or DEWALT",
+      "Twelfth and eleventh of twelve"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Compact vs Multi-Function",
+   "cards": [
+    {
+     "label": "Compact units",
+     "text": "The NOCO GB40 and AstroAI S8 are small and focused on starting. They are easier to store and have fewer parts to fail."
+    },
+    {
+     "label": "Multi-function units",
+     "text": "The GOOLOO and DEWALT add compressors and inverters. They are bigger and heavier, and offer more uses."
+    }
+   ],
+   "note": "Choose compact if you want a reliable starter in a glovebox, and multi-function if you want one box for starts, tires and power."
+  },
+  {
+   "subheading": "By Safety Priority",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Spark-proof clamps",
+      "NOCO GB40 or GB70",
+      "Patented spark-proof protection"
+     ],
+     [
+      "Reverse polarity protection",
+      "NOCO GB40 or GB70",
+      "Listed protection against wrong connection"
+     ],
+     [
+      "Force start for dead batteries",
+      "S ZEVZO ET03",
+      "Starts 0V batteries, with care"
+     ],
+     [
+      "Brand with service network",
+      "DEWALT DXAEPS14",
+      "Wide retail support"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Emergencies Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "An engine rating above your vehicle, safe clamps and a battery you can keep charged. Store it in the car, recharge it every few months and read the manual before you need it."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The NOCO GB70 is the best all-round safe starter, and the DEWALT is the best multi-function unit."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You have a large engine or diesel, want strong clamp safety and a trusted maker, as with the NOCO GB70."
+    },
+    {
+     "label": "Save if",
+     "text": "You have a compact gas car. The AstroAI S8 covers it at a lower price."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Recharge the pack",
+   "interval": "Every 2 to 3 months and after each use",
+   "why": "Lithium packs self-discharge. A flat jump starter does nothing when you need it."
+  },
+  {
+   "task": "Store in a moderate temperature",
+   "interval": "Always",
+   "why": "Hot trunks and freezing winters shorten lithium battery life. Bring it indoors in extreme weather."
+  },
+  {
+   "task": "Inspect the clamps and cables",
+   "interval": "Every few months",
+   "why": "Corrosion and frayed cable insulation cause poor contact and sparks. Clean or replace damaged clamps."
+  },
+  {
+   "task": "Test the lights and inflator",
+   "interval": "Every few months, multi-function units",
+   "why": "Extras fail quietly. A quick check makes sure the unit is ready for an emergency."
+  },
+  {
+   "task": "Read the manual and practice connecting",
+   "interval": "Once",
+   "why": "Connecting in the dark in a hurry leads to mistakes. Know the order and polarity before you need it."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Are peak amps the number to compare?",
+   "a": "Not really. Peak amps are a short-burst figure that varies by maker. The engine size rating and battery capacity are more useful."
+  },
+  {
+   "q": "How much should I spend on a jump starter?",
+   "a": "Match it to your engine. A compact unit suits small cars, and larger engines need a higher rating. Multi-function units cost more for features you may not use."
+  },
+  {
+   "q": "How long do jump starters last?",
+   "a": "Many years if kept charged and stored sensibly, but lithium cells age. No listing states a rated life. Recharge every few months."
+  },
+  {
+   "q": "Can a jump starter damage my car?",
+   "a": "Units with reverse polarity and spark-proof protection reduce the risk. Follow the manual, connect clamps in the correct order and do not jump a swollen or leaking battery."
+  },
+  {
+   "q": "Will it start a diesel in cold weather?",
+   "a": "It depends on the engine rating and the battery state. Cold reduces output a lot, so pick a unit rated above your engine and keep it warm."
+  },
+  {
+   "q": "Can I take one on a plane?",
+   "a": "Lithium packs have airline limits, usually 100 Wh in carry-on without approval, and are not allowed in checked baggage. Check the airline's rules and the pack's watt-hour rating."
+  }
+ ],
+ "relatedGuides": [
+  {
+   "title": "Power Bank Capacity Explained",
+   "href": "/guide/power-bank-capacity-explained"
+  },
+  {
+   "title": "Battery Voltage and Amp Hours Explained",
+   "href": "/guide/battery-voltage-and-amp-hours-explained"
+  },
+  {
+   "title": "Torque Wrench Types Explained",
+   "href": "/guide/torque-wrench-types-explained"
+  }
+ ]
+}

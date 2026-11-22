@@ -1,0 +1,592 @@
+{
+ "guideSlug": "best-digital-calipers",
+ "categorySlug": "tools-diy",
+ "mainKeyword": "digital caliper",
+ "guideTitle": "Best Digital Calipers for Woodworking and 3D Printing (2026)",
+ "metaTitle": "Best Digital Calipers",
+ "metaDescription": "Compare six digital calipers by range, stated accuracy, resolution, build, units, battery and data output, for woodworking, 3D printing and shop measuring.",
+ "lastUpdated": "2026-11-21",
+ "readTime": "12 min",
+ "heroImage": "https://m.media-amazon.com/images/I/21xh2Mj9V2L._SL500_.jpg",
+ "expertTake": "The Starrett electronic slide caliper is the top pick because it states a 0.0005 inch resolution, a stainless steel body from a long-established measuring brand and a 30 minute auto shut-off. The iGaging Absolute Origin is the pick for its zero-retaining design and data output port. Skip the category if you only need rough lengths, because a tape measure and a rule are faster and show the same distance to the nearest sixteenth.",
+ "introParagraphs": [
+  "A digital caliper is a sliding gauge with a digital readout that measures outside, inside, depth and step dimensions to a few thousandths of an inch. Woodworkers use one to check stock thickness and joint fits, makers use one to check printed parts, and mechanics use one for small parts.",
+  "Range, stated accuracy and resolution are the headline specs, but build, zero stability, battery and data output also matter. This guide compares those and explains the difference between a precise-looking number and a trustworthy reading."
+ ],
+ "products": [
+  {
+   "id": "B00WSOU772",
+   "rank": 1,
+   "badge": "Best Overall",
+   "name": "Starrett Stainless Steel Electronic Slide Caliper, 0 to 6 in, 0.0005 in",
+   "price": "",
+   "specs": [
+    "0 to 6 in",
+    "0.0005 in resolution",
+    "Stainless",
+    "30 min auto-off"
+   ],
+   "specList": [
+    {
+     "label": "Range",
+     "value": "0 to 6 inches"
+    },
+    {
+     "label": "Resolution",
+     "value": "0.0005 inch"
+    },
+    {
+     "label": "Build",
+     "value": "Stainless steel"
+    },
+    {
+     "label": "Display",
+     "value": "Large, high-contrast LCD"
+    },
+    {
+     "label": "Auto-off",
+     "value": "After 30 minutes without slide movement"
+    }
+   ],
+   "description": "The Starrett electronic slide caliper covers 0 to 6 inches with a 0.0005 inch resolution, a stainless steel body, a large high-contrast LCD and a fine adjustment thumb roll. The listing says it turns off automatically after 30 minutes without slide movement, and a one second push of either button wakes it.\n\nThe tradeoff is price. It is the most expensive of the eleven candidates, and the listing in our data does not state an accuracy figure, only the resolution. Compared with the iGaging Absolute Origin, it is a brand with a long record in measuring tools but offers no data output port. Compared with the HARDELL 6 inch, it has a refined feel but no backlight or USB-C charging.\n\nIn ownership, keep the jaws and beam clean, zero the caliper before each measurement and avoid dropping it. A caliper reads to the thousandth only if the jaws are clean and the pressure is consistent, so use the thumb roll the same way each time. Store it in its case.",
+   "bestFor": "Woodworkers and machinists who want a refined, long-established caliper.",
+   "pros": [
+    "Stated 0.0005 inch resolution shows fine changes in thickness",
+    "Stainless steel body from a long-established measuring brand",
+    "Large high-contrast LCD is easy to read at a glance",
+    "Auto shut-off after 30 minutes saves battery without losing the setting"
+   ],
+   "cons": [
+    "Most expensive of the eleven candidates in this comparison",
+    "Listing in our data gives no stated accuracy figure, only resolution"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B00WSOU772?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/21xh2Mj9V2L._SL500_.jpg"
+  },
+  {
+   "id": "B00INL0BTS",
+   "rank": 2,
+   "badge": "Best Data Output",
+   "name": "iGaging Absolute Origin 0 to 6 in Digital Caliper, IP54, SPC and USB Output",
+   "price": "",
+   "specs": [
+    "0 to 6 in",
+    "Absolute origin",
+    "IP54",
+    "SPC/USB output"
+   ],
+   "specList": [
+    {
+     "label": "Range",
+     "value": "0 to 6 inches"
+    },
+    {
+     "label": "Zero",
+     "value": "Absolute origin, retains the zero reference"
+    },
+    {
+     "label": "Protection",
+     "value": "IP54 dust and splash resistant"
+    },
+    {
+     "label": "Data",
+     "value": "SPC/USB output port"
+    },
+    {
+     "label": "Units",
+     "value": "Inch and metric"
+    }
+   ],
+   "description": "The iGaging Absolute Origin caliper covers 0 to 6 inches with an absolute origin design that retains the zero reference point, an IP54 rating for dust and splash resistance, inch and metric modes and a data output port that can send readings to software.\n\nThe tradeoff is price and complexity. It is the second most expensive of the eleven candidates, and the data port is useful only if you use the software. Compared with the Starrett, it keeps its zero when switched off and sends data, at a slightly lower price. Compared with the standard iGaging IP54 model, it adds the absolute origin and output port.\n\nIn ownership, an absolute caliper does not lose its position when you turn it off, which saves re-zeroing. Keep the jaws clean, check the zero at the closed position and protect it from heavy impact. The data output suits makers who log measurements or use CAD.",
+   "bestFor": "Makers and machinists who log measurements or want a zero that persists.",
+   "pros": [
+    "Absolute origin keeps the zero reference after power off",
+    "SPC/USB output sends readings straight to software or CAD",
+    "IP54 rating resists dust and splashes in a shop",
+    "Inch and metric modes cover both measurement systems"
+   ],
+   "cons": [
+    "Second most expensive of the eleven candidates",
+    "Data output requires compatible cable and software to be useful"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B00INL0BTS?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41rNnHkRdiL._SL500_.jpg"
+  },
+  {
+   "id": "B0FLK39NZ7",
+   "rank": 3,
+   "badge": "Best Rechargeable",
+   "name": "HARDELL 6 in Rechargeable Digital Caliper with Backlight and USB-C",
+   "price": "",
+   "specs": [
+    "0 to 6 in",
+    "Rechargeable",
+    "Backlight",
+    "0.0005 in resolution"
+   ],
+   "specList": [
+    {
+     "label": "Range",
+     "value": "0 to 6 inches"
+    },
+    {
+     "label": "Accuracy",
+     "value": "Plus or minus 0.001 inch (0.02 mm)"
+    },
+    {
+     "label": "Resolution",
+     "value": "0.0005 inch"
+    },
+    {
+     "label": "Power",
+     "value": "Rechargeable battery, USB-C"
+    },
+    {
+     "label": "Display",
+     "value": "Backlit LCD"
+    }
+   ],
+   "description": "The HARDELL 6 inch rechargeable caliper has a 0 to 6 inch range, a stated accuracy of plus or minus 0.001 inch (0.02 mm), a 0.0005 inch resolution, an all-metal body and a backlit LCD. It charges over USB-C and has four measurement modes.\n\nThe tradeoff is brand heritage. HARDELL is a value brand, and a rechargeable battery will eventually fade. Compared with the Starrett, it states an accuracy figure and adds a backlight, at a lower price, sixth of eleven. Compared with the standard HARDELL 6 inch, it adds the rechargeable battery and backlight.\n\nIn ownership, a backlight helps in dim garages and sunlight, and USB-C charging removes the coin-cell hassle. Charge it when the display dims and keep the jaws clean. Check zero at the closed position and check the reading on a known gauge block or a 1-2-3 block if you have one.",
+   "bestFor": "Garage and 3D printing users who want backlight and USB-C charging.",
+   "pros": [
+    "Stated accuracy of plus or minus 0.001 inch and 0.0005 inch resolution",
+    "Backlit LCD is easy to read in dim shops and in bright sunlight",
+    "USB-C rechargeable battery removes coin-cell replacements",
+    "Sixth of eleven in price, mid-range for a feature-rich caliper"
+   ],
+   "cons": [
+    "Value brand, so build and long-term support are less proven",
+    "Built-in rechargeable battery will eventually lose capacity"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0FLK39NZ7?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41gd-jb1DIL._SL500_.jpg"
+  },
+  {
+   "id": "B001AQEZ2W",
+   "rank": 4,
+   "badge": "Best Fraction Display",
+   "name": "iGaging IP54 Electronic Digital Caliper, 0 to 6 in, Inch, Metric and Fractions",
+   "price": "",
+   "specs": [
+    "0 to 6 in",
+    "Fractions",
+    "IP54",
+    "Large display"
+   ],
+   "specList": [
+    {
+     "label": "Range",
+     "value": "0 to 6 inches"
+    },
+    {
+     "label": "Units",
+     "value": "Inch, metric and fractions"
+    },
+    {
+     "label": "Protection",
+     "value": "IP54 splash, oil and dust resistant"
+    },
+    {
+     "label": "Display",
+     "value": "Super large, 2-3/8 by 7/8 inches"
+    },
+    {
+     "label": "Price position",
+     "value": "Seventh of eleven"
+    }
+   ],
+   "description": "The iGaging IP54 caliper reads in inches, metric and fractions, with a super large 2-3/8 by 7/8 inch display, a hardened stainless steel body and an IP54 rating that resists splashes, oil and dust.\n\nThe tradeoff is that it lacks the absolute origin and data output of the pricier iGaging model. Compared with the Absolute Origin, it costs less, seventh of eleven against tenth, and offers fractions but loses the zero retention. Compared with the Adoric, it has a larger display and a stronger build.\n\nIn ownership, a fractions display helps woodworkers who think in sixteenths and thirty-seconds. Re-zero at the start of each session, keep the jaws clean and wipe oil off the beam. It suits woodworkers who mix decimal and fractional measurements.",
+   "bestFor": "Woodworkers who work in fractions and want a large, clear display.",
+   "pros": [
+    "Fraction mode helps woodworkers who measure in sixteenths and thirty-seconds",
+    "Super large display is easy to read at arm's length",
+    "IP54 rating resists splashes, oil and dust in a shop",
+    "Seventh of eleven in price, below the Absolute Origin"
+   ],
+   "cons": [
+    "No absolute origin or data output, so it needs re-zeroing each session",
+    "Seventh of eleven in price, higher than the budget calipers"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B001AQEZ2W?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/21UeLZd9tmL._SL500_.jpg"
+  },
+  {
+   "id": "B0CB2Y6LN1",
+   "rank": 5,
+   "badge": "Best Long Range",
+   "name": "HARDELL 12 in Digital Caliper, 0 to 300 mm, Large LCD, Two Jaws and Probe",
+   "price": "",
+   "specs": [
+    "0 to 12 in",
+    "Plus or minus 0.0015 in",
+    "Large LCD",
+    "4 modes"
+   ],
+   "specList": [
+    {
+     "label": "Range",
+     "value": "0 to 12 inches (300 mm)"
+    },
+    {
+     "label": "Accuracy",
+     "value": "Plus or minus 0.0015 inch (0.04 mm)"
+    },
+    {
+     "label": "Resolution",
+     "value": "0.0005 inch (0.01 mm)"
+    },
+    {
+     "label": "Display",
+     "value": "14 by 40 mm oversized LCD"
+    },
+    {
+     "label": "Modes",
+     "value": "OD, ID, depth and step"
+    }
+   ],
+   "description": "The HARDELL 12 inch caliper covers 0 to 12 inches (300 mm) with a stated accuracy of plus or minus 0.04 mm (0.0015 inch), a 0.01 mm resolution, a 14 by 40 mm oversized LCD and a stainless steel body that the listing says is waterproof and rustproof. It comes with two pairs of jaws and a depth probe.\n\nThe tradeoff is that a longer caliper flexes more, so accuracy over the full length is harder to achieve, and a 12 inch caliper is bulkier than a 6 inch model. Compared with the 6 inch HARDELL, it covers longer parts at a slightly looser stated accuracy. Compared with the Starrett, it costs much less, eighth of eleven.\n\nIn ownership, use the full length sparingly and check against a known reference. Keep the beam clean and avoid bending it. It suits larger stock, tool handles and furniture parts that a 6 inch caliper cannot span.",
+   "bestFor": "Larger stock, furniture parts and tool handles that exceed 6 inches.",
+   "pros": [
+    "Zero to 12 inch range measures large parts a 6 inch caliper cannot span",
+    "Stated accuracy of plus or minus 0.0015 inch is reasonable over the length",
+    "Oversized LCD is easy to read, and four modes cover OD, ID, depth and step",
+    "Eighth of eleven in price, well below the Starrett"
+   ],
+   "cons": [
+    "Longer beam flexes more, so full-length accuracy needs care",
+    "Bulkier and less handy than a 6 inch caliper for small parts"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0CB2Y6LN1?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/417mAQLpA0L._SL500_.jpg"
+  },
+  {
+   "id": "B07DFFYCXS",
+   "rank": 6,
+   "badge": "Best Budget Pick",
+   "name": "Adoric 0 to 6 in Digital Caliper, Inch and mm, Large LCD, Auto-Off",
+   "price": "",
+   "specs": [
+    "0 to 6 in",
+    "0.01 in resolution",
+    "Plus or minus 0.01 in",
+    "Auto-off"
+   ],
+   "specList": [
+    {
+     "label": "Range",
+     "value": "0 to 6 inches (150 mm)"
+    },
+    {
+     "label": "Resolution",
+     "value": "0.01 inch (0.1 mm)"
+    },
+    {
+     "label": "Accuracy",
+     "value": "Plus or minus 0.01 inch (0.2 mm)"
+    },
+    {
+     "label": "Modes",
+     "value": "OD, ID, depth and step"
+    },
+    {
+     "label": "Price position",
+     "value": "Cheapest of eleven"
+    }
+   ],
+   "description": "The Adoric caliper covers 0 to 6 inches (150 mm) with a stated resolution of 0.01 inch (0.1 mm) and an accuracy of plus or minus 0.2 mm (0.01 inch). It has four measuring modes, one-button inch and millimeter conversion, a large LCD and an auto-off feature. It is the cheapest of the eleven candidates.\n\nThe tradeoff is precision. A 0.01 inch resolution is coarser than the 0.0005 inch of the Starrett and HARDELL, which is fine for rough woodworking but not for tight fits. Compared with the HARDELL 6 inch, it costs less but states a much looser accuracy. Compared with the iGaging fractions model, it lacks the larger display and IP54 rating.\n\nIn ownership, a budget caliper is fine for household and craft measurements, but check it against a known gauge before relying on it. Keep it clean and zero it often. It suits casual users who need to read sizes to the nearest hundredth.",
+   "bestFor": "Casual users who need a low-cost caliper for crafts and household measuring.",
+   "pros": [
+    "Cheapest of the eleven candidates, so the entry cost is lowest",
+    "Large LCD and one-button inch and mm conversion are easy to use",
+    "Four modes handle outside, inside, depth and step measurements",
+    "Auto-off saves the battery when you forget to switch it off"
+   ],
+   "cons": [
+    "Stated 0.01 inch resolution and plus or minus 0.01 accuracy are coarse for tight fits",
+    "Budget build and limited detail on materials and durability"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B07DFFYCXS?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31UgRJDLJSL._SL500_.jpg"
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Range: 6, 8 or 12 inches",
+   "explanation": "Most calipers cover 0 to 6 inches, which handles dimensional lumber thickness, small parts and joints. An 8 or 12 inch range, like the HARDELL 12 inch, handles longer stock but flexes more. A 6 inch caliper is easier to hold and more accurate in the hand. Buy the range you need and no more."
+  },
+  {
+   "criterion": "Resolution versus accuracy",
+   "explanation": "Resolution is the smallest step on the display, such as 0.0005 inch. Accuracy is how close the reading is to the truth, such as plus or minus 0.001 inch on the HARDELL 6 inch. A caliper can show tiny steps and still be off by more. The Adoric states 0.01 inch resolution and accuracy, and many listings state only resolution."
+  },
+  {
+   "criterion": "Build: stainless steel, hardened and IP rating",
+   "explanation": "Stainless steel and hardened jaws, as on the Starrett and iGaging, last longer than plastic. An IP54 rating, as on the iGaging, resists dust and splashes. A smooth, rigid beam and jaws that close squarely matter more than a fancy display. Cheap calipers can have jaws that do not align."
+  },
+  {
+   "criterion": "Zero stability and absolute origin",
+   "explanation": "Standard digital calipers need re-zeroing when you turn them on, and drift if the battery is weak. An absolute origin design, as on the iGaging Absolute Origin, keeps the zero reference after power off. Check zero at the closed position often, since a wrong zero ruins every reading."
+  },
+  {
+   "criterion": "Units, display and data output",
+   "explanation": "One-button inch and millimeter conversion is standard. Fractions mode, as on the iGaging IP54, helps woodworkers. A backlight, as on the HARDELL rechargeable, helps in dim shops. A data output port, as on the Absolute Origin, sends readings to software, which suits makers who record measurements."
+  },
+  {
+   "criterion": "Honest limits and care",
+   "explanation": "Calipers are sensitive to technique, with pressure, angle and jaw cleanliness changing the reading by a thousandth or more. Temperature also matters. They are good for most shop work, but not a micrometer for the tightest fits. Check against a gauge block or a known standard from time to time."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Measurement range (in)",
+   "meaning": "The maximum opening of the jaws. A longer range handles larger parts but is more flexible.",
+   "watchFor": "The Starrett, iGaging and Adoric list 0 to 6 inches, and the HARDELL 12 inch lists 0 to 12 inches."
+  },
+  {
+   "spec": "Resolution",
+   "meaning": "The smallest step shown on the display. It does not state how accurate the reading is.",
+   "watchFor": "The Starrett and HARDELL list 0.0005 inch, and the Adoric lists 0.01 inch."
+  },
+  {
+   "spec": "Accuracy",
+   "meaning": "How close the reading is to the true size, given as plus or minus a number.",
+   "watchFor": "The HARDELL 6 inch lists plus or minus 0.001 inch, the 12 inch plus or minus 0.0015 and the Adoric plus or minus 0.01."
+  },
+  {
+   "spec": "IP rating",
+   "meaning": "IP54 means protected against dust and splashing water. It helps in a dirty shop.",
+   "watchFor": "The iGaging models list IP54."
+  },
+  {
+   "spec": "Absolute origin",
+   "meaning": "A design that remembers the zero reference even when the caliper is switched off.",
+   "watchFor": "The iGaging Absolute Origin lists this feature."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Range and accuracy",
+   "description": "We evaluated stated ranges and accuracy figures from the published listings. The HARDELL calipers state accuracy, and the Starrett states resolution only. We did not check any caliper against a gauge block."
+  },
+  {
+   "title": "Build and protection",
+   "description": "We compared stainless steel bodies and IP ratings. The iGaging models list IP54, and the Starrett lists stainless steel."
+  },
+  {
+   "title": "Zero and data features",
+   "description": "We looked at absolute origin, data output and backlight. The Absolute Origin has zero retention and an output port, and the HARDELL has a backlight."
+  },
+  {
+   "title": "Ownership and care",
+   "description": "We considered battery life, jaw wear and drift from owner feedback patterns. Dirty jaws and a weak battery are the main causes of wrong readings."
+  },
+  {
+   "title": "Claims and value",
+   "description": "We treated resolution numbers as display steps, not accuracy. We weighed price position against range, stated accuracy and features."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Use",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Fine woodworking fits",
+      "Starrett or HARDELL 6 in",
+      "0.0005 inch resolution"
+     ],
+     [
+      "3D printing and logging data",
+      "iGaging Absolute Origin",
+      "Data output and zero retention"
+     ],
+     [
+      "Woodworking in fractions",
+      "iGaging IP54",
+      "Fraction display, large screen"
+     ],
+     [
+      "Large stock and handles",
+      "HARDELL 12 in",
+      "0 to 12 inch range"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest cost",
+      "Adoric",
+      "Cheapest of eleven"
+     ],
+     [
+      "Mid-range feature-rich",
+      "HARDELL 6 in Rechargeable",
+      "Sixth of eleven"
+     ],
+     [
+      "Mid-range fractions",
+      "iGaging IP54",
+      "Seventh of eleven"
+     ],
+     [
+      "Premium",
+      "iGaging Absolute Origin or Starrett",
+      "Tenth and eleventh of eleven"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Budget Caliper vs Established Brand",
+   "cards": [
+    {
+     "label": "Budget calipers",
+     "text": "The Adoric and HARDELL models cost less and give decent resolution for woodworking and printing. Build and long-term support are less proven."
+    },
+    {
+     "label": "Established brands",
+     "text": "The Starrett and iGaging offer refined builds and support. They cost more, and some features like data output are only on the pricier iGaging."
+    }
+   ],
+   "note": "Choose a budget caliper for craft and general woodworking, and an established brand for tight tolerances and daily shop use."
+  },
+  {
+   "subheading": "By Feature Priority",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Backlight and USB-C charging",
+      "HARDELL 6 in Rechargeable",
+      "Rechargeable with backlight"
+     ],
+     [
+      "Zero stays after power off",
+      "iGaging Absolute Origin",
+      "Absolute origin design"
+     ],
+     [
+      "Splash and dust resistance",
+      "iGaging IP54 models",
+      "IP54 rating"
+     ],
+     [
+      "Auto-off for battery saving",
+      "Starrett or Adoric",
+      "30 minute or auto shut-off"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Woodworking and 3D Printing Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A reading to 0.001 inch or 0.02 mm, a clean zero and a consistent technique. Close the jaws gently, zero often and measure at several points, since wood moves and prints vary."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The HARDELL 6 inch rechargeable is the best value for a shop, and the iGaging Absolute Origin is the best for logging data."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You work to tight tolerances daily, want a zero that holds or need to log data, as with the Starrett or iGaging Absolute Origin."
+    },
+    {
+     "label": "Save if",
+     "text": "You measure stock thickness and print parts occasionally. The HARDELL or Adoric cover it for much less."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Clean the jaws and beam",
+   "interval": "Before each use",
+   "why": "Dust and oil on the jaws or beam change the reading. A clean cloth keeps measurements consistent."
+  },
+  {
+   "task": "Zero at the closed position",
+   "interval": "Each session and after battery changes",
+   "why": "A wrong zero offsets every measurement. Close the jaws gently and press zero."
+  },
+  {
+   "task": "Replace or charge the battery",
+   "interval": "When the display dims",
+   "why": "A weak battery causes drifting and blank readings. Replace or recharge before critical work."
+  },
+  {
+   "task": "Check against a reference",
+   "interval": "Every few months",
+   "why": "A gauge block or known stock shows whether the caliper is still true. Retire a caliper that is off."
+  },
+  {
+   "task": "Store in its case, dry",
+   "interval": "After use",
+   "why": "Drops and moisture bend jaws and corrode contacts. A case protects the caliper between jobs."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is a digital caliper accurate enough for woodworking?",
+   "a": "Yes. A caliper with 0.001 inch accuracy is far finer than most wood moves. Wood changes dimension with humidity, so use the caliper to compare parts, not to chase tiny differences."
+  },
+  {
+   "q": "How much should I spend on a digital caliper?",
+   "a": "Modestly for most work. A budget caliper covers crafts and prints, while a Starrett or iGaging suits daily shop use. Check any caliper against a known gauge."
+  },
+  {
+   "q": "How long do digital calipers last?",
+   "a": "Many years with care, but jaws wear and batteries fade. No listing states a rated life. Clean the jaws and store the caliper in a case."
+  },
+  {
+   "q": "Does higher resolution mean higher accuracy?",
+   "a": "No. A caliper can show 0.0005 inch steps and still be accurate only to 0.001 inch or worse. Look for a stated accuracy as well as resolution."
+  },
+  {
+   "q": "What range do I need?",
+   "a": "Six inches covers most lumber thickness and small parts. Choose 8 or 12 inches only if you need to measure longer pieces, and expect more flex."
+  },
+  {
+   "q": "Why does my caliper reading drift?",
+   "a": "Usually a weak battery, dirty jaws or a wrong zero. Replace the battery, clean the jaws and re-zero at the closed position."
+  }
+ ],
+ "relatedGuides": [
+  {
+   "title": "Laser Level vs Bubble Level",
+   "href": "/guide/laser-level-vs-bubble-level"
+  },
+  {
+   "title": "How to Choose Drill Bits",
+   "href": "/guide/how-to-choose-drill-bits"
+  },
+  {
+   "title": "Sandpaper Grit Guide",
+   "href": "/guide/sandpaper-grit-guide"
+  }
+ ]
+}

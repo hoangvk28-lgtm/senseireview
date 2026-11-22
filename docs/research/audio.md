@@ -14,3 +14,18 @@
 - Hi-Res claims are marketing without codec support.
 - Some Apple-chip features on Beats work fully only with Apple devices.
 - Strong ANC pressure feeling bothers some people.
+
+# sleep, bone conduction and kids headphones (added round 6)
+- Sleep headbands and masks hide flat speakers in fabric; side sleepers need thin speakers, not bulky earcups.
+- Sleep earbuds sit inside the ear canal and are small, but fit and ear pressure vary; tiny batteries run roughly 6 to 10 hours.
+- Washable fabric: most headbands need the electronics removed before washing; sweat and skin oil degrade fabric over months.
+- Sleep audio should run at low volume; long listening at high volume harms hearing regardless of the device type.
+- Bluetooth 5.x improves range and power use; version numbers on cheap listings are often marketing.
+- Bone conduction sends vibration through the cheekbones and leaves the ear canal open; sound leaks at high volume and bass is weak.
+- Bone conduction suits running and cycling because you hear traffic; it is not an isolation device.
+- IP ratings: IPX4 sweat, IPX5 jets, IPX7 brief submersion, IP67 dust plus brief submersion; real sweat endurance depends on charging port covers.
+- Wrap-around neckband fit matters; titanium frames are light and flexible; glasses can interfere.
+- Kids volume limiters cap output near 85 dB (some 94 dB); limiter accuracy varies and sharing-port chips are not independent.
+- 85 dB is a common safe listening reference for long periods; shorter sessions allow slightly louder.
+- Kids headphones need adjustable headbands, replaceable pads and sturdy hinges; wired models have no battery to fail.
+- Bluetooth kids models often add a wired fallback; a built-in mic suits school online classes.

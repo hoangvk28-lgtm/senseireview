@@ -1,0 +1,592 @@
+{
+ "guideSlug": "best-wood-moisture-meters",
+ "categorySlug": "tools-diy",
+ "mainKeyword": "wood moisture meter",
+ "guideTitle": "Best Wood Moisture Meters for Lumber and Firewood (2026)",
+ "metaTitle": "Best Wood Moisture Meters",
+ "metaDescription": "Compare six wood moisture meters by pin or pinless type, depth, species settings, display and use on lumber, flooring and firewood, with honest accuracy limits.",
+ "lastUpdated": "2026-11-21",
+ "readTime": "12 min",
+ "heroImage": "https://m.media-amazon.com/images/I/41DmgeTOZiL._SL500_.jpg",
+ "expertTake": "The Tramex ME5 is the top pick because it is a pinless meter with a stated dual-depth measurement, shallow to about 0.4 inch and deeper, so you can compare surface and core moisture without leaving holes. The Mecurate pin meter is the pick for a low-cost, species-calibrated pin reading with a 0.1 percent resolution. Skip the category if you only want to know if firewood feels dry, because a split log and a hand test are free and the reading from a cheap meter is only an estimate.",
+ "introParagraphs": [
+  "A wood moisture meter estimates how much water is in lumber, flooring, furniture stock and firewood, shown as a percentage of the wood's dry weight. Woodworkers use one to decide when boards are ready to build with, flooring installers use one to avoid cupping and gaps, and firewood buyers use one to avoid wet, smoky logs.",
+  "Meters work in two ways: pin types push two metal pins into the wood, and pinless types scan the surface with an electromagnetic field. They differ in depth, species correction and whether they leave holes. This guide compares them and says plainly how accurate hand-held readings really are."
+ ],
+ "products": [
+  {
+   "id": "B07YDYTYPT",
+   "rank": 1,
+   "badge": "Best Overall",
+   "name": "Tramex Moisture Encounter ME5 Pinless Meter, Dual Depth",
+   "price": "",
+   "specs": [
+    "Pinless",
+    "Dual depth",
+    "5 to 30% wood",
+    "0 to 100 scale"
+   ],
+   "specList": [
+    {
+     "label": "Type",
+     "value": "Pinless, non-destructive"
+    },
+    {
+     "label": "Depth",
+     "value": "Shallow up to 0.4 inch (9 mm) and deeper"
+    },
+    {
+     "label": "Wood range",
+     "value": "5 to 30 percent moisture content"
+    },
+    {
+     "label": "Other scale",
+     "value": "0 to 100 relative scale for building materials"
+    },
+    {
+     "label": "Price position",
+     "value": "Most expensive of thirteen"
+    }
+   ],
+   "description": "The Tramex ME5 is a pinless moisture meter that measures wood moisture content from 5 to 30 percent and building materials on a 0 to 100 relative scale. The listing highlights dual-depth measurement, with a shallow depth up to 0.4 inch (9 mm) and a deeper mode, so you can compare surface and core moisture.\n\nThe tradeoff is price and the nature of pinless readings. It is the most expensive of the thirteen candidates, and a pinless meter measures an average over a volume, so a thin wet spot or a very rough surface can skew it. Compared with the Klein ET140, it states a more refined dual-depth feature. Compared with a pin meter, it leaves no holes but is less precise at a single spot.\n\nIn ownership, hold the meter flat on the surface, take several readings and compare them. Calibrate or check against a known dry sample when the manual suggests. Keep the sensor pad clean, and remember a meter gives an estimate, which depends on species and temperature.",
+   "bestFor": "Woodworkers and flooring installers who want non-destructive readings at two depths.",
+   "pros": [
+    "Dual-depth measurement lets you compare surface and core moisture",
+    "Pinless design leaves no holes in finished lumber or flooring",
+    "Stated 5 to 30 percent wood range covers the working range of most lumber",
+    "0 to 100 relative scale also checks drywall and building materials"
+   ],
+   "cons": [
+    "Most expensive of the thirteen candidates in this comparison",
+    "Pinless readings average over a volume and can miss a thin wet layer"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B07YDYTYPT?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41DmgeTOZiL._SL500_.jpg"
+  },
+  {
+   "id": "B07SZX8QXH",
+   "rank": 2,
+   "badge": "Best Trusted Brand Pinless",
+   "name": "Klein Tools ET140 Pinless Moisture Meter, 3/4 in Depth, EMF Detection",
+   "price": "",
+   "specs": [
+    "Pinless",
+    "3/4 in depth",
+    "EMF",
+    "Leak detector"
+   ],
+   "specList": [
+    {
+     "label": "Type",
+     "value": "Pinless, non-destructive"
+    },
+    {
+     "label": "Depth",
+     "value": "Up to 3/4 inch"
+    },
+    {
+     "label": "Technology",
+     "value": "Electromagnetic field (EMF)"
+    },
+    {
+     "label": "Reading",
+     "value": "Relative moisture content"
+    },
+    {
+     "label": "Price position",
+     "value": "Eleventh of thirteen"
+    }
+   ],
+   "description": "The Klein Tools ET140 is a pinless meter that uses an electromagnetic field to detect relative moisture content up to 3/4 inch deep in building materials, with a function to flag leaks and flooding. It is described as a non-destructive detector.\n\nThe tradeoff is that it gives a relative reading, not a calibrated wood moisture percentage, so it is a leak-finding tool more than a lumber-grading one. Compared with the Tramex, it costs less, eleventh of thirteen, but states no species or percentage ranges. Compared with the Mecurate pin meter, it leaves no holes but does not give species-corrected numbers.\n\nIn ownership, use it to scan walls and floors for damp areas, then confirm with a pin meter or another test. Hold it flat and move slowly, and compare against a dry spot nearby. It suits homeowners and inspectors who hunt for moisture problems.",
+   "bestFor": "Homeowners and inspectors who scan walls and floors for moisture and leaks.",
+   "pros": [
+    "Pinless EMF scan detects relative moisture up to 3/4 inch deep",
+    "Non-destructive, so it leaves no marks on walls, floors or furniture",
+    "Brand with a long record in electrical and building test tools",
+    "Useful as a first scan to find damp areas before confirming with a pin meter"
+   ],
+   "cons": [
+    "Gives relative readings, not a species-corrected wood moisture percentage",
+    "Eleventh of thirteen in price, which is high for a scanner"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B07SZX8QXH?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41hx34298CL._SL500_.jpg"
+  },
+  {
+   "id": "B07H4BJ7JK",
+   "rank": 3,
+   "badge": "Best Pin and Pinless Combo",
+   "name": "General Tools MM9 Pin and Pinless Moisture Meter for Wood and Drywall",
+   "price": "",
+   "specs": [
+    "Pin and pinless",
+    "Backlit LCD",
+    "Color-coded",
+    "Scan and probe"
+   ],
+   "specList": [
+    {
+     "label": "Type",
+     "value": "Pin and pinless in one tool"
+    },
+    {
+     "label": "Use",
+     "value": "Scan with the pad, then probe with the pins"
+    },
+    {
+     "label": "Display",
+     "value": "Backlit LCD with real-time percentages in pin mode"
+    },
+    {
+     "label": "Indicators",
+     "value": "Color-coded readings"
+    },
+    {
+     "label": "Price position",
+     "value": "Twelfth of thirteen"
+    }
+   ],
+   "description": "The General Tools MM9 combines a pinless scanning pad with flip-open pins in one meter. The listing describes a workflow where you scan to find areas of concern with the pinless sensor, then flip open the cap and use the pins to pinpoint the severity, shown on a backlit LCD with color-coded readings.\n\nThe tradeoff is price. It is the second most expensive of the thirteen candidates, and a combination tool is a compromise compared with a dedicated pro meter. Compared with the Tramex, it has both modes but no stated dual-depth feature. Compared with the Mecurate pin meter, it adds a pinless mode at a higher price.\n\nIn ownership, the scan-then-probe approach is quick and practical: find damp areas by scanning, confirm at a point with the pins. Check pin tips for wear and avoid pushing them into hard wood too deep. Keep the pad clean. It suits remodelers and woodworkers who want both functions in one tool.",
+   "bestFor": "Remodelers who want to scan for damp areas and then confirm with pins.",
+   "pros": [
+    "Pinless scan finds damp areas, and pins pinpoint severity in one tool",
+    "Backlit LCD and color-coded readings are easy to read in dim spaces",
+    "Suited to wood, walls and drywall in a single meter",
+    "Brand with wide retail availability and spare pins"
+   ],
+   "cons": [
+    "Twelfth of thirteen in price, near the top of the group",
+    "Combination design is a compromise compared with a dedicated pro meter"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B07H4BJ7JK?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31kVvfSEK2L._SL500_.jpg"
+  },
+  {
+   "id": "B08VDZP7N5",
+   "rank": 4,
+   "badge": "Best Pin Meter Value",
+   "name": "Mecurate Digital Pin Wood Moisture Meter, 8 Wood Scales, 0.1% Resolution",
+   "price": "",
+   "specs": [
+    "Pin type",
+    "8 wood scales",
+    "0.1% resolution",
+    "3 color lights"
+   ],
+   "specList": [
+    {
+     "label": "Type",
+     "value": "Pin"
+    },
+    {
+     "label": "Modes",
+     "value": "Wood (8 calibrated scales) and building material"
+    },
+    {
+     "label": "Resolution",
+     "value": "0.1 percent"
+    },
+    {
+     "label": "Indicators",
+     "value": "3 colored low, medium and high lights"
+    },
+    {
+     "label": "Price position",
+     "value": "Seventh of thirteen"
+    }
+   ],
+   "description": "The Mecurate is a pin-type digital meter with two modes: wood, with eight calibrated scales for species, and building material. It reads at 0.1 percent resolution and has three colored indicators with on-screen icons for low, medium and high moisture.\n\nThe tradeoff is that pin meters leave small holes and read only at the pin depth. Compared with the Tramex, it costs less, seventh of thirteen, and gives a precise point reading but no non-destructive scan. Compared with the Soonkoda pin meter, it states species scales and has color indicators.\n\nIn ownership, choose the right species scale, push the pins in across the grain and take readings at several points. The reading depends on wood temperature, so let boards sit in the room first. Replace worn pins and keep the pin cover on. It suits woodworkers who grade boards before building.",
+   "bestFor": "Woodworkers and hobbyists who want a species-calibrated pin reading at a modest price.",
+   "pros": [
+    "Eight calibrated wood scales let you pick a setting for your species",
+    "Resolution of 0.1 percent shows small changes in moisture content",
+    "Three color indicators give a quick low, medium or high check",
+    "Seventh of thirteen in price, below the premium pinless meters"
+   ],
+   "cons": [
+    "Pins leave small holes and read only at the pin depth",
+    "Accuracy still depends on species, temperature and pin placement"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B08VDZP7N5?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31KwGCtxhtL._SL500_.jpg"
+  },
+  {
+   "id": "B0DRVF2ZXQ",
+   "rank": 5,
+   "badge": "Best Dual Mode Budget",
+   "name": "LASELION MS03 2-in-1 Pin and Pinless Moisture Meter for Wood and Concrete",
+   "price": "",
+   "specs": [
+    "Pin and pinless",
+    "Deep pin mode",
+    "Furniture-safe",
+    "Wood and concrete"
+   ],
+   "specList": [
+    {
+     "label": "Type",
+     "value": "Pin and pinless modes"
+    },
+    {
+     "label": "Pin mode",
+     "value": "Deep wood measurement"
+    },
+    {
+     "label": "Pinless mode",
+     "value": "Non-destructive scanning for delicate surfaces"
+    },
+    {
+     "label": "Materials",
+     "value": "Wood and lumber, with reference scanning on building materials"
+    },
+    {
+     "label": "Price position",
+     "value": "Sixth of thirteen"
+    }
+   ],
+   "description": "The LASELION MS03 offers both pin and pinless modes. The listing says to use pin mode for deep wood measurement and pinless mode for non-destructive scanning of delicate surfaces such as furniture and antique wood, and notes that pinless readings are best treated as relative.\n\nThe tradeoff is brand maturity and detail. The data gives no depth or accuracy figures, so the listing is more qualitative than the Tramex. Compared with the General Tools MM9, it costs less, sixth of thirteen against twelfth, and has similar dual modes. Compared with the Mecurate, it adds a pinless mode but does not state species scales.\n\nIn ownership, use pinless mode on antiques and finished pieces and pins on rough lumber. Take several readings and compare with a known dry piece. It suits hobbyists who want both modes without a high price.",
+   "bestFor": "Hobbyists who need both pin and pinless modes at a moderate price.",
+   "pros": [
+    "Pin mode for deep wood readings and pinless mode for delicate surfaces",
+    "Suited to antiques and furniture where holes are not acceptable",
+    "Sixth of thirteen in price, below the General Tools MM9",
+    "Handles wood, lumber and reference scans of building materials"
+   ],
+   "cons": [
+    "Listing in our data gives no depth range or accuracy figures",
+    "Pinless readings are described as relative, not precise percentages"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0DRVF2ZXQ?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41CJ9k+bfTL._SL500_.jpg"
+  },
+  {
+   "id": "B0BN2PBW5D",
+   "rank": 6,
+   "badge": "Best Budget Pin Meter",
+   "name": "Soonkoda 0 to 99.9% Pin Wood Moisture Meter, 4 Modes, Plus or Minus 0.5%",
+   "price": "",
+   "specs": [
+    "Pin type",
+    "0 to 99.9%",
+    "Plus or minus 0.5%",
+    "4 modes"
+   ],
+   "specList": [
+    {
+     "label": "Range",
+     "value": "0 to 99.9 percent"
+    },
+    {
+     "label": "Accuracy",
+     "value": "Plus or minus 0.5 percent, resolution 0.1 percent"
+    },
+    {
+     "label": "Modes",
+     "value": "4 (A, B, C, D) for different materials"
+    },
+    {
+     "label": "Safety",
+     "value": "Probe protection cover"
+    },
+    {
+     "label": "Price position",
+     "value": "Cheapest of thirteen"
+    }
+   ],
+   "description": "The Soonkoda is a pin-type digital meter with a range of 0 to 99.9 percent, a stated accuracy of plus or minus 0.5 percent, a resolution of 0.1 percent and four modes for different materials, with a probe protection cover for safety. It is the cheapest of the thirteen candidates.\n\nThe tradeoff is that the accuracy figure is a maker claim, and cheap meters can drift, so check against a known reference. Compared with the Mecurate, it is cheaper but states four generic modes instead of eight species scales. Compared with the Tramex, it leaves holes and costs a fraction as much.\n\nIn ownership, check the meter on a known dry piece, such as kiln-dried lumber stored indoors, and on a wet sample. Replace pins when they bend and keep the cover on. It suits firewood checks and casual woodworking.",
+   "bestFor": "Firewood checks and casual woodworking where the cost must stay low.",
+   "pros": [
+    "Cheapest of the thirteen candidates, so the entry cost is lowest",
+    "Stated accuracy of plus or minus 0.5 percent and resolution of 0.1 percent",
+    "Four modes cover wood and other materials",
+    "Probe cover protects the pins and your hands in storage"
+   ],
+   "cons": [
+    "Accuracy is a maker claim and cheap meters can drift without a reference check",
+    "Four generic modes are less specific than species-calibrated scales"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0BN2PBW5D?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/4152pSUrdvL._SL500_.jpg"
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Pin versus pinless",
+   "explanation": "Pin meters, like the Mecurate and Soonkoda, push two pins in and read electrical resistance at a point. They are precise but leave small holes. Pinless meters, like the Tramex and Klein, scan with an electromagnetic field, leave no marks and average over a volume. Many pros own both."
+  },
+  {
+   "criterion": "Reading depth",
+   "explanation": "Moisture is not even through a board, since the surface dries first. The Tramex lists a shallow depth to 0.4 inch and a deeper mode, and the Klein reads to 3/4 inch. A pin meter reads where the pins end. Match depth to board thickness, since a thick timber can be dry outside and wet inside."
+  },
+  {
+   "criterion": "Species correction and scales",
+   "explanation": "Different woods change the reading at the same moisture level. The Mecurate lists eight calibrated wood scales and the Soonkoda lists four modes. Without species correction, a reading can be off by a point or more. Use the species setting, and treat the number as an estimate."
+  },
+  {
+   "criterion": "Accuracy and resolution claims",
+   "explanation": "Resolution is the smallest step on the display, such as 0.1 percent. Accuracy is how close it is to the truth, such as plus or minus 0.5 percent on the Soonkoda. Cheap meters can show a precise number that is wrong. Check against a known dry piece and a known wet piece."
+  },
+  {
+   "criterion": "Display, indicators and handling",
+   "explanation": "A backlit LCD helps in dim shops, and color-coded indicators, as on the Mecurate and General Tools MM9, give a quick low, medium or high check. Pin covers protect your hands. A short auto-off saves batteries. Choose a size that fits your hand and tool belt."
+  },
+  {
+   "criterion": "What the number means for your project",
+   "explanation": "Furniture and flooring wood usually targets 6 to 9 percent in a heated home. Firewood should be about 20 percent or less to burn cleanly. Outdoor lumber can be higher. Let boards acclimate in the room, and read several spots to understand the spread."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Measurement range (percent)",
+   "meaning": "The range of moisture content the meter can display. Wood work happens in a narrower band than the full range.",
+   "watchFor": "The Tramex lists 5 to 30 percent for wood and the Soonkoda lists 0 to 99.9 percent."
+  },
+  {
+   "spec": "Resolution (percent)",
+   "meaning": "The smallest step shown on the display. It does not tell you how accurate the reading is.",
+   "watchFor": "The Mecurate and Soonkoda list 0.1 percent resolution."
+  },
+  {
+   "spec": "Accuracy",
+   "meaning": "How close the reading is to the true moisture content, usually given as plus or minus a percentage.",
+   "watchFor": "The Soonkoda lists plus or minus 0.5 percent, a maker claim, and many listings give no figure."
+  },
+  {
+   "spec": "Depth of measurement",
+   "meaning": "How far into the material a pinless meter reads, or how long the pins are on a pin meter.",
+   "watchFor": "The Klein lists 3/4 inch and the Tramex lists 0.4 inch shallow and a deeper mode."
+  },
+  {
+   "spec": "Species scales",
+   "meaning": "Calibration settings for different wood species. They correct the reading for how each wood conducts.",
+   "watchFor": "The Mecurate lists eight wood scales."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Method and depth",
+   "description": "We evaluated pin and pinless methods and stated depths from the published listings. The Tramex lists dual depth and the Klein lists 3/4 inch. We did not test any meter on wood."
+  },
+  {
+   "title": "Species and scales",
+   "description": "We compared species settings and modes. The Mecurate lists eight wood scales and the Soonkoda lists four modes."
+  },
+  {
+   "title": "Display and use",
+   "description": "We looked at displays, color indicators and the scan-then-probe workflow of the General Tools MM9."
+  },
+  {
+   "title": "Ownership and calibration",
+   "description": "We considered pin wear, calibration and drift from owner feedback patterns. A reference check on dry and wet pieces catches cheap meters that drift."
+  },
+  {
+   "title": "Claims and value",
+   "description": "We treated accuracy claims as maker figures. We weighed price position against method, species scales and features."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Use",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Finished furniture and antiques",
+      "Tramex ME5 or LASELION",
+      "Pinless, no holes"
+     ],
+     [
+      "Grading rough lumber",
+      "Mecurate Pin Meter",
+      "Eight species scales"
+     ],
+     [
+      "Scanning walls and floors for leaks",
+      "Klein ET140 or General Tools MM9",
+      "Pinless scanning"
+     ],
+     [
+      "Firewood checks",
+      "Soonkoda",
+      "Cheap pin meter with a probe cover"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest cost",
+      "Soonkoda",
+      "Cheapest of thirteen"
+     ],
+     [
+      "Mid-range dual mode",
+      "LASELION MS03",
+      "Sixth of thirteen"
+     ],
+     [
+      "Mid-range species scales",
+      "Mecurate",
+      "Seventh of thirteen"
+     ],
+     [
+      "Premium",
+      "Klein, General Tools MM9 or Tramex",
+      "Eleventh to thirteenth of thirteen"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Pin vs Pinless",
+   "cards": [
+    {
+     "label": "Pin meters",
+     "text": "The Mecurate and Soonkoda read at a point and are precise and cheap. They leave small holes and read only at the pin depth."
+    },
+    {
+     "label": "Pinless meters",
+     "text": "The Tramex and Klein scan without marks and cover an area. They average over a volume and are less precise at a single spot."
+    }
+   ],
+   "note": "Choose pins for rough lumber and firewood, and pinless for finished work and scanning for damp areas."
+  },
+  {
+   "subheading": "By Material",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Hardwood boards",
+      "Mecurate",
+      "Species-calibrated pin readings"
+     ],
+     [
+      "Flooring and subfloor",
+      "Tramex ME5",
+      "Dual-depth pinless readings"
+     ],
+     [
+      "Drywall and walls",
+      "Klein ET140",
+      "Pinless, 3/4 inch depth"
+     ],
+     [
+      "Mixed wood and building materials",
+      "General Tools MM9",
+      "Pin and pinless in one"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Lumber and Firewood Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Species scales, a pin option for deep readings and a reference check. Split a log and read the freshly exposed face for firewood, and read several boards for lumber."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Mecurate is the best pin meter for lumber, and the Tramex is the best pinless meter for finished work."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You build furniture, install flooring or inspect homes, and need repeatable readings and non-destructive scanning, as with the Tramex."
+    },
+    {
+     "label": "Save if",
+     "text": "You check firewood or a few boards a year. The Soonkoda or Mecurate cost less and do the job."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Check against a reference",
+   "interval": "Every few months",
+   "why": "Cheap meters drift. Test on a known dry piece and a known wet piece to confirm it reads sensibly."
+  },
+  {
+   "task": "Replace bent or worn pins",
+   "interval": "As needed",
+   "why": "Bent pins give poor contact and wrong readings. Spare pins are cheap and quick to swap."
+  },
+  {
+   "task": "Keep the pin cover on",
+   "interval": "After each use",
+   "why": "Exposed pins bend and can injure you. A cover protects both."
+  },
+  {
+   "task": "Clean the pinless sensor pad",
+   "interval": "Monthly",
+   "why": "Dust and moisture on the pad skew readings. A dry cloth keeps it clean."
+  },
+  {
+   "task": "Replace batteries",
+   "interval": "When the display dims",
+   "why": "A weak battery gives drifting readings. Replace it and recheck."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Are pin or pinless meters better?",
+   "a": "Pin meters are precise at a point and cheap, but leave holes. Pinless meters scan without marks and cover an area, but are less precise. Many people use both."
+  },
+  {
+   "q": "How much should I spend on a wood moisture meter?",
+   "a": "Moderately. A budget pin meter is fine for firewood, while a pro pinless meter suits flooring and furniture. Check any cheap meter against a reference."
+  },
+  {
+   "q": "How accurate are moisture meters?",
+   "a": "They are estimates that depend on species, temperature and technique. Maker accuracy claims are best cases, and a meter is a guide, not a lab test."
+  },
+  {
+   "q": "What moisture level should firewood have?",
+   "a": "About 20 percent or less burns cleanly. Split a log and test the freshly exposed face, since the outside dries first."
+  },
+  {
+   "q": "What level is right for furniture wood?",
+   "a": "Usually 6 to 9 percent for a heated indoor environment. Let boards acclimate in the room before building."
+  },
+  {
+   "q": "Can I use a wood meter on drywall?",
+   "a": "Some meters have a building material mode, but readings are relative. Use a meter that states drywall support and treat the numbers as a guide to damp areas."
+  }
+ ],
+ "relatedGuides": [
+  {
+   "title": "Laser Level vs Bubble Level",
+   "href": "/guide/laser-level-vs-bubble-level"
+  },
+  {
+   "title": "Sandpaper Grit Guide",
+   "href": "/guide/sandpaper-grit-guide"
+  },
+  {
+   "title": "How to Choose a Stud Finder",
+   "href": "/guide/how-to-choose-a-stud-finder"
+  }
+ ]
+}

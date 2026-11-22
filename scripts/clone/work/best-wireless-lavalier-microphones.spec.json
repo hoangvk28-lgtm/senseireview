@@ -1,0 +1,592 @@
+{
+ "guideSlug": "best-wireless-lavalier-microphones",
+ "categorySlug": "tech-electronics",
+ "mainKeyword": "wireless lavalier microphone",
+ "guideTitle": "Best Wireless Lavalier Microphones (2026)",
+ "metaTitle": "Best Wireless Lavalier Microphones",
+ "metaDescription": "Compare six wireless lavalier microphone kits by weight, range, battery, 32-bit float recording and phone compatibility, plus honest range notes.",
+ "lastUpdated": "2026-11-21",
+ "readTime": "12 min",
+ "heroImage": "https://m.media-amazon.com/images/I/31xP6pRjtQL._SL500_.jpg",
+ "expertTake": "The DJI Mic 2 kit is the top pick for most creators because it pairs 32-bit float internal recording with a pre-linked two-transmitter system. The DJI Mic Mini is the value pick when weight and battery matter more than recording backup. Skip the category if you only record in one quiet room, because a wired lavalier or a USB desk microphone costs less and avoids battery and interference issues.",
+ "introParagraphs": [
+  "A wireless lavalier system pairs a tiny clip-on microphone transmitter with a receiver that plugs into a phone, camera or computer. It lets a speaker move freely while the microphone stays a few inches from the mouth, which is the single biggest factor in clean voice recording.",
+  "Kits vary widely in what they add around that core: onboard backup recording, noise cancelling, charging cases, range and phone connectors. This guide compares those details so you can match a kit to how and where you record, not just to a price."
+ ],
+ "products": [
+  {
+   "id": "B0CFZX734J",
+   "rank": 1,
+   "badge": "Best Overall",
+   "name": "DJI Mic 2 Kit, 2 TX + 1 RX with Charging Case, 32-Bit Float",
+   "price": "",
+   "specs": [
+    "2 TX + 1 RX",
+    "32-bit float",
+    "Charging case",
+    "Noise cancelling"
+   ],
+   "specList": [
+    {
+     "label": "Kit",
+     "value": "2 transmitters, 1 receiver, case"
+    },
+    {
+     "label": "Internal recording",
+     "value": "32-bit float on each transmitter"
+    },
+    {
+     "label": "Linking",
+     "value": "Pre-linked out of the box"
+    },
+    {
+     "label": "Noise handling",
+     "value": "Noise cancelling stated"
+    },
+    {
+     "label": "Position in price order",
+     "value": "11 of 13"
+    }
+   ],
+   "description": "The DJI Mic 2 is the most complete all-round kit here. Each transmitter can record on its own with 32-bit float internal recording, so a take survives a lost connection or a level that would otherwise clip. The transmitters and receiver arrive pre-linked, and the charging case keeps them topped up between shoots.\n\nThe tradeoff is that it is near the top of the price order, and the kit is larger than the DJI Mic Mini. Against the Mic Mini, you pay for the internal recording and the more capable transmitters. Compared with the RODE Wireless PRO, the DJI is simpler and cheaper but lacks timecode for multi-camera editing.\n\nIn ownership, the main points are firmware updates and clip placement. Keep the firmware current, use a furry windscreen outdoors and clip the transmitter 6 to 8 inches below the chin. The transmitters are standalone recorders, so remember to check they have free storage before a long interview.",
+   "bestFor": "Creators who want a dependable two-person kit with backup recording.",
+   "pros": [
+    "32-bit float internal recording gives a safety copy of every take",
+    "Pre-linked transmitters and receiver save setup time on location",
+    "Each transmitter works as a standalone recorder if the link drops",
+    "Charging case keeps the kit ready between shoots"
+   ],
+   "cons": [
+    "Near the top of the price order among the thirteen candidates",
+    "Bigger than the DJI Mic Mini when pocket size matters most"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0CFZX734J?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31xP6pRjtQL._SL500_.jpg"
+  },
+  {
+   "id": "B0DDL8WGH5",
+   "rank": 2,
+   "badge": "Best Ultralight",
+   "name": "DJI Mic Mini Kit, 2 TX + 1 RX with Charging Case, 10 g",
+   "price": "",
+   "specs": [
+    "10 g TX",
+    "400 m range",
+    "48 h with case",
+    "2 TX + 1 RX"
+   ],
+   "specList": [
+    {
+     "label": "Transmitter weight",
+     "value": "10 g"
+    },
+    {
+     "label": "Stated range",
+     "value": "400 m open air"
+    },
+    {
+     "label": "Runtime with case",
+     "value": "Up to 48 hours"
+    },
+    {
+     "label": "Kit",
+     "value": "2 TX, 1 RX and case"
+    },
+    {
+     "label": "Position in price order",
+     "value": "10 of 13"
+    }
+   ],
+   "description": "The DJI Mic Mini is the light choice. Each transmitter weighs 10 g, so it clips onto a collar without dragging, and the listing quotes a 400 m open-air range, noise cancelling and automatic limiting. The up to 48 hour figure includes recharges from the charging case, not a single session.\n\nThe tradeoff is that it lacks the 32-bit float internal recording of the DJI Mic 2, so a clipped take is lost. It costs only a little less than the Mic 2 in the price order, so the gap is mostly in the recording safety. Compared with the Hollyland Lark M2 at 9 g, it is a heavier transmitter but has a clearer battery and range spec.\n\nIn ownership, the small transmitters are easy to lose and easy to knock off a shirt. Check the clip grip on thin fabric, and bring a spare windscreen. Line of sight range figures drop sharply indoors, so plan on a much shorter practical distance.",
+   "bestFor": "Vloggers and travellers who want the smallest comfortable kit.",
+   "pros": [
+    "10 g transmitters stay unobtrusive on a collar or shirt",
+    "Stated 400 m open-air range gives headroom for real-world loss",
+    "Charging case stretches runtime to a stated 48 hours across recharges",
+    "Automatic limiting and noise cancelling help in uneven conditions"
+   ],
+   "cons": [
+    "No 32-bit float internal recording, so clipped audio is not recoverable",
+    "Small transmitters are easy to lose or knock off a shirt"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0DDL8WGH5?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41DQ6v6fKFL._SL500_.jpg"
+  },
+  {
+   "id": "B0CB2HGR9Q",
+   "rank": 3,
+   "badge": "Best for Film Crews",
+   "name": "RODE Wireless PRO Kit, 2 TX + 1 RX, 32-Bit Float, Timecode",
+   "price": "",
+   "specs": [
+    "32-bit float",
+    "Timecode",
+    "260 m range",
+    "2 lav mics"
+   ],
+   "specList": [
+    {
+     "label": "Kit",
+     "value": "2 TX, 1 RX, charging case, 2 lavs"
+    },
+    {
+     "label": "Recording",
+     "value": "32-bit float on-board"
+    },
+    {
+     "label": "Sync",
+     "value": "Timecode built in"
+    },
+    {
+     "label": "Stated range",
+     "value": "260 m"
+    },
+    {
+     "label": "Position in price order",
+     "value": "Highest of 13"
+    }
+   ],
+   "description": "The RODE Wireless PRO is the professional kit: two transmitters, one receiver, a charging case and two separate lavalier microphones that plug into the transmitters. 32-bit float on-board recording keeps a safety copy of every session, and built-in timecode lets multiple cameras and recorders sync without a clapper board.\n\nThe tradeoff is that it is the highest in the price order of the thirteen candidates, and the extra pieces add weight and cabling compared with the all-in-one DJI units. A casual creator will not use timecode. Compared with the DJI Mic 2, the RODE costs more for features aimed at film sets, and the DJI is the better value for solo work.\n\nIn ownership, the external lavaliers are a plus: you can swap a worn microphone or use a better one. Check cable routing under clothing so it does not rub, and keep the receiver firmware current. It suits crews who need dependable sync across cameras.",
+   "bestFor": "Filmmakers and teams who need timecode and detachable lavalier mics.",
+   "pros": [
+    "Built-in timecode keeps multi-camera shoots in sync without manual work",
+    "32-bit float on-board recording protects against clipping and dropouts",
+    "Detachable lavalier microphones can be replaced or upgraded",
+    "Complete kit with two transmitters, receiver and charging case"
+   ],
+   "cons": [
+    "Highest in the price order among all the candidates here",
+    "Extra cables and mics add bulk for casual solo recording"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0CB2HGR9Q?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41OtryexuUL._SL500_.jpg"
+  },
+  {
+   "id": "B0FZBS9RR4",
+   "rank": 4,
+   "badge": "Best Lightweight Rival",
+   "name": "Hollyland Lark M2 Wireless Mic, 9 g, 48kHz/24-Bit, 300m",
+   "price": "",
+   "specs": [
+    "9 g TX",
+    "48kHz/24-bit",
+    "300 m range",
+    "10 h battery"
+   ],
+   "specList": [
+    {
+     "label": "Weight",
+     "value": "9 g"
+    },
+    {
+     "label": "Audio format",
+     "value": "48 kHz, 24-bit"
+    },
+    {
+     "label": "Stated range",
+     "value": "300 m"
+    },
+    {
+     "label": "Battery",
+     "value": "Up to 10 hours, noise cancelling off"
+    },
+    {
+     "label": "Position in price order",
+     "value": "8 of 13"
+    }
+   ],
+   "description": "The Hollyland Lark M2 is a 9 g wireless lavalier system recording at 48 kHz and 24 bits with a stated 300 m range. The 10 hour battery figure applies with noise cancelling off, which is the honest detail many listings skip. It targets phone, camera and PC use.\n\nThe tradeoff is that Hollyland is a less established name than DJI or RODE in the lavalier niche, and the listing does not mention internal backup recording. It is lighter than the DJI Mic Mini at 10 g, but the difference is a gram. Compared with the BOYA mini 2 at 5 g, the Lark M2 has a longer stated range and a more detailed battery statement.\n\nIn ownership, keep the noise cancelling off for clean voice work and switch it on only for wind. Check the clip and use a windscreen outdoors. Update the firmware if the app offers it, and expect real range to fall well short of 300 m indoors.",
+   "bestFor": "Creators who want a light, clearly specified kit without the DJI premium.",
+   "pros": [
+    "At 9 g it is among the lightest transmitters in the lineup",
+    "48 kHz 24-bit format matches standard video audio",
+    "Listing states battery life with noise cancelling off, which is clear",
+    "300 m stated range leaves a margin for indoor losses"
+   ],
+   "cons": [
+    "No internal backup recording is described in the listing",
+    "Less established in the lavalier niche than DJI or RODE"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0FZBS9RR4?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41vZvh2M3WL._SL500_.jpg"
+  },
+  {
+   "id": "B0DJSM8PHP",
+   "rank": 5,
+   "badge": "Best Smallest",
+   "name": "BOYA mini 2 Wireless Lavalier, 5 g, AI Noise Cancelling, 30H",
+   "price": "",
+   "specs": [
+    "5 g TX",
+    "AI noise cancelling",
+    "48kHz/24-bit",
+    "30 h battery"
+   ],
+   "specList": [
+    {
+     "label": "Weight",
+     "value": "5 g"
+    },
+    {
+     "label": "Noise handling",
+     "value": "AI cancelling, strong mode -40 dB"
+    },
+    {
+     "label": "Audio format",
+     "value": "48 kHz, 24-bit"
+    },
+    {
+     "label": "Battery",
+     "value": "30 hours stated with case"
+    },
+    {
+     "label": "Position in price order",
+     "value": "4 of 13"
+    }
+   ],
+   "description": "The BOYA mini 2 is a thumb-sized transmitter at 5 g with an AI noise cancelling mode, a strong setting listed at minus 40 dB and 48 kHz 24-bit audio. App control and a 30 hour battery with the charging case round out the listing. It is built for iPhone and Android recording.\n\nThe tradeoff is that heavy noise cancelling can make a voice sound thin or watery, and the 5 g transmitter is small enough to lose. It sits fourth cheapest in the price order but lacks the internal recording of the DJI Mic 2. Compared with the Lark M2 at 9 g, it is lighter but quotes no range figure in the listing details we reviewed.\n\nIn ownership, the app helps, but test the strong noise mode on a sample before an important shoot. Keep the transmitters in the case, since they are tiny. Use a windscreen outdoors, and clip them on the collar rather than the middle of the chest.",
+   "bestFor": "Phone creators who want the smallest transmitter and AI noise reduction.",
+   "pros": [
+    "At 5 g it is the lightest transmitter in the lineup",
+    "AI noise cancelling has a strong mode listed at minus 40 dB",
+    "Fourth lowest in the price order among the thirteen candidates",
+    "Charging case stated to give 30 hours of total use"
+   ],
+   "cons": [
+    "Strong noise cancelling can thin out a voice with processing artifacts",
+    "No internal backup recording and a very easy-to-lose transmitter"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0DJSM8PHP?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41r9zhZfLAL._SL500_.jpg"
+  },
+  {
+   "id": "B0C146LJ6G",
+   "rank": 6,
+   "badge": "Best Budget Pair",
+   "name": "Labstandard Dual Wireless Lavalier Mics for iPhone and Type-C",
+   "price": "",
+   "specs": [
+    "Dual mics",
+    "Lightning + USB-C",
+    "2.4G chip",
+    "Plug and play"
+   ],
+   "specList": [
+    {
+     "label": "Kit",
+     "value": "Two wireless mics and receiver"
+    },
+    {
+     "label": "Phone ports",
+     "value": "Lightning and USB-C"
+    },
+    {
+     "label": "Radio",
+     "value": "2.4G chip stated"
+    },
+    {
+     "label": "Noise handling",
+     "value": "Noise reduction stated"
+    },
+    {
+     "label": "Position in price order",
+     "value": "Cheapest of 13"
+    }
+   ],
+   "description": "The Labstandard is the cheapest kit in the group: two wireless lavalier microphones with receivers for both Lightning and USB-C phones. It uses a 2.4G chip that the listing says reduces power use and resists interference from other devices. It is plug and play, with no app and no Bluetooth pairing.\n\nThe tradeoff is that the listing gives few audio specs, with no bit depth, range or internal recording stated. It is the most basic kit in the lineup, and the brand has little track record. Against the BOYA mini 2, it offers no AI noise cancelling and a plainer feature set, but it costs less.\n\nIn ownership, test it on a short recording before an event and keep the return window open. Check that the receiver plug fits your phone case. Accept that you may replace it within a year or two, and use it for casual interviews, not paid work.",
+   "bestFor": "Beginners who want a two-person phone kit at the lowest cost.",
+   "pros": [
+    "Cheapest of the thirteen candidates, with two microphones included",
+    "Receivers for both Lightning and USB-C cover iPhone and Android",
+    "Plug and play operation needs no app or Bluetooth pairing",
+    "2.4G chip is stated to reduce interference and power use"
+   ],
+   "cons": [
+    "Few audio specs are stated, such as bit depth, range or recording",
+    "Little brand track record and likely a shorter service life"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0C146LJ6G?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41WYCpwf2UL._SL500_.jpg"
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Internal backup recording",
+   "explanation": "A transmitter that records to its own memory saves the take when the wireless link drops or the level clips. The DJI Mic 2 and RODE Wireless PRO record 32-bit float on board, while the DJI Mic Mini, Lark M2 and BOYA mini 2 do not. The common mistake is assuming wireless is reliable everywhere, when a single dropout can ruin an interview."
+  },
+  {
+   "criterion": "Transmitter weight and clip",
+   "explanation": "A lighter transmitter is easier to wear and less likely to pull a collar. The BOYA mini 2 at 5 g, the Lark M2 at 9 g and the DJI Mic Mini at 10 g are all light, but a clip that grips poorly slips off thin fabric. Test the clip on your usual clothing."
+  },
+  {
+   "criterion": "Range and real-world distance",
+   "explanation": "Stated range figures are measured in open air with line of sight. The DJI Mic Mini lists 400 m, the Lark M2 300 m and the RODE 260 m, but walls, bodies and other 2.4 GHz devices cut that sharply. For indoor use, treat 10 to 30 m as realistic."
+  },
+  {
+   "criterion": "Battery and charging case",
+   "explanation": "A single transmitter runs roughly 6 to 10 hours, and heavy noise cancelling shortens it. The 48 hour figure on the DJI Mic Mini and 30 hours on the BOYA mini 2 count recharges from the case, not one session. Buyers often read these as continuous recording time."
+  },
+  {
+   "criterion": "Phone and camera compatibility",
+   "explanation": "Receivers plug into USB-C, Lightning or a camera's 3.5 mm jack. The Labstandard offers Lightning and USB-C versions, while the DJI and RODE kits work with phones, cameras and computers. Check your phone port and case clearance before buying."
+  },
+  {
+   "criterion": "Noise cancelling quality",
+   "explanation": "Onboard noise reduction removes wind and hum but can leave a thin, processed voice. The BOYA mini 2 lists a strong mode at minus 40 dB and the DJI units list noise cancelling. Use it only when the environment needs it, and rely on a windscreen first."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "32-bit float recording",
+   "meaning": "A recording format with enormous headroom, so loud peaks do not clip and quiet parts can be raised later. It makes level setting much less critical.",
+   "watchFor": "Only the DJI Mic 2 and RODE Wireless PRO here record 32-bit float internally."
+  },
+  {
+   "spec": "48 kHz / 24-bit",
+   "meaning": "The standard sample rate and bit depth for video audio. It captures the voice range with ample detail.",
+   "watchFor": "The Lark M2 and BOYA mini 2 list it, but higher numbers add little for voice."
+  },
+  {
+   "spec": "Stated range in metres",
+   "meaning": "The maximum line of sight distance between transmitter and receiver in open air. Obstacles and interference reduce it.",
+   "watchFor": "The DJI Mic Mini lists 400 m and the Lark M2 300 m, but treat indoor use as far shorter."
+  },
+  {
+   "spec": "Timecode",
+   "meaning": "A running clock stamped in recordings so separate devices can be synced exactly. It is a tool for multi-camera and multi-recorder shoots.",
+   "watchFor": "Only the RODE Wireless PRO lists it, and most solo creators will not need it."
+  },
+  {
+   "spec": "Runtime with case",
+   "meaning": "The total hours available including recharges from the charging case. It is not the time of one continuous session.",
+   "watchFor": "The DJI Mic Mini lists up to 48 hours and the BOYA mini 2 30 hours with the case."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Recording safety",
+   "description": "We evaluated whether each kit records internally and in what format. The DJI Mic 2 and RODE Wireless PRO record 32-bit float. Kits without internal recording were ranked lower for paid work."
+  },
+  {
+   "title": "Wearability",
+   "description": "We compared transmitter weight and clip design, because a mic that slips is useless. The BOYA mini 2 is 5 g, the Lark M2 is 9 g and the DJI Mic Mini is 10 g. We based this on listings and owner feedback patterns."
+  },
+  {
+   "title": "Range and reliability",
+   "description": "We compared stated ranges and treated them as best case. The DJI Mic Mini lists 400 m and the RODE 260 m. We favoured kits with clear, honest specifications."
+  },
+  {
+   "title": "Battery and case",
+   "description": "We separated single-session life from total hours with the case. The Lark M2 lists 10 hours with noise cancelling off and the DJI Mic Mini 48 hours with the case. We weighed both."
+  },
+  {
+   "title": "Compatibility",
+   "description": "We checked the receiver connectors and platform support. The Labstandard offers Lightning and USB-C, and the DJI and RODE kits support phones, cameras and computers. We lowered the rank of kits with narrower support."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Use Case",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Solo creator or interviews",
+      "DJI Mic 2",
+      "32-bit float backup and pre-linked kit"
+     ],
+     [
+      "Travel vlogging",
+      "DJI Mic Mini",
+      "10 g transmitters and 48 hours with the case"
+     ],
+     [
+      "Multi-camera film shoot",
+      "RODE Wireless PRO",
+      "Timecode and detachable lavs"
+     ],
+     [
+      "Quick phone clips",
+      "BOYA mini 2",
+      "5 g and AI noise cancelling"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Cheapest two-mic kit",
+      "Labstandard Dual",
+      "Lowest in the price order"
+     ],
+     [
+      "Low-cost lightweight",
+      "BOYA mini 2",
+      "Fourth lowest of thirteen"
+     ],
+     [
+      "Mid-range clear spec",
+      "Hollyland Lark M2",
+      "Eighth in the price order"
+     ],
+     [
+      "Premium professional",
+      "RODE Wireless PRO",
+      "Highest in the price order"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Float Recording vs Plain Wireless",
+   "cards": [
+    {
+     "label": "Internal 32-bit float",
+     "text": "The DJI Mic 2 and RODE Wireless PRO record on the transmitter, so a dropout or a clipped level is recoverable. They cost more and are bulkier."
+    },
+    {
+     "label": "Plain wireless",
+     "text": "The DJI Mic Mini, Lark M2, BOYA mini 2 and Labstandard send audio to the receiver only. They are lighter and cheaper but offer no backup."
+    }
+   ],
+   "note": "Choose float recording for paid or one-take work, and plain wireless for casual clips."
+  },
+  {
+   "subheading": "By Phone and Port",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "iPhone with Lightning",
+      "Labstandard Dual",
+      "Lightning receiver option"
+     ],
+     [
+      "USB-C phone or camera",
+      "DJI Mic 2",
+      "Receiver works across devices"
+     ],
+     [
+      "Computer recording",
+      "RODE Wireless PRO",
+      "USB-C to PC support"
+     ],
+     [
+      "Phone with app control",
+      "BOYA mini 2",
+      "App for noise and gain"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Creators Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Internal backup recording, a light transmitter with a secure clip, honest range and battery figures and a receiver that fits your device."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The DJI Mic 2 is the best overall, the DJI Mic Mini is the best lightweight kit, and the RODE suits crews."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You record paid work, interviews that cannot be repeated, or multi-camera shoots that need timecode."
+    },
+    {
+     "label": "Save if",
+     "text": "You record casual clips on a phone. The BOYA mini 2 or Labstandard cover that at a low cost."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Update firmware",
+   "interval": "Every few months",
+   "why": "Updates fix connection drops and add features. Use the maker's app or desktop tool."
+  },
+  {
+   "task": "Clean the capsule and windscreen",
+   "interval": "After each shoot",
+   "why": "Makeup and moisture build up in the grille. Wipe gently and replace the foam or fur windscreen when worn."
+  },
+  {
+   "task": "Charge the case and transmitters",
+   "interval": "Before each shoot",
+   "why": "A flat transmitter ends a take. Charge everything the night before."
+  },
+  {
+   "task": "Check storage on internal recorders",
+   "interval": "Before long takes",
+   "why": "Internal recorders fill up. Clear old files so a safety copy is not lost."
+  },
+  {
+   "task": "Inspect clips and cables",
+   "interval": "Every few months",
+   "why": "Clips lose grip and detachable lav cables fray. Replace them before they fail on location."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Do I need 32-bit float recording?",
+   "a": "It is not required, but it protects against clipping and dropped connections. Anyone recording work that cannot be repeated should consider it."
+  },
+  {
+   "q": "How far will a wireless lavalier really work?",
+   "a": "Stated ranges are open air line of sight. Indoors, with bodies and walls, expect much less, often a few tens of metres."
+  },
+  {
+   "q": "Which kit is best for iPhone?",
+   "a": "The DJI and RODE kits support USB-C iPhones, and the Labstandard offers a Lightning receiver. Check your iPhone's port first."
+  },
+  {
+   "q": "Is noise cancelling worth using?",
+   "a": "Use it in wind or loud rooms, but it can thin the voice. A windscreen and good placement help more."
+  },
+  {
+   "q": "How should I place a lavalier?",
+   "a": "Clip it about 6 to 8 inches below the chin on the chest, away from jewelry and fabric that rustles."
+  },
+  {
+   "q": "Do I need two transmitters?",
+   "a": "Only for two speakers. A single-transmitter kit like the DJI Mic Mini 1 TX set costs less for solo work."
+  }
+ ],
+ "relatedGuides": [
+  {
+   "title": "Best USB Microphones",
+   "href": "/guide/best-usb-microphones"
+  },
+  {
+   "title": "Best Webcams",
+   "href": "/guide/best-webcams"
+  },
+  {
+   "title": "Bluetooth Headphone Codecs Explained",
+   "href": "/guide/bluetooth-headphone-codecs-explained"
+  }
+ ]
+}

@@ -1,0 +1,592 @@
+{
+ "guideSlug": "best-wifi-digital-photo-frames",
+ "categorySlug": "tech-electronics",
+ "mainKeyword": "wifi digital photo frame",
+ "guideTitle": "Best WiFi Digital Photo Frames (2026)",
+ "metaTitle": "Best WiFi Digital Photo Frames",
+ "metaDescription": "Compare six WiFi digital photo frames by screen size, resolution, storage, sharing app and Wi-Fi band, with honest notes on app lock-in and 2.4 GHz limits.",
+ "lastUpdated": "2026-11-21",
+ "readTime": "12 min",
+ "heroImage": "https://m.media-amazon.com/images/I/41zJXDcZG7L._SL500_.jpg",
+ "expertTake": "The Aura Carver is the top pick for a gift frame with a polished design and a simple sharing app. The TIKVITO Frameo wood frame is the value pick when you want account-free sharing in a classic wooden shell. Skip the category if you want to print photos for permanence or if no one in the family will send photos, because an empty digital frame is just a clock-sized screen.",
+ "introParagraphs": [
+  "A WiFi digital photo frame lets relatives send pictures from their phones, and the frame shows them on a rotating slideshow without anyone touching a card. It suits grandparents, new parents and anyone with family far away, because the photos arrive on their own.",
+  "Most frames look alike on a shelf, but they differ in the sharing app, Wi-Fi band support, screen size and storage, and in how much they depend on the maker's service. This guide compares those differences, so you can choose a frame that will still work the way you expect in a few years."
+ ],
+ "products": [
+  {
+   "id": "B0GR6YMKHX",
+   "rank": 1,
+   "badge": "Best Overall",
+   "name": "Aura Carver 10-inch Digital HD Picture Frame, Black",
+   "price": "",
+   "specs": [
+    "10 in screen",
+    "Aura app",
+    "Gift friendly",
+    "Photo sharing"
+   ],
+   "specList": [
+    {
+     "label": "Screen size",
+     "value": "10 in"
+    },
+    {
+     "label": "Finish",
+     "value": "Carver, black"
+    },
+    {
+     "label": "Sharing",
+     "value": "Aura app"
+    },
+    {
+     "label": "Positioning",
+     "value": "Gifting frame"
+    },
+    {
+     "label": "Position in price order",
+     "value": "Highest of 15"
+    }
+   ],
+   "description": "The Aura Carver is a 10 inch frame designed as a gift, with a more furniture-like finish and a software experience built around the Aura app. Family members can add photos from the app, and the frame displays them. Aura is a mature brand in the category, and the frame is widely sold as a gift.\n\nThe tradeoff is that it is the highest in the price order of the fifteen candidates we reviewed, and a lot of that price is design and brand. A cheaper Frameo frame offers a similar slideshow. The listing text is mostly press quotes, so check Aura's current spec sheet for resolution and storage before you buy. Compared with the Skylight, it costs more but is more design oriented.\n\nIn ownership, the app and the Wi-Fi connection are the two dependencies. Keep the frame on a stable network, and confirm how the maker handles photo storage and what any paid tier covers. A well-known brand tends to keep the app updated for years, which is the main reason to pay more.",
+   "bestFor": "Gift buyers who want a polished, well-known frame and an easy sharing app.",
+   "pros": [
+    "Mature brand with an app built for non-technical family members",
+    "Furniture-style finish looks better on a shelf than plain plastic frames",
+    "Widely sold as a gift, so support and returns are straightforward",
+    "Sharing through the app means no cables or memory cards for relatives"
+   ],
+   "cons": [
+    "Highest in the price order among the fifteen candidates",
+    "Listing gives few hard specs, so check resolution and storage yourself"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0GR6YMKHX?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41zJXDcZG7L._SL500_.jpg"
+  },
+  {
+   "id": "B01N7ENHO6",
+   "rank": 2,
+   "badge": "Best Simple Setup",
+   "name": "Skylight 10-inch Digital Picture Frame, Load from Phone",
+   "price": "",
+   "specs": [
+    "10 in touch",
+    "No subscription listed",
+    "Email upload",
+    "Plug and play"
+   ],
+   "specList": [
+    {
+     "label": "Screen size",
+     "value": "10 in touchscreen"
+    },
+    {
+     "label": "Setup",
+     "value": "Plug in, connect Wi-Fi, choose a frame name"
+    },
+    {
+     "label": "Sharing",
+     "value": "Load photos from phone"
+    },
+    {
+     "label": "Subscription",
+     "value": "None needed per listing"
+    },
+    {
+     "label": "Position in price order",
+     "value": "14 of 15"
+    }
+   ],
+   "description": "The Skylight frame is built for the easiest possible setup: plug it in, connect to Wi-Fi and pick a unique frame name, then friends and family send photos to it. The listing says no subscription is needed and promotes photo gifts and a design for several generations. It has a 10 inch touchscreen.\n\nThe tradeoff is price, since it is second highest of fifteen, and the listing gives few hardware numbers. Compared with the Frameo frames, it is a more controlled ecosystem with its own app. Against the Aura Carver, it is cheaper and plainer, with a more utilitarian look. Check which features, if any, sit behind an optional paid plan.\n\nIn ownership, the main points are Wi-Fi stability and how photos are delivered. Place the frame within a good signal, and use a simple, memorable frame name for relatives. Keep the app updated, and keep a spare power adapter, since the adapter is a common failure point on any frame.",
+   "bestFor": "Families who want a plug-and-play frame that relatives can send photos to easily.",
+   "pros": [
+    "Setup is plug in, connect to Wi-Fi and choose a frame name",
+    "Listing states no subscription is needed for basic photo loading",
+    "Touchscreen makes browsing and settings simple for older users",
+    "Photos can be sent from a phone by family members"
+   ],
+   "cons": [
+    "Second highest in the price order among the fifteen candidates",
+    "Few hardware specs are listed, so resolution and storage are unclear"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B01N7ENHO6?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51p8DsuFtyL._SL500_.jpg"
+  },
+  {
+   "id": "B0F8B93ZBM",
+   "rank": 3,
+   "badge": "Best Large Screen",
+   "name": "BIGASUO 15.6-inch Frameo Frame, 1920x1080, 64GB",
+   "price": "",
+   "specs": [
+    "15.6 in",
+    "1920x1080",
+    "64GB",
+    "2.4GHz Wi-Fi"
+   ],
+   "specList": [
+    {
+     "label": "Screen",
+     "value": "15.6 in IPS touch"
+    },
+    {
+     "label": "Resolution",
+     "value": "1920 by 1080"
+    },
+    {
+     "label": "Storage",
+     "value": "64GB, about 100,000 photos claimed"
+    },
+    {
+     "label": "Wi-Fi",
+     "value": "2.4 GHz only"
+    },
+    {
+     "label": "Position in price order",
+     "value": "13 of 15"
+    }
+   ],
+   "description": "The BIGASUO 15.6 inch frame is the large-screen option, with a full HD 1920 by 1080 IPS touchscreen and 64GB of built-in storage that the listing says holds about 100,000 photos. It runs on the Frameo app, which supports photos and short clips up to 15 seconds. The listing clearly says it supports only 2.4 GHz Wi-Fi.\n\nThe tradeoff is size and price: at 15.6 inches it is a wall or console frame, not a shelf one, and it sits third highest in the price order of fifteen. Full HD resolution on a big panel looks sharper than 1280 by 800 on a 10 inch one. Compared with the Pastigio 15.6 inch Frameo, it is the same size and class with more storage listed.\n\nIn ownership, the 2.4 GHz limit matters if your router hides that band, so check before you buy. Mount it with proper hardware, since a 15.6 inch frame weighs more than a small one. Adjust the brightness and sleep schedule so it does not glow all night.",
+   "bestFor": "Living rooms and walls where a large, sharp photo display is wanted.",
+   "pros": [
+    "15.6 inch full HD screen shows photos larger and sharper than 10 inch frames",
+    "64GB of storage is the most in the lineup for large libraries",
+    "Frameo app handles photo and short video sharing without social accounts",
+    "Listing clearly states the 2.4 GHz Wi-Fi limit"
+   ],
+   "cons": [
+    "Third highest in the price order and heavy for shelf or desk use",
+    "2.4 GHz only, which fails on routers that disable that band"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0F8B93ZBM?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51pEctTM8ZL._SL500_.jpg"
+  },
+  {
+   "id": "B0D8JDPKKS",
+   "rank": 4,
+   "badge": "Best Storage Value",
+   "name": "MaxAngel Frameo 10.1-inch WiFi Frame, 32GB, 1280x800",
+   "price": "",
+   "specs": [
+    "10.1 in IPS",
+    "1280x800",
+    "32GB",
+    "Frameo app"
+   ],
+   "specList": [
+    {
+     "label": "Screen",
+     "value": "10.1 in IPS touch"
+    },
+    {
+     "label": "Resolution",
+     "value": "1280 by 800"
+    },
+    {
+     "label": "Storage",
+     "value": "32GB, over 80,000 photos claimed"
+    },
+    {
+     "label": "Sharing",
+     "value": "Frameo, photos and clips up to 15 s"
+    },
+    {
+     "label": "Position in price order",
+     "value": "10 of 15"
+    }
+   ],
+   "description": "The MaxAngel is a standard Frameo frame: a 10.1 inch IPS touchscreen at 1280 by 800 with 32GB of storage that the listing says holds over 80,000 photos. Photos and clips up to 15 seconds arrive through the Frameo app. It is a mainstream, no-surprises version of a type that many brands sell under different names.\n\nThe tradeoff is that the hardware is generic, and the same screen and app appear in the akimart, TIKVITO and BIGASUO models. You choose mainly on price, wood or plastic finish and support. It sits in the middle of the price order, so there is no price advantage over the TIKVITO. Compared with the Skylight, it is cheaper and uses the Frameo ecosystem.\n\nIn ownership, the points are Wi-Fi band and the quality of the power adapter. Frameo frames need 2.4 GHz Wi-Fi, so check your router. Update the app when prompted, and keep the box, because many sellers handle returns, not the brand.",
+   "bestFor": "Buyers who want a standard 10 inch Frameo frame with large storage.",
+   "pros": [
+    "32GB holds a huge library, with the listing claiming over 80,000 photos",
+    "IPS panel gives wide viewing angles for a frame on a shelf",
+    "Frameo sharing is free and works without social media accounts",
+    "Mid-range position in the price order for a mainstream frame"
+   ],
+   "cons": [
+    "Generic hardware that matches many other Frameo frames",
+    "Seller handles support, with little brand track record"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0D8JDPKKS?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41TGnAfb9mL._SL500_.jpg"
+  },
+  {
+   "id": "B09GRZXCB1",
+   "rank": 5,
+   "badge": "Best Wood Frame",
+   "name": "TIKVITO Frameo 10.1-inch Wooden WiFi Digital Frame, IPS",
+   "price": "",
+   "specs": [
+    "Wood frame",
+    "10.1 in IPS",
+    "No account needed",
+    "Frameo app"
+   ],
+   "specList": [
+    {
+     "label": "Screen",
+     "value": "10.1 in IPS"
+    },
+    {
+     "label": "Resolution",
+     "value": "1280 by 800"
+    },
+    {
+     "label": "Finish",
+     "value": "Wood"
+    },
+    {
+     "label": "Account",
+     "value": "No social media or email account stated"
+    },
+    {
+     "label": "Position in price order",
+     "value": "5 of 15"
+    }
+   ],
+   "description": "The TIKVITO is a Frameo frame in a wood finish, with a 10.1 inch IPS touchscreen at 1280 by 800. The listing says no social media account or email is needed to set it up, and that the Frameo app is free. It is positioned as a gift for family members.\n\nThe tradeoff is that it is a generic Frameo device in nicer packaging, so the screen and app match those of cheaper plastic frames. It sits fifth cheapest of fifteen, so you get the wood look at a low cost. Compared with the Aura Carver, it is far cheaper but has no brand design polish. Against the MaxAngel, it adds the wood finish for less money.\n\nIn ownership, the wood finish looks good on a shelf, but check how the stand is attached. Wipe the screen with a microfiber cloth, and keep the frame away from direct sun to avoid glare. Use the Frameo app's sleep settings to cut power use at night.",
+   "bestFor": "Buyers who want a wood look and free Frameo sharing at a low cost.",
+   "pros": [
+    "Wood finish looks more like a real photo frame than plastic models",
+    "Fifth lowest in the price order among the fifteen candidates",
+    "Setup stated to need no social media or email account",
+    "Frameo app is free and supports photo and short clip sharing"
+   ],
+   "cons": [
+    "Generic hardware with the same panel as cheaper Frameo frames",
+    "Little brand track record for support and long-term app updates"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B09GRZXCB1?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51+4y5lswvL._SL500_.jpg"
+  },
+  {
+   "id": "B0DHCZ3L9F",
+   "rank": 6,
+   "badge": "Cheapest Option",
+   "name": "Obafepd 10-inch Uhale Smart WiFi Frame, 16GB, Auto-Rotate",
+   "price": "",
+   "specs": [
+    "10.1 in touch",
+    "16GB",
+    "Uhale app",
+    "Auto-rotate"
+   ],
+   "specList": [
+    {
+     "label": "Screen",
+     "value": "10.1 in touchscreen"
+    },
+    {
+     "label": "Storage",
+     "value": "16GB built in"
+    },
+    {
+     "label": "App",
+     "value": "Uhale"
+    },
+    {
+     "label": "Rotation",
+     "value": "Auto-rotate"
+    },
+    {
+     "label": "Position in price order",
+     "value": "Cheapest of 15"
+    }
+   ],
+   "description": "The Obafepd frame is the cheapest of the group and uses the Uhale app rather than Frameo. It has a 10.1 inch touchscreen, 16GB of storage and auto-rotate. The listing says the Uhale app is compliant with CCPA and GDPR and TRUSTe certified, which is a privacy claim by the seller.\n\nThe tradeoff is that 16GB is the lowest storage in the lineup, and the Uhale ecosystem is a different one from Frameo, with its own app and account. It sits at the bottom of the price order, so it is a low-cost entry. Compared with the TIKVITO, it uses a different app that may need an account, and the listing gives fewer hardware specs.\n\nIn ownership, read the Uhale app's privacy terms before you use it, and check what account it needs. A low-cost frame may use a lower-grade screen with narrower viewing angles. Treat it as a gift frame for light use and keep the receipt.",
+   "bestFor": "Gift buyers who need a working frame at the lowest cost.",
+   "pros": [
+    "Cheapest of the fifteen candidates by price order",
+    "Auto-rotate adjusts the photo when the frame is turned",
+    "10.1 inch touchscreen is easy for older users to operate",
+    "16GB is plenty for several thousand photos in practice"
+   ],
+   "cons": [
+    "Lowest storage in the lineup at 16GB",
+    "Uhale app and account differ from Frameo, so check its terms first"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0DHCZ3L9F?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51H4R6Kp23L._SL500_.jpg"
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Sharing app and lock-in",
+   "explanation": "The frame is only as good as the app that sends photos. Frameo, used by the MaxAngel, TIKVITO and BIGASUO, is free and says no social account is needed, while Aura and Skylight run their own apps and Uhale runs another. A frame depends on its maker's app staying supported, so a well-known brand lowers that risk."
+  },
+  {
+   "criterion": "Wi-Fi band",
+   "explanation": "Many frames connect only on 2.4 GHz, and the BIGASUO listing says so directly. If your router combines bands or hides 2.4 GHz, setup can fail with a confusing error. Check the band before you buy, and keep 2.4 GHz available for the frame."
+  },
+  {
+   "criterion": "Screen size and resolution",
+   "explanation": "Most frames use a 10.1 inch panel at 1280 by 800, while the BIGASUO 15.6 inch is full HD at 1920 by 1080. A larger screen needs a higher resolution to stay sharp. Buyers often choose a large screen and put it on a small shelf where the size dominates the room."
+  },
+  {
+   "criterion": "Storage and memory",
+   "explanation": "Built-in storage ranges from 16GB on the Obafepd to 64GB on the BIGASUO. Most families never fill 16GB, but videos take far more space than photos. Cloud-based frames may store photos elsewhere, so confirm where photos live."
+  },
+  {
+   "criterion": "Privacy and accounts",
+   "explanation": "Photos from family pass through a vendor's servers, so privacy terms matter. The TIKVITO listing says no social media or email account is needed, and the Obafepd cites privacy certifications from the seller. Treat privacy claims as maker statements and read the app's terms."
+  },
+  {
+   "criterion": "Build and finish",
+   "explanation": "A frame lives on a shelf, so the finish matters. The TIKVITO wood and Aura Carver are more furniture-like than plain plastic frames. Check how the stand attaches and whether the frame can be wall mounted."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "1280 by 800 IPS",
+   "meaning": "A 10 inch class screen at about 150 pixels per inch with wide viewing angles. It is sharp enough for family photos at normal viewing distance.",
+   "watchFor": "Most frames here use it, so choose on app and finish, not resolution."
+  },
+  {
+   "spec": "1920 by 1080",
+   "meaning": "Full HD resolution, which keeps a large 15.6 inch screen sharp. It shows more detail than a 10 inch panel.",
+   "watchFor": "Only the BIGASUO 15.6 inch lists it in this lineup."
+  },
+  {
+   "spec": "2.4 GHz Wi-Fi",
+   "meaning": "The older, longer-range band that most low-cost frames use. A router that only broadcasts 5 GHz will not connect.",
+   "watchFor": "The BIGASUO and the Frameo models state this, so check your router."
+  },
+  {
+   "spec": "Built-in storage",
+   "meaning": "Space for photos and clips on the frame itself. Photos use far less than video.",
+   "watchFor": "The Obafepd lists 16GB, the MaxAngel 32GB and the BIGASUO 64GB."
+  },
+  {
+   "spec": "Frameo",
+   "meaning": "A free app from a Danish company used by many brands of frame. It lets people send photos and clips up to 15 seconds.",
+   "watchFor": "Frames sold under different names may share the same app and hardware."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Sharing and setup",
+   "description": "We evaluated how easily relatives can send photos and what the listing says about accounts. The Skylight lists plug-in setup and the TIKVITO says no account is needed. We favoured simple sharing."
+  },
+  {
+   "title": "Screen and size",
+   "description": "We compared size and resolution from the listings. The BIGASUO is 15.6 inches at 1920 by 1080 and the others are 10 inches at 1280 by 800. We matched size to likely placement."
+  },
+  {
+   "title": "Storage and Wi-Fi",
+   "description": "We reviewed storage and Wi-Fi band notes. The Obafepd has 16GB and the BIGASUO 64GB, and the Frameo models are 2.4 GHz. We flagged limits that surprise buyers."
+  },
+  {
+   "title": "Privacy and ecosystem",
+   "description": "We looked at which app and account each frame needs. Frameo, Aura, Skylight and Uhale are different ecosystems. We treated privacy claims as maker statements."
+  },
+  {
+   "title": "Build and support",
+   "description": "We considered finish, brand history and owner feedback patterns, not in-house use. Aura and Skylight have longer track records than the generic models. We lowered rank where support was unclear."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Screen Size",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Shelf or desk",
+      "MaxAngel Frameo 10.1 in",
+      "Standard 10 inch with large storage"
+     ],
+     [
+      "Wall or console",
+      "BIGASUO 15.6 in",
+      "Full HD and 64GB"
+     ],
+     [
+      "Gift with a polished design",
+      "Aura Carver 10 in",
+      "Brand and finish"
+     ],
+     [
+      "Simple setup for seniors",
+      "Skylight 10 in",
+      "Plug in and choose a frame name"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Cheapest option",
+      "Obafepd Uhale",
+      "Lowest in the price order"
+     ],
+     [
+      "Wood look at a low cost",
+      "TIKVITO Frameo",
+      "Fifth lowest of fifteen"
+     ],
+     [
+      "Mid-range standard",
+      "MaxAngel Frameo",
+      "Tenth in the price order"
+     ],
+     [
+      "Premium gift",
+      "Aura Carver",
+      "Highest in the price order"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Frameo vs Brand Apps",
+   "cards": [
+    {
+     "label": "Frameo frames",
+     "text": "The MaxAngel, TIKVITO and BIGASUO share the free Frameo app and no social account is needed. They are cheap, generic and share a common ecosystem."
+    },
+    {
+     "label": "Brand app frames",
+     "text": "The Aura and Skylight use their own apps and design polish. They cost more and rely on one maker for updates."
+    }
+   ],
+   "note": "Choose Frameo for low cost and simplicity, and a brand app for design and long-term support."
+  },
+  {
+   "subheading": "By Wi-Fi and Router",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Router with 2.4 GHz available",
+      "MaxAngel or TIKVITO",
+      "Frameo frames use 2.4 GHz"
+     ],
+     [
+      "Combined band router",
+      "Skylight or Aura",
+      "Check the maker's spec sheet"
+     ],
+     [
+      "Large library, little cloud",
+      "BIGASUO 64GB",
+      "Most built-in storage"
+     ],
+     [
+      "Light use gift",
+      "Obafepd 16GB",
+      "Enough for thousands of photos"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Family Sharing Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "An app relatives can use in a minute, a frame that supports short clips, a 2.4 GHz-friendly router and enough storage for years of photos."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Skylight and Frameo frames are easiest for relatives, while the Aura adds polish at a high price."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You want a well-known brand, a polished design and long-term app support, or a large, sharp screen for a main room."
+    },
+    {
+     "label": "Save if",
+     "text": "You want a simple gift frame. The TIKVITO or Obafepd do the job at a low position in the price order."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Wipe the screen",
+   "interval": "Monthly",
+   "why": "Dust and fingerprints dull the display. Use a dry microfiber cloth with no cleaning spray."
+  },
+  {
+   "task": "Check Wi-Fi and app updates",
+   "interval": "Every few months",
+   "why": "App updates keep sharing working. A frame that drops off Wi-Fi stops receiving photos."
+  },
+  {
+   "task": "Set a sleep schedule",
+   "interval": "Once",
+   "why": "A frame that glows all night wears the backlight and raises power use. A schedule saves both."
+  },
+  {
+   "task": "Back up the photos",
+   "interval": "Yearly",
+   "why": "The frame is not a backup. Keep originals on a phone or cloud service."
+  },
+  {
+   "task": "Check the power adapter",
+   "interval": "Every year",
+   "why": "Adapters are a common failure point. Replace a warm or loose one."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Do WiFi digital photo frames need a subscription?",
+   "a": "Many do not, and the Skylight listing says none is needed. Check what any paid tier adds before you buy."
+  },
+  {
+   "q": "Why will my frame not connect to Wi-Fi?",
+   "a": "Many frames need 2.4 GHz Wi-Fi. If your router only offers 5 GHz or a combined name, enable 2.4 GHz for setup."
+  },
+  {
+   "q": "What is the difference between Frameo and Aura?",
+   "a": "Frameo is a free app used by many generic frames. Aura is a brand with its own app and a more polished design at a higher price."
+  },
+  {
+   "q": "How many photos can a frame hold?",
+   "a": "A 32GB frame holds tens of thousands of photos, but videos use more space. Claims like 80,000 photos assume small files."
+  },
+  {
+   "q": "Can relatives send videos?",
+   "a": "Frameo frames support clips up to 15 seconds. Other frames vary, so check the app."
+  },
+  {
+   "q": "Is 1280 by 800 good enough?",
+   "a": "For a 10 inch frame it is sharp at normal distance. A 15.6 inch frame looks better at 1920 by 1080."
+  }
+ ],
+ "relatedGuides": [
+  {
+   "title": "Mesh WiFi vs Range Extender",
+   "href": "/guide/mesh-wifi-vs-range-extender"
+  },
+  {
+   "title": "Wi-Fi 6 vs Wi-Fi 7",
+   "href": "/guide/wifi-6-vs-wifi-7"
+  },
+  {
+   "title": "Best Security Cameras",
+   "href": "/guide/best-security-cameras"
+  }
+ ]
+}

@@ -1,0 +1,16 @@
+# docking stations (dual monitor)
+- A dock sends video over USB-C DisplayPort Alt Mode or over DisplayLink software; the laptop port decides how many screens work.
+- Dual HDMI docks that rely on one DisplayPort stream may mirror instead of extending on some laptops; check laptop spec.
+- Base Apple M-series MacBooks support one external display natively; extra screens need DisplayLink drivers or a Pro/Max chip.
+- Windows laptops with Thunderbolt or full DP 1.4 Alt Mode support two 4K screens most reliably.
+- 4K at 60 Hz needs HDMI 2.0 or DP 1.2 or later; 4K at 30 Hz is common on cheap docks when two screens share bandwidth.
+- Host charging wattage: 65 to 100 W covers most laptops; the dock keeps some power for itself, so listed 85 W max may deliver less.
+- Power in port needs its own wall adapter; check the adapter is in the box.
+- Total output wattage is shared across downstream ports and the laptop.
+- 1 Gbps Ethernet is standard; 2.5 Gbps is rare in this class.
+- USB 3.2 Gen 2 is 10 Gbps; USB 3.0 is 5 Gbps; SD card readers share bandwidth.
+- Dongle docks run warm; aluminium bodies spread heat; fanless docks can throttle.
+- Cheap docks may sleep monitors or drop displays after a laptop wake; firmware and driver updates help.
+- Business docks (Dell, HP, Lenovo) add manageability: MAC passthrough, firmware tools, longer support.
+- Cable length on the host cable limits placement; ambidextrous or swappable cables help.
+- Keep the dock cable away from heat; frayed host cables are the common failure.

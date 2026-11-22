@@ -1,0 +1,15 @@
+# office labeling (label makers)
+- Direct thermal labels darken with heat on the paper itself; no ink or ribbon, cheap rolls, but they fade in heat, sun and with rubbing.
+- Thermal transfer (Brother TZe) uses a ribbon in laminated tape; tape survives water, heat, cold, sun and abrasion.
+- TZe tape is about 12 mm wide on small models; cost per label is much higher than direct thermal rolls.
+- Brother Btag and some models need proprietary tape; check tape compatibility before buying.
+- Direct thermal labels peel off wet or oily surfaces; not for freezer jars or outdoor use unless rated.
+- Resolution is 203 dpi on most small models; 300 dpi on some Brother units.
+- Bluetooth apps differ: some need an account, ads or a subscription for templates; check offline use.
+- Keyboard models (Brother PT-D610BT, Supvan E11) print without a phone; speed matters for frequent labeling.
+- Auto cutter and minimal margin save tape; fixed margins can waste several mm per label.
+- Rechargeable batteries (about 1200 mAh) last weeks; AAA models cost more in batteries.
+- Label size: small models 12 to 15 mm; 2 inch (50 mm) models fit shipping and shelf labels.
+- Roll labels from third parties often fit a printer but may jam; stick to the maker's size spec.
+- Cable organization, pantry jars, bins and cords are main home uses; waterproof laminated tape suits kitchen and garage.
+- Printer firmware and app updates change features; app support lasts as long as the vendor.
