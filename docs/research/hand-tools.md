@@ -14,3 +14,54 @@
 - Plastic calipers drift and flex; stainless steel hardened jaws are preferred.
 - Zero the caliper closed before each use and keep jaws clean of dust.
 - Inch/mm conversion button and a depth rod with a step are the features worth having.
+- Wire crimpers: match the die to the terminal type (insulated vinyl, nylon, non-insulated open barrel, heat shrink, ferrule, lug); one plier crimper does not suit all.
+- Color codes for insulated terminals: red 22-18 AWG, blue 16-14, yellow 12-10; crimp cavities are marked to match.
+- Ratcheting crimpers release only after a full cycle, giving repeatable pressure; plain plier crimpers rely on hand force.
+- A good crimp is gas tight and passes a pull test; a tug test on the wire is a basic check.
+- Large battery lugs (6 AWG to 2/0) need hydraulic or hammer crimpers; hand pliers cannot do them.
+- Cutter and stripper features on combo pliers are convenient but compromise leverage.
+- Pipe wrenches: length sets capacity (about 10 in = 1.5 in pipe, 14 in = 2 in, 18 in = 2.5 in, 24 in = 3 in, 36 in = 5 in); longer handles give more leverage.
+- Straight wrenches grip by hook jaw and heel jaw; pull toward the hook jaw side; they mar the surface, so use only on pipe and fittings you will not show.
+- Aluminum handles are about 40 percent lighter than cast iron, easier for overhead work; cast iron or ductile iron housings are heavier and cheaper.
+- Use two wrenches in opposite directions on a fitting to avoid twisting the pipe line; never use a cheater pipe that exceeds the rated length.
+- Teeth wear and clog; clean with a wire brush; replace worn hook jaws on pro models.
+- Self adjusting or spring models are fast but less strong than a forged straight wrench.
+- Chain wrenches handle large or awkward pipe; strap wrenches protect polished or plastic pipe.
+- Bench vises: jaw width (4, 5, 6, 8 in) is the size label; jaw opening and throat depth decide what fits; a 6 in vise suits most home shops.
+- Body material: cast iron is brittle and can crack from hammering; ductile iron (60,000 to 72,000 psi tensile claims) tolerates more abuse; steel is strongest and costs most.
+- Hammering on the jaws or anvil is for the anvil face only; do not strike the handle or use a cheater pipe.
+- Swivel base with two lockdown bolts; a weak lock lets the vise rotate under load; mount through the bench top with through bolts and a backing plate.
+- Replaceable hardened steel jaw inserts; soft jaw covers protect finished work.
+- Clamping force figures (thousands of pounds) are maker claims without a shared test; judge by body mass and screw quality.
+- Fully enclosed spindle with grease keeps dust out and extends life; open screws need cleaning and oiling.
+- Reversible heads open wider for large work; pipe jaws hold round stock.
+- Bench thickness and framing matter as much as the vise; mount near a leg for rigidity.
+- Drill bit sharpeners: point angle 118 degrees suits soft metals and wood; 135 degrees with a split point suits harder steel and starts without walking; the sharpener must reproduce both the point angle and the lip relief angle.
+- Cheap bits often cost less than the time to sharpen; sharpening pays off with larger or expensive bits (1/4 in and up) and carbide or cobalt bits.
+- CBN (cubic boron nitride) wheels cut HSS and cobalt cleanly and last long; diamond wheels are used for carbide; standard aluminum oxide wheels wear faster.
+- Collets or chuck guides hold the bit; a mis-seated bit gives uneven lips and a drill that wanders or drills oversized holes.
+- Sharpeners have a size range (3/32 to 1/2 in, or 3 to 13 or 15 mm); out of range bits need hand or bench grinder work.
+- Overheating the bit turns it blue and ruins the temper; light passes and cooling matter.
+- Manual jigs for a bench grinder are cheap but need steady hands and a good grinder rest.
+- Angle grinder attachments are fast but rough; practice on scrap bits.
+- Replacement wheels are a running cost; check availability.
+- Thread repair: a helical insert kit (Heli-Coil style) restores stripped internal threads by drilling oversize, tapping a special thread, and winding in a stainless coil that recreates the original size; a thread chaser only cleans and re-forms damaged but intact threads and cannot rebuild stripped ones.
+- Each insert size needs its own drill, tap and install tool; kits quote total pieces but the useful number is how many sizes and inserts per size.
+- Metric (M5 to M12) and SAE (1/4 to 1/2 in) coverage differ; match the thread size and pitch (for example M8 x 1.25, 3/8-16) before buying.
+- Inserts are usually 304 stainless; tang break-off tool removes the drive tang after install.
+- Inserts require depth: the hole must be deep enough for the coil plus the tang break-off room; blind holes need care.
+- Never use a cheap tap in hard steel; HSS taps in these kits suit aluminum and mild steel; cutting oil helps.
+- Spark plug threads are a separate category; dedicated spark plug insert kits exist.
+- Keep the tap straight; a crooked tap ruins the hole; drill square to the surface.
+- Oversize thread repair weakens little if done correctly but is not for fatigue critical joints like some engine bolts without torque specs from the maker.
+- A larger bolt or helical insert can be better than a larger oversize bolt.
+- Rivet guns: blind (pop) rivets are set from one side with a mandrel pulled until it snaps; hand riveters, cordless riveters and pneumatic riveters differ in speed and force; solid rivets (aircraft) need a rivet gun that hammers plus a bucking bar.
+- Rivet size is diameter: 3/32, 1/8, 5/32, 3/16 and 1/4 in; the tool must accept the nosepiece for the mandrel; larger rivets need more force or a long lever.
+- Grip range: the rivet length must match material thickness; too short fails, too long bulges and weakens.
+- Cordless tools list pulling force in lbf (about 2,000 lbf for large rivets) and rivets per charge, both maker claims dependent on size and material.
+- Steel and stainless rivets need more force than aluminum; manual tools struggle with steel above 1/8 in.
+- Nosepieces wear and jam; clean the jaws and mandrel chips; broken mandrels collect in the tool.
+- Keep the gun perpendicular to the work; a sheet metal drill hole should be slightly larger than the rivet.
+- Hand riveters with long handles and high leverage ratios reduce hand fatigue.
+- Rivet nut (threaded insert) tools are a different category.
+- Pneumatic hammer guns for solid rivets also need correct rivet sets and regulated air pressure.

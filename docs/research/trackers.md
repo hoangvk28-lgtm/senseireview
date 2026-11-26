@@ -1,0 +1,18 @@
+# trackers
+- Bluetooth trackers rely on a crowd network: Apple Find My (iPhone, iPad, Mac devices relay location) is the largest; Tile uses Tile and Life360 users plus partners and is smaller; Google Find Hub is the Android network and is reported to lag Apple.
+- AirTag works only with Apple devices; Tile works with both iOS and Android; some third party tags work with Find My or Find Hub, and a few with both; check the exact model.
+- Find My compatible third party tags are certified or built to use the network and work with iPhone only unless the listing says otherwise.
+- AirTag has a user replaceable CR2032 battery lasting about a year; some Tile models have sealed multi year batteries so the tag is replaced when it dies; replaceable coin cell versus sealed is a key difference.
+- Tile has a free tier; some features such as smart alerts and location history sit behind a paid premium tier; AirTag has no subscription.
+- Precision finding (ultra wideband) needs a U1 or U2 iPhone and an AirTag; third party Find My tags do not offer it.
+- Speaker loudness differs; ring from the app; loud alarms are quoted in dB but not standardized.
+- Bluetooth range is a short link between phone and tag (tens to hundreds of feet in open air); distance beyond that relies on the crowd network.
+- Unwanted tracking: tags can be used to follow people; iPhone and Android alert about unknown trackers moving with you; do not use trackers to follow another person.
+- Tags are not GPS; they report only when a phone in the network passes within Bluetooth range; remote areas have poor coverage.
+- RF key finders are a different technology: a handheld transmitter sends a radio signal to receivers on key tags, with no phone, app or network; range is about 100 to 130 feet in open space and less through walls; the transmitter and receivers use their own batteries; they only help inside or near the home.
+- RF finders suit people who dislike phones or want a quick beep for keys and TV remotes; they cannot find a lost item away from you.
+- Water resistance ratings: IP67 for AirTag and Tile; many third party tags list IPX ratings.
+- Use cases: keys, wallet (slim card), bags, luggage, bikes (with a case), pets (not recommended for GPS tracking of pets that roam).
+- Lanyards and holes for keyrings; AirTag needs an accessory holder to attach to keys.
+- Battery replacement notices appear in the app.
+- Phone separation alerts depend on the app and settings.

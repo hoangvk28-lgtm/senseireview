@@ -1,0 +1,16 @@
+# outdoor-lighting
+- Power source: hardwired gives steady output and range; solar needs direct daily sun and loses runtime in winter or shade; battery units suit flexible placement but need replacements.
+- Lumens measure light output; watt equivalents are unreliable; check whether lumens are per head or total for multi head fixtures.
+- Listed lumen figures can differ between listings of the same light; compare lumens, not wattage equivalents.
+- Detection range claims (up to about 70 ft) are best case; practical range is shorter, often 20 to 40 ft at suitable mounting height.
+- Mount height about 7 to 12 ft, aim downward, away from roads and trees to cut false triggers; sensors detect moving heat across the field more than straight on.
+- PIR sensors detect heat movement; cold weather and hot days change sensitivity.
+- Adjustable sensor range, sensitivity and on-time (seconds to minutes) reduce false triggers and wasted runtime.
+- Modes: motion only, dusk to dawn dim plus motion boost, always on; test mode helps aim.
+- IP65 means dust tight and protected against water jets; fine for rain, not for submersion; sealing of wire entries matters.
+- Colour temperature 5000K is daylight white; 3000K is warmer and less glare for neighbors.
+- Beam angle 120 to 270 degrees; wider is not always brighter on the ground.
+- Wiring: hardwired units need an electrician or competence; switch off power; wire nuts and weatherproof junction box.
+- Solar panel orientation to the south in the northern hemisphere and without shade; battery capacity declines over a few years.
+- Light pollution and neighbor courtesy: aim down, shorter on-times.
+- Heads loosen and tilt; check knuckle joints each season.

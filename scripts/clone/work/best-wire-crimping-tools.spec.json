@@ -1,0 +1,647 @@
+{
+ "guideSlug": "best-wire-crimping-tools",
+ "categorySlug": "tools-diy",
+ "mainKeyword": "wire crimping tool",
+ "guideTitle": "Best Wire Crimping Tools (2026)",
+ "metaTitle": "Best Wire Crimping Tools (2026)",
+ "metaDescription": "Seven wire crimping tools compared on terminal type, AWG range, ratcheting action and hydraulic force, with picks for car wiring, heat shrink and battery lugs.",
+ "lastUpdated": "2026-11-26",
+ "readTime": "13 min",
+ "heroImage": "https://m.media-amazon.com/images/I/41s3DJc50AL._SL500_.jpg",
+ "expertTake": "The Klein Tools 3005CR ratcheting crimper is our top pick for insulated terminals, with color coded cavities and a ratchet that repeats the same crimp each time. The WORKPRO 9.5 inch crimper cutter is the value pick for a general toolbox. Anyone crimping large battery lugs should skip plier style tools and buy a hydraulic crimper.",
+ "introParagraphs": [
+  "A crimping tool squeezes a metal terminal around a stripped wire so the two form a gas tight, mechanically strong joint. Done right, a crimp is more reliable than solder in anything that vibrates, which is why cars, boats and electrical panels depend on it.",
+  "The tool must match the terminal. Insulated terminals, heat shrink connectors, open barrel contacts and heavy battery lugs each need a different die shape and force. This guide compares seven tools so you can match one to your work."
+ ],
+ "products": [
+  {
+   "id": "B07WMB61J5",
+   "rank": 1,
+   "badge": "Best Overall",
+   "name": "Klein Tools 3005CR ratcheting crimper for insulated terminals, 10 to 22 AWG",
+   "price": "",
+   "specs": [
+    "Ratcheting",
+    "10 to 22 AWG",
+    "3 cavities",
+    "Compound action"
+   ],
+   "specList": [
+    {
+     "label": "Wire range",
+     "value": "10 to 22 AWG stranded copper"
+    },
+    {
+     "label": "Cavities",
+     "value": "22-16 red, 16-14 blue, 12-10 yellow"
+    },
+    {
+     "label": "Action",
+     "value": "Ratcheting, adjustable compound"
+    },
+    {
+     "label": "Terminals",
+     "value": "Insulated"
+    },
+    {
+     "label": "Brand",
+     "value": "Klein Tools"
+    }
+   ],
+   "description": "The Klein 3005CR is a ratcheting crimper built for insulated terminals, with three color coded cavities for the common red, blue and yellow sizes. A ratchet means the tool will not release until it completes the crimp cycle, so every crimp gets the same pressure no matter who squeezes.\n\nThe adjustable compound action puts more force into each squeeze, which helps with 10 AWG wire where a plain plier tires your hand. Compared with the Klein 1005, the 3005CR is dedicated to crimping and does not cut or strip, so you carry a separate cutter. Compared with the Plustool, it works with insulated terminals and not heat shrink ones.\n\nOwnership is simple. Match the wire gauge to the cavity color, insert the terminal barrel seam toward the die opening and tug the wire after crimping. Wipe the dies clean, oil the pivot occasionally and replace the tool if the ratchet fails to release.",
+   "bestFor": "Automotive, marine and panel work with red, blue and yellow insulated terminals.",
+   "pros": [
+    "Ratchet repeats the same crimp every time",
+    "Color coded cavities match common terminals",
+    "Compound action reduces hand effort on 10 AWG",
+    "Trusted tool brand with a long record"
+   ],
+   "cons": [
+    "Does not handle heat shrink or open barrel terminals well",
+    "No cutter or stripper built in"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B07WMB61J5?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41s3DJc50AL._SL500_.jpg"
+  },
+  {
+   "id": "B0CBJK1GVC",
+   "rank": 2,
+   "badge": "Best Value Combo",
+   "name": "WORKPRO 9.5 inch wire cutter and crimper, 10 to 22 AWG, Cr-V steel",
+   "price": "",
+   "specs": [
+    "9.5 in",
+    "10 to 22 AWG",
+    "Cr-V steel",
+    "Cuts and crimps"
+   ],
+   "specList": [
+    {
+     "label": "Length",
+     "value": "9.5 inches"
+    },
+    {
+     "label": "Wire range",
+     "value": "10 to 22 AWG"
+    },
+    {
+     "label": "Steel",
+     "value": "Cr-V, 63 to 65 HRC claimed"
+    },
+    {
+     "label": "Functions",
+     "value": "Cut and crimp insulated and non insulated terminals"
+    },
+    {
+     "label": "Cost tier",
+     "value": "Low"
+    }
+   ],
+   "description": "The WORKPRO is a plier style combo tool, 9.5 inches long, that cuts wire and crimps both insulated and non insulated terminals across 10 to 22 AWG. The maker claims 63 to 65 HRC hardness, a number that would be very hard for a crimper, so we treat it as a marketing figure.\n\nIt is a toolbox tool: cheap, versatile and good enough for occasional household and automotive wiring. A plier crimper depends on your grip, so crimps vary more than from a ratchet, and the crimp pocket is a single shape. Compared with the Klein 1005, it costs less and has the same general features but with less proven quality. Compared with the Klein 3005CR, it is less repeatable but handles more terminal types.\n\nOwnership is basic. Test each crimp by pulling the wire, keep the dies clean and oil the pivot. If crimps pull out, step up to a ratcheting tool.",
+   "bestFor": "General household and hobby wiring with mixed terminal types.",
+   "pros": [
+    "Cuts wire and crimps in one tool",
+    "Covers insulated and non insulated terminals",
+    "Long handles give leverage on 10 AWG",
+    "Low cost tier for a first crimper"
+   ],
+   "cons": [
+    "Plier action gives less repeatable crimps",
+    "Hardness claim is unverified marketing"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0CBJK1GVC?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31WQNxxUJKL._SL500_.jpg"
+  },
+  {
+   "id": "B0006M6Y5M",
+   "rank": 3,
+   "badge": "Best Made in USA Combo",
+   "name": "Klein Tools 1005 crimping and cutting tool, 9.6 inch, made in USA",
+   "price": "",
+   "specs": [
+    "9.6 in",
+    "10 to 22 AWG",
+    "Made in USA",
+    "Tapered nose"
+   ],
+   "specList": [
+    {
+     "label": "Length",
+     "value": "9.6 inches"
+    },
+    {
+     "label": "Wire range",
+     "value": "10 to 22 AWG"
+    },
+    {
+     "label": "Functions",
+     "value": "Crimp insulated and non insulated, cut wire"
+    },
+    {
+     "label": "Nose",
+     "value": "Tapered, for tight spaces"
+    },
+    {
+     "label": "Origin",
+     "value": "Made in USA"
+    }
+   ],
+   "description": "The Klein 1005 is a 9.6 inch plier style combo tool that crimps 10 to 22 AWG insulated and non insulated terminals and also cuts wire with a hardened cutter in the nose. The tapered nose reaches into tight spaces like a junction box.\n\nIt is a durable general purpose tool that electricians carry, built in the United States with a good reputation for consistent dies. Compared with the WORKPRO, it costs more and holds up better for daily use. Compared with the Knipex, it is less refined and less adjustable. As with any plier crimper, the result depends on grip strength, so check each crimp with a pull test.\n\nOwnership is simple. Keep the dies clean and free of debris, oil the pivot and replace it if the die faces become worn or misaligned.",
+   "bestFor": "Electricians and homeowners who want a durable combo tool.",
+   "pros": [
+    "Hardened cutter in the nose handles small wire",
+    "Tapered nose reaches tight junction boxes",
+    "Made in the USA with consistent dies",
+    "Handles insulated and non insulated terminals"
+   ],
+   "cons": [
+    "Plier action varies with hand pressure",
+    "Costs more than basic combo pliers"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0006M6Y5M?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/21+m2yvaIkL._SL500_.jpg"
+  },
+  {
+   "id": "B00OYQ56EG",
+   "rank": 4,
+   "badge": "Best Precision Combo",
+   "name": "Knipex 97 22 240 crimping pliers for insulated and non insulated terminals",
+   "price": "",
+   "specs": [
+    "240 mm",
+    "Cuts and strips",
+    "Crimps",
+    "Screw cutter"
+   ],
+   "specList": [
+    {
+     "label": "Length",
+     "value": "240 mm, about 9.5 inches"
+    },
+    {
+     "label": "Functions",
+     "value": "Cut cables, strip wire, crimp terminals"
+    },
+    {
+     "label": "Terminals",
+     "value": "Insulated and non insulated"
+    },
+    {
+     "label": "Extra",
+     "value": "Threaded holes for cutting copper and brass screws"
+    },
+    {
+     "label": "Steel",
+     "value": "Special steel, high strength"
+    }
+   ],
+   "description": "The Knipex 97 22 240 is a German made combination pliers that cuts cable, strips wire and crimps terminals. Threaded holes in the jaws cut copper and brass screws, a feature that electricians use for trimming screws.\n\nIt does more than most combo tools, and the finish and fit of the dies are better than budget options. Compared with the Klein 1005, the Knipex adds stripping and screw cutting, while the Klein is a simpler crimper and cutter. Compared with the Klein 3005CR, it is less repeatable for crimping but far more versatile as a single tool.\n\nOwnership centers on the cutting edges. Use them for copper wire only, avoid steel, and keep the jaws oiled. A plier crimper should still be verified with a pull test, since the crimp depends on your grip.",
+   "bestFor": "Electricians who want cutting, stripping and crimping in one tool.",
+   "pros": [
+    "Cuts, strips and crimps in a single tool",
+    "Threaded holes cut small copper and brass screws",
+    "Strong steel and a precise finish",
+    "Handles insulated and non insulated terminals"
+   ],
+   "cons": [
+    "Plier action gives less repeatable crimps than a ratchet",
+    "Costs more than basic combo pliers"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B00OYQ56EG?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31UBnmRLb+L._SL500_.jpg"
+  },
+  {
+   "id": "B0BGXDD5Z8",
+   "rank": 5,
+   "badge": "Best for Heat Shrink Terminals",
+   "name": "Plustool ratcheting crimper for heat shrink connectors, AWG 26 to 10",
+   "price": "",
+   "specs": [
+    "Heat shrink",
+    "AWG 26 to 10",
+    "Ratcheting",
+    "Ergonomic grip"
+   ],
+   "specList": [
+    {
+     "label": "Terminals",
+     "value": "Heat shrink connectors"
+    },
+    {
+     "label": "Wire range",
+     "value": "AWG 26 to 10"
+    },
+    {
+     "label": "Action",
+     "value": "Ratcheting"
+    },
+    {
+     "label": "Grip",
+     "value": "Ergonomic handle"
+    },
+    {
+     "label": "Cost tier",
+     "value": "Low"
+    }
+   ],
+   "description": "The Plustool is a ratcheting crimper designed for heat shrink connectors, which have a sealed sleeve that shrinks around the joint when heated. The AWG 26 to 10 range is wide, covering fine electronics wire up to automotive gauges.\n\nHeat shrink terminals need a die shaped for their thicker barrel, so a standard insulated terminal crimper does not do the same job. The ratchet gives a repeatable crimp, and the ergonomic handle helps over a long run of connections. Compared with the haisstronica HS-8327, the two are similar, and the choice is mostly about handle feel and cost. Compared with the Klein 3005CR, it is for a different connector family.\n\nOwnership requires a heat gun after crimping to seal the sleeve. Test each joint with a gentle pull and keep the dies clean. Use it only on the terminal type it was made for.",
+   "bestFor": "Automotive and marine wiring with heat shrink connectors.",
+   "pros": [
+    "Dies shaped for heat shrink connector barrels",
+    "Ratchet delivers repeatable crimps",
+    "Wide AWG 26 to 10 range",
+    "Low cost tier for a ratcheting tool"
+   ],
+   "cons": [
+    "Not suited to standard vinyl insulated terminals",
+    "Needs a heat gun to finish the joint"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0BGXDD5Z8?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41Qvsdr7gcL._SL500_.jpg"
+  },
+  {
+   "id": "B0873Y19T7",
+   "rank": 6,
+   "badge": "Best Adjustable Ratchet",
+   "name": "haisstronica HS-8327 ratchet crimper for heat shrink connectors, star wheel",
+   "price": "",
+   "specs": [
+    "Heat shrink",
+    "AWG 26 to 10",
+    "Star wheel",
+    "Nylon handle"
+   ],
+   "specList": [
+    {
+     "label": "Terminals",
+     "value": "Heat shrink connectors"
+    },
+    {
+     "label": "Wire range",
+     "value": "AWG 26 to 10"
+    },
+    {
+     "label": "Adjustment",
+     "value": "Star wheel"
+    },
+    {
+     "label": "Action",
+     "value": "Ratcheting"
+    },
+    {
+     "label": "Handle",
+     "value": "Nylon, non slip"
+    }
+   ],
+   "description": "The haisstronica HS-8327 is a ratchet crimper with an adjustable star wheel for heat shrink connectors across AWG 26 to 10. The star wheel lets you change the crimp pressure, which compensates for different connector brands and wire types.\n\nAdjustable pressure is useful when a connector crimps too loosely or too tightly out of the box, and a ratchet gives you a repeatable cycle. Compared with the Plustool, the haisstronica adds that adjustment, which can matter when you switch between connector brands. Compared with the WORKPRO combo, it is a single purpose tool with better repeatability.\n\nOwnership is about calibration. Test a few crimps with pull tests when you first adjust the wheel, then leave it alone. The nylon handle is comfortable but can wear at the grip over years.",
+   "bestFor": "Users who crimp several connector brands and want to adjust pressure.",
+   "pros": [
+    "Star wheel adjusts the crimp pressure",
+    "Ratchet repeats the crimp cycle",
+    "Non slip nylon handle",
+    "Same wide AWG 26 to 10 range as other heat shrink tools"
+   ],
+   "cons": [
+    "Adjustment takes trial and pull testing",
+    "Single purpose, not for open barrel terminals"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0873Y19T7?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31Bth-CSDEL._SL500_.jpg"
+  },
+  {
+   "id": "B0FG245836",
+   "rank": 7,
+   "badge": "Best Heavy Battery Lug Crimper",
+   "name": "Solsop 10 ton hydraulic crimping tool with 9 hex dies, 12 to 2/0 AWG",
+   "price": "",
+   "specs": [
+    "10 ton",
+    "9 hex dies",
+    "12 to 2/0 AWG",
+    "0.45 in stroke"
+   ],
+   "specList": [
+    {
+     "label": "Force",
+     "value": "10 tons hydraulic"
+    },
+    {
+     "label": "Stroke",
+     "value": "0.45 inch"
+    },
+    {
+     "label": "Dies",
+     "value": "9 hex dies, 12 to 2/0 AWG"
+    },
+    {
+     "label": "Includes",
+     "value": "Cable cutter"
+    },
+    {
+     "label": "Use",
+     "value": "Battery cables, welding cable, lugs"
+    }
+   ],
+   "description": "The Solsop is a different class of tool. A hydraulic head gives a stated 10 tons of force with a 0.45 inch stroke, and nine hex dies cover wire sizes from 12 AWG up to 2/0 AWG for battery cables and heavy lugs.\n\nThis is the only tool here that can crimp large copper lugs, which plier tools cannot do. The listing includes a cable cutter, which handles the heavy cable these jobs involve. Compared with the plier crimpers above, it is overkill for 16 AWG terminals but necessary for starter and inverter cables. The 10 ton claim is a maker figure, so check the die fit and crimp quality by pull testing.\n\nOwnership needs care of the hydraulic head. Keep the hydraulic oil level steady, store the dies in the case and wipe them clean. Use the right die for each lug size to avoid under or over crimping.",
+   "bestFor": "Battery cables, welding leads and large copper lugs.",
+   "pros": [
+    "Hydraulic force crimps heavy lugs that pliers cannot",
+    "Nine dies cover 12 to 2/0 AWG",
+    "Includes a cable cutter",
+    "Hex dies make a uniform crimp"
+   ],
+   "cons": [
+    "Overkill and bulky for small terminals",
+    "Force rating is a maker claim"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0FG245836?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/414NU7FJWEL._SL500_.jpg"
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Terminal type and die shape",
+   "explanation": "Insulated vinyl or nylon terminals, heat shrink connectors, open barrel contacts and heavy lugs each need a different die. A tool with the wrong die produces weak or damaged crimps. The most common mistake is using a plier crimper on heat shrink terminals. The Klein 3005CR suits insulated terminals and the Plustool suits heat shrink."
+  },
+  {
+   "criterion": "AWG wire range",
+   "explanation": "AWG numbers fall as wire gets thicker. Most hand tools cover 10 to 22 AWG, and fine electronics wire needs a smaller die. Large battery cable from 6 to 2/0 AWG needs hydraulic force. Check the range against your jobs. The Solsop covers 12 to 2/0 and the Klein tools cover 10 to 22."
+  },
+  {
+   "criterion": "Ratcheting action",
+   "explanation": "A ratchet will not release until the crimp completes, so every crimp gets the same pressure. Plain pliers vary with grip strength. Ratcheting tools cost more but give more reliable results. The Klein 3005CR, Plustool and haisstronica are ratcheting."
+  },
+  {
+   "criterion": "Combo functions versus dedicated",
+   "explanation": "A combo tool cuts, strips and crimps, so one tool covers small jobs. The tradeoff is shorter leverage and less precision than a dedicated crimper. Electricians often carry both. The Knipex and Klein 1005 are combo tools."
+  },
+  {
+   "criterion": "Handle comfort and leverage",
+   "explanation": "Long handles and non slip grips reduce hand strain on a run of crimps. Compound action adds force on thick wire. Test the squeeze effort if you can. The Klein 3005CR uses compound action."
+  },
+  {
+   "criterion": "Hydraulic tools for heavy lugs",
+   "explanation": "Lugs on 6 AWG wire and above need far more force than hand tools can deliver. Hydraulic crimpers with hex dies make a uniform, gas tight crimp. Do not try to crimp them with pliers or a hammer. The Solsop is built for this job."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "AWG",
+   "meaning": "American Wire Gauge, where a smaller number means thicker wire. 10 AWG is much thicker than 22 AWG.",
+   "watchFor": "The Klein 3005CR covers 10 to 22 AWG, and the Solsop reaches 2/0."
+  },
+  {
+   "spec": "Ratcheting",
+   "meaning": "A mechanism that locks closed until the crimp is complete. It ensures consistent pressure.",
+   "watchFor": "The Plustool and haisstronica use it for heat shrink connectors."
+  },
+  {
+   "spec": "Heat shrink connector",
+   "meaning": "A terminal with a sleeve that shrinks and seals when heated. It needs a thicker die.",
+   "watchFor": "The Plustool lists it, while the Klein 3005CR is for standard insulated terminals."
+  },
+  {
+   "spec": "Hex die",
+   "meaning": "A six sided die that compresses a lug evenly from all directions. It is common on hydraulic crimpers.",
+   "watchFor": "The Solsop includes nine hex dies for different cable sizes."
+  },
+  {
+   "spec": "Hardness in HRC",
+   "meaning": "A scale of steel hardness. Very high values can mean brittle metal.",
+   "watchFor": "The WORKPRO's 63 to 65 HRC claim is unusually high for a plier."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Spec sheet review",
+   "description": "We evaluated terminal types, AWG ranges, ratchet mechanisms and listed forces from each listing. We compared them with the dies required for common terminals. The Klein 3005CR and Solsop anchored the comparison."
+  },
+  {
+   "title": "Owner feedback patterns",
+   "description": "We looked for repeating comments on crimps pulling out, ratchets sticking and die alignment. These issues decide whether a tool gives reliable joints. Crimps pulling out on cheap pliers came up most."
+  },
+  {
+   "title": "Fit for the job",
+   "description": "Car wiring, heat shrink connectors, household projects and battery cables need different tools. We graded each product against those jobs and noted which terminals it suits."
+  },
+  {
+   "title": "Cost relative to the lineup",
+   "description": "We used relative cost tiers and quote no listing prices. The WORKPRO and Plustool sit at the low end, while the Knipex and Solsop sit higher."
+  },
+  {
+   "title": "Claims we discounted",
+   "description": "Hardness and force numbers appear on many listings. We treat them as maker claims and judge the tools by die type and mechanism."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Terminal Type",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Insulated red, blue, yellow terminals",
+      "Klein 3005CR",
+      "Color coded ratcheting cavities"
+     ],
+     [
+      "Heat shrink connectors",
+      "Plustool",
+      "Dies shaped for heat shrink barrels"
+     ],
+     [
+      "Heat shrink, adjustable pressure",
+      "haisstronica HS-8327",
+      "Star wheel adjustment"
+     ],
+     [
+      "Mixed terminals and cutting",
+      "Klein 1005",
+      "Combo tool"
+     ],
+     [
+      "Battery lugs 12 to 2/0 AWG",
+      "Solsop hydraulic",
+      "Ten tons and nine dies"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest",
+      "WORKPRO combo",
+      "Cuts and crimps at a low cost"
+     ],
+     [
+      "Low",
+      "Plustool ratchet",
+      "Ratcheting heat shrink crimper"
+     ],
+     [
+      "Low to middle",
+      "haisstronica HS-8327",
+      "Adjustable ratchet"
+     ],
+     [
+      "Middle",
+      "Klein 3005CR and Klein 1005",
+      "Trusted brand tools"
+     ],
+     [
+      "Highest",
+      "Knipex and Solsop",
+      "Precision combo or hydraulic"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Ratcheting Crimper vs Combo Pliers",
+   "cards": [
+    {
+     "label": "Ratcheting crimper",
+     "text": "The Klein 3005CR, Plustool and haisstronica give the same crimp each time and suit a run of connections. They do one job."
+    },
+    {
+     "label": "Combo pliers",
+     "text": "The Klein 1005, Knipex and WORKPRO cut, strip and crimp in one tool. Crimp quality depends on your grip."
+    }
+   ],
+   "note": "Pick a ratcheting crimper if you make many connections, and combo pliers for occasional work in a toolbox."
+  },
+  {
+   "subheading": "By Wire Size",
+   "table": {
+    "headers": [
+     "Wire",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "22 to 16 AWG electronics",
+      "Klein 3005CR",
+      "Red and blue cavities"
+     ],
+     [
+      "14 to 10 AWG automotive",
+      "Klein 3005CR or Plustool",
+      "Yellow cavity or wide range"
+     ],
+     [
+      "6 to 2/0 AWG battery",
+      "Solsop",
+      "Hydraulic force"
+     ],
+     [
+      "Mixed small jobs",
+      "WORKPRO",
+      "10 to 22 AWG in one tool"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Car Wiring Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A ratcheting crimper matched to the terminals you use, plus a way to test each crimp with a pull. Use heat shrink terminals for exposed or wet locations."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Klein 3005CR for standard terminals and the Plustool for heat shrink terminals cover most cars."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You crimp often or work on safety critical wiring. The Klein 3005CR and Knipex deliver reliable results."
+    },
+    {
+     "label": "Save if",
+     "text": "You crimp a few terminals a year. The WORKPRO is enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Wipe and oil the pivot",
+   "interval": "Every few months",
+   "why": "Dirt and rust stiffen the action and misalign the dies. A drop of light oil keeps it smooth."
+  },
+  {
+   "task": "Inspect the die faces",
+   "interval": "Before each job",
+   "why": "Chips or wear change crimp shape. Replace the tool if the dies are damaged."
+  },
+  {
+   "task": "Pull test sample crimps",
+   "interval": "When changing terminals or tool settings",
+   "why": "A tug on the wire shows weak crimps before they cause failures. It is the simplest quality check."
+  },
+  {
+   "task": "Check the ratchet release",
+   "interval": "Every few months",
+   "why": "A ratchet that sticks or releases early gives bad crimps. Service or replace the tool if it fails."
+  },
+  {
+   "task": "Keep hydraulic oil topped up",
+   "interval": "Before heavy work",
+   "why": "Low oil reduces force and stroke. Follow the maker instructions for filling."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Can I use one crimper for every terminal?",
+   "a": "No. Insulated terminals, heat shrink connectors, open barrel contacts and lugs each need a die shaped for them. A mismatched tool gives weak or damaged crimps."
+  },
+  {
+   "q": "What does a ratcheting crimper do?",
+   "a": "It locks until the full crimp cycle is complete, so every crimp gets the same pressure. That makes results far more repeatable than plain pliers."
+  },
+  {
+   "q": "How do I check a crimp?",
+   "a": "Give the wire a firm tug. A good crimp holds, and a poor one pulls out or shows a gap at the barrel."
+  },
+  {
+   "q": "Is a crimp better than solder?",
+   "a": "In vibrating environments a proper crimp is often more reliable, because solder can crack. Use the right tool and terminal."
+  },
+  {
+   "q": "Can I crimp battery lugs with pliers?",
+   "a": "No. Heavy lugs need hydraulic or hammer crimpers for enough force. Pliers give a weak joint that can overheat."
+  },
+  {
+   "q": "What does AWG mean?",
+   "a": "It is a wire thickness scale where smaller numbers are thicker. Match your tool and terminal to the AWG you are using."
+  }
+ ],
+ "relatedGuides": [
+  {
+   "title": "Torque Wrench Types Explained",
+   "href": "/guide/torque-wrench-types-explained"
+  },
+  {
+   "title": "Best Impact Wrenches",
+   "href": "/guide/best-impact-wrenches"
+  }
+ ]
+}

@@ -40,3 +40,30 @@
 - Common questions: how thick a branch can it cut, how heavy is it overhead, is it safe near power lines.
 - Budget picks are corded WEN-style models, Worx and Sun Joe convertibles, and cheap manual pole saws.
 - Gap to cover: that mini chainsaw conversions are light but slow, battery runtime at full reach, and the real limit on branch size.
+
+## best-garden-trowels
+- Top guides lead with blade material (stainless versus carbon versus cast aluminum), handle comfort, and blade shape per task (general, potting, transplanting, weeding).
+- Picks split by overall, ergonomic, heavy duty or rocky soil, hori hori knife, and transplanter with depth marks; Wilcox, Edward Tools, Garden Weasel, Radius, Barebones recur.
+- Handle materials (plastic, wood, soft grip) and whether the blade is welded or full tang come up.
+- Several lists are 2021 to 2022 and UK focused.
+- Missed angle: blade width versus soil type, tang attachment as the real failure point, handle diameter versus hand size and gloves, cast aluminum bending limits in clay, depth markings.
+
+## best-soil-test-kits
+- Top guides split kits into three types: instant read probes, at-home chemical or strip kits, and mail-in lab tests; lab tests called most reliable.
+- Picks: MySoil, Soil Savvy, Whitetail lab kit, Luster Leaf Rapitest, Sonkir MS02, Bluelab pH pen.
+- Criteria led with: what is measured (pH, N, P, K, organic matter), number of tests, accuracy, ease, price per test.
+- Missed angle: how to sample (several spots, depth, dry the sample), colour matching error and lighting, that digital probes cannot truly read NPK, probe care and calibration, seasonal timing of testing.
+
+## best-plant-grow-bags
+- Top guides lead with size by crop (3, 5, 10, 15 gallon), fabric weight in GSM (300G typical), handles and stitching, and drainage and air pruning.
+- Picks split by overall (Vivosun 5 gallon), value multi-packs, lined bags, and large raised bed style bags.
+- Advice: too small stunts roots, too large wastes soil and water; best for shallow rooted vegetables and herbs.
+- Several lists are 2021 to 2024.
+- Missed angle: fabric dries faster so watering frequency rises, true capacity versus label, UV fade and seam wear over seasons, cleaning and reuse, bag weight when wet and handle load, pack count versus quality.
+
+## best-trellises-for-climbing-plants
+- Top guides lead with material (iron, steel, wood, vinyl), style (arch, obelisk, A-frame, panel), and matching the trellis to the plant's weight and habit.
+- Advice: cucumbers and melons need strength, obelisks suit roses and sweet peas, container trellises stake into pots, small openings suit privacy.
+- Placement and sun exposure for the climbing plant is mentioned.
+- Picks split by decorative arch, vegetable trellis, and container support.
+- Missed angle: ground anchoring and wind load for tall arches, coating wear at stake points, opening size versus tendril type, wet vine weight, how assembly pieces loosen after seasons, galvanized versus powder coated steel.

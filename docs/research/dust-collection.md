@@ -1,0 +1,15 @@
+# dust-collection
+- Max CFM on listings is free air with no hose; real airflow at the tool is much lower; a collector rated 650 CFM may move about 420 CFM through a few feet of flexible 4 in hose.
+- Plan roughly 350 to 450 CFM at a 4 in port for a single machine; larger tools (planers, drum sanders) want 600 to 800 CFM after duct loss.
+- Static pressure matters as much as CFM; read the performance curve; flex hose, bends and reducers add resistance.
+- Single stage collectors (impeller then bag or canister) are cheaper and common for small shops; cyclones pre separate chips to keep the filter clean and hold airflow better.
+- Filter micron claims (1 micron, 2.5 micron, 99.9 percent) are maker figures; bag cloth weight and pleated canisters affect real filtration; a collector that handles chips does not necessarily capture fine airborne dust.
+- Fine dust under 10 microns stays airborne and is the concern; wear a respirator when sanding; an ambient air filter helps; a collector is not a respirator substitute.
+- Hose: use the largest practical diameter (4 in) and keep runs short and smooth; 2.5 in shop vac hose suits handheld tools.
+- Shop vacs with a cyclone separator suit sanders, routers and small tools; they cannot feed a planer.
+- Motor: brushed motors are loud; induction motors run quieter and last longer; 1 HP and 1.5 HP are small shop sizes.
+- Impeller diameter (6, 9, 12 in) and motor amps affect airflow; metal impellers are more durable than plastic.
+- Bag capacity: 12 to 21 gallons; full bags cut airflow; empty before they fill and wear a mask when doing so.
+- Mobile base or wall mount saves floor space; wall mount needs strong studs.
+- Static electricity and fire: chips and fine dust are combustible; keep motors clear of dust and metal debris out of the impeller.
+- Noise is high, often 80 to 90 dB; hearing protection is a good idea.

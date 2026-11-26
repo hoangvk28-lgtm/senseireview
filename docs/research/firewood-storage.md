@@ -1,0 +1,15 @@
+# firewood-storage
+- Full cord is 128 cubic feet (4 x 4 x 8 ft); a face cord is 4 x 8 ft by one log length, commonly 16 in deep, so about one third of a cord. Racks are usually sized in faces, not full cords.
+- Check stated capacity; sources disagree on half and quarter cord sizes; round or crescent racks hold less than rectangular ones.
+- Seasoned wood is under about 20 percent moisture; seasoning takes six months to a year depending on species, sun and wind.
+- Keep the base off the ground; cover only the top of the stack, leaving the sides open for airflow; a fully wrapped stack traps vapor.
+- Rotate stock; oldest, driest logs first; keep new wood separate.
+- Keep firewood away from the house walls and out of garages because of insects and moisture; some areas restrict moving firewood.
+- Steel gauge: cheap racks use thin tube that bows; thicker tube or a thicker wall carries green hardwood better.
+- Stated load ratings vary widely and are inconsistent between brands; a cord of dense hardwood can weigh thousands of pounds.
+- Powder coating resists rust but chips; coastal air shows rust within a year or two; stainless bolts are an upgrade.
+- Cover must fit the fully stocked rack dimensions; waterproof 600D fabric is common; covers sag and pool water.
+- Indoor racks are small, need no cover, often include kindling holders or carrier bags.
+- Assembly: bolted frames can loosen; check bolts each season.
+- Empty weight is a rough quality check for a 4 ft rack.
+- Stack bark side up on the top layer; avoid stacking against living trees.
