@@ -14,3 +14,9 @@
 - Common questions: do I need Wi-Fi 7, how many nodes, does wired backhaul help, are there subscriptions.
 - Budget picks tend to be Wi-Fi 6 packs from TP-Link or eero; Wi-Fi 7 is flagged as nice but not needed on most plans.
 - Gap to cover: that dual-band backhaul halves far-node speed, and that box coverage figures are open-space best cases.
+## best-ethernet-switches-for-home
+- Top guides lead with port count and speed tier (gigabit versus 2.5G), then unmanaged versus managed.
+- They split picks by 5-port desk, 8-port, 16 to 24 port, PoE for cameras and multi-gig for fast internet.
+- They answer whether a switch slows the network, fanless noise, metal versus plastic housing and PoE budgets.
+- Common line: unmanaged gigabit is enough for most homes; extra ports and PoE are the real upgrades.
+- Gap we cover: the shared uplink bottleneck, PoE watt budgets per port and why a 2.5G switch needs 2.5G devices to matter.

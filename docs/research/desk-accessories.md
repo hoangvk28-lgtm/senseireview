@@ -1,0 +1,16 @@
+- Tablet stand weight rating should cover the tablet plus case; budget stands often rate near 1 lb, sturdier ones 2 lb or more.
+- Base footprint matters as much as the rating: a narrow base tips with a large tablet in portrait.
+- Weighted base suits moving between rooms; a clamp suits one fixed station but needs a suitable edge thickness.
+- Tilt range decides use: near flat for typing, near vertical for drawing or video calls.
+- Gooseneck arms sag with heavy tablets and bounce on touch; shorter arms and aluminum cores hold better.
+- Pivot friction screws loosen over time; a small hex key re-tightens them.
+- Plastic clamps can crack if over-tightened.
+- Floor stands trade portability for height range; tripod types need a wide leg spread to stay upright.
+- Listed screen size ranges ignore thick cases and side buttons; check clamp opening and case thickness.
+- Laptop cooling pads: fan CFM claims are rarely given, noise in dBA and USB pass-through matter more.
+- Cooling pads help mostly with thin gaming laptops with bottom intakes; a raised angle alone lowers temps a few degrees.
+- Privacy filters cut brightness and narrow viewing angle to about 30 degrees; match exact diagonal and aspect ratio.
+- Magnetic or sliding-tab filters are removable; adhesive filters are permanent in practice.
+- Cable boxes hide power strips; ventilation slots and cable entry size decide fit, enclosed strips can run warm.
+- Phone tripods: leg lock type, max load and phone clamp width decide stability; remotes use Bluetooth shutter.
+- Graphics tablets for beginners: active area, pressure levels (8192 is common), and pen battery-free design.

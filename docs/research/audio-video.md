@@ -17,3 +17,21 @@
 - MagSafe car mounts: magnet strength depends on phone case; metal plate rings help non-magnetic cases.
 - Baby monitors without Wi-Fi use a dedicated 2.4 GHz or FHSS link and avoid cloud accounts; range claims are open air.
 - Smart locks for apartments: deadbolt retrofit keeps the exterior; check landlord rules; battery 4 AA about a year.
+- HDMI switches: HDMI 2.0 carries 18 Gbps (4K at 60 Hz); true 4K at 120 Hz and 8K at 60 Hz need HDMI 2.1 at 48 Gbps.
+- Many budget boxes labeled 2.1 or 8K advertise bandwidth that the chip cannot sustain; treat as a claim and verify with a test cable.
+- HDCP 2.2 is required for protected 4K streaming; mismatched HDCP gives a black screen.
+- CEC lets the TV remote control sources; auto-switch picks the newest active input but can flip unexpectedly.
+- Switch placement: a switch cannot output more than the weakest link, so cable bandwidth and display input matter.
+- eARC audio passes from the TV, not through a simple switch; a switch placed before the TV cannot carry full eARC.
+- Bidirectional switches work either as 2-in-1-out or 1-in-2-out but not both at once.
+- Bus-powered switches can struggle with HDR sources; a USB power cable fixes flaky signal.
+- Remotes are usually IR with a short range; place the receiver where the remote can see it.
+- Bluetooth TV transmitters: low latency needs the same codec on transmitter and headphones; aptX Low Latency is about 40 ms, standard SBC can add 150 to 250 ms.
+- If the headphones lack aptX LL, the transmitter falls back to SBC and lip sync drifts.
+- Optical (TOSLINK) is the cleanest input but the TV must output PCM; Dolby Digital or DTS output often gives silence.
+- 3.5 mm and RCA are analog fallbacks; use the headphone jack only if it does not mute TV speakers.
+- Dual-link pairs two headphones, but the lowest codec supported by either usually sets the quality.
+- Range of about 10 m is typical; walls and TV cabinets cut it.
+- Bluetooth version numbers (5.3, 5.4, 6.0) change range and stability less than codec choice.
+- Many units double as receivers (TX and RX modes); a physical switch picks the mode.
+- Run on USB power from the TV for all-day use; internal battery claims of 20 hours are best case.

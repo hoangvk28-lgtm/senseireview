@@ -14,3 +14,11 @@
 - Metal studs are thin; metal modes find edges differently.
 - Joist and ceiling scanning works the same way but depth limit matters.
 - Generic units copy each other; "5 in 1" claims are mostly mode selectors.
+- Digital calipers: resolution (0.01 mm or 0.0005 in) is display step; accuracy (about 0.02 to 0.04 mm) is the real error band.
+- Some budget listings quote 0.2 mm accuracy; read the tolerance, not the number of decimals.
+- Stainless steel frames resist flex; 12 inch frames flex more than 6 inch ones.
+- Zero closed before each measurement; clean jaws and the slider rail.
+- Leave-on battery drain: auto-off or a rechargeable cell avoids dead batteries and lost zero.
+- Absolute-origin types keep zero reference after power off; most budget types are incremental.
+- IP54 means splash and dust resistant, not submersible.
+- Data ports (SPC) feed CAD or spreadsheets but need a cable.

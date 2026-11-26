@@ -1,0 +1,609 @@
+{
+ "guideSlug": "best-digital-calipers-under-50",
+ "categorySlug": "tools-diy",
+ "mainKeyword": "digital caliper",
+ "guideTitle": "Best Digital Calipers Under $50 (2026)",
+ "metaTitle": "Best Digital Calipers Under $50",
+ "metaDescription": "Six digital calipers under $50 compared on accuracy claims, frame material, range, battery type and extras, for hobby, shop and 3D printing use.",
+ "lastUpdated": "2026-11-26",
+ "readTime": "12 min",
+ "heroImage": "https://m.media-amazon.com/images/I/41rNnHkRdiL._SL500_.jpg",
+ "expertTake": "The iGAGING Absolute Origin 6-inch is the best overall pick under $50 because it remembers its zero reference after power-off and adds IP54 splash protection. The HARDELL rechargeable 6-inch is the value pick for a backlit display and USB-C charging that ends the dead-battery cycle. Skip the category if your tolerance work is tighter than about 0.02 mm, because no caliper at this cap is a substitute for a micrometer.",
+ "introParagraphs": [
+  "A digital caliper is the most useful measuring tool a hobbyist can add to a bench, because it reads outside, inside, depth and step dimensions in one motion. Its weakness is that a bright display can make a loose tool look precise, since the number of decimals is not the same as accuracy.",
+  "A spending cap is the right place to separate honest tools from flashy ones. At this level the real choices are frame material, battery behavior, jaw length and the stated tolerance. Prices move, and the cap reflects listing prices when the guide was updated."
+ ],
+ "products": [
+  {
+   "id": "B00INL0BTS",
+   "badge": "Best Overall",
+   "name": "iGAGING Absolute Origin 0-6 in IP54 Digital Caliper with Data Port",
+   "specs": [
+    "0 to 6 in range",
+    "Absolute Origin",
+    "IP54 rated",
+    "SPC/USB output"
+   ],
+   "specList": [
+    {
+     "label": "Range",
+     "value": "0 to 6 in / 150 mm"
+    },
+    {
+     "label": "Zero system",
+     "value": "Absolute Origin, keeps reference"
+    },
+    {
+     "label": "Protection",
+     "value": "IP54 splash and dust"
+    },
+    {
+     "label": "Data output",
+     "value": "SPC/USB port"
+    },
+    {
+     "label": "Body",
+     "value": "Stainless steel, with case"
+    }
+   ],
+   "description": "The iGAGING Absolute Origin is the most capable caliper in this guide because it solves two common annoyances. Its Absolute Origin system retains the zero reference when it powers off, so you do not need to re-zero every time the display wakes up, and the stainless body carries an IP54 rating, meaning it resists splashes, oil and dust in a shop. An SPC/USB data output port can send readings straight into CAD or spreadsheet software with a cable.\n\nCompared with the iGaging IP54 model below, the Absolute Origin adds the memory of zero and the data port, which is useful for repeated measurements of the same parts. Against the HARDELL rechargeable model it uses a standard cell and has no backlight, so it favors consistency over convenience. Inch, metric and mode switching are all handled by buttons on the display, and the case keeps the jaws safe in a drawer.\n\nIn ownership terms, the main care is keeping the slide rail and jaws clean, because grit on the scale creates jumpy readings. IP54 is not waterproof, so avoid dunking it in coolant. Replace the battery when the display dims, not after it fails. For a shop that wants the memory of zero and the data port without paying for a premium brand, this is the best pick.",
+   "bestFor": "Hobbyists and shop users who measure repeat parts and want a stable zero.",
+   "pros": [
+    "Absolute Origin keeps zero after power-off",
+    "IP54 resists dust, oil and splashes",
+    "SPC/USB port exports readings to software",
+    "Stainless body with a protective case"
+   ],
+   "cons": [
+    "Data cable is a separate purchase",
+    "No backlight for dim shops",
+    "Replaceable battery needs periodic changes"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B00INL0BTS?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41rNnHkRdiL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0FLK39NZ7",
+   "badge": "Best Value",
+   "name": "HARDELL 6 in Rechargeable All-Metal Digital Caliper, Backlight, USB-C",
+   "specs": [
+    "0 to 6 in range",
+    "USB-C rechargeable",
+    "Backlit LCD",
+    "0.0005 in resolution"
+   ],
+   "specList": [
+    {
+     "label": "Range",
+     "value": "0 to 6 in / 150 mm"
+    },
+    {
+     "label": "Resolution",
+     "value": "0.0005 in"
+    },
+    {
+     "label": "Accuracy",
+     "value": "Plus or minus 0.001 in / 0.02 mm"
+    },
+    {
+     "label": "Power",
+     "value": "USB-C rechargeable battery"
+    },
+    {
+     "label": "Display",
+     "value": "Backlit LCD"
+    }
+   ],
+   "description": "The HARDELL rechargeable caliper changes one real ownership problem: dead button cells. A built-in battery charges over USB-C and a backlit LCD makes it readable in a dim garage. The all-metal body covers a 0 to 6 inch range, with a listed resolution of 0.0005 inches and a stated accuracy of plus or minus 0.001 inches, which is about 0.02 mm.\n\nBecause the listed accuracy matches the other 0.02 mm calipers, the real difference here is convenience, not precision. Compared with the iGAGING Absolute Origin, it adds a backlight and charging but loses the memory of zero and the data port. Against the standard HARDELL 6-inch it costs more, so the question is whether you value the rechargeable battery over replacing a coin cell once a year.\n\nA built-in cell means a long idle period can drain it, so give it a top-up before an important job. Keep the jaws clean and zero the tool closed before each use. The backlight drains the battery faster, so use it only when needed. This is the best value for a bench where readability and ending battery swaps matter.",
+   "bestFor": "Users who work in dim spaces and are tired of replacing button cells.",
+   "pros": [
+    "USB-C rechargeable cell avoids battery swaps",
+    "Backlit LCD reads in a dark garage",
+    "All-metal body at the same 0 to 6 inch range",
+    "0.0005 inch resolution with a 0.02 mm claim"
+   ],
+   "cons": [
+    "No Absolute Origin memory of zero",
+    "Built-in battery can drain when stored idle",
+    "Backlight shortens run time between charges"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0FLK39NZ7?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41gd-jb1DIL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0BNCXJ1JD",
+   "badge": "Best Simple 6 in Pick",
+   "name": "HARDELL 6 in Stainless Digital Caliper, 4 Measuring Modes",
+   "specs": [
+    "0 to 6 in range",
+    "Stainless steel",
+    "0.02 mm claim",
+    "Inch/mm button"
+   ],
+   "specList": [
+    {
+     "label": "Range",
+     "value": "0 to 6 in / 150 mm"
+    },
+    {
+     "label": "Frame",
+     "value": "Solid stainless steel"
+    },
+    {
+     "label": "Accuracy",
+     "value": "Plus or minus 0.02 mm claimed"
+    },
+    {
+     "label": "Modes",
+     "value": "Outside, inside, depth, step"
+    },
+    {
+     "label": "Units",
+     "value": "Inch and mm"
+    }
+   ],
+   "description": "This is the straightforward 6 inch HARDELL: a stainless-steel frame, a large LCD and the standard four measurement modes with two jaw pairs and a depth probe. The listing claims plus or minus 0.02 mm accuracy, which is the common figure at this price, and an inch/mm button switches units instantly.\n\nIt sits in the middle of the HARDELL family. Compared with the rechargeable 6 inch it uses a standard cell and has no backlight, which cuts the cost, and compared with the 12 inch HARDELL it is far more rigid, since a shorter frame flexes less. Against the Adoric it carries a tighter accuracy claim, which matters if you measure fits and tolerances rather than rough sizes.\n\nIn use, always zero with the jaws closed and clean, and remember that accuracy is a claim until checked against a known gauge block or a drill-bit shank. A thumb roller helps with fine movement, and the stainless frame resists rust. Keep a spare button cell in the drawer, since auto-off varies. If you want a plain, dependable 6 inch tool, this is the one to pick.",
+   "bestFor": "Hobbyists who want a plain stainless 6 inch caliper with no extras.",
+   "pros": [
+    "Solid stainless steel resists rust and wear",
+    "Four measuring modes with a depth probe",
+    "Inch and mm conversion on one button",
+    "Tighter 0.02 mm accuracy claim than Adoric"
+   ],
+   "cons": [
+    "No backlight or rechargeable battery",
+    "Accuracy figure is a listing claim",
+    "No data port or case-quality extras"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0BNCXJ1JD?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41CQbNfzbvL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B07DFFYCXS",
+   "badge": "Lowest Cost Entry",
+   "name": "Adoric 0-6 in Digital Caliper with Auto-Off and Large LCD",
+   "specs": [
+    "0 to 6 in range",
+    "Auto-off",
+    "Large LCD",
+    "4 measuring modes"
+   ],
+   "specList": [
+    {
+     "label": "Range",
+     "value": "0 to 6 in / 150 mm"
+    },
+    {
+     "label": "Resolution",
+     "value": "0.01 mm / 0.0005 in class"
+    },
+    {
+     "label": "Accuracy",
+     "value": "Looser, about 0.2 mm on the listing"
+    },
+    {
+     "label": "Power saving",
+     "value": "Auto-off"
+    },
+    {
+     "label": "Price tier",
+     "value": "Cheapest in this guide"
+    }
+   ],
+   "description": "The Adoric is the cheapest caliper here and the one with the loosest stated tolerance. The listing gives a 0 to 6 inch range, four measuring modes, a one-button inch/mm switch and an auto-off feature that saves the battery, but its accuracy figure is about 0.2 mm, which is ten times looser than the 0.02 mm claims on the other models.\n\nThat gap is the entire story. For checking board thickness, bolt lengths or 3D print rough sizes, 0.2 mm is plenty, but for fitting bearings or press fits you want the tighter claims of the iGAGING or the HARDELL. Compared with the standard HARDELL 6 inch, the Adoric costs less and has the same range, and the difference is the tolerance and the frame feel.\n\nBecause auto-off turns the tool off, it will lose zero each time, so re-zero before every measurement. Keep the jaws clean, and avoid forcing the thumb lock. Calibrate the first reading against a gauge or a drill shank to see how it behaves. If your measurements are rough and your budget is tight, the Adoric is the sensible choice, and nothing more.",
+   "bestFor": "Rough measuring, crafts and learners who want the cheapest working caliper.",
+   "pros": [
+    "Lowest cost of the six calipers here",
+    "Auto-off saves the battery between jobs",
+    "One-button inch and mm conversion",
+    "Large LCD reads clearly"
+   ],
+   "cons": [
+    "Looser accuracy listing of about 0.2 mm",
+    "Needs re-zeroing after each auto-off",
+    "Not suitable for tight fit tolerances"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B07DFFYCXS?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31UgRJDLJSL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B001AQEZ2W",
+   "badge": "Best Fractions Display",
+   "name": "iGaging IP54 Electronic Digital Caliper 0-6 in, Fractions Mode",
+   "specs": [
+    "0 to 6 in range",
+    "IP54 rated",
+    "Fractions mode",
+    "Super large display"
+   ],
+   "specList": [
+    {
+     "label": "Range",
+     "value": "0 to 6 in"
+    },
+    {
+     "label": "Units",
+     "value": "Inch, metric, fractions"
+    },
+    {
+     "label": "Protection",
+     "value": "IP54 splash, oil, dust"
+    },
+    {
+     "label": "Display",
+     "value": "About 2-3/8 by 7/8 in"
+    },
+    {
+     "label": "Body",
+     "value": "Hardened stainless steel"
+    }
+   ],
+   "description": "This iGaging model is the one for woodworkers who think in fractions. A fractions mode reads in sixty-fourths and similar steps, alongside inch and metric, and the oversized display measures about 2-3/8 by 7/8 inches, so it is easy to read at arm's length. The hardened stainless steel body carries an IP54 rating for shop dust and splashes.\n\nCompared with the Absolute Origin, this model drops the memory of zero and the data port but keeps the splash protection and adds the fractions mode that woodworkers and machinists using imperial stock appreciate. Against the HARDELL 6 inch it trades an extra display mode for a looser documentation of accuracy, so verify its reading against a known reference.\n\nOwnership is simple: wipe the scale and jaws, zero closed, and replace the cell when the display fades. IP54 is splash and dust resistant, not waterproof, so keep it out of coolant baths. The large display is the main daily benefit, especially for aging eyes. If you work with inch fractions on lumber and stock, this is the easiest tool to read.",
+   "bestFor": "Woodworkers and imperial-stock users who read fractions and want a big display.",
+   "pros": [
+    "Fractions mode suits imperial stock",
+    "Oversized display is easy to read",
+    "IP54 resists dust, oil and splashes",
+    "Hardened stainless steel body"
+   ],
+   "cons": [
+    "Does not keep zero after power-off",
+    "No data port or backlight",
+    "Accuracy wording is less specific"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B001AQEZ2W?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/21UeLZd9tmL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0CB2Y6LN1",
+   "badge": "Best 12 in Range",
+   "name": "HARDELL 12 in Stainless Digital Caliper with 2 Jaw Sets",
+   "specs": [
+    "0 to 12 in range",
+    "Stainless steel",
+    "Large 14x40 mm LCD",
+    "0.04 mm claim"
+   ],
+   "specList": [
+    {
+     "label": "Range",
+     "value": "0 to 12 in / 300 mm"
+    },
+    {
+     "label": "Accuracy",
+     "value": "Plus or minus 0.04 mm claimed"
+    },
+    {
+     "label": "Display",
+     "value": "14 by 40 mm LCD"
+    },
+    {
+     "label": "Jaws",
+     "value": "Two pairs plus depth probe"
+    },
+    {
+     "label": "Frame",
+     "value": "Stainless steel"
+    }
+   ],
+   "description": "The HARDELL 12 inch is the long-range option for measuring large stock, pipe and automotive parts that a 6 inch caliper cannot span. The stainless frame reaches 0 to 12 inches (300 mm), an oversized 14 by 40 mm LCD makes the display readable, and the listing gives two jaw pairs and a probe. The stated accuracy is looser at plus or minus 0.04 mm, which is normal for the longer frame.\n\nThe tradeoff against the 6 inch calipers is rigidity. A 12 inch frame flexes more, and you will see the reading change slightly if you squeeze the jaws harder, so use a light, steady touch and measure the same way each time. Compared with the Adoric and the other 6 inch tools, it solves a different problem: reach, not precision. If most of your work is under 6 inches, the shorter caliper is the better tool.\n\nKeep the long beam straight and store it flat or hung so it does not bow. Clean the rail and zero with closed jaws. A wider range means more weight, so a firm two-hand grip helps on a long cut. If you need to measure big parts occasionally, this is the one that spans them, and a 6 inch tool can handle the rest.",
+   "bestFor": "Measuring large stock, pipe and automotive parts beyond a 6 inch span.",
+   "pros": [
+    "Reaches 12 inches with a stainless frame",
+    "Large 14 by 40 mm display reads easily",
+    "Two jaw pairs and a depth probe included",
+    "Accuracy claim of 0.04 mm is honest for the length"
+   ],
+   "cons": [
+    "Long frame flexes more than a 6 inch caliper",
+    "Looser tolerance than the 6 inch models",
+    "Heavier and clumsier for small parts"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0CB2Y6LN1?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/417mAQLpA0L._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Accuracy versus resolution",
+   "explanation": "Resolution is how small a step the display shows, while accuracy is how close the reading is to the true size. A caliper can show 0.01 mm steps and still be off by 0.02 mm or more. The Adoric lists about 0.2 mm, while the iGAGING and HARDELL 6 inch models claim 0.02 mm. Buyers often compare decimals and miss the tolerance, which is the figure that predicts real error."
+  },
+  {
+   "criterion": "Frame material and rigidity",
+   "explanation": "Stainless steel resists flex and wear, whereas plastic composite frames bend and drift. Frame flex grows with length, so a 12 inch caliper like the HARDELL 12 inch is less rigid than a 6 inch one. Steel also keeps the jaws parallel over years. Choose stainless for any tool you plan to trust."
+  },
+  {
+   "criterion": "Range and jaw length",
+   "explanation": "Most home work fits in 6 inches, which is 150 mm, and the shorter beam is stiffer. A 12 inch range helps with pipe and large stock but adds flex and weight. The HARDELL 12 inch spans 300 mm, while the rest of the lineup stops at 150 mm. Buy the length you use most, not the biggest one."
+  },
+  {
+   "criterion": "Battery and zero behavior",
+   "explanation": "Calipers drain batteries if left on, and most budget models lose zero when the display shuts off. The iGAGING Absolute Origin keeps its reference, and the HARDELL rechargeable model charges by USB-C. Auto-off on the Adoric saves the cell but forces a re-zero. Pick the behavior that fits how often you pick the tool up."
+  },
+  {
+   "criterion": "Display and units",
+   "explanation": "A large LCD helps in a dim shop, and a backlight helps more. Inch, millimeter and fraction modes matter for the stock you cut. The iGaging fractions model reads in sixty-fourths, while the others switch between inch and mm. A clean, high-contrast display prevents misreads that look like accuracy errors."
+  },
+  {
+   "criterion": "Protection and extras",
+   "explanation": "IP54 means splash, oil and dust resistance, not submersion, and it matters in a shop with sawdust or coolant. A data port feeds CAD or a spreadsheet and a case protects the jaws. The two iGAGING models carry IP54, and the Absolute Origin adds the SPC/USB port. Treat extras as a bonus after accuracy and frame."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Resolution",
+   "meaning": "The smallest step the display can show, such as 0.01 mm or 0.0005 inches. It is a display property, not a guarantee of correctness.",
+   "watchFor": "The HARDELL rechargeable lists 0.0005 inch resolution, but its accuracy claim of 0.02 mm is what predicts the error."
+  },
+  {
+   "spec": "Accuracy",
+   "meaning": "The error band around the true size, such as plus or minus 0.02 mm. A smaller number means a tighter tool.",
+   "watchFor": "The Adoric lists about 0.2 mm, while the HARDELL 12 inch lists 0.04 mm because of its length."
+  },
+  {
+   "spec": "Absolute Origin",
+   "meaning": "A system that keeps the zero reference when the display powers off, so you do not re-zero after waking the tool.",
+   "watchFor": "Only the iGAGING Absolute Origin has it in this lineup."
+  },
+  {
+   "spec": "IP54 rating",
+   "meaning": "Protection against dust and splashing water from any direction. It does not allow immersion.",
+   "watchFor": "Both iGAGING calipers carry IP54, and the HARDELL models list waterproof claims that should be read as splash resistance."
+  },
+  {
+   "spec": "Measuring modes",
+   "meaning": "The four functions of a caliper: outside, inside, depth and step. Each uses a different part of the jaws or probe.",
+   "watchFor": "All six tools here list the four modes, but the depth probe quality varies."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Accuracy and tolerance",
+   "description": "We evaluated the stated accuracy and the resolution on each listing and separated the two. The Adoric 0.2 mm claim and the HARDELL 12 inch 0.04 mm claim were compared with the 0.02 mm claims. We treated every figure as a claim."
+  },
+  {
+   "title": "Frame and build",
+   "description": "We compared frame materials and length against rigidity, since long frames flex. Stainless steel earned credit. The 12 inch HARDELL was judged against its range benefit."
+  },
+  {
+   "title": "Power and zero behavior",
+   "description": "We compared rechargeable cells, auto-off and zero memory. The Absolute Origin and the USB-C HARDELL lead here. Models that lose zero were scored by how often a user must re-zero."
+  },
+  {
+   "title": "Display and usability",
+   "description": "We looked at display size, backlight and unit modes, including the iGaging fractions mode. A readable display reduces misreads. Large displays earned extra credit for shop use."
+  },
+  {
+   "title": "Ownership and durability",
+   "description": "We weighed owner feedback patterns on rail grit, jumpy readings and battery drain, and checked protection ratings. IP54 and stainless frames earned credit. Heavy extras were weighed after the basics."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Measuring Job",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Repeat parts and CAD",
+      "iGAGING Absolute Origin",
+      "Zero memory and data port"
+     ],
+     [
+      "Dim garage or bench",
+      "HARDELL rechargeable",
+      "Backlit LCD and USB-C"
+     ],
+     [
+      "Everyday 6 inch work",
+      "HARDELL 6 inch stainless",
+      "Plain, rigid, four modes"
+     ],
+     [
+      "Imperial woodworking",
+      "iGaging IP54 fractions",
+      "Reads in fractions"
+     ],
+     [
+      "Large stock or pipe",
+      "HARDELL 12 inch",
+      "300 mm span"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Cheapest entry",
+      "Adoric 6 inch",
+      "Lowest tier in this guide"
+     ],
+     [
+      "Low tier stainless",
+      "HARDELL 6 inch",
+      "Solid steel and tighter claim"
+     ],
+     [
+      "Mid tier shop tool",
+      "iGaging IP54",
+      "Splash rating and big display"
+     ],
+     [
+      "Mid-upper rechargeable",
+      "HARDELL rechargeable",
+      "Backlight and USB-C"
+     ],
+     [
+      "Upper tier memory of zero",
+      "iGAGING Absolute Origin",
+      "Highest feature set"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "6 Inch vs 12 Inch",
+   "cards": [
+    {
+     "label": "6 inch (HARDELL, iGAGING)",
+     "text": "Stiffer frame, tighter 0.02 mm claims and lighter in hand. Covers most hobby, shop and 3D print work."
+    },
+    {
+     "label": "12 inch (HARDELL)",
+     "text": "Spans 300 mm for pipe, stock and automotive parts. The longer frame flexes and the tolerance loosens to 0.04 mm."
+    }
+   ],
+   "note": "Choose the 6 inch for precision and everyday work; add the 12 inch only if you regularly measure beyond 150 mm."
+  },
+  {
+   "subheading": "By Power and Zero Behavior",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Never re-zero",
+      "iGAGING Absolute Origin",
+      "Keeps the zero reference"
+     ],
+     [
+      "Never buy a cell",
+      "HARDELL rechargeable",
+      "USB-C charging"
+     ],
+     [
+      "Save the battery",
+      "Adoric",
+      "Auto-off feature"
+     ],
+     [
+      "Spare cell on hand",
+      "HARDELL 6 inch",
+      "Standard cell, simple tool"
+     ],
+     [
+      "Shop dust and splashes",
+      "iGaging IP54",
+      "IP54 rating"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For 3D Printing Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A 0.02 mm claim, a 6 inch range, a clear unit switch and a depth probe for checking holes and step heights."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The HARDELL 6 inch stainless or the rechargeable model. Both list 0.02 mm and are rigid enough for printed parts."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You hold tolerances tighter than 0.02 mm, need a certified calibration, or measure daily as part of work. A premium caliper brings verified accuracy and a smoother slide."
+    },
+    {
+     "label": "Save if",
+     "text": "You measure hobby parts, lumber and prints, because the HARDELL 6 inch or the iGAGING already cover those jobs."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Zero with closed jaws",
+   "interval": "Before each use",
+   "why": "Dirt between the jaws shifts the zero point. A quick zero check catches this before it spoils a measurement."
+  },
+  {
+   "task": "Wipe the rail and scale",
+   "interval": "Monthly",
+   "why": "Grit on the slide causes jumpy readings and wear. A dry lint-free cloth keeps the motion smooth."
+  },
+  {
+   "task": "Replace or charge the battery",
+   "interval": "When the display dims",
+   "why": "A weak cell makes the display flicker and can corrupt readings. Replace a button cell or charge the USB-C model."
+  },
+  {
+   "task": "Check against a known gauge",
+   "interval": "Every 6 months",
+   "why": "A drill shank or gauge block shows drift. If the reading is off, retire the tool or note the offset."
+  },
+  {
+   "task": "Store in its case",
+   "interval": "After each session",
+   "why": "Jaw edges nick easily. A case or closed storage protects them and keeps the beam straight."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is a 0.0005 inch resolution caliper really that accurate?",
+   "a": "Not necessarily. Resolution is the display step, while accuracy is the error band, such as plus or minus 0.02 mm. The accuracy claim is the number that predicts real error."
+  },
+  {
+   "q": "Are calipers under $50 accurate enough?",
+   "a": "For hobby and shop work, yes at 0.02 mm claims. Prices move, and the cap reflects listing prices when the guide was updated, so treat the cap as a ceiling for choosing between models."
+  },
+  {
+   "q": "Why does my caliper reading drift?",
+   "a": "A weak battery, grit on the rail or jaws that were not closed at zero are the usual causes. Clean the rail, zero the tool and replace the cell."
+  },
+  {
+   "q": "Do I need a rechargeable caliper?",
+   "a": "Only if you hate swapping button cells. The HARDELL rechargeable model charges by USB-C, but a cell can still drain in long storage."
+  },
+  {
+   "q": "6 inch or 12 inch caliper?",
+   "a": "Choose 6 inches for most work because the frame is stiffer and the tolerance is tighter. A 12 inch caliper like the HARDELL is for large stock and pipe."
+  },
+  {
+   "q": "Can I measure inside holes with these calipers?",
+   "a": "Yes, the upper jaws measure inside diameter. Open the jaws until they touch the hole walls, lock the reading and read the display."
+  }
+ ],
+ "relatedGuides": [
+  {
+   "title": "Best Digital Calipers",
+   "href": "/guide/best-digital-calipers"
+  },
+  {
+   "title": "Best Tape Measures Under 25 Dollars",
+   "href": "/guide/best-tape-measures-under-25"
+  }
+ ]
+}

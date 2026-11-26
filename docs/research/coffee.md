@@ -1,0 +1,14 @@
+- Moka pots brew with steam pressure of about 1 to 2 bar, so output is strong coffee, not true espresso.
+- Aluminum pots suit gas and electric hobs and are the cheaper traditional choice; they are not induction compatible alone.
+- Stainless steel pots need a magnetic base for induction and are generally dishwasher friendly.
+- Listed cup sizes are demitasse servings of roughly 1.7 to 2 oz; a 6 cup pot yields about 9 to 10 oz.
+- Bitter or metallic coffee usually comes from too-high heat, too-fine grind or leaving the pot on the burner after sputtering.
+- Fill the basket level without tamping; fill the base to just below the safety valve.
+- Gaskets and filter plates wear out; replacing them every 6 to 12 months keeps sealing and flavor.
+- Do not scrub aluminum pots with dish soap and abrasives; rinse and dry fully, seasoning builds up and is normal.
+- Hand grinders: conical burrs in steel or ceramic; steel is tougher, ceramic stays cool but can chip if dropped.
+- Grind consistency depends on burr alignment and shaft wobble; internal adjustment dials with click steps are easier to repeat.
+- Capacity in beans per batch is about 20 to 30 g for travel grinders; large hoppers hold 40 g or more.
+- Slower grinding is the tradeoff of a manual grinder; finer settings for espresso and moka take far longer.
+- Travel grinders should disassemble for cleaning and have a lid that keeps grounds in.
+- Do not grind oily dark roasts for long; oil clogs burrs, brush clean after each use.

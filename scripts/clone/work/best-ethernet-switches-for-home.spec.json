@@ -1,0 +1,609 @@
+{
+ "guideSlug": "best-ethernet-switches-for-home",
+ "categorySlug": "tech-electronics",
+ "mainKeyword": "gigabit ethernet switch",
+ "guideTitle": "Best Ethernet Switches for Home (2026)",
+ "metaTitle": "Best Ethernet Switches for Home",
+ "metaDescription": "Six home Ethernet switches compared on port count, gigabit versus 2.5G, unmanaged versus Easy Smart, PoE budget and metal fanless builds for desks and closets.",
+ "lastUpdated": "2026-11-26",
+ "readTime": "13 min",
+ "heroImage": "https://m.media-amazon.com/images/I/31uEupbfioL._SL500_.jpg",
+ "expertTake": "The NETGEAR GS308 8-port is the best overall pick because it gives enough ports for a typical home, a fanless design and plug-and-play setup. The TP-Link TL-SG105 5-port is the value pick for a desk or TV console that needs a few extra wired connections. Skip a new switch if your router already has spare gigabit ports, because an extra box adds a point of failure without adding speed.",
+ "introParagraphs": [
+  "An Ethernet switch turns one wired connection into several, which is useful when a router runs out of ports for a desktop, a console, a streaming box and a printer. A switch does not add internet speed, but it keeps wired devices on a faster and more stable link than Wi-Fi.",
+  "For most homes an unmanaged gigabit switch is all you need. The differences are port count, build quality, whether it supports 2.5 gigabit or power over Ethernet and whether it has any management features. The six switches below cover each of those needs."
+ ],
+ "products": [
+  {
+   "id": "B07PFYM5MZ",
+   "badge": "Best Overall",
+   "name": "NETGEAR GS308 8-Port Gigabit Unmanaged Ethernet Switch",
+   "specs": [
+    "8 gigabit ports",
+    "Unmanaged",
+    "Plug and play",
+    "Desktop or wall mount"
+   ],
+   "specList": [
+    {
+     "label": "Ports",
+     "value": "8 x 1 Gbps"
+    },
+    {
+     "label": "Type",
+     "value": "Unmanaged, plug and play"
+    },
+    {
+     "label": "Negotiation",
+     "value": "Auto-negotiating ports"
+    },
+    {
+     "label": "Mounting",
+     "value": "Desktop or wall"
+    },
+    {
+     "label": "Tier",
+     "value": "Middle in this guide"
+    }
+   ],
+   "description": "The NETGEAR GS308 is the most sensible home switch: eight gigabit ports in a small desktop box, with plug-and-play operation and no software. Its ports auto-negotiate speed, so older 100 megabit devices and modern gigabit devices coexist without setup. The 8-port count covers a desktop, a console, a TV, a streaming box, a printer and a couple of spares.\n\nCompared with the TP-Link TL-SG105, the GS308 has three more ports for a small cost increase, which is usually worth it because networks grow. Against the GS308E Easy Smart model it lacks VLANs and monitoring, but it is simpler and cheaper. It is a pure expander: it does not add internet speed, so the router link remains the shared limit.\n\nPlace it where it can breathe, connect the uplink to the router and plug in devices. Use Cat5e or better cables, and check the port LEDs if a link seems slow. A fanless design means silence. For a home that needs a few more wired connections, this is the safe pick.",
+   "bestFor": "Homes that need eight wired ports with no setup.",
+   "pros": [
+    "Eight gigabit ports cover a typical home",
+    "Plug and play with no software",
+    "Auto-negotiating ports handle mixed speeds",
+    "Desktop or wall mounting"
+   ],
+   "cons": [
+    "No VLAN or monitoring features",
+    "Shares one gigabit uplink to the router",
+    "No PoE for cameras"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B07PFYM5MZ?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31uEupbfioL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B00A128S24",
+   "badge": "Best Value",
+   "name": "TP-Link TL-SG105 5-Port Gigabit Unmanaged Ethernet Switch, Metal",
+   "specs": [
+    "5 gigabit ports",
+    "Fanless metal",
+    "Energy efficient",
+    "Plug and play"
+   ],
+   "specList": [
+    {
+     "label": "Ports",
+     "value": "5 x 10/100/1000 Mbps"
+    },
+    {
+     "label": "Housing",
+     "value": "Fanless metal"
+    },
+    {
+     "label": "Flow control",
+     "value": "IEEE 802.3X"
+    },
+    {
+     "label": "Power saving",
+     "value": "Energy-efficient design"
+    },
+    {
+     "label": "Tier",
+     "value": "Second lowest in this guide"
+    }
+   ],
+   "description": "The TP-Link TL-SG105 is the small, cheap desk switch: five gigabit ports in a fanless metal case with plug-and-play setup. The listing mentions an energy-efficient design that lowers power draw on idle ports and IEEE 802.3X flow control to keep transfers steady. One port goes to the router and four serve devices.\n\nCompared with the NETGEAR GS308, it has fewer ports at a lower cost, which suits a TV console or a desk with three or four wired devices. Against the LS1005G LiteWave from the same brand, the metal case here is sturdier and the housing dissipates heat better. For most people a five-port switch is enough until they add a camera or a second console.\n\nConnect the uplink to the router and plug in devices. If you see a link at 100 Mbps, replace the cable, since a damaged pair will drop the speed. Keep it dry and ventilated, and use the included power adapter rather than a spare one with a different rating, since an undersized adapter causes the random link drops that people blame on the switch. For a single desk or entertainment center, it is the best value pick.",
+   "bestFor": "Desks and TV consoles that need a few extra wired ports at low cost.",
+   "pros": [
+    "Five gigabit ports in a small metal case",
+    "Fanless so it runs silently",
+    "Energy-efficient port design",
+    "Low cost and plug and play"
+   ],
+   "cons": [
+    "Only four usable ports after the uplink",
+    "No PoE or management",
+    "Fills up quickly as devices are added"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B00A128S24?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31R8RAYz3mL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0CMXXPTVH",
+   "badge": "Best 2.5G Upgrade",
+   "name": "TP-Link TL-SG105S-M2 5-Port 2.5G Multi-Gigabit Unmanaged Switch",
+   "specs": [
+    "5 x 2.5G ports",
+    "Auto-negotiating",
+    "Unmanaged",
+    "Desktop or wall"
+   ],
+   "specList": [
+    {
+     "label": "Ports",
+     "value": "5 x 2.5 Gbps"
+    },
+    {
+     "label": "Fallback speeds",
+     "value": "10/100/1000 auto-negotiation"
+    },
+    {
+     "label": "Type",
+     "value": "Unmanaged plug and play"
+    },
+    {
+     "label": "Use",
+     "value": "LAN parties, home entertainment"
+    },
+    {
+     "label": "Tier",
+     "value": "Upper in this guide"
+    }
+   ],
+   "description": "The TL-SG105S-M2 is a five-port multi-gigabit switch with every port running at up to 2.5 Gbps, and the ports auto-negotiate down to gigabit and slower for older devices. It is aimed at home entertainment, LAN parties and fast file transfers between a desktop and a NAS, where a 2.5G link can move data faster than a gigabit connection.\n\nCompared with the TP-Link TL-SG105, it costs noticeably more for the same port count. The extra speed only helps if both ends of a link run at 2.5G, such as a motherboard with a 2.5G port and a NAS, or a router with a 2.5G LAN port. Against the NETGEAR GS308 it offers more speed but fewer ports, so it is a targeted upgrade, not a general one.\n\nUse Cat5e or better cabling, since Cat5e handles 2.5G at typical home lengths. Check which of your devices actually have 2.5G ports before paying for them. The uplink to the router is the shared limit, so a gigabit router still caps outside access. For a desktop and NAS pair, it is an effective upgrade.",
+   "bestFor": "People with 2.5G devices or a NAS who want faster local transfers.",
+   "pros": [
+    "All five ports run at up to 2.5 Gbps",
+    "Auto-negotiates down to gigabit",
+    "Plug and play with no software",
+    "Fanless desktop or wall design"
+   ],
+   "cons": [
+    "Costs more than gigabit switches",
+    "Only helps if both ends support 2.5G",
+    "Five ports only"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0CMXXPTVH?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41Zyyf6151L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0D9W9YNWD",
+   "badge": "Best Easy Smart",
+   "name": "NETGEAR GS308E 8-Port Gigabit Easy Smart Managed Switch",
+   "specs": [
+    "8 gigabit ports",
+    "Easy Smart web GUI",
+    "VLAN support",
+    "Desktop or wall"
+   ],
+   "specList": [
+    {
+     "label": "Ports",
+     "value": "8 x 1 Gbps"
+    },
+    {
+     "label": "Management",
+     "value": "Easy Smart web interface"
+    },
+    {
+     "label": "Features",
+     "value": "VLANs and segmentation"
+    },
+    {
+     "label": "Setup",
+     "value": "Works plug and play"
+    },
+    {
+     "label": "Tier",
+     "value": "Middle-upper in this guide"
+    }
+   ],
+   "description": "The GS308E is an Easy Smart switch: it works out of the box like an unmanaged unit, but a web GUI on Windows, Mac or Linux adds VLANs, port monitoring and segmentation. That is useful if you want to separate IoT devices or cameras from your computers, or to see which port is carrying traffic.\n\nCompared with the NETGEAR GS308, the same 8 ports with a management layer cost a little more. Against the TP-Link Easy Smart 8-port model it provides a similar feature set from a familiar brand. Most homes do not need any of it, so choose this only if you plan to build VLANs or want visibility into traffic.\n\nIf you do use the GUI, set a static IP for the switch, label VLANs clearly and keep a backup of the configuration. Leave the defaults for a normal home network. The tradeoff is added complexity for a benefit that many people never use. For a tinkerer who wants a safe step into managed networking, it is a good starting point.",
+   "bestFor": "Tinkerers who want VLANs and traffic visibility on a simple switch.",
+   "pros": [
+    "Easy Smart web GUI on any desktop OS",
+    "VLAN support for IoT and cameras",
+    "Works plug and play without setup",
+    "Eight gigabit ports"
+   ],
+   "cons": [
+    "Costs more than the plain unmanaged GS308",
+    "Management features go unused by most homes",
+    "A mistake in VLANs can lock you out"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0D9W9YNWD?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31MZRiYMZjL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0BTK552K2",
+   "badge": "Best PoE",
+   "name": "NETGEAR GS305P 5-Port PoE Gigabit Unmanaged Switch, 4 PoE+ Ports 63W",
+   "specs": [
+    "5 gigabit ports",
+    "4 PoE+ ports",
+    "63W total budget",
+    "Unmanaged"
+   ],
+   "specList": [
+    {
+     "label": "Ports",
+     "value": "1 x 1G plus 4 x 1G PoE+"
+    },
+    {
+     "label": "PoE budget",
+     "value": "63 W total"
+    },
+    {
+     "label": "Allocation",
+     "value": "Dynamic PoE allocation"
+    },
+    {
+     "label": "Type",
+     "value": "Unmanaged plug and play"
+    },
+    {
+     "label": "Use",
+     "value": "Cameras and access points"
+    }
+   ],
+   "description": "The GS305P is a five-port switch with four PoE+ ports sharing a 63 watt total power budget, plus dynamic allocation that assigns power to devices based on need. PoE lets a single Ethernet cable carry both data and power to an IP camera, a wireless access point or a VoIP phone, so you avoid a power adapter at each location.\n\nThe limit is the shared budget: four PoE+ ports can each supply up to 30 watts, but the total is 63 watts, so you cannot run four high-draw devices at full load. Compared with the plain NETGEAR GS305, it costs more, and it makes sense only if you have a PoE device. For a few IP cameras, which draw under 10 watts each, it is ample.\n\nCheck the power rating of each PoE device and add them up. Use quality cables, since poor cables waste power and limit speed. Mount it in a cool spot, since PoE adds heat. For a home with cameras or an access point on the ceiling, it solves a wiring problem with one box.",
+   "bestFor": "Homes with IP cameras or access points that need power over Ethernet.",
+   "pros": [
+    "Four PoE+ ports power cameras and access points",
+    "63 W total budget with dynamic allocation",
+    "Unmanaged plug and play",
+    "One cable carries data and power"
+   ],
+   "cons": [
+    "Shared 63 W budget limits high-draw devices",
+    "Only five ports",
+    "Costs more than a non-PoE switch"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0BTK552K2?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/318TUdcwkML._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B07GR9S6FN",
+   "badge": "Best Large Port Count",
+   "name": "TP-Link TL-SG116 16-Port Gigabit Unmanaged Switch, Metal Fanless",
+   "specs": [
+    "16 gigabit ports",
+    "Fanless metal",
+    "Shielded ports",
+    "Desktop or wall mount"
+   ],
+   "specList": [
+    {
+     "label": "Ports",
+     "value": "16 x 10/100/1000 Mbps"
+    },
+    {
+     "label": "Housing",
+     "value": "Fanless metal"
+    },
+    {
+     "label": "Port design",
+     "value": "Shielded ports"
+    },
+    {
+     "label": "Mounting",
+     "value": "Desktop or wall"
+    },
+    {
+     "label": "Tier",
+     "value": "Middle-upper in this guide"
+    }
+   ],
+   "description": "The TL-SG116 is the answer for a home that has outgrown eight ports: sixteen gigabit ports in a fanless metal case with shielded ports and desktop or wall mounting. It suits a wiring closet, a home office with many devices or a house wired room by room.\n\nCompared with the NETGEAR GS308, it doubles the ports without adding fan noise. Against a 24-port switch it is smaller and easier to place, which matters if you have no rack. Even with 16 ports, the single uplink to the router is a shared pipe, so heavy traffic from many devices at once shares one gigabit link.\n\nLabel each cable, use a short cable run from the router and keep the unit in a ventilated spot. A metal case acts as a heatsink, so avoid stacking it under warm gear. If you have many wired rooms, this is the right size.",
+   "bestFor": "Homes wired room by room that need many ports in one place.",
+   "pros": [
+    "Sixteen gigabit ports in one box",
+    "Fanless metal case runs silently",
+    "Shielded ports and wall mount option",
+    "Room for growth"
+   ],
+   "cons": [
+    "All ports share one uplink to the router",
+    "Larger than the 5 and 8 port switches",
+    "Overkill for a small home"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B07GR9S6FN?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31m3lB8222L._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Port count with room to grow",
+   "explanation": "Count the devices you will plug in and add two spare ports, because networks grow. Five ports serve a desk, eight cover a typical home and sixteen suit a room-by-room install. The TL-SG105 has five, the GS308 has eight and the TL-SG116 has sixteen. One port is taken by the uplink to the router. A common mistake is buying the exact count and then daisy-chaining a second switch later, which adds another box and another power adapter; paying a little more for the 8-port GS308 up front usually avoids that."
+  },
+  {
+   "criterion": "Speed tier: gigabit or 2.5G",
+   "explanation": "A gigabit switch is enough for most homes, because a typical internet plan and Wi-Fi are slower than 1 Gbps. A 2.5G switch like the TL-SG105S-M2 only helps when both ends of a link support 2.5G, such as a NAS and a desktop. Do not pay for 2.5G if your devices lack 2.5G ports. Also check the router side: if the router only has gigabit LAN ports, a 2.5G switch can still speed up transfers between two local 2.5G devices, but internet traffic leaving the house is capped by the gigabit uplink."
+  },
+  {
+   "criterion": "Unmanaged versus Easy Smart",
+   "explanation": "Unmanaged switches work out of the box with no setup, while Easy Smart switches add VLANs and monitoring through a web page. The GS308 is unmanaged and the GS308E is Easy Smart. For most homes unmanaged is enough, and management is a niche need for camera or IoT separation."
+  },
+  {
+   "criterion": "PoE and power budget",
+   "explanation": "PoE switches carry power to cameras and access points over the same cable, but the budget is shared across ports. The GS305P gives four PoE+ ports on a 63 W total. Add up your devices' draw before buying, because a low budget switches off ports under load. As a worked example, three cameras drawing about 7 watts each use roughly 21 watts of the GS305P's 63 watt budget, leaving room for an access point on the fourth PoE+ port."
+  },
+  {
+   "criterion": "Build, cooling and noise",
+   "explanation": "Metal fanless housings dissipate heat silently, while plastic cases run warmer. The TP-Link and NETGEAR picks here are fanless. Place the switch where air can move around it and avoid stacking it under warm gear."
+  },
+  {
+   "criterion": "Uplink and bottleneck",
+   "explanation": "All devices on the switch share the single link back to the router. A bigger switch does not make the connection faster. For heavy local transfers, connect busy devices to the same switch so traffic stays local. Use Cat5e or better cabling."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Gigabit vs 2.5G ports",
+   "meaning": "Gigabit runs at 1 Gbps and 2.5G runs at 2.5 Gbps. Both ends must match for the higher speed.",
+   "watchFor": "The TL-SG105S-M2 is 2.5G while the others are gigabit."
+  },
+  {
+   "spec": "Unmanaged vs Easy Smart",
+   "meaning": "Unmanaged is plug and play. Easy Smart adds a web interface for VLANs and monitoring.",
+   "watchFor": "The GS308E is Easy Smart and the GS308 is unmanaged."
+  },
+  {
+   "spec": "PoE+ and power budget",
+   "meaning": "PoE+ delivers up to 30 W per port, but the total budget is shared across ports.",
+   "watchFor": "The GS305P lists a 63 W total across four PoE+ ports."
+  },
+  {
+   "spec": "Auto-negotiation",
+   "meaning": "Ports detect the speed of the connected device and match it. This lets old and new devices coexist.",
+   "watchFor": "All six switches list auto-negotiating ports."
+  },
+  {
+   "spec": "Flow control (802.3X)",
+   "meaning": "A method that pauses a sender to avoid packet loss during congestion. It helps steady transfers.",
+   "watchFor": "The TP-Link TL-SG105 and TL-SG116 list IEEE 802.3X."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Ports and speed",
+   "description": "We compared port counts and speed tiers against typical home needs. The GS308 and TL-SG116 lead for ports, and the TL-SG105S-M2 leads for speed. We separated gigabit from 2.5G."
+  },
+  {
+   "title": "Management features",
+   "description": "We compared unmanaged and Easy Smart switches and the value of VLANs. The GS308E adds management at a small cost. Unmanaged switches were credited for simplicity."
+  },
+  {
+   "title": "PoE and power",
+   "description": "We read PoE budgets and per-port limits. The GS305P's 63 W budget was judged against typical camera loads. Non-PoE switches were judged on need."
+  },
+  {
+   "title": "Build and cooling",
+   "description": "We looked at metal housings, fanless design and mounting options. The TP-Link metal cases and NETGEAR housings earned credit. Silence mattered for desk use."
+  },
+  {
+   "title": "Ownership and reliability",
+   "description": "We weighed owner feedback patterns on port failures, noise and power adapters. Fanless metal builds fared well. Shared uplink limits were noted."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Number of Wired Devices",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Desk with 3 to 4 devices",
+      "TP-Link TL-SG105",
+      "Five ports, low cost"
+     ],
+     [
+      "Typical home",
+      "NETGEAR GS308",
+      "Eight ports"
+     ],
+     [
+      "Room-by-room wiring",
+      "TP-Link TL-SG116",
+      "Sixteen ports"
+     ],
+     [
+      "Cameras and access points",
+      "NETGEAR GS305P",
+      "PoE+ ports"
+     ],
+     [
+      "NAS and fast desktop",
+      "TP-Link TL-SG105S-M2",
+      "2.5G ports"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest tier",
+      "TP-Link TL-SG105",
+      "Cheapest five-port"
+     ],
+     [
+      "Low tier",
+      "NETGEAR GS308",
+      "Eight ports at a low tier"
+     ],
+     [
+      "Middle tier",
+      "TP-Link TL-SG116",
+      "Sixteen ports"
+     ],
+     [
+      "Middle-upper",
+      "NETGEAR GS308E",
+      "Management layer"
+     ],
+     [
+      "Top tier",
+      "TL-SG105S-M2 or GS305P",
+      "2.5G or PoE cost more"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Gigabit vs 2.5G",
+   "cards": [
+    {
+     "label": "Gigabit (GS308, TL-SG105, TL-SG116)",
+     "text": "Fast enough for most home networks and internet plans. Lower cost and more ports."
+    },
+    {
+     "label": "2.5G (TL-SG105S-M2)",
+     "text": "Faster local transfers with 2.5G devices. Costs more and only helps when both ends support it."
+    }
+   ],
+   "note": "Choose gigabit unless you have a NAS or PC with a 2.5G port."
+  },
+  {
+   "subheading": "By Feature Need",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Plug and play",
+      "NETGEAR GS308",
+      "Unmanaged"
+     ],
+     [
+      "VLANs for IoT",
+      "NETGEAR GS308E",
+      "Easy Smart"
+     ],
+     [
+      "PoE cameras",
+      "NETGEAR GS305P",
+      "63 W budget"
+     ],
+     [
+      "Silent closet",
+      "TP-Link TL-SG116",
+      "Fanless metal"
+     ],
+     [
+      "Fast NAS link",
+      "TP-Link TL-SG105S-M2",
+      "2.5G"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Home Cameras Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "PoE+ ports, a power budget that covers all cameras and unmanaged simplicity or VLANs if you want to separate them."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The NETGEAR GS305P for four PoE cameras, or the GS308E if you want a VLAN for them."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You have 2.5G devices, need PoE or want management features."
+    },
+    {
+     "label": "Save if",
+     "text": "You just need more wired ports, because the TL-SG105 or the GS308 already does that."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Check port LEDs",
+   "interval": "Monthly",
+   "why": "A port that links at 100 Mbps often has a bad cable. Replace the cable to restore gigabit."
+  },
+  {
+   "task": "Dust the vents and case",
+   "interval": "Every 6 months",
+   "why": "Dust traps heat even on fanless metal cases. Wipe the housing."
+  },
+  {
+   "task": "Check the power adapter",
+   "interval": "Every 6 months",
+   "why": "A failing adapter causes random drops. Replace it with the same rating."
+  },
+  {
+   "task": "Label cables",
+   "interval": "At install",
+   "why": "Labels make troubleshooting a closet fast."
+  },
+  {
+   "task": "Back up the config",
+   "interval": "After changes",
+   "why": "Easy Smart settings can be lost on reset. Save the configuration."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Does an Ethernet switch slow my network?",
+   "a": "No. A gigabit switch passes traffic at line rate. Devices share the uplink to the router, so heavy use on several devices can saturate that link."
+  },
+  {
+   "q": "Do I need a managed switch?",
+   "a": "Rarely. Unmanaged is enough for most homes, and Easy Smart is useful for VLANs or cameras."
+  },
+  {
+   "q": "Do I need a 2.5G switch?",
+   "a": "Only if both ends of a link support 2.5G, like a NAS and a desktop. Otherwise gigabit is enough."
+  },
+  {
+   "q": "How many ports should I buy?",
+   "a": "Count your devices, add two spare ports and remember one port is the uplink. Eight ports suit most homes."
+  },
+  {
+   "q": "What is PoE?",
+   "a": "Power over Ethernet sends power and data on one cable. The GS305P has four PoE+ ports with a 63 W total budget."
+  },
+  {
+   "q": "Which cable should I use?",
+   "a": "Cat5e supports gigabit and 2.5G at home lengths, and Cat6 is a safe choice. A bad cable drops the link speed."
+  }
+ ],
+ "relatedGuides": [
+  {
+   "title": "Best KVM Switches",
+   "href": "/guide/best-kvm-switches"
+  },
+  {
+   "title": "Best USB-C Hubs",
+   "href": "/guide/best-usb-c-hubs"
+  }
+ ]
+}

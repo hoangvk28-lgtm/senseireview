@@ -1,0 +1,609 @@
+{
+ "guideSlug": "best-hdmi-switches",
+ "categorySlug": "tech-electronics",
+ "mainKeyword": "hdmi switch",
+ "guideTitle": "Best HDMI Switches (2026)",
+ "metaTitle": "Best HDMI Switches for 4K and 8K",
+ "metaDescription": "Six HDMI switches compared on 4K 60Hz versus HDMI 2.1 bandwidth, input count, remote, auto-switching and bidirectional use for consoles, TVs and monitors.",
+ "lastUpdated": "2026-11-26",
+ "readTime": "13 min",
+ "heroImage": "https://m.media-amazon.com/images/I/31u-qH9BiQL._SL500_.jpg",
+ "expertTake": "The UGREEN 5-in-1 4K 60Hz switch is the best overall pick because it combines five inputs, a remote, CEC and HDCP 2.2 in a simple unit that suits a TV and several consoles. The Anker 2-in-1 is the value pick for a small desk or a TV with only one free port. Skip the category if you game at 4K 120Hz and your TV has enough HDMI 2.1 ports, because a switch adds a bandwidth risk you can avoid.",
+ "introParagraphs": [
+  "An HDMI switch solves a simple problem: a TV or monitor has too few HDMI inputs for the consoles, streamers and computers you own. A good switch makes swapping devices painless, while a poor one flickers, drops HDR or refuses to pass a protected stream.",
+  "The key spec is bandwidth, because a switch cannot carry more than its chip supports. Many budget boxes advertise 8K or 4K at 120Hz, so the six switches below are compared on what they list, with those figures treated as claims, along with ports, remotes and switching behavior."
+ ],
+ "products": [
+  {
+   "id": "B09Y14JSFH",
+   "badge": "Best Overall",
+   "name": "UGREEN HDMI Switch 5 in 1 Out, 4K 60Hz, Remote, HDR, VRR, CEC",
+   "specs": [
+    "5 inputs, 1 output",
+    "4K at 60Hz",
+    "Remote control",
+    "HDCP 2.2 and CEC"
+   ],
+   "specList": [
+    {
+     "label": "Ports",
+     "value": "5 in, 1 out"
+    },
+    {
+     "label": "Resolution",
+     "value": "4K at 60Hz"
+    },
+    {
+     "label": "Features",
+     "value": "HDR, VRR, 3D, CEC"
+    },
+    {
+     "label": "Copy protection",
+     "value": "HDCP 2.2"
+    },
+    {
+     "label": "Control",
+     "value": "IR remote and button"
+    }
+   ],
+   "description": "The UGREEN 5-in-1 is the most practical switch for a typical living room: five inputs, one output and a remote, with a list of features that includes HDR, VRR, 3D, HDCP 2.2 and CEC. The 4K at 60Hz limit matches HDMI 2.0, which is enough for streaming boxes, a Blu-ray player and most consoles at 4K.\n\nCompared with the Acer 5-in-1, the UGREEN lists VRR and CEC, which helps console gamers and people who want the TV remote to control sources. Against the Anker 2-in-1 it offers three more inputs for a similar brand feel. It is not an HDMI 2.1 switch, so it will not carry 4K at 120Hz, a limit that matters if you own a recent console and a 120Hz TV.\n\nPlace the IR receiver where the remote can see it, and use a decent certified cable on each input. If the picture flickers with HDR, try the shortest cable or power the box if it supports a power input. The button on the unit is the backup when the remote is lost. For a living room with several 4K sources, it is the sensible default.",
+   "bestFor": "Living rooms with several 4K sources and one free TV input.",
+   "pros": [
+    "Five inputs for consoles and streamers",
+    "HDR, VRR and CEC listed",
+    "HDCP 2.2 for protected 4K streams",
+    "Remote and button for control"
+   ],
+   "cons": [
+    "Limited to 4K at 60Hz bandwidth",
+    "IR remote needs line of sight",
+    "Does not carry 4K 120Hz for new consoles"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B09Y14JSFH?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31u-qH9BiQL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0CJT6JBM8",
+   "badge": "Best Value",
+   "name": "Anker HDMI Switch 2 in 1 Out, 4K 60Hz, HDR, Dolby, One Button",
+   "specs": [
+    "2 inputs, 1 output",
+    "4K at 60Hz",
+    "HDR and Dolby",
+    "One-button switch"
+   ],
+   "specList": [
+    {
+     "label": "Ports",
+     "value": "2 in, 1 out"
+    },
+    {
+     "label": "Resolution",
+     "value": "4K at 60Hz"
+    },
+    {
+     "label": "Features",
+     "value": "HDR, 3D, Dolby"
+    },
+    {
+     "label": "Control",
+     "value": "Single button"
+    },
+    {
+     "label": "Tier",
+     "value": "Second lowest in this guide"
+    }
+   ],
+   "description": "The Anker 2-in-1 is the smallest, simplest switch here: two inputs, one output and a single button that toggles between sources. The listing supports 4K at 60Hz with HDR, 3D and Dolby, so it suits a TV or monitor where you only need to swap two devices, such as a console and a streaming stick.\n\nCompared with the UGREEN 5-in-1, the Anker has fewer ports but a smaller footprint and a lower cost, and it needs no remote because the button is on top. Against the GANA bidirectional box it is a standard one-way switch, so you cannot reverse the direction to feed two screens. It is a fine choice if your setup is two devices and you value simplicity.\n\nPlug it into the free HDMI input, label the two cables and press the button to switch. If a source drops signal, reseat the cable or try the other port. There is no power connector listed, so it relies on the bus power from the source. For a bedroom TV or a small desk, it solves the problem with the least fuss.",
+   "bestFor": "Small setups that need to switch between two sources.",
+   "pros": [
+    "Compact 2-in-1 design",
+    "4K at 60Hz with HDR and Dolby",
+    "One button, no remote to lose",
+    "Low cost for a name brand"
+   ],
+   "cons": [
+    "Only two inputs",
+    "No remote or auto-switch listed",
+    "No 4K 120Hz or HDMI 2.1 support"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0CJT6JBM8?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/214-kgjD72L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0GL7Q8FLX",
+   "badge": "Best HDMI 2.1 Claim",
+   "name": "UGREEN HDMI 2.1 Switch 3 in 1 Out, 8K 60Hz, 4K 240Hz Claim, VRR",
+   "specs": [
+    "3 inputs",
+    "HDMI 2.1 claim",
+    "8K at 60Hz claim",
+    "VRR and G-Sync"
+   ],
+   "specList": [
+    {
+     "label": "Ports",
+     "value": "3 in, 1 out"
+    },
+    {
+     "label": "Resolution",
+     "value": "8K at 60Hz claimed"
+    },
+    {
+     "label": "Refresh",
+     "value": "4K at 240Hz claimed"
+    },
+    {
+     "label": "Gaming",
+     "value": "VRR, G-Sync, FreeSync"
+    },
+    {
+     "label": "Control",
+     "value": "Remote and button"
+    }
+   ],
+   "description": "This UGREEN model targets gamers with an HDMI 2.1 label, 8K at 60Hz and 4K at 240Hz claims, plus VRR, G-Sync and FreeSync listed. It has three inputs, one output and a remote, so it can handle a PS5, an Xbox and a PC without cable swapping. Those figures are the listing's claims, and a switch rarely achieves 4K 240Hz without a matching display and cable.\n\nCompared with the OREI 2-port 8K, the UGREEN offers a third input and a remote, while the OREI offers auto and manual switching with only two ports. Against the UGREEN 5-in-1 4K 60Hz it costs more and gives you the headroom for 4K at 120Hz consoles, assuming the bandwidth claim holds. Test it with your own console and cable before relying on it for competitive play.\n\nUse a certified Ultra High Speed cable on every input and the output, since one weak cable caps the whole chain. Turn on the console's 120Hz mode and check the TV input settings. If you see sparkles, replace the cable first. For gamers who need three HDMI 2.1 devices on one port, this is the box to try.",
+   "bestFor": "Console and PC gamers who want high refresh rates through a switch.",
+   "pros": [
+    "HDMI 2.1 label with 4K 120Hz class claims",
+    "VRR, G-Sync and FreeSync listed",
+    "Three inputs with remote and button",
+    "Room for next-gen consoles"
+   ],
+   "cons": [
+    "8K and 240Hz figures are listing claims",
+    "Needs Ultra High Speed cables throughout",
+    "Costs more than 4K 60Hz switches"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0GL7Q8FLX?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31ux+Mjm1cL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B09ZGXQ3DM",
+   "badge": "Best Two-Port 2.1",
+   "name": "OREI 8K 2-Port HDMI 2.1 Switch, Auto and Manual Switching",
+   "specs": [
+    "2 inputs",
+    "8K at 60Hz",
+    "4K at 120Hz",
+    "Auto and manual"
+   ],
+   "specList": [
+    {
+     "label": "Ports",
+     "value": "2 in, 1 out"
+    },
+    {
+     "label": "Resolution",
+     "value": "8K at 60Hz, 4K at 120Hz"
+    },
+    {
+     "label": "Switching",
+     "value": "Auto and manual"
+    },
+    {
+     "label": "Gaming",
+     "value": "Gaming-ready, premium audio"
+    },
+    {
+     "label": "Tier",
+     "value": "Middle in this guide"
+    }
+   ],
+   "description": "The OREI is a two-port HDMI 2.1 switch that lists 8K at 60Hz and 4K at 120Hz, with both automatic and manual switching. Automatic mode moves to the newest active source, and manual mode lets you pick with a button. The listing also mentions gaming-ready features and support for premium audio formats.\n\nCompared with the UGREEN 2.1, the OREI has one fewer input but a stronger brand reputation among AV buyers and an auto-switch mode that works with a set-top box. Against the Anker 2-in-1 it carries more bandwidth for next-gen consoles, but it costs more. Auto mode can flip unexpectedly when a device wakes from standby, so use manual if that annoys you.\n\nCheck that your TV input is HDMI 2.1 and enable the right mode in the console menu. Use certified cables and verify the refresh rate on screen. For a TV with one free HDMI 2.1 port and two sources, this is the cleanest solution.",
+   "bestFor": "A TV with one free HDMI 2.1 port and two high refresh sources.",
+   "pros": [
+    "HDMI 2.1 with 4K 120Hz class support",
+    "Auto and manual switching modes",
+    "Compact two-port design",
+    "Supports premium audio formats"
+   ],
+   "cons": [
+    "Only two inputs",
+    "Auto mode may switch unexpectedly",
+    "Costs more than 4K 60Hz switches"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B09ZGXQ3DM?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41SwskrC+rL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0H8SX962D",
+   "badge": "Best Revised 5-Port",
+   "name": "Acer 5 in 1 Out HDMI Switch, New PCB Version, 4K 60Hz HDMI 2.0",
+   "specs": [
+    "5 inputs",
+    "HDMI 2.0",
+    "18 Gbps bandwidth",
+    "Remote included"
+   ],
+   "specList": [
+    {
+     "label": "Ports",
+     "value": "5 in, 1 out"
+    },
+    {
+     "label": "Standard",
+     "value": "HDMI 2.0, 4K at 60Hz"
+    },
+    {
+     "label": "Bandwidth",
+     "value": "18 Gbps"
+    },
+    {
+     "label": "Revision",
+     "value": "New PCB with wider power supply"
+    },
+    {
+     "label": "Control",
+     "value": "Remote selector"
+    }
+   ],
+   "description": "The Acer 5-in-1 uses a revised circuit board that the listing says has a wider power supply range, aimed at fixing flaky signal complaints. It offers five inputs and one output at HDMI 2.0, with full 18 Gbps bandwidth for 4K at 60Hz, and it ships with a remote.\n\nCompared with the UGREEN 5-in-1, the Acer is similar in layout but does not list CEC or VRR in the same way, so it is a plainer switch. Against the GANA bidirectional box it has more inputs but only one direction. The new PCB is the selling point, since earlier switches in this class sometimes dropped HDR signal.\n\nPlug it into a stable power source if it has a power input, and use short, certified cables. Label the ports, since five similar cables get confusing. If you see occasional blackouts, reseat the HDMI plugs and check the TV's HDMI mode. For a home theater with a Blu-ray player, a streaming stick and consoles, it is a practical option.",
+   "bestFor": "Home theaters with several 4K 60Hz sources and a modest budget.",
+   "pros": [
+    "Five inputs for many devices",
+    "18 Gbps full HDMI 2.0 bandwidth",
+    "Revised PCB aims at steadier power",
+    "Remote included"
+   ],
+   "cons": [
+    "No HDMI 2.1 for 4K 120Hz",
+    "Less feature detail than UGREEN",
+    "Plain remote with limited range"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0H8SX962D?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/418k4NnYtuL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B07K2NZX8L",
+   "badge": "Best Bidirectional",
+   "name": "GANA HDMI Switch 2 in 1 Out 4K 60Hz, Aluminum, Bidirectional",
+   "specs": [
+    "3 HDMI ports",
+    "Bidirectional",
+    "4K at 60Hz",
+    "Aluminum case"
+   ],
+   "specList": [
+    {
+     "label": "Ports",
+     "value": "3 HDMI ports"
+    },
+    {
+     "label": "Direction",
+     "value": "2 in 1 out or 1 in 2 out"
+    },
+    {
+     "label": "Resolution",
+     "value": "4K at 60Hz"
+    },
+    {
+     "label": "Case",
+     "value": "Aluminum"
+    },
+    {
+     "label": "Tier",
+     "value": "Lowest in this guide"
+    }
+   ],
+   "description": "The GANA switch is the cheapest box here and the most flexible, because it is bidirectional: with three HDMI ports you can connect two sources to one display, or one source to two displays, one at a time. A 4K at 60Hz listing with HDR and Dolby support and an aluminum case that sheds heat make it a handy monitor-sharing tool.\n\nCompared with the Anker 2-in-1, the GANA adds the reversed direction but loses the premium brand and the clean button layout. Against the Acer 5-in-1 it has far fewer ports, so it is for desks, not for theaters. Bidirectional operation is not a splitter, so it cannot show the same image on two screens at once.\n\nSet it the right way around, since the direction depends on the cable layout. Use short cables and keep the aluminum body ventilated. For a laptop and a console sharing a monitor, or one PC feeding two screens in turn, this is the low-cost answer.",
+   "bestFor": "Desk setups where two sources share a monitor, or one source feeds two screens in turn.",
+   "pros": [
+    "Bidirectional 2-in-1 or 1-in-2 use",
+    "Aluminum case runs cool",
+    "4K at 60Hz with HDR support",
+    "Lowest cost in the guide"
+   ],
+   "cons": [
+    "Not a true splitter, one output at a time",
+    "Three ports only",
+    "No remote or CEC listed"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B07K2NZX8L?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/4120my4JXOL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Resolution and bandwidth",
+   "explanation": "HDMI 2.0 carries 18 Gbps, enough for 4K at 60Hz, while 4K at 120Hz and 8K at 60Hz need HDMI 2.1 at 48 Gbps. Many budget boxes label themselves 2.1 or 8K, but the chip may not sustain the bandwidth. The UGREEN 2.1 and the OREI list 8K at 60Hz, and the Acer and UGREEN 5-in-1 stay at 4K 60Hz. Treat high figures as claims."
+  },
+  {
+   "criterion": "Number of inputs",
+   "explanation": "Pick the number of ports you will use plus one spare. A 2-in-1 suits a simple pair, while 3 to 5 inputs suit a console, a streamer and a Blu-ray player. The UGREEN and Acer offer five inputs, the UGREEN 2.1 offers three and the Anker, OREI and GANA offer two. Extra inputs add cost, so buy only what you need."
+  },
+  {
+   "criterion": "Auto versus manual switching",
+   "explanation": "Auto-switching selects the newest active source, which is convenient but can flip when a device wakes from standby. Manual switching via a button or remote is predictable. The OREI offers both and the Anker uses a button. Choose manual if you want control."
+  },
+  {
+   "criterion": "HDCP and CEC",
+   "explanation": "HDCP 2.2 is required to play protected 4K streams, and without it you may see a black screen. CEC lets the TV remote control your sources. The UGREEN 5-in-1 lists both. Check that your devices and TV support them."
+  },
+  {
+   "criterion": "Remote and controls",
+   "explanation": "Most switches include an IR remote, but it needs line of sight and a receiver position that sees you. A button on the unit is a backup. A universal remote often replaces the weak bundled remote. Consider where the box will sit."
+  },
+  {
+   "criterion": "Bidirectional use and power",
+   "explanation": "A bidirectional switch, like the GANA, can feed two displays from one source but only one at a time. Powered boxes handle HDR better than bus-powered ones, so check for a power input. A weak power supply is a common cause of dropouts."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "HDMI 2.0 versus 2.1",
+   "meaning": "2.0 carries 18 Gbps for 4K at 60Hz, and 2.1 carries 48 Gbps for 4K at 120Hz or 8K at 60Hz.",
+   "watchFor": "The UGREEN 2.1 and the OREI list 2.1, while the Anker, Acer and GANA stay at 4K 60Hz."
+  },
+  {
+   "spec": "Bandwidth in Gbps",
+   "meaning": "The data rate a port can pass. A switch cannot exceed the weakest cable or chip.",
+   "watchFor": "The Acer lists 18 Gbps and the 2.1 models list higher figures that need verification."
+  },
+  {
+   "spec": "HDCP 2.2",
+   "meaning": "Copy protection that streaming boxes require for 4K. Without it the picture may go black.",
+   "watchFor": "The UGREEN 5-in-1 lists HDCP 2.2 and CEC."
+  },
+  {
+   "spec": "VRR and G-Sync",
+   "meaning": "Variable refresh rate formats that reduce tearing in games. They need a compatible display and console.",
+   "watchFor": "The UGREEN 2.1 lists VRR, G-Sync and FreeSync."
+  },
+  {
+   "spec": "Bidirectional",
+   "meaning": "A switch that works as 2-in-1-out or 1-in-2-out, but not both at once. It is not a splitter.",
+   "watchFor": "The GANA is bidirectional, while the others are one-way."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Bandwidth and standard",
+   "description": "We compared HDMI 2.0 and 2.1 labels and listed resolution figures. The 8K and 4K 120Hz claims were treated as claims. The Acer 18 Gbps listing is the clearest."
+  },
+  {
+   "title": "Inputs and control",
+   "description": "We looked at the port count and the remote, button or auto-switch options. The UGREEN 5-in-1 and the OREI lead for control. Two-port models were judged on simplicity."
+  },
+  {
+   "title": "Feature support",
+   "description": "We checked HDCP 2.2, CEC, VRR and HDR listings. The UGREEN models carry the longest feature lists. Plainer boxes lost points."
+  },
+  {
+   "title": "Build and power",
+   "description": "We looked at case material and power input. The GANA aluminum case and the Acer revised PCB were credited. Bus-powered boxes were noted for HDR risk."
+  },
+  {
+   "title": "Ownership and reliability",
+   "description": "We weighed owner feedback patterns on flicker, remote range and HDCP errors. Short certified cables and a powered box reduce issues. Claims at high bandwidth were marked down."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Resolution Need",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "4K 60Hz streaming",
+      "UGREEN 5-in-1",
+      "HDR, CEC, HDCP 2.2"
+     ],
+     [
+      "Two 4K sources",
+      "Anker 2-in-1",
+      "Simple button"
+     ],
+     [
+      "4K 120Hz console",
+      "OREI 2-port",
+      "HDMI 2.1 listing"
+     ],
+     [
+      "Three high refresh devices",
+      "UGREEN 2.1 3-in-1",
+      "VRR and G-Sync"
+     ],
+     [
+      "Home theater",
+      "Acer 5-in-1",
+      "18 Gbps, remote"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest tier",
+      "GANA bidirectional",
+      "Cheapest box"
+     ],
+     [
+      "Low tier",
+      "Anker 2-in-1",
+      "Name brand, small"
+     ],
+     [
+      "Middle tier",
+      "Acer 5-in-1",
+      "Five ports at a middle tier"
+     ],
+     [
+      "Middle-upper",
+      "UGREEN 5-in-1",
+      "Most features at 4K"
+     ],
+     [
+      "Top tier",
+      "UGREEN 2.1 or OREI",
+      "HDMI 2.1 listing costs more"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "HDMI 2.0 vs HDMI 2.1",
+   "cards": [
+    {
+     "label": "HDMI 2.0 (UGREEN 5-in-1, Acer, Anker, GANA)",
+     "text": "Carries 18 Gbps, enough for 4K 60Hz with HDR. Cheaper and plenty for streamers and most consoles at 4K."
+    },
+    {
+     "label": "HDMI 2.1 (UGREEN 2.1, OREI)",
+     "text": "Lists 48 Gbps class bandwidth for 4K 120Hz and 8K. Needs matching cables and displays, and claims need verification."
+    }
+   ],
+   "note": "Choose 2.0 unless you game at 4K 120Hz; choose 2.1 only if your TV and console support it."
+  },
+  {
+   "subheading": "By Number of Devices",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Two devices",
+      "Anker or OREI",
+      "Two inputs"
+     ],
+     [
+      "Three devices",
+      "UGREEN 2.1 3-in-1",
+      "Three inputs"
+     ],
+     [
+      "Four to five devices",
+      "UGREEN 5-in-1 or Acer",
+      "Five inputs"
+     ],
+     [
+      "One source to two screens",
+      "GANA",
+      "Bidirectional"
+     ],
+     [
+      "Desk monitor sharing",
+      "GANA",
+      "Aluminum bidirectional box"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Console Gaming Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "VRR support, enough bandwidth for your console's mode and an auto or manual switch that does not flip during play."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The UGREEN 2.1 3-in-1 for three consoles, and the OREI for two high refresh sources."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You own a 120Hz console and TV, or need several HDMI 2.1 sources on one port."
+    },
+    {
+     "label": "Save if",
+     "text": "You stream 4K at 60Hz, because the Anker or the UGREEN 5-in-1 already handles that."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Reseat HDMI cables",
+   "interval": "When signal drops",
+   "why": "Loose plugs cause flicker. Pushing each plug in fully fixes many problems."
+  },
+  {
+   "task": "Update the cable set",
+   "interval": "When changing devices",
+   "why": "A weak cable caps the entire chain. Use certified cables for 4K 120Hz."
+  },
+  {
+   "task": "Clean dust from ports",
+   "interval": "Every 6 months",
+   "why": "Dust affects contact. Blow out the ports with air."
+  },
+  {
+   "task": "Check the remote battery",
+   "interval": "Every 6 months",
+   "why": "A weak remote battery shortens range. Replace the cell."
+  },
+  {
+   "task": "Label the ports",
+   "interval": "At setup",
+   "why": "Five similar cables get confusing. Labels save time when troubleshooting."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Do HDMI switches reduce picture quality?",
+   "a": "A good switch passes the signal without loss, but a weak one can drop HDR or limit resolution. Match its bandwidth to your sources."
+  },
+  {
+   "q": "Do I need an HDMI 2.1 switch?",
+   "a": "Only if you play at 4K 120Hz or use 8K. For 4K at 60Hz, an HDMI 2.0 switch is enough."
+  },
+  {
+   "q": "Are 8K claims on cheap switches reliable?",
+   "a": "Treat them with caution. The chip may not sustain 48 Gbps, so test with your own devices and cables."
+  },
+  {
+   "q": "Why does my screen go black?",
+   "a": "HDCP mismatch, a weak cable or low power are the usual causes. Try a shorter cable and reseat the plugs."
+  },
+  {
+   "q": "Can a switch carry eARC audio?",
+   "a": "Not fully. eARC runs from the TV, so a switch before the TV cannot carry it. Use the TV's eARC port for audio."
+  },
+  {
+   "q": "What is the difference between a switch and a splitter?",
+   "a": "A switch picks one of several sources for one display, while a splitter copies one source to multiple displays."
+  }
+ ],
+ "relatedGuides": [
+  {
+   "title": "Best KVM Switches",
+   "href": "/guide/best-kvm-switches"
+  },
+  {
+   "title": "Monitor Refresh Rate Explained",
+   "href": "/guide/monitor-refresh-rate-explained"
+  }
+ ]
+}

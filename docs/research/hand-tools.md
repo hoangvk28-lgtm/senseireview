@@ -1,0 +1,16 @@
+- Bevel-edge bench chisels are the beginner choice; start with 1/4, 1/2, 3/4 and 1 inch widths.
+- Budget sets use chrome-vanadium alloy; premium use O1, A2 or PM-V11, which hold or take an edge differently.
+- Typical primary bevel is about 25 degrees with a secondary near 30 degrees for tougher steel.
+- Strike caps, split-proof handles and full-length tang steel matter if you use a mallet.
+- Hammering heavy and removing deep waste rolls or chips the edge; take shallow passes.
+- Pare across the grain in multiple light passes for clean surfaces.
+- Honing guide holds the angle; a burr or wire edge shows the bevel is fully sharpened.
+- Factory edges on budget chisels need flattening of the back and a proper hone before first use.
+- Blade backs that are not flat are the usual budget defect; flatten on a coarse stone.
+- Very cheap sets can have soft steel that dents or bends; hardness near HRC 58 to 62 is the useful range.
+- Handles: plastic and TPR resist moisture, beech wood feels better but can split under mallet strikes without a cap.
+- Digital calipers: resolution 0.01 mm or 0.0005 in, accuracy about plus or minus 0.02 mm, repeatability is a better sign than decimals.
+- Calipers eat batteries if left on; LR44 or SR44 button cells are typical; auto-off helps.
+- Plastic calipers drift and flex; stainless steel hardened jaws are preferred.
+- Zero the caliper closed before each use and keep jaws clean of dust.
+- Inch/mm conversion button and a depth rod with a step are the features worth having.

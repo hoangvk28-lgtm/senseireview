@@ -14,3 +14,22 @@
 - Smart apps add presets but rarely change results; a dial or touch presets are enough.
 - Rotisserie and dehydrator functions are real on oven styles only.
 - Year three: coating flaking, handle looseness and fan noise are common ownership complaints.
+- Electric wine openers: screw (worm) length and cork grip decide jam rate; synthetic corks and very short or crumbly corks are hardest.
+- Bottles per charge on listings are ideal-condition claims; real counts fall with synthetic corks and age of the battery.
+- Do not use on pressurized bottles such as sparkling wine unless the manual allows it.
+- Foil cutters on the base are convenient but dull; a separate cutter is a cheap fix.
+- Charging base versus USB: a base stays visible and charged, USB suits travel.
+- Electric lunch boxes: warm food up to eating temperature in about 20 to 40 minutes; they reheat, they do not cook raw food.
+- 80 W and 100 W plug-in models reheat at similar speeds; capacity and food density change the time more than the wattage.
+- Removable 304 stainless steel containers clean easily; the heating base must never be submerged.
+- 12V and 24V cords suit trucks and cars; check the cord lengths for desk use.
+- Cordless units with large mAh claims have a small usable battery in practice; frame figures as claims and expect one or two heats.
+- Vented lids prevent pressure build; tight leak-proof claims apply to cold carrying, not heating.
+- Stir halfway and add a splash of liquid for rice and pasta so edges do not dry out.
+- Meat grinders: size numbers (#5, #8, #12) refer to the head and plate diameter; larger heads move meat faster.
+- Rated watts or horsepower are meaningful; max locked watts figures such as 2500 or 3200 W are peak marketing claims.
+- Metal gears last longer than plastic; a reverse function clears jams.
+- Chill meat and parts near freezing so fat does not smear; cut into 1 inch cubes.
+- Dull blades and plates smear instead of cutting; sharpen or replace yearly with regular use.
+- Keep plates and blade oiled lightly after washing to prevent rust; do not dishwash aluminum parts.
+- Sausage stuffing needs a slower speed and a proper stuffing tube, not the grinding plate.

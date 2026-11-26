@@ -13,3 +13,11 @@
 - A single router can serve a smaller home; 3-packs suit large homes.
 - Each node draws on the order of 10 to 20 W.
 - Wired backhaul lets you upgrade standards later.
+- Ethernet switches: an unmanaged gigabit switch needs no setup; plug uplink and devices in, ports auto-negotiate speed.
+- A switch does not add internet speed; it shares the uplink to the router among all connected devices.
+- 2.5G switches only help when both ends support 2.5G and the cable is Cat5e or better.
+- PoE switches share a total power budget in watts across ports; four PoE+ ports at up to 30 W each cannot all run at full load on a 63 W budget.
+- Easy Smart or managed switches add VLANs, port mirroring and QoS; useful for IP cameras and IoT separation, unnecessary for most homes.
+- Metal housings dissipate heat and are fanless and silent; avoid plastic units in warm cabinets.
+- Count ports with spare capacity: add two spare ports beyond current devices.
+- Use short Cat6 cables for gigabit and keep switches ventilated; avoid chaining more than a few switches deep.

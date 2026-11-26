@@ -23,3 +23,24 @@
 - Gauge around 1.5 to 2 mm balances heat response and warp resistance; thin pans can warp on induction.
 - Nitrided or blued finishes resist rust but still need oiling and are not nonstick like PTFE.
 - Rust is surface and fixable by scrubbing and reseasoning.
+- Silicone baking mats: fiberglass-reinforced mats hold their shape; plain silicone ones can curl and stretch.
+- Half sheet pan interior is about 16.5 by 11.6 inches; many mats are cut to fit exactly.
+- Heat limits are listed around 450 to 480 F; mats insulate slightly and brown bottoms less than bare metal.
+- Never cut on a mat or use under a broiler; knives and direct flame damage them.
+- Greasy residue builds up as a sticky film; hot soapy water with baking soda removes it, dishwashers can leave film.
+- Large pastry mats with measurement rings grip the counter, they are not oven rated unless stated.
+- Do not use for high-heat searing; store flat or rolled, never folded sharply.
+- Serrated knives bevel on one side only; sharpen the beveled face of each scallop and remove the burr from the flat side lightly.
+- A tapered rod must match the gullet width; a rod that is too thick rides the points and does nothing.
+- Coarse carbide strips fine teeth; use it only for repair, diamond or ceramic for upkeep.
+- Electric and pull-through sharpeners need a dedicated serrated stage or they flatten the serrations.
+- Bread knives with large scallops need a wide rod; steak and tomato knives with micro serrations need a fine tapered one.
+- A serrated blade usually needs sharpening far less often than a straight edge, roughly once a year at home.
+- Wipe metal swarf off after sharpening and test on bread or tomato skin, not paper.
+- Refillable oil sprayers use a pump or pressure nozzle; they spray less evenly than aerosol cans but avoid propellants.
+- Thin oils (olive, avocado, canola) spray best; thick, solidifying or chunky oils and infused oils clog nozzles.
+- Dark glass reduces light exposure that turns oil rancid; plastic can absorb odor.
+- Clean the nozzle monthly with warm water and a drop of dish soap, flush with hot water; do not store oil in a hot place.
+- Spray bottles need a few pumps to prime; over-pumping can leak; fill to about three quarters.
+- Do not spray near an open flame; aerosol-like mist can ignite on a lit burner or grill.
+- 2-in-1 spray and pour designs add a mechanism that can drip; check the switch seal.

@@ -1,0 +1,12 @@
+- Phone tripod clamp width must clear the phone plus case; check the maximum width before buying.
+- Aluminum legs and a wider footprint resist wobble better than plastic; four-leg bases widen the footprint at full height.
+- Extreme height (60 to 70 in) reduces stability; extend only the sections you need and keep the load low.
+- Use every leg lock on each section; one unlocked clip is the usual cause of sag.
+- Bluetooth remote shutters pair to the phone and range is often only a few metres to tens of feet; the battery type varies.
+- Magnetic mounts hold a phone with MagSafe compatible magnets; a thick non-magnetic case weakens the grip, so check the listed hold weight.
+- Selfie stick tripod combos trade a taller reach for less stability than a pure tabletop tripod.
+- Rotating heads and ball joints loosen with use; tighten the knob before each shoot.
+- Wind and uneven ground are the failure modes; hang a bag from the center column hook if present.
+- Graphics tablets: active area in inches, pressure levels (8192 is common), battery-free pens and tilt support decide beginner value.
+- Beginner drawing tablets need a driver and a stable OS connection; pen-only tablets rely on a computer, display tablets carry a screen.
+- Active area ratio should match the monitor (16:10 or 16:9) so strokes map without distortion; larger areas need more arm movement.
