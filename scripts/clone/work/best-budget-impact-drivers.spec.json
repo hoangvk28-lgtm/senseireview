@@ -1,0 +1,543 @@
+{
+ "guideSlug": "best-budget-impact-drivers",
+ "categorySlug": "tools-diy",
+ "mainKeyword": "impact driver",
+ "guideTitle": "Best Budget Impact Drivers (2026)",
+ "metaTitle": "Best Budget Impact Drivers",
+ "metaDescription": "The best budget impact drivers for 2026, with honest notes on torque claims, brushless versus brushed, battery platforms and what cheap kits leave out.",
+ "lastUpdated": "2026-11-26",
+ "readTime": "12 min",
+ "heroImage": "https://m.media-amazon.com/images/I/41oQqwmQFOL._SL500_.jpg",
+ "expertTake": "The DEWALT DCF787 brushless kit is our top budget pick because it adds a brushless motor, a battery and a charger from a platform with a deep tool range. The CRAFTSMAN 1,460 in-lb driver is the value pick for a first kit. Skip off-brand drivers that quote huge torque numbers, because their batteries and bits are the part you will struggle to replace.",
+ "introParagraphs": [
+  "An impact driver adds a hammering action to a rotating bit, which is why it drives long screws and lag bolts without cam-out and with little wrist strain. It is not a drill: it uses a quarter inch hex chuck and is poor at precision holes.",
+  "At the budget end, the key questions are the battery platform, the motor type and whether a charger and battery are included. A tool-only driver looks cheap until you buy a battery, so count the whole kit, not the headline. It also pays to check what the charger does: a slow charger that takes hours is a nuisance when you have one pack and a day of work."
+ ],
+ "products": [
+  {
+   "id": "B0BV17VLYG",
+   "rank": 1,
+   "badge": "Best Overall Budget",
+   "name": "DEWALT 20V MAX Brushless Impact Driver DCF787D1 Kit",
+   "amazonUrl": "https://www.amazon.com/dp/B0BV17VLYG?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41oQqwmQFOL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "Brushless motor",
+    "Battery and charger",
+    "LED with delay"
+   ],
+   "specList": [
+    {
+     "label": "Motor",
+     "value": "Brushless"
+    },
+    {
+     "label": "Chuck",
+     "value": "1/4 inch hex"
+    },
+    {
+     "label": "Included",
+     "value": "Battery and charger"
+    },
+    {
+     "label": "Light",
+     "value": "LED with 20 second delay"
+    },
+    {
+     "label": "Platform",
+     "value": "20V MAX (18V nominal)"
+    }
+   ],
+   "description": "The DCF787D1 is a compact, lightweight brushless impact driver sold as a kit with a battery and a charger. The brushless motor adds runtime and durability compared with brushed designs, and the LED stays lit for 20 seconds after you release the trigger, which helps in dim corners.\n\nAgainst the CRAFTSMAN CMCF800 it costs more but gives a brushless motor and a better-supported platform. Against the DEWALT ATOMIC DCF809B it includes a battery and charger, where the ATOMIC is tool only. It ranks first because the kit is complete, the motor is better and the platform grows with you.\n\nRemember that 20V MAX is the peak voltage label, and the nominal figure is 18V, so the class is the same as other 18V tools. Keep the battery at partial charge for storage and avoid heat. Use impact-rated bits, since regular bits can shatter. Li-ion packs last roughly three to five years, so the battery is the part to budget for over time.",
+   "bestFor": "Homeowners who want a brushless kit on a deep battery platform.",
+   "pros": [
+    "Brushless motor extends runtime and life",
+    "Battery and charger are in the box",
+    "LED stays on for 20 seconds",
+    "Platform has many compatible tools"
+   ],
+   "cons": [
+    "Costs more than the CRAFTSMAN kits",
+    "Single battery limits long jobs",
+    "Brushless premium may not suit light use"
+   ]
+  },
+  {
+   "id": "B07ZK6PM4N",
+   "rank": 2,
+   "badge": "Best Value Brand Kit",
+   "name": "CRAFTSMAN 20V MAX Impact Driver CMCF800 1,460 in-lb Kit",
+   "amazonUrl": "https://www.amazon.com/dp/B07ZK6PM4N?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41RZgYKhdfL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "1,460 in-lb torque",
+    "2,800 rpm",
+    "Quick-release chuck"
+   ],
+   "specList": [
+    {
+     "label": "Torque",
+     "value": "1,460 in-lbs"
+    },
+    {
+     "label": "Speed",
+     "value": "2,800 rpm, 3,100 ipm"
+    },
+    {
+     "label": "Chuck",
+     "value": "Quick-release one-handed"
+    },
+    {
+     "label": "Light",
+     "value": "LED work light"
+    },
+    {
+     "label": "Included",
+     "value": "Battery and charger"
+    }
+   ],
+   "description": "The CRAFTSMAN CMCF800 is a straightforward 20V MAX kit with a stated 1,460 in-lbs of torque, a top speed of 2,800 rpm and 3,100 impacts per minute. The quick-release chuck lets you change bits with one hand, and an LED lights the work area.\n\nAgainst the DEWALT DCF787D1 it uses a brushed design, which means less runtime and earlier wear, but it costs less. Against the other CRAFTSMAN kit it offers more torque and a clearer spec sheet. It ranks second because it is the best low-cost brand kit with honest numbers.\n\nFor deck screws and framing, 1,460 in-lbs is enough. Keep a second battery if you drive many screws. Use impact-rated bits and avoid running the tool at full speed on small screws, which snaps heads and strips soft wood. Wipe the chuck after dusty work. The battery is the part to watch over several years, so buy from a platform with replacement packs in stock.",
+   "bestFor": "First-time buyers who want a low-cost brand kit.",
+   "pros": [
+    "Stated 1,460 in-lbs of torque",
+    "One-handed quick-release chuck",
+    "LED lights the work area",
+    "Battery and charger included"
+   ],
+   "cons": [
+    "Brushed motor wears sooner",
+    "Heavier than compact brushless models",
+    "Platform tool range is narrower"
+   ]
+  },
+  {
+   "id": "B0GNBFKYBD",
+   "rank": 3,
+   "badge": "Best Light-Duty Starter",
+   "name": "CRAFTSMAN Cordless 1/4 Impact Driver 2 Ah Battery Kit",
+   "amazonUrl": "https://www.amazon.com/dp/B0GNBFKYBD?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41eVky8JQ4L._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "2 Ah battery",
+    "120 fasteners per charge",
+    "PH2 bit included"
+   ],
+   "specList": [
+    {
+     "label": "Battery",
+     "value": "2 Ah lithium-ion"
+    },
+    {
+     "label": "Runtime",
+     "value": "Up to 120 fasteners per charge"
+    },
+    {
+     "label": "Chuck",
+     "value": "Quick-release"
+    },
+    {
+     "label": "Included",
+     "value": "Charger and PH2 bit"
+    },
+    {
+     "label": "Light",
+     "value": "LED"
+    }
+   ],
+   "description": "This CRAFTSMAN kit comes with a 2 Ah battery, a charger and a PH2 screwdriving bit, and the maker says it can drive up to 120 fasteners per charge. It uses the same quick-release chuck and LED as the other CRAFTSMAN kit, and aims at light household work such as assembling furniture and hanging shelves.\n\nAgainst the CMCF800 it has a less detailed torque claim and a smaller battery. Against the GoYwato set it has fewer accessories but a more proven platform. It ranks third because a 2 Ah pack limits heavy use, as 2.0 Ah kits run only limited time on heavy work.\n\nUse it for small jobs and keep a second pack if you build decks. Charge the battery fully before a long task. Avoid leaving the pack in a hot garage. If you plan to drive large lag screws, this kit will run out quickly and slowly.",
+   "bestFor": "Light home assembly and weekend repairs.",
+   "pros": [
+    "PH2 bit included to start right away",
+    "Stated 120 fasteners per charge",
+    "Quick-release chuck speeds bit swaps",
+    "Lightweight for overhead work"
+   ],
+   "cons": [
+    "2 Ah battery limits heavy work",
+    "Torque is not clearly stated",
+    "Brushed motor wears sooner"
+   ]
+  },
+  {
+   "id": "B07QJ96V1S",
+   "rank": 4,
+   "badge": "Best Compact Tool-Only",
+   "name": "DEWALT ATOMIC 20V MAX Impact Driver DCF809B Tool Only",
+   "amazonUrl": "https://www.amazon.com/dp/B07QJ96V1S?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41J-VkbiJKL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "5.1 inch long",
+    "1,700 in-lb torque",
+    "Tool only"
+   ],
+   "specList": [
+    {
+     "label": "Length",
+     "value": "5.1 inches"
+    },
+    {
+     "label": "Torque",
+     "value": "1,700 in-lbs"
+    },
+    {
+     "label": "Speed control",
+     "value": "Variable speed trigger"
+    },
+    {
+     "label": "Included",
+     "value": "Tool only, no battery"
+    },
+    {
+     "label": "Platform",
+     "value": "20V MAX"
+    }
+   ],
+   "description": "The ATOMIC is DEWALT's compact driver, just 5.1 inches long and rated at 1,700 in-lbs of torque, with a variable-speed trigger for delicate work. It fits into cabinets and tight framing where longer drivers cannot go.\n\nAgainst the DCF787D1 it is shorter and stronger on paper but ships as a bare tool, so you need a battery and charger. Against the CRAFTSMAN kits it is a better tool but only a good value if you already own DEWALT 20V MAX batteries. It ranks fourth because the tool-only price hides the real cost for a new buyer.\n\nIf you are already on the DEWALT platform, this is the one to add. If not, add the cost of a battery and charger before comparing. Use impact-rated bits and keep the chuck clean. A compact driver heats faster in a long job, so give it a rest between long runs.",
+   "bestFor": "Owners of the DEWALT 20V MAX platform who need a compact driver.",
+   "pros": [
+    "Short body fits tight spaces",
+    "1,700 in-lbs of torque for its size",
+    "Variable-speed trigger helps precision",
+    "Works with existing 20V MAX batteries"
+   ],
+   "cons": [
+    "Tool only so a battery must be bought",
+    "Costly for buyers new to the platform",
+    "Compact body can heat in long runs"
+   ]
+  },
+  {
+   "id": "B0FT2SDD5F",
+   "rank": 5,
+   "badge": "Best Off-Brand Accessory Set",
+   "name": "GoYwato 21V Brushless Impact Driver Set 2 x 4 Ah Batteries",
+   "amazonUrl": "https://www.amazon.com/dp/B0FT2SDD5F?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51mLcQY3lSL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "Brushless motor",
+    "2 x 4.0 Ah batteries",
+    "Accessory bits included"
+   ],
+   "specList": [
+    {
+     "label": "Motor",
+     "value": "Brushless"
+    },
+    {
+     "label": "Claimed torque",
+     "value": "2,655 in-lbs"
+    },
+    {
+     "label": "Batteries",
+     "value": "Two 4.0 Ah packs"
+    },
+    {
+     "label": "Included",
+     "value": "Charger and a bit set"
+    },
+    {
+     "label": "Features",
+     "value": "Two modes and reverse auto stop"
+    }
+   ],
+   "description": "The GoYwato is the cheapest set in the lineup and comes with two 4.0 Ah batteries, a charger and a bit set, plus two drive modes and an automatic stop in reverse. A brushless motor at this price is a draw, and two large batteries are a real bonus on long jobs.\n\nThe torque claim of 2,655 in-lbs should be treated with caution, since off-brand figures are often peak numbers that exceed what the tool delivers in use. Against the DEWALT DCF787D1 it gives more battery capacity and accessories for less, but with far less support. It ranks last because replacement batteries for no-name brands can be hard to find later.\n\nBuy it if you want a one-time set for a few projects. Do not expect to add more tools to the same platform, and check the warranty terms and the seller's return policy before you open the box. Use the bits only for light work, since kit bit sets from off-brand makers are low quality, and buy impact-rated bits from a known maker. Store the batteries at partial charge.",
+   "bestFor": "Occasional users who want a complete set for the lowest spend.",
+   "pros": [
+    "Two 4.0 Ah batteries give long runtime",
+    "Brushless motor at a very low cost",
+    "Bit set included for immediate use",
+    "Reverse auto stop adds control"
+   ],
+   "cons": [
+    "Torque claim looks inflated",
+    "Replacement batteries may be scarce",
+    "No wider tool platform to grow into"
+   ]
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Battery platform",
+   "explanation": "A battery platform is a long-term choice, since you will buy more tools that share packs. DEWALT 20V MAX is a large platform, while off-brand sets are one-offs. The label 20V MAX is a peak voltage and the nominal is 18V, the same class as other 18V tools. Check that replacement batteries are in stock before you buy. A quick search for the battery model number shows whether packs are sold separately and whether third-party packs exist. A tool whose pack is permanently out of stock becomes scrap when the battery fades, no matter how good the motor is."
+  },
+  {
+   "criterion": "Brushless versus brushed",
+   "explanation": "A brushless motor is more efficient, runs longer per charge and lasts longer. Most budget drivers are brushed. The DEWALT DCF787D1 and the GoYwato are brushless here. If you use the tool weekly, brushless is worth it. For occasional use, brushed is fine. A brushless motor also shuts down less often when you drive long screws in a row, because it makes less heat, and it keeps more of the battery's energy for the work instead of losing it to friction."
+  },
+  {
+   "criterion": "Torque and speed",
+   "explanation": "Torque is measured in in-lbs, and 1,400 to 1,800 in-lbs is plenty for decks and framing. Torque is only one part of the story, because a driver with a high number and a weak battery will sag under load and drive slower than a modest tool on a fresh pack. Claims above 2,500 in-lbs on off-brand tools should be doubted. Speed in rpm and impacts per minute affects how quickly screws sink. Many drivers offer two or three speed modes, and the lowest mode is the one to use for small screws and delicate materials like trim or thin plywood. Variable-speed triggers help with small screws. An impact driver has no clutch, so the trigger is your only control over how hard a fastener seats. Start slowly, and stop the moment the head sits flush, or you will snap small screws and strip soft wood."
+  },
+  {
+   "criterion": "Battery capacity",
+   "explanation": "Battery Ah sets runtime and voltage sets power class. A 2.0 Ah kit runs limited heavy-use time, while 4.0 Ah lasts about twice as long. A second battery doubles the workday. Li-ion packs last roughly three to five years. A second battery lets you charge one while you work with the other, and it spreads wear across two packs. If you only buy one, pick the highest capacity you can afford."
+  },
+  {
+   "criterion": "Size and weight",
+   "explanation": "Compact drivers like the ATOMIC at 5.1 inches fit into tight spaces. Weight matters for overhead work. A smaller tool heats faster in long runs. Choose size by the work you do. If most jobs are in open framing or on a deck, a longer driver is fine and often more comfortable, while cabinet installers and electricians usually want the shortest body they can find. Balance with the battery attached matters more than the bare tool weight."
+  },
+  {
+   "criterion": "Chuck and bit quality",
+   "explanation": "A quick-release chuck lets you swap bits with one hand. Impact-rated bits are essential, since normal bits shatter. Kit bit sets from off-brand makers are low quality. Buy a few good bits separately. A small set of impact-rated PH2, square and Torx bits, plus a magnetic bit holder, covers most household screws, and costs little compared with the kit."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "in-lbs of torque",
+   "meaning": "The twisting force the tool delivers. It sets how big a fastener it can sink.",
+   "watchFor": "The ATOMIC lists 1,700 in-lbs while the GoYwato claims 2,655."
+  },
+  {
+   "spec": "20V MAX",
+   "meaning": "A label for the peak battery voltage. The nominal voltage is 18V.",
+   "watchFor": "DEWALT and CRAFTSMAN use this label."
+  },
+  {
+   "spec": "Brushless",
+   "meaning": "A motor without carbon brushes, which is more efficient and lasts longer.",
+   "watchFor": "The DCF787D1 and GoYwato are brushless."
+  },
+  {
+   "spec": "Amp-hours (Ah)",
+   "meaning": "The battery capacity. A higher number gives longer runtime.",
+   "watchFor": "The GoYwato includes two 4.0 Ah packs while the small CRAFTSMAN has 2 Ah."
+  },
+  {
+   "spec": "Impacts per minute",
+   "meaning": "How many hammer blows the tool delivers each minute. Higher helps drive large fasteners.",
+   "watchFor": "The CMCF800 lists 3,100 ipm."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Platform and battery support",
+   "description": "We looked at the battery platform and the availability of replacements. DEWALT and CRAFTSMAN have wide platforms while the GoYwato is a one-off. We rewarded platforms that grow with the buyer, because a driver rarely stays your only cordless tool. Within a year most owners add a drill, a saw or a light, and tools that share a battery cost far less than a new kit each time."
+  },
+  {
+   "title": "Motor and torque claims",
+   "description": "We read the motor type and stated torque. The DCF787D1 is brushless and the CMCF800 lists 1,460 in-lbs. Owner feedback patterns show inflated off-brand claims are common."
+  },
+  {
+   "title": "Kit contents",
+   "description": "We checked what is in the box: battery, charger, bits. The ATOMIC is tool only. We counted the full cost of a working kit. A bare tool plus a battery and charger often costs more than a ready kit, so we judged the tool-only ATOMIC as a platform add-on rather than a starter."
+  },
+  {
+   "title": "Size and ergonomics",
+   "description": "We compared length, weight and chuck style. The ATOMIC is 5.1 inches and the CRAFTSMAN kits are lighter duty. We rewarded easy bit changes, because a driver that makes you fight the chuck every time you switch from a driver bit to a drill bit gets used less and wears faster."
+  },
+  {
+   "title": "Value versus compromise",
+   "description": "Each pick sits in the lower half of the price range. We weighed what each gives up, such as a brushless motor, a larger battery or platform support."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Platform",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Want a growing platform",
+      "DEWALT DCF787D1",
+      "Deep tool range"
+     ],
+     [
+      "Own DEWALT batteries",
+      "DEWALT ATOMIC",
+      "Tool only and compact"
+     ],
+     [
+      "Brand kit on a tight spend",
+      "CRAFTSMAN CMCF800",
+      "Complete kit"
+     ],
+     [
+      "One-off set",
+      "GoYwato",
+      "Two batteries included"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Budget tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest spend",
+      "GoYwato",
+      "Cheapest complete set"
+     ],
+     [
+      "Low spend",
+      "CRAFTSMAN CMCF800",
+      "Brand kit"
+     ],
+     [
+      "Low to mid spend",
+      "CRAFTSMAN 2 Ah",
+      "Light-duty starter"
+     ],
+     [
+      "Upper end of guide",
+      "DEWALT DCF787D1",
+      "Brushless kit"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Brushless vs Brushed",
+   "cards": [
+    {
+     "label": "DEWALT DCF787D1 (brushless)",
+     "text": "More runtime, less heat and longer life. It costs more."
+    },
+    {
+     "label": "CRAFTSMAN CMCF800 (brushed)",
+     "text": "Lower cost and simple. It wears sooner and gives less runtime."
+    }
+   ],
+   "note": "Pick brushless if you use the tool weekly. Pick brushed for occasional jobs."
+  },
+  {
+   "subheading": "By Job Type",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Decks and framing",
+      "DEWALT DCF787D1",
+      "Brushless runtime"
+     ],
+     [
+      "Furniture assembly",
+      "CRAFTSMAN 2 Ah",
+      "Light and simple"
+     ],
+     [
+      "Tight cabinets",
+      "DEWALT ATOMIC",
+      "5.1 inches long"
+     ],
+     [
+      "Long projects",
+      "GoYwato",
+      "Two 4.0 Ah batteries"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Home Projects Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A complete kit with a battery and charger, a quick-release chuck and a brand with spare batteries. Add impact-rated bits."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The CRAFTSMAN CMCF800 is the simplest start. The DEWALT DCF787D1 is the better long-term choice."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You use the tool daily, want brushless power and a bigger battery, or plan to build a tool collection. A pro platform pays back in runtime and support."
+    },
+    {
+     "label": "Save if",
+     "text": "You use it for occasional repairs. A budget kit does that for years with care."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Store batteries at partial charge",
+   "interval": "Between uses",
+   "why": "Li-ion packs age faster when stored full or empty. Keep them cool and dry. Do not leave a pack in a hot car or on a charger for days, and never charge a battery that is swollen, dented or hot to the touch."
+  },
+  {
+   "task": "Wipe the chuck and vents",
+   "interval": "After dusty jobs",
+   "why": "Dust jams the chuck and clogs vents. A dry brush clears them, and a drop of light machine oil on the chuck collar keeps the quick-release smooth. Do not blow dust into the vents with high-pressure air."
+  },
+  {
+   "task": "Inspect bits",
+   "interval": "Before each job",
+   "why": "Worn bits cam out and strip screws. Replace them early, because a rounded tip forces you to push harder and that wears the tool as well. Keep bits in a case with the tips clean."
+  },
+  {
+   "task": "Check the charger and contacts",
+   "interval": "Every few months",
+   "why": "Dirty contacts cut charging. Wipe them with a dry cloth."
+  },
+  {
+   "task": "Avoid heat and wet",
+   "interval": "Always",
+   "why": "Heat and moisture shorten battery life. Keep tools indoors when you can."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Impact driver or drill, which do I need?",
+   "a": "A drill driver is for holes and precision. An impact driver is for long screws and lag bolts. Many people buy both as a combo, which also gives you two tools on one battery platform. If you can afford only one tool, a drill driver is the more general choice, and an impact driver is the better add-on once you start building."
+  },
+  {
+   "q": "Is 20V the same as 18V?",
+   "a": "Yes. 20V MAX is the peak voltage label, and 18V is the nominal figure. They are the same class."
+  },
+  {
+   "q": "Is brushless worth it?",
+   "a": "For frequent use, yes. It runs longer and lasts longer. For occasional jobs, brushed is fine."
+  },
+  {
+   "q": "Can I trust big torque numbers?",
+   "a": "Be cautious with off-brand claims above 2,500 in-lbs. A known brand's lower number is usually more honest, and torque matters less than battery and bits for ordinary home work. Wear eye protection, since fasteners can snap, and hearing protection if you drive many screws in a row, because impact drivers are loud."
+  },
+  {
+   "q": "What bits should I use?",
+   "a": "Impact-rated bits only. Regular bits can shatter under impact and throw sharp fragments. Buy good ones separately, and pre-drill hardwood so the screw does not shear."
+  },
+  {
+   "q": "How long do the batteries last?",
+   "a": "Roughly three to five years. Store them at partial charge and away from heat."
+  }
+ ],
+ "relatedGuides": [
+  {
+   "title": "Best Impact Drivers",
+   "href": "/guide/best-impact-drivers"
+  },
+  {
+   "title": "Drill vs Impact Driver",
+   "href": "/guide/drill-vs-impact-driver"
+  },
+  {
+   "title": "Brushed vs Brushless Drill Motors",
+   "href": "/guide/brushed-vs-brushless-drill-motors"
+  }
+ ]
+}
