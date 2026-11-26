@@ -214,6 +214,30 @@ test any new term against a real product title first.
 
 The coordinator (not writers) registers, links, runs tsc/build/lint and commits.
 
+Add a round's topics with
+`node scripts/clone/add-round.mjs scripts/clone/list-rN.tsv`
+(TSV columns: `slug`, `category`, `mainKeyword`). It appends `todo` rows to
+`source-index.json` and skips anything already indexed or already published.
+
+### Topic selection for a best round (user rule 2026-11-26)
+
+- **Stay inside the five categories.** No topic that does not belong to
+  home-kitchen, tech-electronics, health-fitness, outdoor-garden or tools-diy.
+- **Avoid broad head keywords.** A bare `best-<product>` page for a mass-market
+  head term loses to Wirecutter and to retail. Prefer a qualifier: a price tier,
+  a use case, a user, a room, a material, a size.
+- **Every round must include "best budget" guides**, titled literally
+  `Best Budget <Product>` with slug `best-budget-<product>`. They are their own
+  search intent, separate from `best-<product>`.
+- **A price tier is either `best-budget-X` or `best-X-under-N`, never both.**
+  The two compete for one query. Use `best-budget-X` when no `best-X-under-N`
+  exists for that product, and `best-X-under-N` when a concrete bucket
+  (under 25, 50, 100, 200, 300, 500) is what shoppers actually type.
+- Healthy mix per round: roughly 40% `best-budget-X`, 15% `best-X-under-N`,
+  45% long-tail (`best-X-for-Y`, or a narrow product type of its own).
+- Round 8 (2026-11-26) follows this split: `scripts/clone/list-r8.tsv`,
+  80 topics, 33 budget, 11 under-N, 36 long-tail.
+
 ---
 
 ## 4c. Agents and token budget (user rules, inherited from sibling projects)

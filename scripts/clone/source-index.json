@@ -2166,5 +2166,645 @@
   "title": "",
   "asins": [],
   "status": "inprogress"
+ },
+ {
+  "slug": "best-budget-air-fryers",
+  "category": "home-kitchen",
+  "mainKeyword": "budget air fryer",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-budget-robot-vacuums",
+  "category": "home-kitchen",
+  "mainKeyword": "budget robot vacuum",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-budget-dehumidifiers",
+  "category": "home-kitchen",
+  "mainKeyword": "budget dehumidifier",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-budget-humidifiers",
+  "category": "home-kitchen",
+  "mainKeyword": "budget humidifier",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-budget-cast-iron-skillets",
+  "category": "home-kitchen",
+  "mainKeyword": "cast iron skillet",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-budget-food-dehydrators",
+  "category": "home-kitchen",
+  "mainKeyword": "food dehydrator",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-budget-countertop-dishwashers",
+  "category": "home-kitchen",
+  "mainKeyword": "countertop dishwasher",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-budget-nugget-ice-makers",
+  "category": "home-kitchen",
+  "mainKeyword": "nugget ice maker",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-budget-cold-brew-coffee-makers",
+  "category": "home-kitchen",
+  "mainKeyword": "cold brew coffee maker",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-budget-kitchen-scales",
+  "category": "home-kitchen",
+  "mainKeyword": "digital kitchen scale",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-budget-adjustable-dumbbells",
+  "category": "health-fitness",
+  "mainKeyword": "adjustable dumbbells",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-budget-massage-guns",
+  "category": "health-fitness",
+  "mainKeyword": "massage gun",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-budget-yoga-mats",
+  "category": "health-fitness",
+  "mainKeyword": "yoga mat",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-budget-rowing-machines",
+  "category": "health-fitness",
+  "mainKeyword": "rowing machine",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-budget-vibration-plates",
+  "category": "health-fitness",
+  "mainKeyword": "vibration plate",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-budget-impact-drivers",
+  "category": "tools-diy",
+  "mainKeyword": "impact driver",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-budget-cordless-drills",
+  "category": "tools-diy",
+  "mainKeyword": "cordless drill",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-budget-stud-finders",
+  "category": "tools-diy",
+  "mainKeyword": "stud finder",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-budget-miter-saws",
+  "category": "tools-diy",
+  "mainKeyword": "miter saw",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-budget-impact-wrenches",
+  "category": "tools-diy",
+  "mainKeyword": "impact wrench",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-budget-step-ladders",
+  "category": "tools-diy",
+  "mainKeyword": "step ladder",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-budget-tool-belts",
+  "category": "tools-diy",
+  "mainKeyword": "tool belt",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-budget-pressure-washers",
+  "category": "outdoor-garden",
+  "mainKeyword": "pressure washer",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-budget-leaf-blowers",
+  "category": "outdoor-garden",
+  "mainKeyword": "leaf blower",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-budget-garden-hoses",
+  "category": "outdoor-garden",
+  "mainKeyword": "garden hose",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-budget-pruning-shears",
+  "category": "outdoor-garden",
+  "mainKeyword": "pruning shears",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-budget-sleeping-bags",
+  "category": "outdoor-garden",
+  "mainKeyword": "sleeping bag",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-budget-power-banks",
+  "category": "tech-electronics",
+  "mainKeyword": "power bank",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-budget-usb-c-chargers",
+  "category": "tech-electronics",
+  "mainKeyword": "usb c charger",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-budget-mesh-wifi-systems",
+  "category": "tech-electronics",
+  "mainKeyword": "mesh wifi system",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-budget-smart-thermostats",
+  "category": "tech-electronics",
+  "mainKeyword": "smart thermostat",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-budget-surge-protectors",
+  "category": "tech-electronics",
+  "mainKeyword": "surge protector",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-budget-document-scanners",
+  "category": "tech-electronics",
+  "mainKeyword": "document scanner",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-electric-griddles-under-50",
+  "category": "home-kitchen",
+  "mainKeyword": "electric griddle",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-popcorn-makers-under-50",
+  "category": "home-kitchen",
+  "mainKeyword": "popcorn maker",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-garden-carts-under-100",
+  "category": "outdoor-garden",
+  "mainKeyword": "garden cart",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-pole-saws-under-100",
+  "category": "outdoor-garden",
+  "mainKeyword": "pole saw",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-patio-heaters-under-200",
+  "category": "outdoor-garden",
+  "mainKeyword": "patio heater",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-dip-stations-under-100",
+  "category": "health-fitness",
+  "mainKeyword": "dip station",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-medicine-balls-under-50",
+  "category": "health-fitness",
+  "mainKeyword": "medicine ball",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-bluetooth-trackers-under-25",
+  "category": "tech-electronics",
+  "mainKeyword": "bluetooth tracker",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-tablet-stands-under-25",
+  "category": "tech-electronics",
+  "mainKeyword": "tablet stand",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-wood-chisel-sets-under-50",
+  "category": "tools-diy",
+  "mainKeyword": "wood chisel set",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-digital-calipers-under-50",
+  "category": "tools-diy",
+  "mainKeyword": "digital caliper",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-electric-wine-openers",
+  "category": "home-kitchen",
+  "mainKeyword": "electric wine opener",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-electric-lunch-boxes",
+  "category": "home-kitchen",
+  "mainKeyword": "electric lunch box",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-silicone-baking-mats",
+  "category": "home-kitchen",
+  "mainKeyword": "silicone baking mat",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-stovetop-espresso-makers",
+  "category": "home-kitchen",
+  "mainKeyword": "stovetop espresso maker",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-manual-coffee-grinders-for-travel",
+  "category": "home-kitchen",
+  "mainKeyword": "manual coffee grinder",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-meat-grinders-for-home-use",
+  "category": "home-kitchen",
+  "mainKeyword": "electric meat grinder",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-knife-sharpeners-for-serrated-blades",
+  "category": "home-kitchen",
+  "mainKeyword": "knife sharpener serrated",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-oil-sprayers-for-cooking",
+  "category": "home-kitchen",
+  "mainKeyword": "oil sprayer for cooking",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-hdmi-switches",
+  "category": "tech-electronics",
+  "mainKeyword": "hdmi switch",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-ethernet-switches-for-home",
+  "category": "tech-electronics",
+  "mainKeyword": "gigabit ethernet switch",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-bluetooth-transmitters-for-tv",
+  "category": "tech-electronics",
+  "mainKeyword": "bluetooth transmitter tv",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-phone-tripods-for-recording",
+  "category": "tech-electronics",
+  "mainKeyword": "phone tripod",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-cable-management-boxes",
+  "category": "tech-electronics",
+  "mainKeyword": "cable management box",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-laptop-cooling-pads",
+  "category": "tech-electronics",
+  "mainKeyword": "laptop cooling pad",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-privacy-screen-filters",
+  "category": "tech-electronics",
+  "mainKeyword": "laptop privacy screen filter",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-graphics-tablets-for-beginners",
+  "category": "tech-electronics",
+  "mainKeyword": "drawing tablet beginners",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-wrist-wraps-for-lifting",
+  "category": "health-fitness",
+  "mainKeyword": "wrist wraps lifting",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-elbow-sleeves-for-lifting",
+  "category": "health-fitness",
+  "mainKeyword": "elbow sleeves lifting",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-weighted-hula-hoops",
+  "category": "health-fitness",
+  "mainKeyword": "weighted hula hoop",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-pilates-rings",
+  "category": "health-fitness",
+  "mainKeyword": "pilates ring",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-shiatsu-back-massagers",
+  "category": "health-fitness",
+  "mainKeyword": "shiatsu back massager",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-compression-boots-for-recovery",
+  "category": "health-fitness",
+  "mainKeyword": "compression boots recovery",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-balance-pads-for-rehab",
+  "category": "health-fitness",
+  "mainKeyword": "balance pad",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-garden-trowels",
+  "category": "outdoor-garden",
+  "mainKeyword": "garden trowel",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-soil-test-kits",
+  "category": "outdoor-garden",
+  "mainKeyword": "soil test kit",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-plant-grow-bags",
+  "category": "outdoor-garden",
+  "mainKeyword": "fabric grow bags",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-trellises-for-climbing-plants",
+  "category": "outdoor-garden",
+  "mainKeyword": "garden trellis",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-firewood-racks",
+  "category": "outdoor-garden",
+  "mainKeyword": "firewood rack",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-outdoor-motion-sensor-lights",
+  "category": "outdoor-garden",
+  "mainKeyword": "outdoor motion sensor light",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-wire-crimping-tools",
+  "category": "tools-diy",
+  "mainKeyword": "wire crimping tool",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-pipe-wrenches",
+  "category": "tools-diy",
+  "mainKeyword": "pipe wrench",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-bench-vises",
+  "category": "tools-diy",
+  "mainKeyword": "bench vise",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-dust-collectors-for-small-shops",
+  "category": "tools-diy",
+  "mainKeyword": "dust collector shop",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-drill-bit-sharpeners",
+  "category": "tools-diy",
+  "mainKeyword": "drill bit sharpener",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-thread-repair-kits",
+  "category": "tools-diy",
+  "mainKeyword": "thread repair kit",
+  "title": "",
+  "asins": [],
+  "status": "todo"
+ },
+ {
+  "slug": "best-rivet-guns",
+  "category": "tools-diy",
+  "mainKeyword": "rivet gun",
+  "title": "",
+  "asins": [],
+  "status": "todo"
  }
 ]
