@@ -3,7 +3,7 @@
 //        node scripts/indexnow.mjs --diff <base-ref>      (new/changed guides between base-ref and HEAD)
 // Key file: public/<INDEXNOW_KEY>.txt must be live on the site before pinging.
 import { execSync } from "child_process";
-const KEY = process.env.INDEXNOW_KEY || "d4d21af91d9048bd900e17e51b51947c";
+const KEY = process.env.INDEXNOW_KEY || "fe20e2e2dc584588b19ec53f1afbc1bf";
 const HOST = "www.senseireview.com";
 let args = process.argv.slice(2);
 if (args[0] === "--diff") {
