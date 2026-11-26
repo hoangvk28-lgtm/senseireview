@@ -1,0 +1,588 @@
+{
+ "guideSlug": "best-budget-smart-thermostats",
+ "categorySlug": "tech-electronics",
+ "mainKeyword": "smart thermostat",
+ "guideTitle": "Best Budget Smart Thermostats (2026)",
+ "metaTitle": "Best Budget Smart Thermostats",
+ "metaDescription": "The best budget smart thermostats for 2026: Nest, ecobee, Sensi, Amazon and Aqara models compared on C-wire needs, compatibility, savings claims and setup.",
+ "lastUpdated": "2026-11-26",
+ "readTime": "12 min",
+ "expertTake": "The Google Nest Thermostat is our top budget pick because it is designed to work without a C-wire in most homes and handles scheduling and away-mode setback with little fuss, and the ecobee Smart Thermostat Essential is the value pick for people who want a color touchscreen and broad system compatibility. A smart thermostat only saves money if you use a sensible schedule. Anyone with a complex multi-stage system, line-voltage baseboard heat or a rental with no wiring access should check compatibility first or skip this category.",
+ "introParagraphs": [
+  "A smart thermostat swaps a dial or a basic programmable unit for a connected controller that follows a schedule, notices when nobody is home and lets you change the temperature from a phone. At a budget level the gap between models is less about gadgets and more about wiring, compatibility and how honest the savings claims are.",
+  "We compare power requirements, system compatibility, scheduling, room sensors and voice assistant support, then rank by how easily each one installs and how well it behaves in a typical house. Manufacturer savings numbers are best-case, so the real benefit comes from using a schedule you will actually keep."
+ ],
+ "products": [
+  {
+   "id": "B08HRPDYTP",
+   "badge": "Best Overall",
+   "name": "Google Nest Thermostat, Energy Star, Works Without C-Wire in Most Homes",
+   "specs": [
+    "Energy Star",
+    "Works without C-wire",
+    "Auto-away",
+    "Wi-Fi"
+   ],
+   "specList": [
+    {
+     "label": "Certification",
+     "value": "Energy Star"
+    },
+    {
+     "label": "Power",
+     "value": "Designed to work without a C-wire in most homes"
+    },
+    {
+     "label": "Away mode",
+     "value": "Turns itself down when you leave"
+    },
+    {
+     "label": "Exceptions",
+     "value": "Some systems, including heat-only, may need a C-wire"
+    },
+    {
+     "label": "Control",
+     "value": "App, voice and on-device"
+    }
+   ],
+   "description": "The Google Nest Thermostat is the simplest smart thermostat to live with. It is Energy Star certified, designed to work without a C-wire in most homes, and it lowers the temperature when you leave. The listing notes that some systems, including heat-only setups, still need a C-wire.\n\nCompared with the ecobee Essential, it has a simpler interface and no touchscreen, but it also has fewer ways to go wrong during installation. Against the Amazon Smart Thermostat, it has a clearer no-C-wire design and works with Google Home and Alexa. The away detection is what drives savings for most households.\n\nPlan on taking a photo of the existing wiring before you start, and run the manufacturer compatibility checker. Treat the first week as a learning period, then adjust the schedule. It suits renters and owners with a typical furnace and air conditioner who want an easy upgrade. A useful habit is to set a comfortable weekday schedule, a slightly cooler overnight setting and a deeper setback during work hours, then leave it alone for a month before tweaking. If you share the house with others, put the app on every phone so one person is not the only one who can adjust it, and review the energy history monthly to see whether the changes are working.",
+   "bestFor": "Typical homes that want an easy install, Energy Star savings and a clean interface.",
+   "pros": [
+    "Designed to work without a C-wire in most homes",
+    "Energy Star certified",
+    "Turns down when you leave",
+    "Simple setup and interface"
+   ],
+   "cons": [
+    "Heat-only systems may still need a C-wire",
+    "No touchscreen on the unit"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B08HRPDYTP?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/216VnCqcVbL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DT9MC2Z9",
+   "badge": "Best Value",
+   "name": "ecobee Smart Thermostat Essential, Color Touchscreen, 85% Systems",
+   "specs": [
+    "Energy Star",
+    "Color touchscreen",
+    "85% compatible",
+    "Free updates"
+   ],
+   "specList": [
+    {
+     "label": "Savings claim",
+     "value": "Up to 23 percent a year (vendor figure)"
+    },
+    {
+     "label": "Compatibility",
+     "value": "About 85 percent of systems"
+    },
+    {
+     "label": "Display",
+     "value": "Color touchscreen"
+    },
+    {
+     "label": "Updates",
+     "value": "Free software upgrades"
+    },
+    {
+     "label": "Certification",
+     "value": "Energy Star"
+    }
+   ],
+   "description": "The ecobee Essential is a Wi-Fi thermostat with a color touchscreen, Energy Star certification and an app. The company claims savings of up to 23 percent a year and compatibility with about 85 percent of HVAC systems, with an online checker to confirm yours. Free software upgrades mean the interface improves over time.\n\nCompared with the Google Nest, it adds a touchscreen and a deeper app, but its wiring needs are a bit more demanding. Against the ecobee Enhanced, it leaves out occupancy sensing, which is why it costs less. For most households the schedule and the app are the point.\n\nExpect to spend about half an hour on installation, longer if you add a power adapter. Use the compatibility checker first. It suits buyers who want a modern interface and a well-supported ecosystem. The app also shows runtime history, which is a handy way to spot a struggling furnace or air conditioner long before it fails in the middle of a cold snap. Many owners also appreciate that the touchscreen lets guests adjust the temperature without a phone, which avoids the usual household argument.",
+   "bestFor": "Buyers who want a color touchscreen and a mature app at a low tier.",
+   "pros": [
+    "Color touchscreen is easy to read",
+    "Compatible with about 85 percent of systems",
+    "Free software upgrades",
+    "Energy Star certified"
+   ],
+   "cons": [
+    "Wiring needs can be stricter",
+    "No occupancy sensing in this model"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0DT9MC2Z9?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31JTtJmb1zL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B01NB1OB0I",
+   "badge": "Best DIY Install",
+   "name": "Sensi Smart Thermostat ST55, Wi-Fi, Energy Star, DIY",
+   "specs": [
+    "Wi-Fi",
+    "Energy Star",
+    "Built-in level",
+    "No data selling"
+   ],
+   "specList": [
+    {
+     "label": "Install",
+     "value": "DIY with built-in level and app steps"
+    },
+    {
+     "label": "Savings claim",
+     "value": "About 23 percent on HVAC energy (vendor figure)"
+    },
+    {
+     "label": "Privacy",
+     "value": "States it does not sell personal information"
+    },
+    {
+     "label": "Voice",
+     "value": "Works with Alexa"
+    },
+    {
+     "label": "Certification",
+     "value": "Energy Star"
+    }
+   ],
+   "description": "The Sensi ST55 is a Wi-Fi thermostat designed for DIY installation with a built-in level and step-by-step app instructions. It is Energy Star certified and the vendor claims about 23 percent savings on HVAC energy, a figure to treat as best-case. A privacy statement says it does not sell your personal information to third parties.\n\nCompared with the Google Nest, it is more conventional in design but more transparent about privacy. Against the Amazon Smart Thermostat, it does not require an Alexa ecosystem. The step-by-step install makes it a good first smart thermostat.\n\nCheck the wiring and compatibility before you start, and keep the old thermostat in case of surprises. It suits first-time DIYers who want a straightforward install. Because it is Energy Star certified, it may also qualify for a utility rebate in some areas, so search your provider's website before you buy and keep the receipt. The built-in level is a small detail that saves the annoyance of a crooked plate, since a crooked thermostat is visible every day for years.",
+   "bestFor": "First-time DIYers who want guided installation and a clear privacy stance.",
+   "pros": [
+    "Built-in level helps mounting",
+    "Step-by-step app guidance",
+    "Privacy statement on data selling",
+    "Energy Star certified"
+   ],
+   "cons": [
+    "Savings number is a vendor claim",
+    "Interface is more conventional"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B01NB1OB0I?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31qDUPJwm0L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B08J4C8871",
+   "badge": "Cheapest Pick",
+   "name": "Amazon Smart Thermostat, Alexa and Ring, C-Wire Required",
+   "specs": [
+    "C-wire required",
+    "Alexa and Ring",
+    "Comfort zones",
+    "Rebates info"
+   ],
+   "specList": [
+    {
+     "label": "Power",
+     "value": "C-wire required"
+    },
+    {
+     "label": "Ecosystem",
+     "value": "Alexa and Ring"
+    },
+    {
+     "label": "Zones",
+     "value": "Comfort zones with select Echo devices"
+    },
+    {
+     "label": "Rebates",
+     "value": "Email details on possible energy rebates"
+    },
+    {
+     "label": "Role",
+     "value": "Entry smart upgrade"
+    }
+   ],
+   "description": "The Amazon Smart Thermostat is the cheapest model here and requires a C-wire, which is the main thing to check before buying. It works with Alexa and Ring, and select Echo devices or an Amazon air quality monitor can create comfort zones. Amazon also emails details about rebates that may be available from energy companies.\n\nCompared with the Google Nest, it needs a C-wire where the Nest often does not, so it is a poor choice for older homes. Against the Sensi ST55, it is tied more tightly to Alexa. If you already have Echo devices, the integration is pleasant.\n\nCheck for a C-wire at the control board and at the thermostat before you order. It suits Alexa households with a C-wire already in the wall. If you already use Ring doorbells or Echo speakers, the comfort-zone idea is the main appeal, because the thermostat can use those devices to decide which rooms matter. The honest downside is that the benefit shrinks if you are not an Amazon household, so compare it with the Nest before you commit.",
+   "bestFor": "Alexa households with a C-wire already in the wall who want the lowest cost.",
+   "pros": [
+    "Lowest cost in the lineup",
+    "Alexa and Ring integration",
+    "Comfort zones with Echo devices",
+    "Rebate information by email"
+   ],
+   "cons": [
+    "C-wire is required",
+    "Tied to the Alexa ecosystem"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B08J4C8871?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/21M62ttOkYL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B09XXTQPXC",
+   "badge": "Best Occupancy Sensing",
+   "name": "ecobee Smart Thermostat Enhanced, Occupancy Sensing, 90% Systems",
+   "specs": [
+    "Occupancy sensing",
+    "90% compatible",
+    "Siri, Alexa, Google",
+    "Energy Star"
+   ],
+   "specList": [
+    {
+     "label": "Savings claim",
+     "value": "Up to 26 percent a year (vendor figure)"
+    },
+    {
+     "label": "Sensing",
+     "value": "Built-in occupancy detection"
+    },
+    {
+     "label": "Compatibility",
+     "value": "About 90 percent of systems"
+    },
+    {
+     "label": "Assistants",
+     "value": "Siri, Alexa and Google Assistant"
+    },
+    {
+     "label": "Behavior",
+     "value": "Preheats and precools when people are home"
+    }
+   ],
+   "description": "The ecobee Enhanced adds built-in occupancy sensing to the ecobee design, with support for Siri, Alexa and Google Assistant. The vendor claims savings up to 26 percent a year and compatibility with about 90 percent of HVAC systems. The occupancy detection lets it preheat or precool when people are home.\n\nCompared with the ecobee Essential, it adds sensing and a higher compatibility figure at a slightly higher tier. Against the Nest, it supports more assistants. The extra sensing helps in homes with irregular schedules.\n\nRoom sensors are sold separately in many ecobee bundles, so check what the listing includes. It suits households with changing routines and multiple voice assistants. This is the model for homes where the schedule is never the same two days in a row, such as shift workers or families with changing activities. Check that your plan for room sensors fits the budget, because sensors are what fix the hot bedroom upstairs, and the thermostat alone cannot.",
+   "bestFor": "Households with changing routines that want occupancy sensing and all three major assistants.",
+   "pros": [
+    "Built-in occupancy sensing",
+    "Works with Siri, Alexa and Google",
+    "About 90 percent system compatibility",
+    "Preheats and precools automatically"
+   ],
+   "cons": [
+    "Savings figure is a vendor claim",
+    "Higher tier than the Essential"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B09XXTQPXC?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/3119-yOcdSL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0G25F5XC1",
+   "badge": "Best for Apple Homes",
+   "name": "Aqara Smart Thermostat W200, Apple Adaptive Temperature, 4-inch Screen",
+   "specs": [
+    "Apple Adaptive Temp",
+    "4 in touchscreen",
+    "Matter controller",
+    "85% systems"
+   ],
+   "specList": [
+    {
+     "label": "Apple features",
+     "value": "Adaptive Temperature and Clean Energy Guidance"
+    },
+    {
+     "label": "Display",
+     "value": "4 in touchscreen"
+    },
+    {
+     "label": "Smart home",
+     "value": "Matter controller"
+    },
+    {
+     "label": "Compatibility",
+     "value": "About 85 percent of HVAC systems"
+    },
+    {
+     "label": "Install",
+     "value": "Designed for easy installation"
+    }
+   ],
+   "description": "The Aqara W200 is aimed at Apple Home users, with Apple Adaptive Temperature that uses your iPhone to adjust the thermostat and Clean Energy Guidance that nudges you toward cleaner power. It has a 4 inch touchscreen, acts as a Matter controller and works with about 85 percent of HVAC systems.\n\nCompared with the Nest, it is a better fit for HomeKit households but a less common brand. Against the ecobee Enhanced, it has a larger screen but fewer sensing features. Matter support helps with future compatibility.\n\nUse it only if you live in the Apple ecosystem, since other benefits are limited. It suits iPhone households that want a large screen and Matter. Its Matter support means it should keep working with other smart home gear as the standard matures, which is a reasonable bet for a device you will keep for years. Expect more setup steps than a Nest, and confirm the app features you want are available in your region.",
+   "bestFor": "iPhone households that want Apple Adaptive Temperature and a large touchscreen.",
+   "pros": [
+    "Apple Adaptive Temperature support",
+    "4 inch touchscreen is easy to read",
+    "Acts as a Matter controller",
+    "About 85 percent HVAC compatibility"
+   ],
+   "cons": [
+    "Best features need an Apple home",
+    "Less common brand"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0G25F5XC1?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41EnHXBLY5L._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "C-wire and power",
+   "explanation": "A C-wire supplies steady 24V power, and many older systems lack one. The Amazon Smart Thermostat requires it, while the Google Nest is designed to work without in most homes. Without a C-wire some models steal power, which can cause buzzing or short cycling, so use an adapter or a new cable. A quick test is to take a photo of your wires, match each letter to the new thermostat's terminals and confirm there is a C terminal before you order."
+  },
+  {
+   "criterion": "HVAC compatibility",
+   "explanation": "Compatibility ranges from about 85 percent on the ecobee Essential to about 90 percent on the Enhanced. Heat pumps, multi-stage systems and line-voltage baseboard heat need extra checks. Always use the manufacturer's checker before buying. Always run the checker with your exact equipment model rather than a generic system type, since details like stage count and reversing valve type change the answer."
+  },
+  {
+   "criterion": "Savings claims",
+   "explanation": "Vendors claim savings up to 23 or 26 percent a year, but independent studies suggest lower real savings. The biggest driver is a schedule that sets back the temperature when no one is home. A smart thermostat left on a flat schedule saves little. The most reliable saving habit is a lower setting while you sleep and while the house is empty, with a short recovery period before you return."
+  },
+  {
+   "criterion": "Sensors and comfort",
+   "explanation": "A thermostat reads only the wall it is on. Room sensors, or the occupancy sensing on the ecobee Enhanced, address hot and cold rooms. Check whether sensors are included or sold separately. If a single room is always the problem, a sensor in that room is cheaper and more effective than a bigger thermostat."
+  },
+  {
+   "criterion": "Ecosystem and voice assistants",
+   "explanation": "Alexa, Google and Apple support vary. The Amazon thermostat ties to Alexa and Ring, the Aqara to Apple Home and Matter, and the ecobee Enhanced covers Siri, Alexa and Google. Pick the one that matches your phone and speakers. Pick the assistant you already own, because a new hub or speaker adds cost and clutter for little benefit."
+  },
+  {
+   "criterion": "Subscriptions and privacy",
+   "explanation": "The thermostat works without a subscription on most models, but video, security and some analytics features may cost extra. Data on your schedule and presence is sensitive, so read the privacy policy. Sensi states it does not sell personal information. A privacy policy that is easy to find and written in plain language is a good sign, while a vague policy is a reason to look elsewhere."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "C-wire",
+   "meaning": "The common wire that supplies continuous power to the thermostat. Many older homes lack it.",
+   "watchFor": "The Amazon thermostat requires it while the Nest is designed to work without in most homes."
+  },
+  {
+   "spec": "Energy Star",
+   "meaning": "A certification that the thermostat meets efficiency criteria. It can unlock utility rebates.",
+   "watchFor": "Nest, ecobee Essential and Sensi ST55 are listed as Energy Star certified."
+  },
+  {
+   "spec": "Compatibility percentage",
+   "meaning": "The share of HVAC systems the maker says the thermostat works with. It is not a guarantee for yours.",
+   "watchFor": "ecobee Essential lists 85 percent and the Enhanced lists 90 percent."
+  },
+  {
+   "spec": "Occupancy sensing",
+   "meaning": "Detects whether people are home and adjusts the temperature. It can preheat or precool.",
+   "watchFor": "The ecobee Enhanced has it built in."
+  },
+  {
+   "spec": "Matter",
+   "meaning": "A smart home standard that lets devices from different brands work together.",
+   "watchFor": "The Aqara W200 acts as a Matter controller."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Wiring requirements",
+   "description": "We read each listing for C-wire needs and power options. We evaluated how likely each is to install cleanly in an older home. The Nest earned credit for no-C-wire design."
+  },
+  {
+   "title": "Compatibility",
+   "description": "We compared the stated system compatibility and the availability of a checker. Heat pump and multi-stage notes were weighed. Higher compatibility scored better."
+  },
+  {
+   "title": "Features that save energy",
+   "description": "We looked at away mode, occupancy sensing and scheduling. Features that actually reduce run time were credited over gadgets. Vendor savings numbers were treated as best-case."
+  },
+  {
+   "title": "Ownership patterns",
+   "description": "Owner feedback patterns about wiring surprises, connectivity drops and app changes shaped the cons. Software support and privacy were weighed. Simpler setups scored well."
+  },
+  {
+   "title": "Value",
+   "description": "Price tier ordered the lineup, and we favored the lower half. We judged what each added feature earns. Honest wiring needs scored best."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Wiring",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "No C-wire in the wall",
+      "Google Nest Thermostat",
+      "Designed to work without in most homes."
+     ],
+     [
+      "C-wire present",
+      "Amazon Smart Thermostat",
+      "Lowest cost."
+     ],
+     [
+      "Unsure about wiring",
+      "ecobee Essential",
+      "Compatibility checker and 85 percent."
+     ],
+     [
+      "Complex systems",
+      "ecobee Enhanced",
+      "About 90 percent compatibility."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest cost",
+      "Amazon Smart Thermostat",
+      "Cheapest, needs a C-wire."
+     ],
+     [
+      "Low cost easy install",
+      "Sensi ST55",
+      "Second lowest tier."
+     ],
+     [
+      "Best use of a budget",
+      "Google Nest",
+      "Easy and efficient."
+     ],
+     [
+      "Larger budget",
+      "ecobee Enhanced",
+      "Occupancy sensing."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Nest vs ecobee",
+   "cards": [
+    {
+     "label": "Nest",
+     "text": "The Nest Thermostat is simple and designed to work without a C-wire in most homes. It suits owners who want an easy upgrade."
+    },
+    {
+     "label": "ecobee",
+     "text": "The ecobee Essential and Enhanced add a touchscreen, deeper app and, on the Enhanced, occupancy sensing. They suit tinkerers."
+    }
+   ],
+   "note": "Pick Nest for simplicity and ecobee for depth."
+  },
+  {
+   "subheading": "By Smart Home Ecosystem",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Alexa and Ring",
+      "Amazon Smart Thermostat",
+      "Native integration."
+     ],
+     [
+      "Apple Home",
+      "Aqara W200",
+      "Adaptive Temperature."
+     ],
+     [
+      "Google Home",
+      "Google Nest Thermostat",
+      "Native integration."
+     ],
+     [
+      "Mixed assistants",
+      "ecobee Enhanced",
+      "Siri, Alexa and Google."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Renters Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Easy DIY install, no C-wire need and the ability to reinstall the old thermostat when you move. Check your lease for wall changes."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Google Nest and Sensi ST55 are the best fits."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You have multi-stage systems, a heat pump with aux heat or large uneven homes needing room sensors. A higher-end model is worth it."
+    },
+    {
+     "label": "Save if",
+     "text": "You have a simple furnace and AC and a regular schedule. A budget unit is enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Review the schedule",
+   "interval": "Each season",
+   "why": "Seasons change routines. An outdated schedule wastes the savings."
+  },
+  {
+   "task": "Update firmware",
+   "interval": "As prompted",
+   "why": "Updates fix bugs and security issues. Keep automatic updates on."
+  },
+  {
+   "task": "Check Wi-Fi signal",
+   "interval": "Yearly",
+   "why": "A weak link causes missed commands. Move a router or add a node."
+  },
+  {
+   "task": "Replace backup batteries",
+   "interval": "As needed",
+   "why": "Some models use batteries when power is lost. Check the screen warnings."
+  },
+  {
+   "task": "Clean the screen and vents",
+   "interval": "Every 6 months",
+   "why": "Dust can affect sensors. Wipe gently with a dry cloth."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Do I need a C-wire for a smart thermostat?",
+   "a": "Many need one, but the Google Nest is designed to work without in most homes. Heat-only systems often need one."
+  },
+  {
+   "q": "Will a smart thermostat really save money?",
+   "a": "Vendor claims run up to 23 or 26 percent, but independent studies suggest less. A sensible setback schedule is what saves."
+  },
+  {
+   "q": "Is a subscription required?",
+   "a": "Not for basic control on these models. Some security and video add-ons cost extra."
+  },
+  {
+   "q": "Can I install it myself?",
+   "a": "Most people can with a photo of the wiring and the compatibility checker. Heat pumps and complex systems may need a pro."
+  },
+  {
+   "q": "What happens if Wi-Fi goes down?",
+   "a": "The thermostat keeps running its local schedule, though remote control stops until the link returns."
+  },
+  {
+   "q": "Does it work with a heat pump?",
+   "a": "Many do, but you must check the O/B and auxiliary heat wiring. Use the maker's checker first."
+  }
+ ],
+ "relatedGuides": [
+  {
+   "title": "Best Smart Thermostats",
+   "href": "/guide/best-smart-thermostats"
+  },
+  {
+   "title": "Best Mesh Wi-Fi Systems",
+   "href": "/guide/best-mesh-wifi-systems"
+  }
+ ],
+ "heroImage": "https://m.media-amazon.com/images/I/216VnCqcVbL._SL500_.jpg"
+}

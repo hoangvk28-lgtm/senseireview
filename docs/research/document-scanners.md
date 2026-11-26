@@ -1,0 +1,17 @@
+# document-scanners
+- Sheet-fed (ADF) scanners suit stacks; flatbeds suit books, fragile originals, photos and oversized pages.
+- Duplex scans both sides in one pass; check whether the ppm figure is duplex; images per minute counts sides, pages per minute counts sheets.
+- Rated ppm is at lower resolution and letter size; real throughput drops with color, 300 to 600 dpi and mixed paper.
+- 300 dpi is enough for text; 600 dpi for small or faded receipts and photos; higher dpi mostly adds file size.
+- Feeder capacity (20, 50, 100 sheets) decides how often you reload.
+- Duty cycle is a daily volume rating, not a durability promise; match it to peak daily pages.
+- Receipts and thin or thermal paper jam on machines tuned for copy paper; check supported paper weight and carrier sheets.
+- Plastic cards and thick items need a straight-through paper path.
+- OCR converts scans to searchable PDFs; bundled software quality varies; cloud and accounting integration matters.
+- Portable single-sheet scanners are slow but fit a bag; USB-powered ones need a USB 3 port.
+- Wireless scanning needs a decent Wi-Fi and a driver for your OS; USB is more reliable.
+- Roller and pad wear out; replacement kits are usually sold per page count.
+- Flatbed scans take seconds per page; one page at a time.
+- Scan to PDF, to the cloud or to email; check Mac and Windows driver support, and whether software is subscription based.
+- Shred or secure originals after verifying scans; back up the files.
+- Dust on the glass or rollers causes streaks; clean regularly.

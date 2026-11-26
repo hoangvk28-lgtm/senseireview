@@ -1,0 +1,16 @@
+# smart-thermostats
+- C-wire (common wire) supplies continuous 24V power; many older systems lack one, and heat-only or cool-only systems typically need it.
+- Without a C-wire some thermostats use power stealing, which can cause HVAC short cycling, buzzing or battery drain; an adapter kit or new cable is the fix.
+- Check compatibility with the manufacturer checker before buying; line-voltage baseboard heat needs a different thermostat.
+- Heat pumps with auxiliary heat need correct O/B and aux wiring; wrong setup causes real problems.
+- Photograph and label wires before disconnecting; turn off breaker.
+- Vendor savings claims of up to 23 to 26 percent are best case; independent studies suggest lower savings, and the schedule you actually use matters most.
+- Some brands put features (video history, security add-ons) behind a subscription; the thermostat itself works without one.
+- Remote sensors fix hot and cold rooms; the thermostat alone reads only the hall wall.
+- Learning thermostats take a week or two; manual schedules work as well for regular routines.
+- Privacy: data on occupancy and schedules; check policies and voice assistant integrations.
+- Wi-Fi outage does not stop heating; the thermostat falls back to its local schedule.
+- Energy Star certification and utility rebates can offset purchase cost.
+- Matter and HomeKit support vary; Alexa and Google support is widest.
+- Multi-stage and dual-fuel systems are not supported by every budget model.
+- Touchscreen thermostats need a mounting plate and drywall anchors; wall paint gaps are normal.

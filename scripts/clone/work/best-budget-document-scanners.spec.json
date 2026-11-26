@@ -1,0 +1,588 @@
+{
+ "guideSlug": "best-budget-document-scanners",
+ "categorySlug": "tech-electronics",
+ "mainKeyword": "document scanner",
+ "guideTitle": "Best Budget Document Scanners (2026)",
+ "metaTitle": "Best Budget Document Scanners",
+ "metaDescription": "The best budget document scanners for 2026: compact sheet-fed, portable and flatbed models for home paperwork, receipts and taxes, with honest speed notes.",
+ "lastUpdated": "2026-11-26",
+ "readTime": "12 min",
+ "expertTake": "The ScanSnap iX1300 is our top budget pick because 30 ppm duplex scanning, wireless or USB connection and a small footprint cover most home paperwork, and the Epson ES-400 II is the value pick for people who want a 50-sheet feeder and a desktop build. Budget scanners shine on bills, receipts, taxes and school forms. Anyone scanning archives of thousands of pages, fragile books or odd-sized originals should skip the cheapest sheet-fed models and look at a faster feeder or a flatbed.",
+ "introParagraphs": [
+  "A document scanner turns a drawer of paper into searchable files, which is a calm, satisfying project once you have the right machine. At a budget level the main choice is between sheet-fed machines that swallow a stack and flatbeds that handle one page at a time but accept almost any original.",
+  "We compare speed, duplex scanning, feeder capacity, connectivity and software. Rated speeds are best-case figures at modest resolution and letter size, so the better test is whether the machine handles your real mix of receipts, forms and thin paper without jamming. Software matters too, since a scanner with weak OCR leaves you with pictures of paper instead of searchable files."
+ ],
+ "products": [
+  {
+   "id": "B09FX5SRQT",
+   "badge": "Best Overall",
+   "name": "ScanSnap iX1300 Wireless or USB Double-Sided Color Scanner, 30 ppm",
+   "specs": [
+    "30 ppm duplex",
+    "Wireless or USB",
+    "Compact",
+    "Plastic cards"
+   ],
+   "specList": [
+    {
+     "label": "Speed",
+     "value": "Up to 30 ppm duplex"
+    },
+    {
+     "label": "Connection",
+     "value": "Wireless or USB"
+    },
+    {
+     "label": "Handles",
+     "value": "Documents, photos, receipts, thick items, plastic cards"
+    },
+    {
+     "label": "Design",
+     "value": "Space-saving, compact"
+    },
+    {
+     "label": "Operation",
+     "value": "One-touch scanning with automatic enhancement"
+    }
+   ],
+   "description": "The ScanSnap iX1300 is a compact double-sided color scanner that scans up to 30 ppm in duplex, connects by Wi-Fi or USB and starts with a single touch. It handles documents, photos, receipts, thick items and plastic cards, and its space-saving design frees up desk space when it is idle. The automatic image enhancement means you do not need scanning experience to get readable files.\n\nCompared with the Epson ES-400 II, it has a smaller footprint and wireless scanning but a smaller feeder. Against the Brother DS-640, it is far faster on stacks and scans both sides in one pass. It is the best all-round choice for a home office.\n\nInstall the software on a computer first, then pair the scanner to Wi-Fi so you can scan from a phone. Load pages straight, and clean the rollers when streaks appear. It suits families, freelancers and anyone who scans a few stacks of paper a month. A practical workflow is to scan a folder at a time, name files with the date and the sender, and let the OCR index the text so a search finds a bill in seconds. The scanner also copes with a mixed stack of receipts and letters, which saves sorting before you start, and the wireless option means a phone can trigger a scan without a cable.",
+   "bestFor": "Home offices that want fast duplex scanning, Wi-Fi and a small footprint.",
+   "pros": [
+    "30 ppm duplex speed",
+    "Wireless or USB connection",
+    "Handles plastic cards and thick items",
+    "One-touch scanning is beginner friendly"
+   ],
+   "cons": [
+    "Smaller feeder than desktop models",
+    "Software choices vary by platform"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B09FX5SRQT?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41VnXqJ86dL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B08P3YVH3X",
+   "badge": "Best Value",
+   "name": "Epson WorkForce ES-400 II Color Duplex Desktop Scanner, 50-Sheet Feeder",
+   "specs": [
+    "50-sheet ADF",
+    "Color duplex",
+    "ScanSmart software",
+    "TWAIN support"
+   ],
+   "specList": [
+    {
+     "label": "Feeder",
+     "value": "50-sheet auto document feeder"
+    },
+    {
+     "label": "Scanning",
+     "value": "High-speed color duplex"
+    },
+    {
+     "label": "Software",
+     "value": "Epson ScanSmart"
+    },
+    {
+     "label": "Integration",
+     "value": "TWAIN included for document management"
+    },
+    {
+     "label": "Type",
+     "value": "Desktop sheet-fed"
+    }
+   ],
+   "description": "The Epson ES-400 II is a desktop sheet-fed scanner with a 50-sheet automatic document feeder and fast color duplex scanning. Epson ScanSmart software lets you scan, check and send documents, and the included TWAIN driver makes it work with most document management software. It is the lowest-effort way to digitize a thick stack.\n\nCompared with the ScanSnap iX1300, it has a larger feeder and a bigger body but no wireless in this model. Against the ES-590W, it is simpler and has no touchscreen. It is the model for people who want to feed a stack and walk away.\n\nKeep it on a stable desk and load pages squared. Clean the rollers and glass regularly. It suits home offices and small businesses that scan weekly batches. For taxes, a good routine is to feed a month of statements on the first of each month and let the software save them to a dated folder. The feeder will keep going while you do something else, which is the real time saver compared with a flatbed, and the TWAIN driver makes it easy to route files into a document manager.",
+   "bestFor": "Home and small offices that scan weekly stacks and want a 50-sheet feeder.",
+   "pros": [
+    "50-sheet feeder handles thick stacks",
+    "Color duplex at high speed",
+    "TWAIN driver supports many programs",
+    "Epson ScanSmart is easy to use"
+   ],
+   "cons": [
+    "Larger footprint than portables",
+    "No wireless in this model"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B08P3YVH3X?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41rW4JApydL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B083R36CY4",
+   "badge": "Best Portable",
+   "name": "Brother DS-640 Compact Mobile Scanner, 16 ppm, USB Powered",
+   "specs": [
+    "16 ppm",
+    "1.5 lb",
+    "Under 1 ft long",
+    "USB 3.0 powered"
+   ],
+   "specList": [
+    {
+     "label": "Speed",
+     "value": "Up to 16 ppm"
+    },
+    {
+     "label": "Weight",
+     "value": "About 1.5 lb"
+    },
+    {
+     "label": "Length",
+     "value": "Under 1 ft"
+    },
+    {
+     "label": "Power",
+     "value": "Micro USB 3.0 cable"
+    },
+    {
+     "label": "Use",
+     "value": "Color and black-and-white documents"
+    }
+   ],
+   "description": "The Brother DS-640 is a compact mobile scanner under a foot long and about 1.5 lb that scans up to 16 ppm in color and black and white. It runs from the included micro USB 3.0 cable, so no power brick is needed. It is the easiest scanner to carry in a laptop bag.\n\nCompared with the ScanSnap iX1300, it is slower and single-sided, but it fits in a bag. Against the Epson ES-50, it has a faster rated speed and a longer feed path. It is the pick for travelers and for people with a tiny desk.\n\nUse a USB 3 port for best results, since weaker ports may not power it fully. Feed one or a few sheets at a time. It suits students, travelers and freelancers who scan on the go. The scanner powers up from the USB cable, so you can set it up on a hotel desk or a cafe table without hunting for an outlet, and you can scan a signed contract before you leave town. Keep the included cable in the bag, since a weaker laptop port may need a USB 3 connection to power it properly.",
+   "bestFor": "Travelers and tiny desks that need a scanner light enough for a laptop bag.",
+   "pros": [
+    "About 1.5 lb and under a foot long",
+    "USB powered with no brick",
+    "16 ppm rated speed",
+    "Scans color and black and white"
+   ],
+   "cons": [
+    "Single-sided scanning",
+    "Small feed capacity"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B083R36CY4?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31Bx7Z39uKL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B07KQZWPYN",
+   "badge": "Best for Receipts",
+   "name": "Epson WorkForce ES-50 Portable Single-Sheet Scanner, 5.5 s per Page",
+   "specs": [
+    "5.5 s per page",
+    "Portable",
+    "Up to 72 in long",
+    "IDs and receipts"
+   ],
+   "specList": [
+    {
+     "label": "Speed",
+     "value": "As quick as 5.5 seconds per page"
+    },
+    {
+     "label": "Paper",
+     "value": "Up to 8.5 x 72 in"
+    },
+    {
+     "label": "Handles",
+     "value": "Receipts and ID cards"
+    },
+    {
+     "label": "Feed",
+     "value": "Single sheet"
+    },
+    {
+     "label": "Platforms",
+     "value": "PC and Mac"
+    }
+   ],
+   "description": "The Epson ES-50 is a single-sheet portable scanner that scans a page in about 5.5 seconds and handles paper up to 8.5 by 72 inches, plus receipts and ID cards. It is built for quick, one-off scans rather than stacks. It is one of the lightest options and ranks near the lowest tier.\n\nCompared with the Brother DS-640, it is a one-sheet feeder with no stack capacity, but it excels at receipts and long pages. Against the ScanSnap iX1300, it is far slower on a stack. It is a good partner for expense reports and tax receipts.\n\nFeed pages one at a time and keep the glass clean. Treat thermal receipts gently since they fade. It suits freelancers and travelers who need to scan receipts on the go. For expense reports, scan each receipt the day you get it, because thermal paper fades in a wallet within months, and name the file with the vendor and the date. A weekly habit of five minutes keeps the pile from growing, and the scanner is small enough to stay on the desk.",
+   "bestFor": "Freelancers and travelers who scan receipts and IDs one sheet at a time.",
+   "pros": [
+    "About 5.5 seconds per page",
+    "Handles pages up to 72 inches",
+    "Scans receipts and ID cards",
+    "Very light and portable"
+   ],
+   "cons": [
+    "Single-sheet feeding only",
+    "Slow for stacks"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B07KQZWPYN?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/21YnTPRESJL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0GN557VY5",
+   "badge": "Best Features",
+   "name": "Epson WorkForce ES-590W Wireless Duplex Scanner, 45 ppm, Touchscreen",
+   "specs": [
+    "45 ppm duplex",
+    "Wi-Fi",
+    "Color touchscreen",
+    "AI-ready scans"
+   ],
+   "specList": [
+    {
+     "label": "Speed",
+     "value": "Up to 45 ppm duplex"
+    },
+    {
+     "label": "Connection",
+     "value": "Wireless and USB"
+    },
+    {
+     "label": "Display",
+     "value": "Color touchscreen"
+    },
+    {
+     "label": "Software",
+     "value": "ScanSmart AI technology"
+    },
+    {
+     "label": "Security",
+     "value": "WPA2 wireless"
+    }
+   ],
+   "description": "The Epson ES-590W is the most feature-rich scanner here, with up to 45 ppm duplex scanning, a color touchscreen, Wi-Fi with WPA2 security and ScanSmart AI that converts documents into AI-ready data. It can scan from the touchscreen without a computer. It sits at the upper end of the lower half in tier.\n\nCompared with the ScanSnap iX1300, it is faster and has a touchscreen but costs more. Against the ES-400 II, it adds wireless and a screen. The AI features are most useful for people who organize files heavily.\n\nPlace it near your router and install software on every computer that will use it. It suits busy households and small offices that scan often. If you share the scanner among several people, the touchscreen profiles let each person send scans to their own folder or email, which avoids mixing personal and work paper. Plan on registering it on your Wi-Fi first, and keep the firmware updated so wireless scanning stays reliable.",
+   "bestFor": "Busy households and small offices that want speed, Wi-Fi and a touchscreen.",
+   "pros": [
+    "45 ppm duplex speed",
+    "Color touchscreen operation",
+    "WPA2 wireless scanning",
+    "AI-ready scan processing"
+   ],
+   "cons": [
+    "Highest tier in the lineup",
+    "Larger than portable models"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0GN557VY5?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/413497jFqYL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B07G5XZVLQ",
+   "badge": "Best Flatbed",
+   "name": "Canon CanoScan LiDE 300 Flatbed Scanner, USB, Auto Scan",
+   "specs": [
+    "Flatbed",
+    "USB",
+    "Auto Scan Mode",
+    "PDF and copy buttons"
+   ],
+   "specList": [
+    {
+     "label": "Type",
+     "value": "Flatbed document scanner"
+    },
+    {
+     "label": "Connection",
+     "value": "USB"
+    },
+    {
+     "label": "Mode",
+     "value": "Auto Scan detects the item"
+    },
+    {
+     "label": "Buttons",
+     "value": "PDF, copy and send"
+    },
+    {
+     "label": "Best for",
+     "value": "Books, photos, fragile originals"
+    }
+   ],
+   "description": "The Canon CanoScan LiDE 300 is a flatbed scanner with USB connection and an Auto Scan Mode that detects what you place on the glass. Buttons let you create a PDF, copy or send the scan. It is the lowest-tier scanner here and the one that can handle books, photos and fragile originals.\n\nCompared with the sheet-fed models, it scans one page at a time and is much slower on stacks. Against the ScanSnap iX1300, it cannot do duplex automatically. It is the pick when your originals are the problem rather than your volume.\n\nWipe the glass often because dust shows as spots. It suits family photos, recipes and occasional books. Lay the page flat and square, close the lid gently and use the Auto Scan Mode for photos, then switch to PDF mode for documents. A soft brush or microfiber cloth removes dust before each session, which keeps spots off the scans. It is also a good way to preserve a recipe card or an old letter without bending it.",
+   "bestFor": "Photos, books and fragile originals that cannot go through a feeder.",
+   "pros": [
+    "Handles books, photos and odd sizes",
+    "Lowest tier in the lineup",
+    "Auto Scan Mode detects items",
+    "Buttons for PDF and copy"
+   ],
+   "cons": [
+    "One page at a time",
+    "Slow for stacks"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B07G5XZVLQ?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31PFgs9o70S._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Sheet-fed versus flatbed",
+   "explanation": "Sheet-fed scanners like the ScanSnap iX1300 and Epson ES-400 II swallow stacks, while flatbeds such as the Canon LiDE 300 handle books, photos and fragile pages one at a time. Pick by your originals. A mixed household may want a feeder plus a flatbed. Many people end up owning one of each type, so decide which job happens most often and buy that machine first."
+  },
+  {
+   "criterion": "Speed and duplex",
+   "explanation": "Rated ppm counts sheets, and duplex scans both sides in one pass. The iX1300 lists 30 ppm duplex and the ES-590W 45 ppm. Real speed drops with color, higher resolution and mixed paper. If you scan mostly duplex pages, a duplex model finishes in about half the time because each sheet passes the sensor only once."
+  },
+  {
+   "criterion": "Feeder capacity",
+   "explanation": "A bigger feeder means fewer reloads. The ES-400 II holds 50 sheets, while the Brother DS-640 and Epson ES-50 take a sheet or a few. Match capacity to your stack size. A bigger feeder is also kinder to your schedule, since you can start a batch and return later instead of babysitting the tray."
+  },
+  {
+   "criterion": "Receipt and thin paper handling",
+   "explanation": "Receipts, thermal paper and thin forms can jam on machines tuned for copy paper. The ES-50 is built for receipts and IDs. Check supported paper weights and use carrier sheets for delicate items. Receipts curl and wrinkle, so smooth them first and consider a carrier sheet for anything fragile, because a jam can tear the only copy."
+  },
+  {
+   "criterion": "Connectivity and software",
+   "explanation": "Wireless scanning on the iX1300 and ES-590W is convenient but depends on your Wi-Fi. USB is more reliable. Software quality, OCR and cloud options vary, so check what is bundled. Check which operating systems the software supports before you buy, since older Macs and some Windows versions lose driver support over time."
+  },
+  {
+   "criterion": "Size and portability",
+   "explanation": "The Brother DS-640 weighs about 1.5 lb and is under a foot long, while desktop feeders need desk space. Think about where it will live. A portable that you will actually use beats a bigger one that stays in a closet. A scanner that lives in a drawer will not get used, so put the one you buy where you open your mail."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "ppm",
+   "meaning": "Pages per minute, counting sheets. Duplex models also capture both sides, giving images per minute. Manufacturers measure it at letter size and modest resolution, so a real mixed stack usually takes longer.",
+   "watchFor": "The iX1300 lists 30 ppm duplex and the DS-640 lists 16 ppm."
+  },
+  {
+   "spec": "ADF capacity",
+   "meaning": "The number of sheets the automatic document feeder holds. Bigger means fewer reloads. A small tray on a portable forces you to feed pages by hand.",
+   "watchFor": "The ES-400 II holds 50 sheets."
+  },
+  {
+   "spec": "Duplex",
+   "meaning": "Scanning both sides of a page in one pass.",
+   "watchFor": "The iX1300, ES-400 II and ES-590W are duplex; the DS-640 and ES-50 are single-sided."
+  },
+  {
+   "spec": "OCR",
+   "meaning": "Optical character recognition turns scans into searchable text.",
+   "watchFor": "ScanSmart and the ScanSnap software include OCR features."
+  },
+  {
+   "spec": "TWAIN",
+   "meaning": "A standard driver that lets scanners work with many document programs.",
+   "watchFor": "The ES-400 II includes TWAIN."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Speed in practice",
+   "description": "We read each speed claim and noted whether it refers to duplex. We evaluated how long a typical stack would take. The iX1300 and ES-590W led for speed."
+  },
+  {
+   "title": "Paper handling",
+   "description": "We looked at feeder size, paper sizes and receipt support. Models that handle plastic cards, receipts or long pages earned credit. Flatbeds were credited for fragile originals."
+  },
+  {
+   "title": "Connectivity and software",
+   "description": "We compared Wi-Fi and USB, and bundled OCR and drivers. Wireless convenience was weighed against reliability. TWAIN support earned credit."
+  },
+  {
+   "title": "Ownership patterns",
+   "description": "Owner feedback patterns about jams, roller wear and software updates shaped the cons. Maintenance needs were weighed. Simple machines scored well."
+  },
+  {
+   "title": "Value",
+   "description": "Price tier ordered the lineup, and we favored the lower half. We judged what each added feature earns. Honest speed claims scored best."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Volume",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "A few pages a week",
+      "Epson ES-50",
+      "Single-sheet and quick."
+     ],
+     [
+      "Monthly paperwork stacks",
+      "ScanSnap iX1300",
+      "30 ppm duplex."
+     ],
+     [
+      "Weekly big stacks",
+      "Epson ES-400 II",
+      "50-sheet feeder."
+     ],
+     [
+      "Heavy household use",
+      "Epson ES-590W",
+      "45 ppm and touchscreen."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest cost",
+      "Canon LiDE 300",
+      "Cheapest, flatbed."
+     ],
+     [
+      "Low cost portable",
+      "Epson ES-50",
+      "Second lowest tier."
+     ],
+     [
+      "Low cost mobile feeder",
+      "Brother DS-640",
+      "Third lowest tier."
+     ],
+     [
+      "Best use of a larger budget",
+      "ScanSnap iX1300",
+      "Duplex and Wi-Fi."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Sheet-Fed vs Flatbed",
+   "cards": [
+    {
+     "label": "Sheet-fed",
+     "text": "The iX1300, ES-400 II, ES-590W and DS-640 feed paper and scan fast. They suit bills, forms and receipts."
+    },
+    {
+     "label": "Flatbed",
+     "text": "The Canon LiDE 300 scans one page at a time on glass. It suits books, photos and fragile originals."
+    }
+   ],
+   "note": "Choose sheet-fed for stacks and flatbed for special originals."
+  },
+  {
+   "subheading": "By Portability",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Laptop bag",
+      "Brother DS-640",
+      "About 1.5 lb."
+     ],
+     [
+      "Receipts on the road",
+      "Epson ES-50",
+      "Single-sheet and quick."
+     ],
+     [
+      "Desk with limited space",
+      "ScanSnap iX1300",
+      "Compact footprint."
+     ],
+     [
+      "Fixed desktop",
+      "Epson ES-400 II",
+      "Larger feeder."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Tax and Receipt Scanning Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Receipt and ID support, OCR, cloud or accounting export and a scan resolution of 300 dpi. Handle thermal paper gently."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Epson ES-50 and the ScanSnap iX1300 are the best fits."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You scan thousands of pages, need a large feeder and strong duty cycle or want advanced document management. A faster office scanner is worth it."
+    },
+    {
+     "label": "Save if",
+     "text": "You scan household paperwork monthly. A budget scanner is enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Clean the glass and rollers",
+   "interval": "Every few hundred pages",
+   "why": "Dust causes streaks and jams. Use a lint-free cloth."
+  },
+  {
+   "task": "Replace pickup rollers",
+   "interval": "When jams increase",
+   "why": "Worn rollers slip. Replacement kits are cheap."
+  },
+  {
+   "task": "Update software",
+   "interval": "Every few months",
+   "why": "Updates fix bugs and OS compatibility. Check the maker's site."
+  },
+  {
+   "task": "Back up scanned files",
+   "interval": "Monthly",
+   "why": "Scans are only useful if they survive. Use cloud or an external drive."
+  },
+  {
+   "task": "Remove staples and clips",
+   "interval": "Before every batch",
+   "why": "Metal damages rollers and glass. Check the stack first."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Should I buy a flatbed or sheet-fed scanner?",
+   "a": "Sheet-fed for stacks of bills and forms, flatbed for books, photos and fragile pages. Many homes benefit from one of each."
+  },
+  {
+   "q": "What resolution should I use?",
+   "a": "300 dpi suits most text documents. Use 600 dpi for small or faded receipts and photos. Higher settings mostly make files bigger and scans slower without improving readability."
+  },
+  {
+   "q": "Do scanners jam on receipts?",
+   "a": "Some do, especially thin or thermal paper. Choose a model built for receipts or use carrier sheets. A flatbed handles them safely because nothing is pulled through rollers."
+  },
+  {
+   "q": "Is Wi-Fi scanning reliable?",
+   "a": "It is convenient but depends on your network. USB is more reliable for big batches. Place the scanner within good signal range of your router for the best results."
+  },
+  {
+   "q": "Do I need OCR?",
+   "a": "Yes if you want searchable PDFs. Most of these scanners include OCR through their software."
+  },
+  {
+   "q": "How do I keep scans safe?",
+   "a": "Back them up to two places and shred originals only after checking the files. Keep one copy off-site or in the cloud in case of a fire or a drive failure."
+  }
+ ],
+ "relatedGuides": [
+  {
+   "title": "Best Document Scanners",
+   "href": "/guide/best-document-scanners"
+  },
+  {
+   "title": "Best Bluetooth Label Makers",
+   "href": "/guide/best-bluetooth-label-makers"
+  }
+ ],
+ "heroImage": "https://m.media-amazon.com/images/I/41VnXqJ86dL._SL500_.jpg"
+}

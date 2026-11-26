@@ -1,0 +1,17 @@
+# ladders (step ladders, step stools)
+- Duty ratings: Type III 200 lb, Type II 225 lb, Type I 250 lb, IA 300 lb, IAA 375 lb; rating covers user plus clothing, tools and materials.
+- Household folding steel step stools usually advertise 300 to 330 lb; some listings claim 500 to 800 lb, which is a static ceiling, not a safety margin.
+- Capacity is not stability: locking brace, foot contact and tread size decide how a ladder feels at the top.
+- Pick by the highest point you need to reach, with roughly 12 in of vertical reach above standing height; ladder height equals standing level plus the reach.
+- Top step and top cap are not standing platforms; the highest permitted standing step is two steps down from the top on a full ladder.
+- Steel is heavier than aluminum but cheaper and resists flex; aluminum conducts electricity, so avoid near live wiring.
+- Check the spreader or locking buckle clicks into place every time; a loose rivet at the hinge is the common failure point.
+- Rubber feet wear and harden; replace or clean them when the tread glazes, especially on tile and hardwood.
+- Wide treads (about 10 in or more of depth) reduce foot fatigue on long jobs like painting.
+- Handrails help balance when climbing but do not turn a stool into a full step ladder; they are not rated for leaning.
+- Folded thickness and weight decide whether it lives in a closet gap or a garage wall.
+- Never carry a tool and lean outward; keep belt buckle between the rails.
+- Tool trays hold small items only; heavy tools on one side raise the tipping risk.
+- Test by climbing three steps and shifting weight; there should be no flex or walking.
+- Uneven floors, rugs and wet tile defeat the best feet; set up on firm level ground.
+- Retailer listings often count the kitchen use, not trade use; Type III household is fine for indoor chores.

@@ -1,0 +1,637 @@
+{
+ "guideSlug": "best-budget-leaf-blowers",
+ "categorySlug": "outdoor-garden",
+ "mainKeyword": "leaf blower",
+ "guideTitle": "Best Budget Leaf Blowers (2026)",
+ "metaTitle": "Best Budget Leaf Blowers",
+ "metaDescription": "The best budget leaf blowers for 2026: corded and cordless handhelds for small yards, with honest notes on CFM claims, runtime and battery wear.",
+ "lastUpdated": "2026-11-26",
+ "readTime": "12 min",
+ "expertTake": "The BLACK+DECKER 7-amp corded blower is our top budget pick because it has no battery to age and its 180 CFM and 180 MPH figures are modest but believable, while the MZK 20V with two 4.0Ah batteries is the value pick for people who want a cordless kit. Budget blowers suit patios, driveways and small lawns. Anyone with a large, tree-heavy yard or wet leaves should skip this category and buy a platform tool with a bigger battery.",
+ "introParagraphs": [
+  "A budget leaf blower exists to clear dry leaves, grass clippings and dust from a patio, driveway or small lawn faster than a rake. The best of them are light, simple and quick to start, and the worst bury modest hardware under inflated marketing numbers.",
+  "We rank by the believable parts of each listing: airflow in CFM, air speed in MPH, battery capacity and weight. Inexpensive cordless kits trade runtime for price, so the choice often comes down to whether you value a cord or a battery more."
+ ],
+ "products": [
+  {
+   "id": "B01HIGWCQI",
+   "badge": "Best Overall",
+   "name": "BLACK+DECKER Corded Leaf Blower, 7 Amp, 180 MPH, 180 CFM",
+   "specs": [
+    "7 amp motor",
+    "180 MPH",
+    "180 CFM",
+    "Cord retention"
+   ],
+   "specList": [
+    {
+     "label": "Motor",
+     "value": "7 amp corded"
+    },
+    {
+     "label": "Air speed",
+     "value": "Up to 180 MPH"
+    },
+    {
+     "label": "Airflow",
+     "value": "Up to 180 CFM"
+    },
+    {
+     "label": "Power source",
+     "value": "Corded electric"
+    },
+    {
+     "label": "Feature",
+     "value": "Built-in cord retention"
+    }
+   ],
+   "description": "The BLACK+DECKER is a plain corded handheld with a 7 amp motor that moves air at up to 180 MPH and 180 CFM. Those are modest figures next to the 500 to 780 CFM claims on cordless kits, but they are believable and sustained for as long as it is plugged in. A built-in cord retention hook keeps the extension cord from pulling loose.\n\nCompared with the MZK cordless kit, it delivers far less claimed airflow, yet it never fades and has no battery to wear out. Against the VIBOGEN, its 180 CFM is lower than the 420 CFM claim, but a plugged-in motor holds its output on the last leaf as on the first. It is best for a small patio, porch or short driveway within cord reach.\n\nOwnership is easy: no charging, no batteries and almost no maintenance beyond clearing the intake. Use a 16 gauge or heavier outdoor extension cord of reasonable length so the motor is not starved. Keep it dry and store it hung up. It suits renters and anyone who wants a simple tool that works every time without planning.",
+   "bestFor": "Small patios, porches and short driveways where an extension cord reaches and reliability matters.",
+   "pros": [
+    "No battery to charge or replace",
+    "Output stays steady while plugged in",
+    "Cord retention prevents pull-outs",
+    "Simple, light design is easy to store"
+   ],
+   "cons": [
+    "Cord limits reach and range",
+    "Lower airflow than cordless claims"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B01HIGWCQI?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/315cGtGwG6L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0HL861DDW",
+   "badge": "Best Value",
+   "name": "MZK 20V Cordless Leaf Blower, 2 x 4.0Ah Batteries, 600 CFM Claimed",
+   "specs": [
+    "20V platform",
+    "2 x 4.0Ah",
+    "200 MPH claimed",
+    "Up to 90 min"
+   ],
+   "specList": [
+    {
+     "label": "Voltage",
+     "value": "20V"
+    },
+    {
+     "label": "Batteries",
+     "value": "2 x 4.0Ah with charger"
+    },
+    {
+     "label": "Claimed speed",
+     "value": "200 MPH"
+    },
+    {
+     "label": "Claimed airflow",
+     "value": "600 CFM"
+    },
+    {
+     "label": "Claimed runtime",
+     "value": "Up to 90 minutes at max"
+    }
+   ],
+   "description": "The MZK is a 20V cordless blower that ships with two 4.0Ah batteries and a charger, with claims of 200 MPH, 600 CFM and up to 90 minutes. It sits at the bottom of the price range, which makes it attractive as a complete kit. The two batteries mean you can keep working by swapping one while the other charges.\n\nNext to the BLACK+DECKER corded unit, it moves around freely and lists far more airflow, though those peak numbers rarely hold for the whole runtime. Against the 21V 6.0Ah kit, it has smaller batteries and fewer speed settings. The batteries are not part of a wider tool platform, so they do not help with other tools.\n\nExpect the airflow to feel strongest in the first minutes and then settle, so run it at medium speed for long jobs. Charge the batteries before storage and avoid leaving them in a hot garage, because heat shortens their life. It suits buyers who want a cord-free kit at the lowest outlay and a small yard to clear.",
+   "bestFor": "Buyers who want the lowest-cost complete cordless kit with two batteries.",
+   "pros": [
+    "Two 4.0Ah batteries included",
+    "Fully cordless operation",
+    "Lowest tier in the lineup",
+    "Charger and kit ready to use"
+   ],
+   "cons": [
+    "Peak airflow claims are optimistic",
+    "Batteries are not cross-platform"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0HL861DDW?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41z0qUPecVL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0HQYQM249",
+   "badge": "Best Runtime",
+   "name": "21V Cordless Leaf Blower, 2 x 6.0Ah, 6-Speed, 600 CFM Claimed",
+   "specs": [
+    "21V",
+    "2 x 6.0Ah",
+    "6 speeds",
+    "60 min on low"
+   ],
+   "specList": [
+    {
+     "label": "Voltage",
+     "value": "21V"
+    },
+    {
+     "label": "Batteries",
+     "value": "2 x 6.0Ah with fast charger"
+    },
+    {
+     "label": "Speeds",
+     "value": "6 adjustable"
+    },
+    {
+     "label": "Claimed airflow",
+     "value": "600 CFM"
+    },
+    {
+     "label": "Claimed runtime",
+     "value": "Up to 60 minutes on low"
+    }
+   ],
+   "description": "This 21V kit comes with two larger 6.0Ah batteries and a fast charger, an axial flow turbine fan and six adjustable speeds. It claims up to 200 MPH, 600 CFM and about 60 minutes on low. The larger batteries are the reason it earns the runtime badge among the cordless kits.\n\nCompared with the MZK, it has 6.0Ah batteries against 4.0Ah, and six speed settings versus fewer, so it can stretch a charge across a larger yard. Against the corded BLACK+DECKER, it trades a steady 180 CFM for a movable but fading output. The six speeds help you drop to a low setting for dust and open up for leaves.\n\nTo get the stated runtime, use the low and middle speeds; turbo drains batteries quickly. Label the batteries and rotate them to keep wear even. This suits a homeowner with a medium yard who wants cordless freedom and is happy to manage battery levels.",
+   "bestFor": "Medium yards where larger batteries and six speed settings stretch a charge.",
+   "pros": [
+    "Two 6.0Ah batteries included",
+    "Six speeds suit many tasks",
+    "Fast charger shortens waiting",
+    "Axial turbine fan feels responsive"
+   ],
+   "cons": [
+    "Turbo mode empties batteries fast",
+    "Airflow figure is a peak claim"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0HQYQM249?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41lhBKxoxaL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0HGNZ8JMY",
+   "badge": "Best Safety Cover",
+   "name": "wanvzo Cordless Leaf Blower, 550 CFM Claimed, 2 x 21V Batteries",
+   "specs": [
+    "550 CFM claimed",
+    "2 x 21V",
+    "Honeycomb cover",
+    "Anti-vibration grip"
+   ],
+   "specList": [
+    {
+     "label": "Claimed airflow",
+     "value": "550 CFM"
+    },
+    {
+     "label": "Batteries",
+     "value": "2 x 21V"
+    },
+    {
+     "label": "Rear cover",
+     "value": "Honeycomb style"
+    },
+    {
+     "label": "Grip",
+     "value": "Anti-slip, anti-vibration"
+    },
+    {
+     "label": "Motor claim",
+     "value": "990000 RPM turbo motor"
+    }
+   ],
+   "description": "The wanvzo lists a 550 CFM airflow, two 21V batteries and a honeycomb-style rear cover that keeps fingers and debris away from the fan. The 990000 RPM figure in the listing describes the internal fan speed and is not a measure of blowing power, so we ignore it when ranking. An anti-slip, anti-vibration grip makes it comfortable in short sessions.\n\nAgainst the MZK, it has a safer, tighter rear cover but similar capacity batteries. Compared with the VIBOGEN, it lists more airflow at 550 CFM against 420, but with fewer speed settings than the six-speed kit. It sits in the middle of the lineup in tier.\n\nCheck the rear cover for leaves that lodge in the grille and clear them with the battery removed. Charge before long storage and avoid hot sheds. This suits households with children nearby who want a cordless blower with a more protected intake.",
+   "bestFor": "Households that want a protected rear intake and a comfortable grip for short sessions.",
+   "pros": [
+    "Honeycomb rear cover protects the fan",
+    "Anti-vibration grip reduces fatigue",
+    "Two 21V batteries in the box",
+    "550 CFM claim suits dry leaves"
+   ],
+   "cons": [
+    "RPM claim is marketing, not power",
+    "Fewer speed settings than the six-speed kit"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0HGNZ8JMY?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51xBq8TL1JL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0GYDSMFDB",
+   "badge": "Best Compact",
+   "name": "VIBOGEN Cordless Leaf Blower, 420 CFM, 150 MPH, 2 Speeds",
+   "specs": [
+    "420 CFM",
+    "150 MPH",
+    "2 speeds",
+    "Small and light"
+   ],
+   "specList": [
+    {
+     "label": "Airflow",
+     "value": "Up to 420 CFM"
+    },
+    {
+     "label": "Air speed",
+     "value": "Up to 150 MPH"
+    },
+    {
+     "label": "Speeds",
+     "value": "2 adjustable"
+    },
+    {
+     "label": "Size",
+     "value": "Small, portable handheld"
+    },
+    {
+     "label": "Power",
+     "value": "Cordless with battery and charger"
+    }
+   ],
+   "description": "The VIBOGEN is a small portable cordless blower with up to 420 CFM and 150 MPH and two speed settings, a low one for dust and a higher one for leaves and clippings. It is the second-lowest tier in the lineup and one of the lightest options. A single battery and charger come in the box.\n\nCompared with the 21V 6.0Ah kit, it has less airflow and only two speeds, and one battery rather than two, so runtime is the limiting factor. Against the BLACK+DECKER corded model, it lists more peak airflow but cannot run indefinitely. It is a good fit for cleaning a garage, a deck or a car interior.\n\nTreat it as a quick-cleanup tool and keep the battery charged. Wipe the intake after use and store it where heat is moderate. It suits apartment dwellers and people with a small balcony or patio.",
+   "bestFor": "Balconies, garages and small decks where a compact, light blower is enough.",
+   "pros": [
+    "Small and light to handle",
+    "Two speeds for dust and leaves",
+    "Low cost for a cordless kit",
+    "420 CFM claim suits light debris"
+   ],
+   "cons": [
+    "Single battery limits runtime",
+    "Only two speed settings"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0GYDSMFDB?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41JD19o2ZwL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DJJB7WS9",
+   "badge": "Best Two-Speed Kit",
+   "name": "WOLFMEN Cordless Leaf Blower, 450 CFM Axial Fan, 2 Speeds",
+   "specs": [
+    "450 CFM",
+    "Axial turbofan",
+    "2 speeds",
+    "2 batteries"
+   ],
+   "specList": [
+    {
+     "label": "Airflow",
+     "value": "Up to 450 CFM"
+    },
+    {
+     "label": "Fan",
+     "value": "Axial flow turbofan"
+    },
+    {
+     "label": "Speeds",
+     "value": "2 intensity modes"
+    },
+    {
+     "label": "Batteries",
+     "value": "2 with charger"
+    },
+    {
+     "label": "Style",
+     "value": "Lightweight handheld"
+    }
+   ],
+   "description": "The WOLFMEN pairs an axial flow turbofan rated up to 450 CFM with two intensity modes, two batteries and a charger. It sits in the middle of the price range and is a straightforward two-battery kit with no frills. The simple two-speed control suits people who want low and high without a dial.\n\nNext to the VIBOGEN, it adds a second battery and a bit more airflow, so you can keep working while one pack charges. Against the wanvzo, it has fewer safety touches but a comparable airflow claim. It does not offer the six-speed flexibility of the larger kit.\n\nFor ownership, keep the vents clear and run it on low for a gentle sweep around plants. Charge both batteries before storage in winter. It suits homeowners who want a simple, plug-and-use kit with a spare battery.",
+   "bestFor": "Homeowners who want a simple two-battery kit with straightforward low and high settings.",
+   "pros": [
+    "Two batteries and a charger included",
+    "Axial fan moves air efficiently",
+    "Simple two-mode control",
+    "Light enough to use one-handed"
+   ],
+   "cons": [
+    "Fewer speeds than the six-speed kit",
+    "No standout safety features"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0DJJB7WS9?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41uzk7o8zGL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0GX4T18J1",
+   "badge": "Lightest Pick",
+   "name": "FAOGO Cordless Leaf Blower, 2.8 lb, 110+ MPH, 2 Batteries",
+   "specs": [
+    "2.8 lb",
+    "110+ MPH",
+    "2 batteries",
+    "13+ min each"
+   ],
+   "specList": [
+    {
+     "label": "Weight",
+     "value": "2.8 lb"
+    },
+    {
+     "label": "Air speed",
+     "value": "Over 110 MPH (50 m/s)"
+    },
+    {
+     "label": "Batteries",
+     "value": "2 lithium"
+    },
+    {
+     "label": "Runtime",
+     "value": "13+ minutes per battery"
+    },
+    {
+     "label": "Grip",
+     "value": "Anti-vibration"
+    }
+   ],
+   "description": "The FAOGO weighs just 2.8 lb and lists wind speeds over 110 MPH. It ships with two lithium batteries, each giving 13 or more minutes of strong airflow. That short runtime is the honest number to remember, because the marketing 990,000 RPM figure describes the internal fan, not the work it does.\n\nCompared with the VIBOGEN, it is lighter but has a lower listed air speed, and compared with the 21V 6.0Ah kit it has far shorter battery life. Next to the BLACK+DECKER corded model, it gives freedom of movement at the cost of staying power. It is a tool for light dust, clippings and a quick tidy.\n\nKeep batteries rotated and charged, and expect to swap packs on anything larger than a patio. Its low weight is its main virtue and it is easy for older users or small hands. It suits people who want the lightest possible handheld and have very small cleanup areas.",
+   "bestFor": "Small hands and tiny areas where a very light handheld matters more than runtime.",
+   "pros": [
+    "Only 2.8 lb in the hand",
+    "Two batteries ship in the box",
+    "Anti-vibration grip reduces fatigue",
+    "Over 110 MPH suits dust and clippings"
+   ],
+   "cons": [
+    "13 minutes per battery is short",
+    "Lowest air speed of the cordless picks"
+   ],
+   "rank": 7,
+   "amazonUrl": "https://www.amazon.com/dp/B0GX4T18J1?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41rQ28GrJ5L._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "CFM versus MPH",
+   "explanation": "CFM is the volume of air that moves leaves in bulk, and MPH is the speed that lifts stuck debris. A good handheld balances both. The BLACK+DECKER lists 180 CFM and 180 MPH while the MZK claims 600 CFM and 200 MPH, but peak and sustained numbers differ, so treat large claims with caution."
+  },
+  {
+   "criterion": "Corded or cordless",
+   "explanation": "Corded blowers like the BLACK+DECKER hold steady output with no battery wear but need an outlet and cord. Cordless kits roam freely but fade as the cells drain. Count the total area you clear before choosing."
+  },
+  {
+   "criterion": "Battery capacity and runtime",
+   "explanation": "A 4.0Ah pack in the MZK and a 6.0Ah pack in the 21V kit store different amounts of energy, and runtime varies hugely with speed. A 60 minute claim is on low speed, while turbo drains batteries in minutes. The FAOGO states about 13 minutes per battery, which is the realistic scale."
+  },
+  {
+   "criterion": "Marketing RPM claims",
+   "explanation": "Listings such as 990,000 RPM on the wanvzo and FAOGO describe internal fan speed. They do not tell you airflow at the nozzle. Ignore RPM and compare CFM, MPH and battery capacity."
+  },
+  {
+   "criterion": "Weight and handling",
+   "explanation": "Handhelds range from the FAOGO at 2.8 lb to larger kits that feel heavier after ten minutes. A light blower reduces fatigue but often means a small battery. Grip shape and vibration damping matter on long sessions."
+  },
+  {
+   "criterion": "Speed settings and control",
+   "explanation": "Two-speed designs like the VIBOGEN and WOLFMEN are simple, while the 21V kit offers six speeds. More steps help you save battery on light jobs and open up for heavy leaves. A single mode forces you to run flat out."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "CFM",
+   "meaning": "Cubic feet per minute, the volume of air the blower moves. It determines how fast you push a pile of leaves.",
+   "watchFor": "Peak claims such as 600 CFM on the MZK are rarely sustained for the whole runtime."
+  },
+  {
+   "spec": "MPH",
+   "meaning": "Air speed at the nozzle in miles per hour. It lifts stuck and wet debris.",
+   "watchFor": "The BLACK+DECKER lists 180 MPH while the FAOGO lists over 110 MPH."
+  },
+  {
+   "spec": "Battery Ah",
+   "meaning": "Amp hours, the battery's stored charge. Higher Ah means longer runtime at the same load.",
+   "watchFor": "The 21V kit has 6.0Ah against the MZK's 4.0Ah."
+  },
+  {
+   "spec": "Amps (corded)",
+   "meaning": "Motor current draw, a measure of motor size on corded tools.",
+   "watchFor": "The BLACK+DECKER is a 7 amp motor, which is typical of light corded blowers."
+  },
+  {
+   "spec": "Brushless versus turbo claims",
+   "meaning": "Brushless motors run cooler and last longer, while turbo is a short high-power burst.",
+   "watchFor": "The wanvzo's honeycomb cover and RPM claim are features, not proof of power."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Claim skepticism",
+   "description": "We read every CFM, MPH and RPM claim and discounted peak and internal numbers. We evaluated which figures looked believable. The BLACK+DECKER's modest 180 CFM was the clearest."
+  },
+  {
+   "title": "Runtime and battery size",
+   "description": "We compared battery capacity, from 4.0Ah on the MZK to 6.0Ah on the 21V kit. Runtime claims were read in context of speed settings. The FAOGO's 13 minute figure was treated as the realistic scale."
+  },
+  {
+   "title": "Handling and weight",
+   "description": "We compared weight, grip and vibration control for a typical 20 minute cleanup. The FAOGO is only 2.8 lb. Heavier blowers lost points where fatigue arrives early."
+  },
+  {
+   "title": "Ownership patterns",
+   "description": "Owner feedback patterns about battery decline, cracked housings and clogged intakes shaped the cons. Corded options earned credit for having no battery to age. We weighed charger quality."
+  },
+  {
+   "title": "Value",
+   "description": "Price tier ordered the lineup, and we favored the lower half. We looked at what the extra battery or speed dial adds. Complete kits scored well."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Yard Size",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Balcony or garage",
+      "VIBOGEN 420 CFM",
+      "Compact and light."
+     ],
+     [
+      "Patio and driveway within cord reach",
+      "BLACK+DECKER Corded",
+      "No battery to run down."
+     ],
+     [
+      "Small lawn",
+      "MZK 20V",
+      "Two 4.0Ah batteries."
+     ],
+     [
+      "Medium yard",
+      "21V 6.0Ah Kit",
+      "Larger batteries and six speeds."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest cost kit",
+      "MZK 20V",
+      "Bottom tier with two batteries."
+     ],
+     [
+      "Low cost compact",
+      "VIBOGEN",
+      "Second lowest tier."
+     ],
+     [
+      "Corded value",
+      "BLACK+DECKER",
+      "No battery cost to replace."
+     ],
+     [
+      "Middle of the range",
+      "wanvzo",
+      "Protected rear cover."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Corded vs Cordless",
+   "cards": [
+    {
+     "label": "Corded",
+     "text": "The BLACK+DECKER gives steady output and needs only a cord. It is the cheapest long-term option because there is no battery to wear out."
+    },
+    {
+     "label": "Cordless",
+     "text": "The MZK, 21V kit and wanvzo roam freely and include batteries. Runtime and fading output are the cost."
+    }
+   ],
+   "note": "Pick corded if you have outlets near the work and cordless if you roam."
+  },
+  {
+   "subheading": "By Battery Strategy",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Longest runtime",
+      "21V 6.0Ah Kit",
+      "6.0Ah packs and six speeds."
+     ],
+     [
+      "Spare pack for swapping",
+      "WOLFMEN",
+      "Two batteries and two modes."
+     ],
+     [
+      "Quick cleanups",
+      "FAOGO",
+      "Two small, light packs."
+     ],
+     [
+      "Fewest batteries to manage",
+      "BLACK+DECKER",
+      "None at all."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Small Yards Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Light weight, a believable CFM figure, and either a cord or a spare battery. Two speed settings are enough."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The BLACK+DECKER and the MZK 20V are the best fits, with the VIBOGEN for balconies."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You have wet leaves, a large or tree-heavy yard, or want a battery platform for other tools. A platform blower with a larger battery is worth it."
+    },
+    {
+     "label": "Save if",
+     "text": "You clear a patio and a short lawn. A corded or entry cordless blower is enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Clear the intake",
+   "interval": "After each use",
+   "why": "Leaves and debris reduce airflow and heat the motor. A brush keeps the vents clear."
+  },
+  {
+   "task": "Store batteries partly charged",
+   "interval": "Before winter",
+   "why": "Cells age faster when empty or hot. A middle charge keeps capacity."
+  },
+  {
+   "task": "Check the cord or connector",
+   "interval": "Each season",
+   "why": "Nicks in an extension cord are a shock risk. Replace a damaged cord."
+  },
+  {
+   "task": "Wipe the nozzle and housing",
+   "interval": "Monthly",
+   "why": "Dust builds up and hides cracks. A damp cloth lets you spot damage."
+  },
+  {
+   "task": "Rotate battery packs",
+   "interval": "Every few uses",
+   "why": "Even wear extends the life of both packs. Label them to keep track."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is corded or cordless better for a budget blower?",
+   "a": "Corded is cheaper to own because there is no battery to replace and output stays steady. Cordless is better if you cannot reach an outlet."
+  },
+  {
+   "q": "How much CFM do I really need?",
+   "a": "For a patio and small lawn, 400 to 600 claimed CFM is plenty for dry leaves. Wet leaves need more power than these picks offer."
+  },
+  {
+   "q": "Do budget cordless blowers last?",
+   "a": "The motors often last longer than the batteries. Expect battery capacity to decline over a few seasons with heavy use."
+  },
+  {
+   "q": "Is 990,000 RPM a real advantage?",
+   "a": "No. It describes internal fan speed and says little about blowing power. Compare CFM and MPH instead."
+  },
+  {
+   "q": "Can I use these on wet leaves?",
+   "a": "They struggle with wet leaves because the airflow is modest. Wait for leaves to dry or step up to a stronger tool."
+  },
+  {
+   "q": "Are electric blowers quiet?",
+   "a": "They are quieter than gas models, but still loud enough to warrant hearing protection during long sessions."
+  }
+ ],
+ "relatedGuides": [
+  {
+   "title": "Best Leaf Blowers",
+   "href": "/guide/best-leaf-blowers"
+  },
+  {
+   "title": "Leaf Blower CFM vs MPH",
+   "href": "/guide/leaf-blower-cfm-vs-mph"
+  }
+ ],
+ "heroImage": "https://m.media-amazon.com/images/I/315cGtGwG6L._SL500_.jpg"
+}

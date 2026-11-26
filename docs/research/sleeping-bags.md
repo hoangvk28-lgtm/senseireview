@@ -1,0 +1,17 @@
+# sleeping-bags (camping sleeping bags)
+- Temperature ratings: comfort (typical woman), limit (typical man), extreme (survival only); budget bags often print a lowest-number rating that is closer to limit or extreme.
+- Add a 10 to 15 degree F margin: a 30F bag is a comfortable 40 to 45F bag for most sleepers.
+- Synthetic fill (polyester) is bulkier and heavier than down but tolerates damp and is easy to wash.
+- Fill weight is quoted in grams per square meter (GSM) or total grams; 400 to 450 GSM is typical for 20 to 30F car-camping bags.
+- Rectangular bags give room and often unzip into a quilt; mummy bags are warmer per pound but cramp movement.
+- The pad matters as much as the bag: insulation under you compresses, so a pad with R-value 3 or higher is needed below about 40F.
+- Draft tubes and draft collars behind the zipper cut heat loss; a hood adds warmth.
+- Stated user height limits (for example up to 5 ft 11 in) matter; too long wastes warmth, too short squeezes the fill.
+- Cotton flannel linings feel soft but absorb moisture and dry slowly; polyester linings dry faster.
+- Compression sacks shrink the bag but long-term compression damages loft; store loose.
+- Machine wash gently and dry low; clean bags retain loft better.
+- Waterproof claims on budget bags usually mean a water-resistant shell, not a tent substitute.
+- Weight of 3 to 5 lb is car-camping territory, not backpacking.
+- Two-way zippers and bags that zip together suit couples and ventilation.
+- Zipper snags are the most common failure; a no-snag strip or a stiffened zipper guard helps.
+- "4 season" on a budget listing rarely means winter-ready.

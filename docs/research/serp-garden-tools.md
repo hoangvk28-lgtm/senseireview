@@ -10,3 +10,33 @@
 - Top guides lead with material, diameter and length, kink resistance, fittings, drinking-water safety.
 - Expandable vs rubber vs hybrid vs metal; weight and durability tradeoffs.
 - Missed angle: pressure drop with length, expandable lifespan, heat on metal hoses.
+## best-budget-leaf-blowers
+- Top guides lead with CFM and MPH, then corded vs cordless vs gas, then battery platform and runtime.
+- They split picks by yard size and use: small patios, mid yards, wet leaves, and large properties with backpack or walk-behind units.
+- Common questions: CFM versus MPH, how long does the battery last, is it too loud.
+- Budget picks are usually light corded or entry cordless; many flag that cheap cordless runtime is short.
+- Gap to cover: skepticism about internal RPM and inflated CFM claims, and the value of a corded blower with no battery to age.
+## best-budget-garden-hoses
+- Top guides lead with material (rubber, hybrid polymer, vinyl, expandable, metal), then diameter and length, then fittings.
+- They split picks by use: everyday watering, lightweight for older users, heavy-duty rubber, kink-free metal, and storage with reels.
+- Common questions: 5/8 vs 3/4 inch, is it drinking-water safe, will it kink or burst.
+- Flexzilla-type hybrid hoses and stainless metal hoses recur; expandable hoses appear as a light option with durability caveats.
+- Gap to cover: matching hose length to the tap and flow loss with distance, and the honest wear pattern of expandable hoses.
+## best-budget-pruning-shears
+- Top guides lead with bypass versus anvil, then blade steel and coating, then cut capacity and hand fit.
+- They split picks by user: general gardeners, rose and flower snips, thicker branches, left-handed and arthritis-friendly.
+- Common questions: how thick can it cut, how to keep it sharp, which handle size fits small hands.
+- Budget picks are usually Fiskars-style bypass pruners; many mention a single reliable pair beats multi-packs.
+- Gap to cover: why multi-piece packs with gloves are a poor value, and how to read cut-capacity claims against blade type.
+## best-garden-carts-under-100
+- Top guides lead with load capacity, bed type (poly versus steel mesh) and tire type (pneumatic versus no-flat).
+- They split picks by use: dump carts for soil and mulch, utility wagons for tools, folding wagons for storage, and carts with seats.
+- Common questions: is steel better than poly, how much weight is safe, do I need a dump feature.
+- Gorilla Carts poly dump models recur; steel carts from Best Choice and VEVOR show up as budget picks.
+- Gap to cover: that capacity labels are ceilings, wheel and axle quality limit real loads, and flat-pack assembly is part of the cost.
+## best-pole-saws-under-100
+- Top guides lead with power source (battery, corded, gas, manual), then reach, weight and bar length.
+- They split picks by yard: small trees and shrubs, heavy limbs, and occasional use with a manual pole saw.
+- Common questions: how thick a branch can it cut, how heavy is it overhead, is it safe near power lines.
+- Budget picks are corded WEN-style models, Worx and Sun Joe convertibles, and cheap manual pole saws.
+- Gap to cover: that mini chainsaw conversions are light but slow, battery runtime at full reach, and the real limit on branch size.

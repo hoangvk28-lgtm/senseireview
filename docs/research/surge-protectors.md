@@ -1,0 +1,17 @@
+# surge-protectors (power strips with surge protection)
+- Joules is a rough durability measure (how much energy the MOVs absorb before end of life), not protection quality; a higher rating lasts longer.
+- Clamping voltage / UL 1449 voltage protection rating (VPR): lower is better; 330 V is the best common level, 400 V acceptable, 500 V weak.
+- UL 1449 listing is the baseline; ETL is an equivalent listing; FCC and RoHS are not safety listings for surge protection.
+- Protection light shows protected status; a dark light means the MOVs are spent; a lit light does not guarantee full protection after many surges.
+- Surge protectors wear out; replace every few years or after a major surge.
+- A power strip without surge protection looks similar; check for a joule and UL 1449 line.
+- Total load limit is 15 A / 1875 W on a US circuit; space heaters, microwaves and kettles do not belong on a strip.
+- Never daisy chain strips; plug directly into the wall.
+- Wide-spaced outlets fit adapter bricks; 3-side designs expose more outlets.
+- USB ports: 2.4 A or about 12 W per port is slow; USB-C PD of 20 W or more suits phones.
+- Flat plugs fit behind furniture; cord length 5 to 10 ft matters for placement.
+- Overload and short-circuit protection with a resettable breaker is a safety plus.
+- Surge protectors do not keep devices on during an outage; a UPS does.
+- Surge protectors do not protect against sustained overvoltage or brownouts.
+- Coax and phone line protection exists on some models.
+- Keep strips off carpets and avoid covering them.

@@ -1,0 +1,17 @@
+# tool-belts (tool belts, aprons, pouches)
+- Leather is the traditional framing choice: molds to the body over time, heavier, needs break-in, costs more.
+- Nylon and polyester (600 to 1680 denier) are lighter, flex more and suit electricians and finish work; denier is a fabric weight, not a strength guarantee.
+- Weight matters most: a loaded belt commonly carries 20 to 40 lb of gear; the belt carries load on the hips, suspenders move some of it to the shoulders.
+- Suspenders shift weight, they do not remove it; carrying fewer tools is the bigger fix.
+- Sizing: measure where the belt rides on the hips, not the waist; adjustable belts avoid size mistakes.
+- Pocket count is not usefulness: a mix of sizes and a layout that matches your trade matters more.
+- Hammer loops and nail pockets matter for carpentry; pencil sleeves and tape holders matter for drywall and measuring.
+- Sag-resistant, structured or lined pockets stay open for one-handed grabs.
+- Rivets and double stitching at stress points matter more than the fabric label.
+- Aprons and pouches ride the front; a full rig with two pouches balances left and right.
+- A poly web belt with a metal interlocking buckle is light but stretches with heavy loads.
+- Leather needs conditioning and drying away from heat; nylon needs a rinse and air dry.
+- Removable and interchangeable parts let a belt grow with your tools.
+- Carry handles on aprons help transport but are not for lifting a full load.
+- Homeowners rarely need 25 pockets; 6 to 12 pockets and a light belt covers most projects.
+- Sharp tools in open pockets need a sleeve or cover for safety.

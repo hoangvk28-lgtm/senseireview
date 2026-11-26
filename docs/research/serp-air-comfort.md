@@ -10,3 +10,9 @@
 - Common questions: cleaning effort, white dust, night noise.
 - Top-fill designs are flagged as easier to clean.
 - Gap we cover: mineral dust and the ownership cost of cleaning plus distilled water.
+## best-patio-heaters-under-200
+- Top guides lead with fuel type (propane, electric, infrared), then BTU or wattage and heating radius.
+- They split picks by space: open patios, covered porches, tabletop and wall-mounted heaters.
+- Common questions: how many BTU do I need, can I use it indoors or under a cover, how long does a tank last.
+- Budget picks recur around Amazon Basics 46,000 BTU and Hykolity or Sweetcrispy 48,000 BTU propane towers.
+- Gap to cover: wind and open-air heat loss, the clearance and safety rules, and that electric infrared suits small covered spots only.
