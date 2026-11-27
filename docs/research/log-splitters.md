@@ -1,0 +1,14 @@
+# log splitters
+- Tonnage is the hydraulic force at the wedge; 5 to 10 tons splits softwoods and small straight logs; 20 to 30 tons handles knotty, green or large hardwood rounds.
+- Electric units (about 6.5 to 7 tons on a standard outlet) are quiet and need no fuel but are slower and limited on tough knots; gas units cost more and need engine care.
+- Cycle time (seconds per full stroke) sets throughput; many gas units quote 10 to 15 seconds, small electric ones about 10 to 20 or slower.
+- Log capacity (length and diameter) matters as much as tons; a 20 inch log needs a splitter built for it.
+- Horizontal beds suit lifting and small logs; vertical mode suits heavy rounds that you cannot lift; combined horizontal and vertical units are flexible but heavier.
+- Four-way wedges split a log into four pieces in one stroke and need more force.
+- Gas engines: displacement in cc and horsepower matter; oil level and fresh fuel matter; do not run indoors.
+- Never place hands between the log and the wedge; keep bystanders away; wear gloves, eye and ear protection.
+- Manual splitters (kindling crackers, axes, mauls) suit small kindling and occasional use; they are safer for kindling when used as designed but need effort.
+- Hydraulic oil level and filter, and sharp wedges, keep performance up.
+- Wheels and tow hitches help move heavy units; check weight and whether you will lift it.
+- Green wood splits easier than dry, knotty wood; cut rounds straight and keep logs square.
+- Year three: hydraulic leaks, engine carburetor gum, wedge dulling and pump seals.

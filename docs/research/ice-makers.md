@@ -1,0 +1,16 @@
+# ice-makers (countertop portable)
+- Portable ice makers are self-contained: you fill a reservoir by hand, there is no water line, and meltwater recirculates.
+- The "26 lbs per day" number is a manufacturer maximum over 24 hours with the reservoir kept topped up and the basket emptied; real output depends on use.
+- The storage basket holds only about a pound or two, so you cannot pull a day's supply at once; ice melts into the reservoir if left in the basket.
+- First batch is ready in roughly 6 to 8 minutes after the machine cools down; later cycles are slower in a warm room.
+- Bullet (cylinder) ice is hollow, cloudy and melts faster than solid cubes; nugget ice is chewable but needs a different machine.
+- Two cube sizes (small and large) change the freeze time, not the daily volume; larger cubes freeze a little slower.
+- These units are compressor-based, similar to a small refrigerator; they need clearance around vents and a level surface.
+- Noise is a compressor hum plus the drop of ice; expect it to be audible in a quiet room.
+- Self-clean cycles flush the lines and tray with water, often with a descaling step; they do not replace a wipe and a descale with citric acid or the maker's cleaner.
+- Hard water leaves scale on the evaporator fingers; filtered or soft water slows buildup and improves ice clarity and taste.
+- Meltwater left in the reservoir grows odors and slime, so drain it when you finish for the day.
+- Do not run the machine when it is empty, and do not tilt or move it while it is cycling.
+- Power draw is modest but the unit runs the compressor continuously while making ice.
+- Year three: scale on the water pump and sensor, a noisier compressor and worn lids; keep a descaler and wipe-down habit.
+- Stored ice in the basket is not food-safe forever; empty and wash the basket if it sits for days.

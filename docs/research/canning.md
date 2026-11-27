@@ -1,0 +1,17 @@
+# canning (pressure canners)
+- Low-acid foods (meat, poultry, fish, most vegetables, beans, soups) need pressure canning; water bath canning is for high-acid foods such as many fruits, pickles and jams with added acid.
+- Follow tested processing times and pressures from the USDA, a university extension or the jar maker; never invent or shorten times.
+- A pressure canner is not the same as a pressure cooker: canners are built and sized to hold jars and are tested for it.
+- Weighted-gauge canners use a rocking or jiggling weight at fixed pressures (commonly 5, 10, 15 PSI); the sound confirms pressure without watching a dial.
+- Dial-gauge canners let you read exact pressure, useful at altitude, but the dial can drift and should be tested for accuracy each season (extension offices often do it).
+- Altitude changes the pressure you must use; check your elevation before you start.
+- Metal-to-metal seal canners (All American style) have no rubber gasket to replace but need careful lid alignment and a light lubricant on the sealing surface.
+- Gasket canners (Presto style) have a rubber or silicone ring that wears and should be replaced when it hardens, cracks or leaks.
+- Aluminum canners are lighter and heat quickly; stainless is heavier, resists staining and often works on induction if the base is magnetic.
+- Induction needs a flat, magnetic base and a capacity within the range the cooktop manufacturer allows; glass tops can be damaged by very heavy, full canners.
+- Digital or electric canners automate pressure and timing but hold fewer jars; check that your recipes are tested for that style of canner.
+- Capacity is quoted in quarts of water volume; the number of jars it holds depends on jar size and whether the canner allows a second layer with a rack.
+- Always vent steam for the time the manual says (often about 10 minutes) before putting on the weight or gauge.
+- Let the canner depressurize on its own; never force cool it, and never open it while pressurized.
+- Keep the vent pipe and safety valve clean and unclogged; a spare gasket and overpressure plug are cheap insurance.
+- Year-three ownership: gaskets and overpressure plugs, dial accuracy, a warped base on thin aluminum if overheated, and storage with the lid inverted or ajar to avoid odors.

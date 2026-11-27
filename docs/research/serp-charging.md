@@ -30,3 +30,8 @@
 - Common questions: will it fast-charge my iPhone or Galaxy, do I need PPS, does a second device slow the first.
 - GaN size savings and a Anker-style compact 30W budget pick recur.
 - Gap to cover: that port wattage splits when several ports are used, and that a bundled charger plus cable deal is often phone-class only.
+## best-portable-power-stations-for-camping
+- Top guides lead with watt-hour capacity, AC output and weight, then recharge speed.
+- They split picks by best overall, budget, compact, backpacking and RV.
+- They advise checking CPAP wattage and matching Wh to the loads you plan to run.
+- Gap we cover: runtime math with inverter losses, surge versus continuous watts, idle draw, and why heaters are poor camp loads.

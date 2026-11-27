@@ -1,0 +1,598 @@
+{
+ "guideSlug": "best-coffee-grinders-for-espresso",
+ "categorySlug": "home-kitchen",
+ "mainKeyword": "espresso coffee grinder",
+ "guideTitle": "Best Coffee Grinders for Espresso (2026)",
+ "metaTitle": "Best Coffee Grinders for Espresso",
+ "metaDescription": "Burr grinders that can actually reach espresso fineness: step size, burr type, retention and cleanup compared, plus honest limits of low-cost models.",
+ "lastUpdated": "2026-11-27",
+ "readTime": "12 min",
+ "heroImage": "https://m.media-amazon.com/images/I/311XRid-OfL._SL500_.jpg",
+ "expertTake": "The Breville Smart Grinder Pro is the best overall pick because it combines a conical burr, 60 grind settings and programmable dosing aimed squarely at espresso. The Cuisinart DBM-8P1 is the value pick for buyers who want a burr grinder above blade-grinder quality, but its 18 settings are too coarse in steps for dialing in a true espresso shot. Anyone using a pressurized portafilter basket can skip the espresso-grinder price tier, because that basket forgives a coarser grind.",
+ "introParagraphs": [
+  "Espresso is the most demanding brew method for a grinder. The grind must be fine, even and adjustable in tiny steps, because a small change in particle size changes shot time and flavor far more than it does in drip coffee.",
+  "This guide compares grinders chosen for espresso use. We evaluated each on published specifications, burr type, adjustment step size, retention, cleanup and owner feedback patterns, and we separate real espresso capability from labels that only say espresso on the box."
+ ],
+ "products": [
+  {
+   "id": "B00OXGXW8O",
+   "rank": 1,
+   "badge": "Best Overall",
+   "name": "Breville Smart Grinder Pro BCG820, 60 Settings, Dosing IQ",
+   "amazonUrl": "https://www.amazon.com/dp/B00OXGXW8O?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/311XRid-OfL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "Conical burr",
+    "60 settings",
+    "Dosing IQ",
+    "Programmable"
+   ],
+   "specList": [
+    {
+     "label": "Burr",
+     "value": "Conical, stainless steel"
+    },
+    {
+     "label": "Grind settings",
+     "value": "60"
+    },
+    {
+     "label": "Dosing",
+     "value": "Digital timed dosing, Dosing IQ"
+    },
+    {
+     "label": "Use",
+     "value": "Espresso to coarse brew"
+    },
+    {
+     "label": "Class",
+     "value": "Highest tier here"
+    }
+   ],
+   "description": "The Breville Smart Grinder Pro is a conical burr electric grinder with 60 settings and a digital timer that doses by grind time. It is built for espresso, with fine steps at the espresso end and a design that fits a portafilter. Dosing IQ lets you program the grind time so a repeat shot gets the same amount of coffee.\n\nAgainst the Cuisinart DBM-8P1 it has far more settings, so you can dial in an espresso shot in small steps. Against the single-dose Viesimple, it uses a hopper, so beans sit in the grinder and the dose is timed, not weighed. It is the most expensive grinder in this guide, and it is the one that most closely resembles what an espresso machine maker would recommend.\n\nOwnership is routine: empty the hopper when changing beans, brush the burrs and chute weekly and wipe the bin. Coffee oils build up in the burrs, so a thorough clean every month keeps results consistent. Plastic parts and the timer-based dosing are the weaker points, because the dose is not truly weighed.",
+   "bestFor": "Home baristas who want a dependable hopper grinder with real espresso range.",
+   "pros": [
+    "60 settings give fine step control for dialing in espresso",
+    "Conical burr design suits espresso and coarser methods",
+    "Programmable timed dosing repeats the same dose each shot",
+    "Widely supported with parts and community guidance"
+   ],
+   "cons": [
+    "Highest cost tier in the lineup",
+    "Dosing is by time, not weight",
+    "Plastic construction and static can annoy daily users"
+   ]
+  },
+  {
+   "id": "B0DR8J194V",
+   "rank": 2,
+   "badge": "Best Single-Dose Option",
+   "name": "Viesimple Gen 4 Single-Dose Espresso Grinder, 48 mm Burr",
+   "amazonUrl": "https://www.amazon.com/dp/B0DR8J194V?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/3123wi8WCUL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "48 mm burr",
+    "Single dose",
+    "Magnetic cup",
+    "Sealed catch cup"
+   ],
+   "specList": [
+    {
+     "label": "Burr size",
+     "value": "48 mm"
+    },
+    {
+     "label": "Mode",
+     "value": "Single dose, corded"
+    },
+    {
+     "label": "Catch cup",
+     "value": "Sealed lid to limit static spray"
+    },
+    {
+     "label": "Retention approach",
+     "value": "Designed to keep grounds in the cup"
+    },
+    {
+     "label": "Use",
+     "value": "Espresso and general grinding"
+    }
+   ],
+   "description": "The Viesimple Gen 4 is a corded single-dose grinder with a 48 mm burr and a sealed catch cup meant to reduce grounds flying around. Single-dose grinders are the format favored by enthusiasts: you weigh your beans, drop them in and grind just that amount, which limits staleness and stale retained grounds.\n\nAgainst the Breville Smart Grinder Pro, it suits people who change beans often and weigh doses, but it lacks a hopper and presets. Against the OXO Brew, it offers a bigger burr and a single-dose workflow, but at a higher tier and with less brand history. The 48 mm burr is large for the price class, which can mean faster grinding and less heat.\n\nIn daily use, weigh the dose, grind and wipe out any retained grounds with a few taps. Clean the burrs every few weeks with a brush. The unit is newer than the established models, so long-term durability is the main question, and owner feedback patterns are thinner.",
+   "bestFor": "Enthusiasts who weigh doses and change beans often.",
+   "pros": [
+    "48 mm burr is large for a home grinder",
+    "Single-dose design avoids stale beans sitting in a hopper",
+    "Sealed catch cup limits static and flying grounds",
+    "Corded power avoids battery limits"
+   ],
+   "cons": [
+    "No hopper, so every dose is loaded by hand",
+    "Newer product with a thinner track record",
+    "Less suited to batch grinding for several people"
+   ]
+  },
+  {
+   "id": "B0CM9Z6HYF",
+   "rank": 3,
+   "badge": "Best Everyday Burr Grinder",
+   "name": "OXO Brew Conical Burr Grinder, 40 mm Steel Burrs, 12 oz Hopper",
+   "amazonUrl": "https://www.amazon.com/dp/B0CM9Z6HYF?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31MGkVeYN2L._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "40 mm conical burrs",
+    "15 settings + micro",
+    "12 oz hopper",
+    "Auto shut-off"
+   ],
+   "specList": [
+    {
+     "label": "Burr",
+     "value": "40 mm stainless steel conical"
+    },
+    {
+     "label": "Settings",
+     "value": "15 plus 43 micro-adjustments"
+    },
+    {
+     "label": "Hopper",
+     "value": "12 oz"
+    },
+    {
+     "label": "Control",
+     "value": "Timer and automatic grind"
+    },
+    {
+     "label": "Use",
+     "value": "Espresso to French press"
+    }
+   ],
+   "description": "The OXO Brew grinder uses 40 mm stainless steel conical burrs with 15 settings and 43 micro-adjustments between them, a combination that gives finer control than the headline 15 suggests. It has a 12 oz bean hopper and a timer-driven grind. It is a mainstream burr grinder that reaches the fine end well enough for entry-level espresso setups.\n\nAgainst the Cuisinart DBM-8P1 it offers more precise steps, which matters at espresso fineness. Against the Breville Smart Grinder Pro, it has fewer total steps and no programmable dosing, but it is simpler and often lower in cost. It sits in the middle of the lineup.\n\nOwnership is easy: remove the hopper to empty beans, clean the burrs with the brush and wipe the bin. Static cling is a common complaint on plastic bins, so a spritz of water on beans can help. For true dialing-in on a pressurized or entry-level machine it is adequate, but demanding shot tuning favors the Breville.",
+   "bestFor": "Everyday users who want a simple burr grinder with usable espresso range.",
+   "pros": [
+    "40 mm steel conical burrs give more consistent grounds than blades",
+    "Micro-adjustments between settings help reach the espresso zone",
+    "12 oz hopper suits daily use",
+    "Simple controls and a familiar brand"
+   ],
+   "cons": [
+    "Fewer total steps than the Breville for fine tuning",
+    "Plastic bin attracts static",
+    "No programmable dose"
+   ]
+  },
+  {
+   "id": "B0GY8L4LCD",
+   "rank": 4,
+   "badge": "Best Portafilter-Ready",
+   "name": "AAOBOSI Espresso Grinder, 45 Settings, Portafilter Holder",
+   "amazonUrl": "https://www.amazon.com/dp/B0GY8L4LCD?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41ZaXPCMhyL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "Conical burr",
+    "45 settings",
+    "51/53 mm holder",
+    "40 s timer"
+   ],
+   "specList": [
+    {
+     "label": "Burr",
+     "value": "Conical"
+    },
+    {
+     "label": "Settings",
+     "value": "45"
+    },
+    {
+     "label": "Portafilter holder",
+     "value": "51 and 53 mm"
+    },
+    {
+     "label": "Timer",
+     "value": "Up to 40 seconds"
+    },
+    {
+     "label": "Static control",
+     "value": "Anti-static outlet"
+    }
+   ],
+   "description": "The AAOBOSI is an espresso-oriented grinder with a conical burr, 45 grind settings, a 40 second timer and a holder that fits 51 and 53 mm portafilters. Grinding straight into the portafilter skips a transfer step, which is the main workflow appeal. An anti-static outlet helps keep grounds from scattering.\n\nAgainst the Breville Smart Grinder Pro it is a lower-tier, simpler machine with fewer settings and no branded dosing system. Against the OXO Brew, it is more espresso-specific, with a portafilter cradle that fits common smaller baskets. It is less suited to coarse brewing since its design is aimed at the fine end.\n\nIn practice, check that your portafilter size matches the holder. Brush the chute and burrs after each use and grind a few beans to purge between settings. The brand is less established, so check warranty terms and look for long-term durability reports before committing.",
+   "bestFor": "Espresso drinkers with 51 or 53 mm portafilters who want to grind directly into the basket.",
+   "pros": [
+    "Holder fits 51 and 53 mm portafilters for direct grinding",
+    "45 settings cover espresso to coarser brews",
+    "Anti-static outlet keeps more grounds in the basket",
+    "Timer lets you repeat a dose by time"
+   ],
+   "cons": [
+    "Lesser-known brand with limited long-term feedback",
+    "Timed dose is not weighed",
+    "Portafilter size must match exactly"
+   ]
+  },
+  {
+   "id": "B0DMZL1K3G",
+   "rank": 5,
+   "badge": "Best Manual Option",
+   "name": "CEVING Mini Manual Coffee Grinder, 40 External Settings",
+   "amazonUrl": "https://www.amazon.com/dp/B0DMZL1K3G?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41dzh73+f+L._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "Ceramic burr",
+    "40 external settings",
+    "325 g weight",
+    "Portable"
+   ],
+   "specList": [
+    {
+     "label": "Type",
+     "value": "Manual hand grinder"
+    },
+    {
+     "label": "Burr",
+     "value": "Ceramic"
+    },
+    {
+     "label": "Adjustment",
+     "value": "40 external settings"
+    },
+    {
+     "label": "Weight",
+     "value": "325 g"
+    },
+    {
+     "label": "Size",
+     "value": "6.7 x 2.3 x 7.4 in"
+    }
+   ],
+   "description": "The CEVING mini is a portable hand grinder with a ceramic burr and 40 external settings, which you adjust without opening the grinder. At 325 g and about 6.7 by 2.3 by 7.4 inches, it is built for travel, camping and tight spaces, and it is the lowest-cost option in the lineup.\n\nAgainst the Viesimple and Breville, it is much slower, especially at fine settings, because every shot of espresso fineness means many turns by hand. Against the OXO Brew, it removes the motor and static problem but adds effort. It is honest value for moka pot and AeroPress users who want a good burr grind for little spend.\n\nCeramic burrs hold up to normal use but can chip if dropped. Disassemble and brush the burrs every few weeks and avoid grinding very oily dark roasts for long, since oil clogs the burrs. For espresso machines with standard baskets it will struggle with consistency at the finest settings, so treat it as an AeroPress and moka pot tool first.",
+   "bestFor": "Travelers, campers and moka pot or AeroPress users who want a cheap burr grinder.",
+   "pros": [
+    "Lowest cost and light enough for a travel bag",
+    "External adjustment lets you change the setting without disassembly",
+    "Ceramic burrs stay cool and quiet during grinding",
+    "No power, no static problems and easy to clean"
+   ],
+   "cons": [
+    "Fine espresso grinding takes many turns and is slow",
+    "Ceramic burrs can chip if dropped",
+    "Small capacity limits shots"
+   ]
+  },
+  {
+   "id": "B00018RRRK",
+   "rank": 6,
+   "badge": "Best Entry Burr",
+   "name": "Cuisinart Supreme Grind DBM-8P1 Burr Grinder, 18 Settings",
+   "amazonUrl": "https://www.amazon.com/dp/B00018RRRK?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31wrgCFcR1L._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "Burr grinder",
+    "18 settings",
+    "Drip to espresso range",
+    "Electric"
+   ],
+   "specList": [
+    {
+     "label": "Type",
+     "value": "Electric burr grinder"
+    },
+    {
+     "label": "Settings",
+     "value": "18"
+    },
+    {
+     "label": "Range",
+     "value": "Drip to fine"
+    },
+    {
+     "label": "Role",
+     "value": "Step up from a blade grinder"
+    },
+    {
+     "label": "Class",
+     "value": "Low to mid tier"
+    }
+   ],
+   "description": "The Cuisinart DBM-8P1 is the classic entry-level electric burr grinder, with 18 grind settings spanning drip to fine. It is marketed as a step up from blade grinders, and that is fair: uniform particles extract more evenly than chopped ones.\n\nFor espresso it is the honest weak spot of this guide. Eighteen steps are too coarse for dialing in a shot on a machine with a standard basket, and it works best with pressurized baskets or moka pots. Compared with the OXO Brew's micro-adjustments or the Breville's 60 settings, it cannot tune in small increments.\n\nOwnership is simple: brush the burrs, empty the chamber and keep the lid clean. It is a good first burr grinder for drip, pour-over and French press, and it can do a basic moka pot grind. If you plan to buy a real espresso machine, put your money into the OXO or Breville instead.",
+   "bestFor": "Beginners upgrading from a blade grinder for drip, moka pot and pressurized-basket espresso.",
+   "pros": [
+    "Burr design gives more even grounds than a blade",
+    "Simple controls suit beginners",
+    "Low cost relative to dedicated espresso grinders",
+    "Established brand with easy parts availability"
+   ],
+   "cons": [
+    "18 settings are too coarse for dialing in standard espresso",
+    "Static and mess are common complaints",
+    "Not a long-term espresso grinder"
+   ]
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Step size and range",
+   "explanation": "Espresso extraction changes sharply with small grind changes, so step size matters more than the total number of settings. The Breville offers 60 settings and the OXO adds 43 micro-adjustments, while the Cuisinart has only 18. Buyers often assume a long list of numbers equals precision. Look for fine steps at the espresso end and not just a big range."
+  },
+  {
+   "criterion": "Burr type and size",
+   "explanation": "Conical and flat burrs both work for espresso, and burr size affects speed and heat. The Viesimple uses a 48 mm burr, while the OXO and the Breville use smaller conical burrs. Blade grinders cannot do espresso. A steel burr outlasts ceramic in an electric grinder, while ceramic suits hand grinders like the CEVING."
+  },
+  {
+   "criterion": "Retention and dosing",
+   "explanation": "Retention is the coffee left in the grinder after a dose. Single-dose grinders like the Viesimple minimize it, while hopper grinders like the Breville hold some grounds in the chute. Timed dosing, as in the Breville and AAOBOSI, repeats volume, not weight. For consistent shots, weigh the dose on a scale and treat time as a convenience."
+  },
+  {
+   "criterion": "Hopper vs single dose",
+   "explanation": "A hopper holds beans for quick daily use, and the OXO has a 12 oz hopper. A single-dose design loads a measured amount each time, which suits people who change beans. Beans left in a hopper go stale faster, and the best choice depends on how many shots you pull and how often you change beans."
+  },
+  {
+   "criterion": "Static and mess",
+   "explanation": "Fine grounds cling to plastic. The AAOBOSI and Viesimple use anti-static features, while the Cuisinart and OXO are known for scattering. A light mist of water on beans reduces static for most grinders. Mess is a daily annoyance, so weigh it against price."
+  },
+  {
+   "criterion": "Cleaning and long-term wear",
+   "explanation": "Coffee oils build up on burrs and affect grind consistency. Brushing weekly and a deeper clean monthly keeps grinders working. Plastic housings crack, motors wear and timers drift over years. The CEVING hand grinder has no motor to fail but ceramic can chip, while the Breville benefits from widespread spare parts."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Grind settings",
+   "meaning": "The number of steps between finest and coarsest. More steps give finer control, but only if the steps at the fine end are small.",
+   "watchFor": "The Breville lists 60 settings, the OXO lists 15 plus 43 micro-adjustments and the Cuisinart lists 18."
+  },
+  {
+   "spec": "Burr diameter",
+   "meaning": "Larger burrs grind faster and cooler for the same speed, which can improve consistency. Diameter is only one factor, with geometry and alignment also mattering.",
+   "watchFor": "The Viesimple has a 48 mm burr, while the OXO uses 40 mm."
+  },
+  {
+   "spec": "Conical vs flat",
+   "meaning": "Conical burrs are common in home grinders, and flat burrs are popular in enthusiast models. Both can make good espresso.",
+   "watchFor": "The Breville, OXO and AAOBOSI use conical burrs."
+  },
+  {
+   "spec": "Dosing method",
+   "meaning": "Timed dosing grinds for a set time, while single-dose grinding uses a measured amount of beans. Weight-based dosing is more consistent than timing.",
+   "watchFor": "The Breville and AAOBOSI offer timed dosing, and the Viesimple is single dose."
+  },
+  {
+   "spec": "Portafilter holder",
+   "meaning": "A cradle that holds the portafilter under the chute, so you grind straight into the basket. It must match your portafilter size.",
+   "watchFor": "The AAOBOSI fits 51 and 53 mm portafilters."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Espresso fineness",
+   "description": "We looked at step size and total settings first, because fine adjustment drives espresso quality. The Breville's 60 settings and the OXO's micro-adjustments scored well, and the Cuisinart's 18 steps were marked down for espresso. Published specifications were our base."
+  },
+  {
+   "title": "Burr and build",
+   "description": "We compared burr type, size and material, such as the 48 mm Viesimple burr and the ceramic CEVING burr. Build quality notes came from owner feedback patterns, and our scores are editorial assessments."
+  },
+  {
+   "title": "Dosing and workflow",
+   "description": "We considered timed dosing, single-dose design and portafilter holders. The AAOBOSI portafilter cradle and the Viesimple single-dose cup were credited for workflow. Weighing the dose was treated as best practice."
+  },
+  {
+   "title": "Mess and cleaning",
+   "description": "We looked at anti-static features, brushes and cleanup. Models that scatter grounds were noted. Manual grinders were credited for avoiding static but penalized for slow fine grinding."
+  },
+  {
+   "title": "Value and honesty",
+   "description": "We judged each grinder by relative cost tier and called out where an espresso label overstates the capability. The Cuisinart is included as an honest entry option, not an espresso answer."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Espresso Setup",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Standard basket, serious dialing",
+      "Breville Smart Grinder Pro",
+      "60 settings give fine control."
+     ],
+     [
+      "Single-dose, change beans often",
+      "Viesimple Gen 4",
+      "Single-dose cup and 48 mm burr."
+     ],
+     [
+      "Direct to 51 or 53 mm portafilter",
+      "AAOBOSI",
+      "Holder fits common baskets."
+     ],
+     [
+      "Pressurized basket",
+      "Cuisinart DBM-8P1",
+      "Forgiving basket tolerates coarser steps."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest spend",
+      "CEVING Mini Manual",
+      "Hand grinder at the lowest tier."
+     ],
+     [
+      "Low to mid",
+      "Cuisinart DBM-8P1",
+      "Entry burr grinder."
+     ],
+     [
+      "Mid",
+      "OXO Brew",
+      "Micro-adjustments at a mid tier."
+     ],
+     [
+      "Higher spend",
+      "Breville Smart Grinder Pro",
+      "Best espresso control here."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Electric vs Manual",
+   "cards": [
+    {
+     "label": "Electric",
+     "text": "The Breville, OXO, AAOBOSI and Viesimple grind in seconds and suit daily use, but add static, noise and a motor to wear out."
+    },
+    {
+     "label": "Manual",
+     "text": "The CEVING is portable, quiet and cheap, but fine espresso grinding takes many turns and consistency drops at the finest settings."
+    }
+   ],
+   "note": "Choose electric for daily espresso. Choose manual for travel, AeroPress and moka pot."
+  },
+  {
+   "subheading": "By Dosing Style",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Hopper and programmed dose",
+      "Breville Smart Grinder Pro",
+      "Dosing IQ repeats the time."
+     ],
+     [
+      "Weighed single dose",
+      "Viesimple Gen 4",
+      "Grinds only what you load."
+     ],
+     [
+      "Simple hopper daily use",
+      "OXO Brew",
+      "12 oz hopper with timer."
+     ],
+     [
+      "Direct into portafilter",
+      "AAOBOSI",
+      "Holder removes a transfer step."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Espresso Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Fine steps at the espresso end, a real burr set, low static and a way to weigh the dose. Avoid blade grinders and coarse step sizes."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Breville leads on control, the Viesimple on workflow and the OXO on everyday value. The Cuisinart is only for pressurized baskets."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You pull espresso daily on a standard basket and want fine, repeatable adjustment. The Breville or Viesimple pays back in consistency."
+    },
+    {
+     "label": "Save if",
+     "text": "You brew moka pot, AeroPress or use a pressurized basket. The Cuisinart or CEVING covers those needs."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Brush the burrs and chute",
+   "interval": "Weekly",
+   "why": "Fine grounds and oils collect and affect consistency. A dry brush removes most buildup."
+  },
+  {
+   "task": "Deep clean the burrs",
+   "interval": "Monthly",
+   "why": "Oils turn rancid and taint fresh beans. Remove the upper burr per the manual and clean with a brush or grinder cleaning tablets."
+  },
+  {
+   "task": "Empty the hopper when changing beans",
+   "interval": "As needed",
+   "why": "Old beans go stale and mix with new ones. Run a few beans through to purge old grounds."
+  },
+  {
+   "task": "Wipe the bin and cup",
+   "interval": "After each use",
+   "why": "Static grounds stick to plastic and gather moisture. Wipe with a dry cloth."
+  },
+  {
+   "task": "Check the burr alignment and wear",
+   "interval": "Yearly",
+   "why": "Worn burrs produce uneven grounds. Replace burrs if grind quality drops and cleaning no longer helps."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Can a cheap grinder make real espresso?",
+   "a": "Only if the steps at the fine end are small enough. Grinders with few settings, like the Cuisinart, cannot dial in a standard basket. A pressurized basket is more forgiving."
+  },
+  {
+   "q": "Is a manual grinder good for espresso?",
+   "a": "Good manual grinders can be, but fine grinding is slow and consistency varies by model. The CEVING suits AeroPress and moka pot better than a standard espresso machine."
+  },
+  {
+   "q": "Do I need a single-dose grinder?",
+   "a": "No. A hopper grinder works well if you use beans quickly. Single-dose helps if you change beans often or weigh doses."
+  },
+  {
+   "q": "Why is my espresso sour or bitter?",
+   "a": "Grind size is a common cause. Too coarse tends to taste sour and too fine tends to taste bitter. Adjust one step at a time and keep dose and time consistent."
+  },
+  {
+   "q": "How long do burr grinders last?",
+   "a": "Many last years with regular cleaning. Burrs wear, plastic parts crack and motors tire in owner feedback. Brushing and not forcing the grinder help."
+  },
+  {
+   "q": "Does grind-by-time give a consistent dose?",
+   "a": "It repeats volume roughly, but bean density and hopper level change the weight. Weighing the dose is more consistent."
+  }
+ ],
+ "relatedGuides": [
+  {
+   "title": "Best Coffee Grinders",
+   "href": "/guide/best-coffee-grinders"
+  },
+  {
+   "title": "Best Espresso Machines",
+   "href": "/guide/best-espresso-machines"
+  },
+  {
+   "title": "Best Budget Coffee Grinders",
+   "href": "/guide/best-coffee-grinders-under-100"
+  }
+ ]
+}

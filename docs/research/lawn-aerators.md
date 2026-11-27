@@ -1,0 +1,13 @@
+# lawn aerators
+- Aeration loosens compacted soil so air, water and nutrients reach roots; best done in the growing season of the grass type, with soil moist but not wet.
+- Core (plug) aerators remove small cores; spike aerators punch holes and can compact the walls of the hole in heavy clay.
+- Hollow tine core tools are better for compacted or clay soil; spike tools suit light soil and small spot work.
+- Aerator shoes with spikes are marketed widely; evidence that they match core aeration is weak, and they are slow and awkward.
+- Manual tools work on small lawns; effort rises with compaction; a stand-up coring tool saves the back.
+- Tow-behind plug aerators need a lawn tractor or garden tractor and weight on the deck for penetration.
+- Tine depth of 2 to 3 inches is typical for core aerators; deeper helps compacted soil.
+- Leave the cores on the lawn to break down, then overseed and topdress for best results.
+- Water the lawn the day before so tines penetrate; avoid frozen or bone dry ground.
+- Mark irrigation heads and shallow utilities before aerating.
+- Clean tines after use to prevent rust and clogging.
+- Year three: bent tines, loose handles, rusted spikes and worn wheels.

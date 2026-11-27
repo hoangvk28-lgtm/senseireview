@@ -1,0 +1,13 @@
+# trail cameras
+- Trigger speed (time from motion to photo) and detection range decide whether an animal is in the frame; claims of 0.1 to 0.5 seconds are best case.
+- Megapixel claims are often interpolated; sensor quality and night flash matter more than 64MP or 4K labels.
+- No-glow (black infrared) flash is invisible to wildlife and people but shorter range; low-glow has a faint red glow and more range; white flash gives colour at night but spooks animals.
+- Cellular cameras need a data plan, carrier coverage and a subscription for photo transfer; non-cellular cameras store to an SD card and need a visit to check.
+- Battery life depends on trigger count and flash; lithium AA lasts longer in cold; solar panels help cellular models.
+- Mount at about waist or chest height, angled slightly down, facing north or south to avoid sun glare triggers.
+- Moving branches and heat can cause false triggers; clear vegetation in front of the lens.
+- SD cards need to be formatted in the camera; cards above the stated maximum capacity may fail.
+- Check local laws on cameras and on private land; people have a right to privacy on neighbouring property.
+- Weather rating claims should be checked; condensation and ants can disable a camera.
+- Security: cable locks and security boxes reduce theft.
+- Year three: lens fogging, battery door seals and cellular network changes.

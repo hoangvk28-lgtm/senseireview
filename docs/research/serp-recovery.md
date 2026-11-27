@@ -16,3 +16,13 @@
 - Usage advice: use after exercise as an add on to cooldown; evidence on benefit described as suggestive.
 - Picks split by overall, wireless, beginner, budget, most customizable.
 - Missed angle: inseam and calf sizing mismatch, sequential versus pulsing patterns, noise of the pump, battery runtime on wireless, hose and valve wear, who should ask a clinician first (clots, circulation conditions).
+## best-resistance-bands-for-physical-therapy
+- Top guides lead with flat versus loop design and TheraBand as the clinic standard.
+- They split picks by best overall, non-latex, loop and budget sets.
+- They note latex sensitivity and that thinner bands suit early recovery.
+- Gap we cover: approximate pound labels, band inspection to avoid snapping, anchor safety and asking a clinician for resistance.
+## best-knee-braces-for-running
+- Top guides lead with fit, slipping and brace type (strap, sleeve, hinged).
+- They split picks by kneecap straps, open-patella sleeves, hinged braces and budget pairs.
+- They advise matching the type to the problem and asking a clinician.
+- Gap we cover: that a brace supports and does not treat the cause, sizing mistakes, strap numbness and warm neoprene.

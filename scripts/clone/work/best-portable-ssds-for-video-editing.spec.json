@@ -1,0 +1,598 @@
+{
+ "guideSlug": "best-portable-ssds-for-video-editing",
+ "categorySlug": "tech-electronics",
+ "mainKeyword": "portable ssd for video editing",
+ "guideTitle": "Best Portable SSDs for Video Editing (2026)",
+ "metaTitle": "Best Portable SSDs for Video Editing",
+ "metaDescription": "Portable SSDs for video editing compared on sustained speed, interface, capacity and ruggedness, with honest notes on peak versus real transfer rates.",
+ "lastUpdated": "2026-11-27",
+ "readTime": "12 min",
+ "heroImage": "https://m.media-amazon.com/images/I/31hB3+aCbeL._SL500_.jpg",
+ "expertTake": "The SanDisk Professional PRO-Blade Transport is the best overall pick because its modular design, 20 Gbps USB-C link and up to 2000 MB/s speed suit a working editing drive that grows with your projects. The Samsung T7 Shield is the value pick, a rugged 10 Gbps drive that handles most 4K work at a moderate cost tier. Anyone editing only compressed 1080p footage can skip the fast tier and use a basic portable SSD, because the extra speed will not show up in daily editing.",
+ "introParagraphs": [
+  "Editing from a portable SSD can free your laptop's internal storage and let you move projects between machines. The drive has to keep up with large files, scrubbing and exports, so sustained speed and the connection matter more than a peak number on the box.",
+  "This guide compares portable SSDs chosen for video work. We evaluated each on published specifications, interface, capacity, ruggedness, encryption and owner feedback patterns, and we point out where a faster drive will not help because the laptop port is the limit."
+ ],
+ "products": [
+  {
+   "id": "B0B3RMGKBS",
+   "rank": 1,
+   "badge": "Best Overall",
+   "name": "SanDisk Professional PRO-Blade Transport 4TB, USB-C 20 Gbps",
+   "amazonUrl": "https://www.amazon.com/dp/B0B3RMGKBS?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31hB3+aCbeL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "4 TB",
+    "Up to 2000 MB/s",
+    "USB-C 20 Gbps",
+    "Modular mags"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "4 TB with included SSD mag"
+    },
+    {
+     "label": "Speed",
+     "value": "Up to 2000 MB/s"
+    },
+    {
+     "label": "Interface",
+     "value": "USB-C at 20 Gbps"
+    },
+    {
+     "label": "Design",
+     "value": "Modular, swappable PRO-BLADE mags"
+    },
+    {
+     "label": "Class",
+     "value": "Highest tier here"
+    }
+   ],
+   "description": "The PRO-Blade Transport is a modular portable system: a rugged transport housing that takes swappable PRO-BLADE SSD mags, with one preloaded. It connects over USB-C at up to 20 Gbps and the maker lists speeds up to 2000 MB/s. The idea is that you can swap mags to add capacity without carrying a separate drive for each project.\n\nThe modular approach suits editors who organize by project, since a mag can be filled, labeled and shelved. Compared with the KingSpec Gen2x2 drive, it offers the same class of interface but a professional ecosystem. Compared with the Samsung T7 Shield, it is faster and larger, but also costs far more. The 20 Gbps link needs a matching port, so on a Mac or a laptop with only 10 Gbps ports the drive will run slower.\n\nIn use, plug the transport in with the supplied cable, format the mag for your system and keep a second copy of important footage. Large mags run warm under long writes, so keep the transport in airflow. The modular design adds cost per mag, so a full library gets expensive. As with any SSD, plan for the drive to fail someday and back up.",
+   "bestFor": "Professional editors who want a fast, modular project drive and a 20 Gbps port.",
+   "pros": [
+    "20 Gbps USB-C link with speeds up to 2000 MB/s",
+    "Modular mags let you swap capacity per project",
+    "4 TB capacity suits a working library",
+    "Professional-grade build and ecosystem"
+   ],
+   "cons": [
+    "Highest cost tier, with extra mags adding cost",
+    "20 Gbps speed requires a matching host port",
+    "Warm under long sustained writes"
+   ]
+  },
+  {
+   "id": "B09VLK9W3S",
+   "rank": 2,
+   "badge": "Best Value Rugged Drive",
+   "name": "Samsung T7 Shield 1TB Portable SSD, IP65, Up to 1,050 MB/s",
+   "amazonUrl": "https://www.amazon.com/dp/B09VLK9W3S?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/21mARCvUWxL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "1 TB",
+    "1,050 MB/s",
+    "IP65 rated",
+    "USB 3.2 Gen 2"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "1 TB (larger sizes sold)"
+    },
+    {
+     "label": "Speed",
+     "value": "Up to 1,050 MB/s"
+    },
+    {
+     "label": "Interface",
+     "value": "USB 3.2 Gen 2 (10 Gbps)"
+    },
+    {
+     "label": "Durability",
+     "value": "IP65 water and dust resistant"
+    },
+    {
+     "label": "Build",
+     "value": "Rugged rubberized shell"
+    }
+   ],
+   "description": "The Samsung T7 Shield is a rugged portable SSD with a rubberized shell, an IP65 rating and USB 3.2 Gen 2 at up to 1,050 MB/s. IP65 means it is dust tight and resists water jets, a useful margin for outdoor shoots. The 1 TB model is the entry point, and larger capacities are sold.\n\nFor most 4K editing, 10 Gbps is plenty, since compressed codecs do not need the highest speeds. Compared with the KingSpec Gen2x2 drive, it is slower on paper but has a clearer ruggedness story and a better-known warranty. Compared with the WD My Passport SSD, it adds an IP rating and a tougher shell. It is the practical choice for field editors.\n\nOwnership is simple: use the short cable that came with it, keep it formatted exFAT if you swap between Mac and Windows and keep some free space for sustained writes. Rubber shells attract lint, but they protect the drive in a bag. Rated sustained performance is lower than the peak figure, especially as the drive fills, so avoid running it at full capacity.",
+   "bestFor": "Field editors who want a tough, well-known 10 Gbps drive at a sensible cost.",
+   "pros": [
+    "IP65 rating resists dust and water jets",
+    "Up to 1,050 MB/s over USB 3.2 Gen 2",
+    "Rubberized shell protects against bumps",
+    "Established brand with strong warranty history"
+   ],
+   "cons": [
+    "10 Gbps limit is slower than Gen2x2 and Thunderbolt drives",
+    "1 TB fills quickly with high-bitrate footage",
+    "Sustained speed falls as the drive fills"
+   ]
+  },
+  {
+   "id": "B08F1VVBL9",
+   "rank": 3,
+   "badge": "Best Encrypted Drive",
+   "name": "WD My Passport SSD 2TB, 1050 MB/s, 256-bit AES Encryption",
+   "amazonUrl": "https://www.amazon.com/dp/B08F1VVBL9?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/414q6k88+IL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "2 TB",
+    "1050 MB/s read",
+    "256-bit AES",
+    "NVMe"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "2 TB"
+    },
+    {
+     "label": "Speed",
+     "value": "Up to 1050 MB/s read, 1000 MB/s write"
+    },
+    {
+     "label": "Security",
+     "value": "Password-enabled 256-bit AES hardware encryption"
+    },
+    {
+     "label": "Technology",
+     "value": "NVMe"
+    },
+    {
+     "label": "Build",
+     "value": "Sturdy compact shell"
+    }
+   ],
+   "description": "The WD My Passport SSD is a 2 TB portable drive with NVMe technology, read speeds up to 1050 MB/s and write speeds up to 1000 MB/s. Password-enabled 256-bit AES hardware encryption protects the contents if the drive is lost, which matters for client footage. It has a compact, sturdy shell.\n\nIt is a good value for editors who want 2 TB of fast storage and a solid warranty. Compared with the Samsung T7 Shield, it has twice the capacity in the sizes listed, but no IP rating. Compared with the Glyph Atom EV, it is similar in speed and less rugged, but has security features. Encryption relies on the maker's software, which is usually Windows and Mac only.\n\nIn practice, set up the password and keep a record of it, since a lost password means lost data. Use exFAT for cross-platform work. Handle it with care, as the shell is sturdy but not rated for water. Like any SSD it benefits from free space, and long copies can slow once the cache fills.",
+   "bestFor": "Editors who handle client footage and want hardware encryption with 2 TB of space.",
+   "pros": [
+    "2 TB capacity in a compact drive",
+    "256-bit AES hardware encryption for client footage",
+    "Read up to 1050 MB/s and write up to 1000 MB/s",
+    "Sturdy shell and a known brand"
+   ],
+   "cons": [
+    "No IP rating for water or dust",
+    "Encryption software is limited to Windows and Mac",
+    "Lost password means lost data"
+   ]
+  },
+  {
+   "id": "B00Z13N9YA",
+   "rank": 4,
+   "badge": "Best Field Drive",
+   "name": "Glyph Atom EV 2TB Portable SSD, 1,000 MB/s, Rugged USB-C",
+   "amazonUrl": "https://www.amazon.com/dp/B00Z13N9YA?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/2109hlXwMHL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "2 TB",
+    "1,050 MB/s sustained",
+    "USB-C 3.2 Gen 2",
+    "Rugged build"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "2 TB"
+    },
+    {
+     "label": "Speed",
+     "value": "Sustained up to 1,050 MB/s"
+    },
+    {
+     "label": "Interface",
+     "value": "USB-C 3.2 Gen 2"
+    },
+    {
+     "label": "Compatibility",
+     "value": "Thunderbolt 3 compatible"
+    },
+    {
+     "label": "Build",
+     "value": "Rugged production drive"
+    }
+   ],
+   "description": "The Glyph Atom EV is a 2 TB portable NVMe drive built for production work, with sustained performance listed up to 1,050 MB/s over USB-C 3.2 Gen 2. The maker aims it at 4K video professionals and positions it as rugged. It is compatible with Thunderbolt 3 ports, though it runs at USB 10 Gbps speeds.\n\nThe emphasis on sustained speed is the useful part, since peak figures flatter many drives. Compared with the Samsung T7 Shield, it offers more capacity at a similar speed and a more specialist brand. Compared with the Glyph Atom Pro 2, it is slower and cheaper, a better fit for editors who do not have Thunderbolt. It is a straightforward working drive.\n\nOwnership is about keeping the drive in good condition: use the supplied cable, keep it cool, and leave free space. Rugged builds help in the field, but they do not replace a backup. The brand is smaller than Samsung or WD, so check warranty terms. If your laptop has Thunderbolt and you want more speed, step up.",
+   "bestFor": "Video editors who want a sustained 10 Gbps rugged drive with 2 TB of space.",
+   "pros": [
+    "2 TB capacity aimed at 4K video work",
+    "Sustained speed up to 1,050 MB/s",
+    "Rugged build for field use",
+    "Thunderbolt 3 port compatible"
+   ],
+   "cons": [
+    "Speed capped at 10 Gbps despite Thunderbolt compatibility",
+    "Smaller brand than Samsung and WD",
+    "Cost per terabyte is higher than basic drives"
+   ]
+  },
+  {
+   "id": "B0CLV9H9LR",
+   "rank": 5,
+   "badge": "Best Budget 20 Gbps Drive",
+   "name": "KingSpec 1TB Portable SSD, USB 3.2 Gen2x2, Up to 2100 MB/s",
+   "amazonUrl": "https://www.amazon.com/dp/B0CLV9H9LR?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31MA7pYuhkL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "1 TB",
+    "2100 MB/s read",
+    "USB 3.2 Gen2x2",
+    "Zinc-alloy body"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "1 TB"
+    },
+    {
+     "label": "Speed",
+     "value": "Up to 2100 MB/s read"
+    },
+    {
+     "label": "Interface",
+     "value": "USB 3.2 Gen2x2 (20 Gbps)"
+    },
+    {
+     "label": "Body",
+     "value": "Pocket-sized zinc alloy"
+    },
+    {
+     "label": "Class",
+     "value": "Low to mid tier"
+    }
+   ],
+   "description": "The KingSpec drive uses USB 3.2 Gen2x2 for read speeds up to 2100 MB/s in a pocket-sized zinc-alloy body. It is the lowest cost way in this guide to reach 20 Gbps speeds on a compatible port. The metal body helps shed heat during long copies.\n\nThe speed needs a matching host port. On a computer with only 10 Gbps ports the drive runs at the slower rate, and on many Macs a 20 Gbps drive falls back to 10 Gbps. Compared with the PRO-Blade Transport, it offers a similar interface at a lower cost, but without a professional ecosystem. Compared with the Samsung T7 Shield, it is faster on paper but has no IP rating and a less certain track record.\n\nIn use, check your port speed before buying for the extra headline number. Use the short supplied cable, since long cables drop speeds. Watch for thermal throttling during long copies. Budget brands vary in warranty and support, so keep proof of purchase and back up your footage.",
+   "bestFor": "PC editors with 20 Gbps ports who want high read speeds at a lower cost.",
+   "pros": [
+    "USB 3.2 Gen2x2 with read speeds up to 2100 MB/s",
+    "Zinc-alloy body helps spread heat",
+    "Pocket-sized and light",
+    "Lower cost than professional 20 Gbps drives"
+   ],
+   "cons": [
+    "Speed requires a matching 20 Gbps port",
+    "No IP rating or rugged claims",
+    "Less proven brand and support"
+   ]
+  },
+  {
+   "id": "B09FFKSKHW",
+   "rank": 6,
+   "badge": "Best Thunderbolt Drive",
+   "name": "Glyph Atom Pro 2 1TB Thunderbolt 3 NVMe Portable SSD, 3,000 MB/s",
+   "amazonUrl": "https://www.amazon.com/dp/B09FFKSKHW?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/21SKffHnHbL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "1 TB",
+    "Up to 3,000 MB/s",
+    "Thunderbolt 3",
+    "2,800 MB/s sustained"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "1 TB"
+    },
+    {
+     "label": "Speed",
+     "value": "Up to 3,000 MB/s"
+    },
+    {
+     "label": "Sustained",
+     "value": "Up to 2,800 MB/s read and 2,600 MB/s write"
+    },
+    {
+     "label": "Interface",
+     "value": "Thunderbolt 3"
+    },
+    {
+     "label": "Build",
+     "value": "Rugged production drive"
+    }
+   ],
+   "description": "The Glyph Atom Pro 2 is a Thunderbolt 3 NVMe portable drive with speeds up to 3,000 MB/s and sustained performance listed up to 2,800 MB/s read and 2,600 MB/s write. It targets creators and professionals who manage high-resolution video. It is the fastest drive here, though only over a Thunderbolt port.\n\nIt is built for heavy workflows, such as multicam editing and high-bitrate formats that stress slower drives. Compared with the Glyph Atom EV, it is far faster but needs Thunderbolt and costs more. Compared with the PRO-Blade Transport, it is a single fixed-capacity drive without modular mags. A faster drive helps only if the rest of the chain, from the cable to the editing software, can use the speed.\n\nOwnership requires a Thunderbolt cable and port, and long cables lower speeds. Keep it cool, because high speeds produce heat. Capacity at 1 TB fills quickly with high-bitrate footage, and larger versions exist at a higher cost. Back up everything, since speed does not equal safety.",
+   "bestFor": "Editors with Thunderbolt laptops who work with demanding, high-bitrate footage.",
+   "pros": [
+    "Thunderbolt 3 speeds up to 3,000 MB/s",
+    "Sustained read and write numbers above 2,600 MB/s listed",
+    "Rugged production-oriented build",
+    "Handles demanding multicam workflows"
+   ],
+   "cons": [
+    "Needs a Thunderbolt port to reach its speeds",
+    "Highest cost per terabyte in the lineup",
+    "1 TB fills quickly with high-bitrate footage"
+   ]
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Sustained speed, not peak",
+   "explanation": "Peak speed is a short burst from a fast host, and sustained speed is what you get over a long copy once the cache fills. The Glyph Atom Pro 2 lists sustained read and write figures, which is more honest than a single peak. For editing, sustained write matters for exports and ingest. Be wary of drives that list only the peak number."
+  },
+  {
+   "criterion": "Interface and port match",
+   "explanation": "USB 3.2 Gen 2 is 10 Gbps, Gen2x2 is 20 Gbps and Thunderbolt 3 is higher. The drive is only as fast as the host port. The KingSpec and PRO-Blade need a 20 Gbps port, and on many Macs they fall back to 10 Gbps. Paying for speed your port cannot deliver is the commonest mistake."
+  },
+  {
+   "criterion": "Capacity and workflow",
+   "explanation": "A working drive needs room for the project, a cache and a spare copy. One terabyte is about an hour or two of high-bitrate 4K, so a 1 TB drive like the Samsung T7 Shield fills quickly. The 2 TB WD My Passport SSD and Glyph Atom EV suit working projects, and the 4 TB PRO-Blade suits a library. Plan the capacity around your codec."
+  },
+  {
+   "criterion": "Ruggedness",
+   "explanation": "IP65, as on the Samsung T7 Shield, means dust tight and resistant to water jets. Drop claims are manufacturer statements. Rugged shells matter for field work and cost little in practice. If the drive stays on a desk, a plain metal body is enough."
+  },
+  {
+   "criterion": "Heat and throttling",
+   "explanation": "Long writes heat an SSD, and a hot drive can slow itself down to protect the controller. Metal bodies, as on the KingSpec and Glyph drives, spread heat better than plastic. Keep the drive in open air, and avoid stacking it under a laptop. Throttling shows up as speed that drops during a long copy."
+  },
+  {
+   "criterion": "Security and backup",
+   "explanation": "Hardware encryption, as on the WD My Passport SSD, protects client footage if a drive is lost. It does not protect against failure. Keep a second copy of every project, because a portable SSD can die suddenly. A copy on a second drive or a cloud service is part of the plan, not an extra."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "USB 3.2 Gen 2 vs Gen2x2",
+   "meaning": "Gen 2 runs at 10 Gbps, about 1,000 MB/s real. Gen2x2 runs at 20 Gbps, about 2,000 MB/s, but needs a matching port.",
+   "watchFor": "The Samsung T7 Shield uses Gen 2 and the KingSpec uses Gen2x2."
+  },
+  {
+   "spec": "Sequential read and write",
+   "meaning": "Speed for large files in one stream. It is the number printed on the box, and sustained speed after the cache fills is lower.",
+   "watchFor": "The WD lists 1050 MB/s read and 1000 MB/s write."
+  },
+  {
+   "spec": "IP65",
+   "meaning": "A rating for dust tightness and resistance to water jets. It does not mean the drive can be submerged.",
+   "watchFor": "The Samsung T7 Shield lists IP65."
+  },
+  {
+   "spec": "256-bit AES",
+   "meaning": "A strong encryption standard. Hardware encryption requires a password and works through the maker's software.",
+   "watchFor": "The WD My Passport SSD lists password-enabled 256-bit AES."
+  },
+  {
+   "spec": "Thunderbolt 3",
+   "meaning": "A 40 Gbps connection that needs a Thunderbolt port and cable. It allows higher speeds than USB 3.2 Gen 2.",
+   "watchFor": "The Glyph Atom Pro 2 uses Thunderbolt 3."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Speed and interface",
+   "description": "We compared stated speeds and interfaces, from 10 Gbps on the Samsung T7 Shield to Thunderbolt 3 on the Glyph Atom Pro 2. We treated peak figures cautiously. Our scores are editorial assessments based on published specifications and owner feedback patterns."
+  },
+  {
+   "title": "Capacity",
+   "description": "We matched capacities from 1 TB to 4 TB to editing workflows and noted how fast high-bitrate footage fills a drive."
+  },
+  {
+   "title": "Durability",
+   "description": "We considered IP ratings, metal bodies and rugged claims, noting that drop ratings are manufacturer statements."
+  },
+  {
+   "title": "Security and support",
+   "description": "We looked at encryption and brand support, such as the WD hardware encryption and the Samsung warranty record."
+  },
+  {
+   "title": "Value and honesty",
+   "description": "We judged each drive by relative cost tier and avoided price figures. The KingSpec was credited as a low-cost 20 Gbps option with less proven support."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Port",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "10 Gbps USB-C port",
+      "Samsung T7 Shield",
+      "Matched speed and ruggedness."
+     ],
+     [
+      "20 Gbps USB-C port",
+      "SanDisk PRO-Blade Transport",
+      "Full 20 Gbps link."
+     ],
+     [
+      "Thunderbolt 3 or 4 port",
+      "Glyph Atom Pro 2",
+      "Highest sustained speed."
+     ],
+     [
+      "Basic laptop port",
+      "WD My Passport SSD",
+      "2 TB with encryption."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest spend",
+      "KingSpec 1TB Gen2x2",
+      "Low cost for 20 Gbps."
+     ],
+     [
+      "Low to mid",
+      "Samsung T7 Shield",
+      "Rugged value."
+     ],
+     [
+      "Mid",
+      "WD My Passport SSD",
+      "2 TB with AES."
+     ],
+     [
+      "Highest",
+      "SanDisk PRO-Blade or Glyph Atom Pro 2",
+      "Professional speed."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Rugged vs Fast",
+   "cards": [
+    {
+     "label": "Rugged",
+     "text": "The Samsung T7 Shield and Glyph Atom EV protect against bumps and weather, and run at 10 Gbps."
+    },
+    {
+     "label": "Fast",
+     "text": "The KingSpec, PRO-Blade Transport and Glyph Atom Pro 2 chase higher speeds, but need matching ports."
+    }
+   ],
+   "note": "Choose rugged for field work. Choose fast if your port and codec can use it."
+  },
+  {
+   "subheading": "By Footage",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Compressed 4K and proxies",
+      "Samsung T7 Shield",
+      "10 Gbps is plenty."
+     ],
+     [
+      "High-bitrate multicam",
+      "Glyph Atom Pro 2",
+      "Sustained Thunderbolt speed."
+     ],
+     [
+      "Large project library",
+      "SanDisk PRO-Blade",
+      "4 TB and modular mags."
+     ],
+     [
+      "Client footage",
+      "WD My Passport SSD",
+      "Hardware encryption."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Video Editing Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Sustained speed, a port match, enough capacity for the project and a spare copy, and a metal body for heat."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The PRO-Blade leads on capability, the T7 Shield on value and the Atom Pro 2 on speed."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You edit high-bitrate footage daily and have a matching port. The PRO-Blade or Atom Pro 2 saves time."
+    },
+    {
+     "label": "Save if",
+     "text": "You edit compressed footage. A Samsung T7 Shield or KingSpec is enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Back up the project",
+   "interval": "Daily during editing",
+   "why": "SSDs can fail suddenly. A second copy on another drive protects the work."
+  },
+  {
+   "task": "Keep free space",
+   "interval": "Ongoing",
+   "why": "A nearly full SSD slows sustained writes. Leave about 10 to 20 percent free."
+  },
+  {
+   "task": "Use the short supplied cable",
+   "interval": "Every use",
+   "why": "Long or thin cables lower speeds. Replace damaged cables."
+  },
+  {
+   "task": "Eject before unplugging",
+   "interval": "Every use",
+   "why": "Pulling the drive can corrupt files. Use the system eject."
+  },
+  {
+   "task": "Check the connector",
+   "interval": "Monthly",
+   "why": "Pocket lint and wear cause connection drops. Clean gently with a dry brush."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Can I edit directly from a portable SSD?",
+   "a": "Yes, for most compressed 4K workflows. High-bitrate and multicam work needs higher sustained speeds."
+  },
+  {
+   "q": "Is a 2000 MB/s drive faster on my Mac?",
+   "a": "Only if the Mac port supports it. Many Macs run 20 Gbps drives at 10 Gbps."
+  },
+  {
+   "q": "How much capacity do I need?",
+   "a": "Plan room for the project, cache and a copy. One terabyte fills quickly with high-bitrate 4K."
+  },
+  {
+   "q": "Do I need a rugged drive?",
+   "a": "For field work, yes. For a desk, a plain metal body is enough."
+  },
+  {
+   "q": "Why does my drive slow down during long copies?",
+   "a": "The cache fills or the drive heats up. Sustained speed is lower than peak."
+  },
+  {
+   "q": "Which file system should I use?",
+   "a": "exFAT works on Mac and Windows. APFS is Mac only, and NTFS is read only on Mac."
+  }
+ ],
+ "relatedGuides": [
+  {
+   "title": "Best External SSDs",
+   "href": "/guide/best-external-ssds"
+  },
+  {
+   "title": "SSD vs HDD",
+   "href": "/guide/ssd-vs-hdd"
+  },
+  {
+   "title": "Best USB Flash Drives",
+   "href": "/guide/best-usb-flash-drives"
+  }
+ ]
+}

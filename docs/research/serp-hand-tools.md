@@ -45,3 +45,18 @@
 - Notes that slow hitting guns are easier to control for aircraft style work.
 - Many pages are low quality or content farms with inconsistent dates.
 - Missed angle: rivet diameter and grip range matching, material strength limits for manual tools, nosepiece wear, one hand versus two hand leverage, solid versus blind rivets, mandrel debris.
+## best-knee-pads-for-flooring-work
+- Top guides lead with padding thickness, cap type and strap security.
+- They split picks by overall, lightweight, flooring installer and budget gel pads.
+- They advise curved shapes for side-to-side rocking and note hard caps suit carpet and turf jobs.
+- Gap we cover: floor marking by hard caps, ankle strap fit, hinge pinch, and padding compression over months.
+## best-ratcheting-wrench-sets
+- Top guides lead with tooth count, swing arc and flex-head design, then set size.
+- They split picks by best overall, value, upgrade, home mechanic and tight spaces.
+- They note ratchet sets and ratcheting wrench sets are different products.
+- Gap we cover: tooth count versus strength, off-corner loading versus rounding, SAE and metric coverage, and flex heads and torque.
+
+## best-budget-bench-vises
+- Wilton, Yost and Irwin lead bench vise lists; WORKPRO and VEVOR appear in budget picks with ductile iron claims.
+- Criteria: jaw width and opening, throat depth, swivel base lock, ductile vs cast iron, anvil, pipe jaws, clamping force claims.
+- Caveat: swivel locks and thin castings are the usual weak points; do not hammer on jaws.

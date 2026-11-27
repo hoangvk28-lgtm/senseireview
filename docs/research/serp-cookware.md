@@ -22,3 +22,18 @@
 - They answer which oils work, why nozzles clog, how much oil one spray uses and cleaning.
 - A test kitchen found refillable misters lag commercial cooking sprays in evenness, a caveat many lists skip.
 - Gap we cover: thin oils versus thick oils, filter and clog care, and why dark glass beats clear for oil life.
+## best-dutch-ovens-for-bread-baking
+- Top guides lead with capacity (5 to 5.5 qt standard), shape (round or oval) and material.
+- They split picks by best overall, premium enameled, American-made and bread-specific shallow pans.
+- They note cast iron holds heat best and oval gives bakery loaf shape.
+- Gap we cover: lid knob temperature limits, enamel versus seasoning upkeep, shallow versus deep loading.
+## best-stainless-steel-cookware-sets
+- Top guides lead with cladding (tri-ply versus five-ply), then piece count and handles.
+- They split picks by best overall, premium, budget Cuisinart and made-in-USA.
+- They note lid handles can overheat and some clad sets are heavy.
+- Gap we cover: fully clad versus encapsulated base, counting pans not lids, detachable handle wear.
+## best-carbon-steel-pans
+- Top guides lead with weight, seasoning effort and searing performance.
+- They split picks by best overall, high sides, budget pre-seasoned and rust-resistant nitrided.
+- They note some pans need re-seasoning for months and one maker had batch recalls.
+- Gap we cover: seasoning versus wash habits, usable cooking surface versus listed diameter, nitrided versus bare finishes.

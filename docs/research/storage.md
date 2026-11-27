@@ -1,0 +1,16 @@
+# storage (portable SSDs)
+- Advertised speeds are sequential peak figures from a fast host port; sustained write speed after the drive's cache fills is lower and matters for long video transfers.
+- USB 3.2 Gen 2 is 10 Gbps (about 1,000 MB/s real); USB 3.2 Gen 2x2 is 20 Gbps and needs a matching port on the host; USB4 and Thunderbolt 3 go higher and need compatible ports and cables.
+- On many Macs a 20 Gbps drive falls back to 10 Gbps; check the port before paying for extra speed.
+- A drive is only as fast as the weakest link: host port, cable and the drive itself.
+- Editing straight from a portable SSD works for most 4K proxy and H.264 or H.265 workflows; ProRes, RAW and multicam need higher sustained speeds.
+- Thermal throttling: small, closed cases can slow down under long writes; metal bodies and larger cases shed heat better.
+- Rugged ratings: IP65 is dust tight and resistant to water jets, IP68 adds immersion; drop ratings are manufacturer claims and not independently measured here.
+- Hardware encryption (256-bit AES) protects the drive when a password is set; the software is often Windows and Mac only.
+- File system: exFAT works across Mac and Windows; APFS is Mac only; NTFS is read only on Mac without extra software.
+- Capacity: 1 TB is about an hour or two of high-bitrate 4K; plan 2 TB or more for a working project plus a copy.
+- Keep a second copy: SSDs fail suddenly, and a portable drive is not a backup of itself.
+- Cheap no-name drives may swap the controller or NAND between batches; rely on brand warranty and sustained speed reports.
+- TRIM and keeping about 10 to 20 percent free space help sustained write speed.
+- Cables: use the short cable in the box; long or thin cables drop to lower speeds.
+- Year three: cable wear at the connector, throttled speeds from a full drive and warranty claims by TBW or years.

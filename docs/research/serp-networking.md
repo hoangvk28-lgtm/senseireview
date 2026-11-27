@@ -20,3 +20,8 @@
 - They answer whether a switch slows the network, fanless noise, metal versus plastic housing and PoE budgets.
 - Common line: unmanaged gigabit is enough for most homes; extra ports and PoE are the real upgrades.
 - Gap we cover: the shared uplink bottleneck, PoE watt budgets per port and why a 2.5G switch needs 2.5G devices to matter.
+## best-wifi-extenders-for-large-homes
+- Top guides lead with coverage claims, wireless standard and Ethernet port availability.
+- They split picks by best range, Wi-Fi 6, wall-plug design and budget.
+- They note coverage sq ft claims are best case and that a mesh system may suit multi-story homes better.
+- Gap we cover: that extenders halve throughput on a shared radio, placing them halfway, and the same-name roaming limits.

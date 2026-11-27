@@ -1,0 +1,598 @@
+{
+ "guideSlug": "best-wifi-extenders-for-large-homes",
+ "categorySlug": "tech-electronics",
+ "mainKeyword": "wifi extender long range",
+ "guideTitle": "Best WiFi Extenders for Large Homes (2026)",
+ "metaTitle": "Best WiFi Extenders for Large Homes",
+ "metaDescription": "WiFi extenders for large homes compared on standard, antennas, Ethernet and placement, with honest notes on inflated coverage claims and when mesh is smarter.",
+ "lastUpdated": "2026-11-27",
+ "readTime": "12 min",
+ "heroImage": "https://m.media-amazon.com/images/I/31O5pM1N2hL._SL500_.jpg",
+ "expertTake": "The TP-Link AX3000 WiFi 6 extender is the best overall pick because it combines a current standard, two directional antennas and an Ethernet port from a brand with a long record in extenders. The TP-Link RE550 is the value pick for homes whose devices are mostly WiFi 5. Anyone with a multi-story home, thick walls or more than a couple of dead zones should skip extenders and buy a mesh system, because every extender hop costs speed.",
+ "introParagraphs": [
+  "A WiFi extender listens to your router and repeats the signal into a dead zone. It is the cheapest way to cover a far bedroom or garage, but it comes with real tradeoffs in speed, network names and placement that product pages rarely explain.",
+  "This guide compares extenders aimed at large homes. We evaluated each on published specifications, WiFi standard, antennas, Ethernet ports and owner feedback patterns, and we treat large coverage figures as marketing claims, since real range depends on walls and floors far more than on any number on a box."
+ ],
+ "products": [
+  {
+   "id": "B0B8BVY12V",
+   "rank": 1,
+   "badge": "Best Overall",
+   "name": "TP-Link AX3000 WiFi 6 Dual-Band Range Extender with Ethernet",
+   "amazonUrl": "https://www.amazon.com/dp/B0B8BVY12V?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31O5pM1N2hL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "WiFi 6 AX3000",
+    "2 directional antennas",
+    "Ethernet port",
+    "Up to 2400 sq ft"
+   ],
+   "specList": [
+    {
+     "label": "Standard",
+     "value": "WiFi 6, dual band, 3 Gbps combined"
+    },
+    {
+     "label": "Antennas",
+     "value": "Two high-gain directional with beamforming"
+    },
+    {
+     "label": "Coverage claim",
+     "value": "Up to 2400 sq ft"
+    },
+    {
+     "label": "Wired port",
+     "value": "Gigabit Ethernet"
+    },
+    {
+     "label": "Class",
+     "value": "Upper-mid tier"
+    }
+   ],
+   "description": "The TP-Link AX3000 is a dual-band WiFi 6 extender with two high-gain directional antennas, beamforming and an Ethernet port. The maker lists 3 Gbps of combined bandwidth and coverage up to 2400 sq ft. It is the most capable extender in this guide and the one most likely to keep up with a modern router.\n\nBeamforming concentrates the signal toward your devices, and the Ethernet port lets you plug in a TV or console with a wire. Compared with the RE550, it adds WiFi 6 and a higher combined speed. Compared with the outdoor Wavlink models, it is an indoor wall-plug design. The 2400 sq ft figure is a best-case claim, and real coverage depends on walls.\n\nPlacement is everything. Plug it in about halfway between the router and the dead zone, where the router signal is still strong, not inside the dead zone. A single radio shared between receiving and repeating can halve throughput on that hop, so expect less than the router's speed. Update the firmware, and keep it away from microwaves and other interference.",
+   "bestFor": "Homes with a WiFi 6 router and one or two weak zones who want the strongest single extender.",
+   "pros": [
+    "WiFi 6 with 3 Gbps combined bandwidth claimed",
+    "Two directional antennas with beamforming",
+    "Gigabit Ethernet port for wired devices",
+    "Established brand with firmware support"
+   ],
+   "cons": [
+    "Repeating over the same radio costs throughput",
+    "Coverage figure is a best-case claim",
+    "Upper-mid cost tier for an extender"
+   ]
+  },
+  {
+   "id": "B08TLT65WM",
+   "rank": 2,
+   "badge": "Best Value Pick",
+   "name": "TP-Link RE550 AC1900 WiFi Range Extender, Gigabit Ethernet",
+   "amazonUrl": "https://www.amazon.com/dp/B08TLT65WM?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31iowLkOPaL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "AC1900",
+    "3 external antennas",
+    "Gigabit Ethernet",
+    "Up to 2100 sq ft"
+   ],
+   "specList": [
+    {
+     "label": "Standard",
+     "value": "WiFi 5, dual band, 1.9 Gbps combined"
+    },
+    {
+     "label": "Antennas",
+     "value": "Three adjustable external"
+    },
+    {
+     "label": "Coverage claim",
+     "value": "Up to 2100 sq ft"
+    },
+    {
+     "label": "Wired port",
+     "value": "Gigabit Ethernet"
+    },
+    {
+     "label": "Class",
+     "value": "Low to mid tier"
+    }
+   ],
+   "description": "The TP-Link RE550 is a WiFi 5 dual-band extender with three adjustable external antennas, 1.9 Gbps of combined bandwidth and a gigabit Ethernet port. The maker lists coverage up to 2100 sq ft. It is the value option for a household whose devices and router are WiFi 5.\n\nThe adjustable antennas give you some control over where the signal goes, which is useful in an oddly shaped house. Compared with the AX3000, it lacks WiFi 6 and costs less. Compared with the RE315, it is faster and has Ethernet, but is larger. For most homes with WiFi 5 devices, the speed difference to WiFi 6 will not show up through the walls.\n\nIn use, place it halfway to the dead zone and aim the antennas. Use the app or web page to set up, and choose whether to use the same network name or a separate one. A same-name setup can hold onto the extender after you walk away from it, so some people prefer a separate name. Check for firmware updates after setup.",
+   "bestFor": "Homes with WiFi 5 routers and devices who want solid coverage at a moderate cost.",
+   "pros": [
+    "Three adjustable antennas for tuning coverage",
+    "Gigabit Ethernet port for a wired device",
+    "1.9 Gbps combined bandwidth claimed",
+    "Lower cost than WiFi 6 extenders"
+   ],
+   "cons": [
+    "WiFi 5 only, with no WiFi 6 features",
+    "Bulkier than plug-in models",
+    "Shared-radio hop cuts speed"
+   ]
+  },
+  {
+   "id": "B08RHD97QY",
+   "rank": 3,
+   "badge": "Best Budget Plug-In",
+   "name": "TP-Link RE315 AC1200 Dual Band WiFi Extender",
+   "amazonUrl": "https://www.amazon.com/dp/B08RHD97QY?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31W2DiQa8OL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "AC1200",
+    "Dual band",
+    "Plug-in design",
+    "1.2 Gbps combined"
+   ],
+   "specList": [
+    {
+     "label": "Standard",
+     "value": "WiFi 5, dual band"
+    },
+    {
+     "label": "Bandwidth",
+     "value": "1.2 Gbps combined"
+    },
+    {
+     "label": "Design",
+     "value": "Compact wall plug"
+    },
+    {
+     "label": "Use",
+     "value": "Single weak room"
+    },
+    {
+     "label": "Class",
+     "value": "Lowest cost tier"
+    }
+   ],
+   "description": "The TP-Link RE315 is a compact plug-in AC1200 extender with 1.2 Gbps of combined dual-band bandwidth. It is the cheapest option in this guide, and it plugs directly into a wall outlet with no cables. The maker claims coverage for a modest house, which is more honest than the larger claims elsewhere in this guide.\n\nIt is built for one weak room, such as a bedroom at the end of a hall. Compared with the RE550, it has no Ethernet port and fewer antennas. Compared with the AX3000, it is much slower and older in standard. It suits a small to mid-size home, not a large one, which makes it a fair entry for the dead-zone-only scenario.\n\nOwnership steps are easy: plug it in midway, run the setup and check the signal lights. A plug-in extender can block a neighboring outlet and shift if you tug on cables. Firmware updates matter, and the brand typically supports its devices for a long time. If you find the connection still weak, the fix is a better placement, not a second extender.",
+   "bestFor": "One weak room in a small or mid-size home at the lowest cost.",
+   "pros": [
+    "Lowest cost tier with a known brand",
+    "Compact plug-in design needs no cables",
+    "Dual band with 1.2 Gbps combined",
+    "Simple app setup"
+   ],
+   "cons": [
+    "No Ethernet port",
+    "Slower and older standard than the others",
+    "Not suited to a large home on its own"
+   ]
+  },
+  {
+   "id": "B0HCSWXHLR",
+   "rank": 4,
+   "badge": "Best Outdoor Extender",
+   "name": "WAVLINK AX3000 Outdoor WiFi 6 Extender, IP67, Long Range",
+   "amazonUrl": "https://www.amazon.com/dp/B0HCSWXHLR?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31W550PNWhL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "AX3000",
+    "IP67 weatherproof",
+    "5 GHz 2402 Mbps",
+    "Outdoor use"
+   ],
+   "specList": [
+    {
+     "label": "Standard",
+     "value": "WiFi 6, dual band, AX3000"
+    },
+    {
+     "label": "5 GHz speed",
+     "value": "Up to 2402 Mbps"
+    },
+    {
+     "label": "Weather rating",
+     "value": "IP67"
+    },
+    {
+     "label": "Use",
+     "value": "Yard, garage, barn, RV"
+    },
+    {
+     "label": "Class",
+     "value": "Mid tier"
+    }
+   ],
+   "description": "The WAVLINK AX3000 is an outdoor WiFi 6 extender rated IP67 for weather, with a stated 2402 Mbps on 5 GHz and a combined 3000 Mbps. It is aimed at extending a signal to a yard, garage, barn or RV, which indoor plug-in extenders cannot do. IP67 means it resists dust and temporary immersion.\n\nThis is a different job from the indoor models. Compared with the TP-Link AX3000, it is built for weather and distance, not for a living room. It typically needs mounting and a power source, and the maker notes it can serve as an access point or repeater. Range outdoors is better than indoors since there are fewer walls, but trees and metal still block signal.\n\nOwnership notes: mount it high and in line of sight to the house, use outdoor-rated cable and check the power method. Cable entry and weather sealing should be done carefully, and the unit is a bigger project than a plug-in. It is the right tool for the shed, not for the bedroom.",
+   "bestFor": "Properties with a garage, barn or yard that need a weatherproof signal.",
+   "pros": [
+    "IP67 rating suits outdoor mounting",
+    "WiFi 6 with 2402 Mbps on 5 GHz claimed",
+    "Built to reach outbuildings and yards",
+    "Can work as a repeater or access point"
+   ],
+   "cons": [
+    "Needs mounting and power planning",
+    "Overkill for indoor dead zones",
+    "Trees and metal still block signal"
+   ]
+  },
+  {
+   "id": "B0HPY1418S",
+   "rank": 5,
+   "badge": "Best High-Capacity Claim",
+   "name": "JoyLantern AX3000 WiFi 6 Extender, 165+ Devices, Long Range",
+   "amazonUrl": "https://www.amazon.com/dp/B0HPY1418S?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31RCGx53KHL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "WiFi 6 AX3000",
+    "165+ devices claim",
+    "21099 sq ft claim",
+    "Ethernet"
+   ],
+   "specList": [
+    {
+     "label": "Standard",
+     "value": "WiFi 6, AX3000"
+    },
+    {
+     "label": "Device claim",
+     "value": "165 or more devices"
+    },
+    {
+     "label": "Coverage claim",
+     "value": "Up to 21099 sq ft"
+    },
+    {
+     "label": "Target",
+     "value": "Bedrooms, garages and basements"
+    },
+    {
+     "label": "Class",
+     "value": "Low to mid tier"
+    }
+   ],
+   "description": "The JoyLantern is a WiFi 6 AX3000 extender whose listing claims coverage up to 21099 sq ft and support for 165 or more devices. These are very large numbers for a single extender, and the honest reading is to treat them as marketing. Coverage depends on walls, floors and the router signal, not on a number printed on the listing.\n\nThe hardware is a WiFi 6 repeater with a combined AX3000 rating, similar in standard to the TP-Link AX3000. Compared with the TP-Link, it comes from a less known brand with a bolder claim and a lower cost tier. Compared with the RAGOAT, it offers WiFi 6 and a higher claimed speed.\n\nIn ownership terms, check the warranty and the firmware update history, since lesser-known extenders can go unsupported. Place it midway like any extender, and do not expect anything close to the claimed area. A device count claim matters less than the radio hop, since all those devices share the same limited airtime.",
+   "bestFor": "Buyers who want a WiFi 6 extender at a low to mid tier and accept brand risk.",
+   "pros": [
+    "WiFi 6 AX3000 at a low to mid cost tier",
+    "Targets bedrooms, garages and basements",
+    "Ethernet port for a wired device",
+    "High device capacity listed"
+   ],
+   "cons": [
+    "Coverage and device claims are far above what any extender delivers",
+    "Lesser-known brand with unclear support",
+    "Shared radio still cuts speed"
+   ]
+  },
+  {
+   "id": "B0HCNGJC3V",
+   "rank": 6,
+   "badge": "Best Entry Large-Claim Unit",
+   "name": "RAGOAT Dual Band WiFi Extender, 12880 Sq Ft Claim, Ethernet",
+   "amazonUrl": "https://www.amazon.com/dp/B0HCNGJC3V?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31ulAH+DlCL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "Dual band 5 and 2.4 GHz",
+    "12880 sq ft claim",
+    "105 devices",
+    "Ethernet"
+   ],
+   "specList": [
+    {
+     "label": "Bands",
+     "value": "5 GHz and 2.4 GHz dual band"
+    },
+    {
+     "label": "Coverage claim",
+     "value": "Up to 12880 sq ft"
+    },
+    {
+     "label": "Device claim",
+     "value": "105 devices"
+    },
+    {
+     "label": "Wired port",
+     "value": "Ethernet"
+    },
+    {
+     "label": "Class",
+     "value": "Low tier"
+    }
+   ],
+   "description": "The RAGOAT extender is a dual-band unit that claims coverage up to 12880 sq ft and compatibility with 105 devices, with an Ethernet port. It is a low cost option that leans heavily on large claims. As with the JoyLantern, those numbers should be read as marketing and not as a measured range.\n\nThe practical question is what the extender actually does: it repeats an existing signal over a dual-band link, which is useful but limited. Compared with the TP-Link RE315, it makes larger claims at a low tier but has less brand backing. Compared with the TP-Link AX3000, it lacks WiFi 6 and the track record.\n\nOwnership comes with caveats. Check the return policy, since unfamiliar brands vary in support. Place it where the router signal is still good, and use the Ethernet port for a stationary device. If speeds disappoint, move the extender closer to the router before blaming the hardware.",
+   "bestFor": "Low-cost buyers who need an Ethernet-equipped dual-band repeater and will check return terms.",
+   "pros": [
+    "Lowest cost tier with an Ethernet port",
+    "Dual band 5 and 2.4 GHz",
+    "Plug-in installation",
+    "Simple to set up"
+   ],
+   "cons": [
+    "12880 sq ft claim is far beyond real-world range",
+    "Lesser-known brand with uncertain support",
+    "No WiFi 6"
+   ]
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Treat coverage claims as marketing",
+   "explanation": "Square footage figures are best-case, open-space numbers. The JoyLantern lists 21099 sq ft and the RAGOAT lists 12880 sq ft, while the TP-Link models list 2100 to 2400 sq ft. A single extender cannot cover a house of that size, because walls, floors and metal cut the signal. Choose by placement and standard, not by the largest number."
+  },
+  {
+   "criterion": "WiFi standard and bands",
+   "explanation": "WiFi 6, as on the TP-Link AX3000, uses the spectrum more efficiently than WiFi 5, but only helps if your router and devices support it. Dual band means 2.4 GHz for range and 5 GHz for speed. If your router is WiFi 5, a WiFi 5 extender like the RE550 is a more sensible match. The extender can never be faster than the signal it receives."
+  },
+  {
+   "criterion": "The repeating penalty",
+   "explanation": "Most extenders use one radio to both receive from the router and repeat to your device, which can roughly halve throughput on that link. A wired Ethernet connection, used as access point mode, avoids that penalty. Tri-band mesh systems dedicate a radio to backhaul, which is why they perform better. For a large home, the penalty adds up with each hop."
+  },
+  {
+   "criterion": "Placement",
+   "explanation": "Put the extender about halfway between the router and the dead zone, where the router signal is still strong. Putting it in the dead zone repeats a weak signal. Avoid placing it behind furniture, near microwaves or next to thick walls. Poor placement is the main reason extenders disappoint."
+  },
+  {
+   "criterion": "Ethernet and extra ports",
+   "explanation": "An Ethernet port, as on the TP-Link AX3000, RE550 and RAGOAT, lets you connect a TV or console with a wire, which is faster and steadier than WiFi. Some extenders can run as access points when connected by cable, which is the best use of one. The RE315 has no Ethernet port."
+  },
+  {
+   "criterion": "Extender or mesh",
+   "explanation": "An extender creates a second network name or a same-name network with limited roaming, while mesh gives one name and smarter handoff. For a multi-story or large home, mesh is usually the better answer. An extender suits one or two dead zones in a mid-size home. Buying a pile of extenders is a worse deal than one mesh set."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "AX3000 and AC1900",
+   "meaning": "Combined speed labels that add up the bands. They are not what one device gets.",
+   "watchFor": "The TP-Link AX3000 and the JoyLantern use AX3000, and the RE550 uses AC1900."
+  },
+  {
+   "spec": "Coverage in sq ft",
+   "meaning": "A best-case figure in open space. Walls and floors reduce it a lot.",
+   "watchFor": "The listing claims range from 2100 sq ft on the RE550 to 21099 sq ft on the JoyLantern."
+  },
+  {
+   "spec": "Beamforming",
+   "meaning": "A technique that aims the signal at your device instead of broadcasting evenly.",
+   "watchFor": "The TP-Link AX3000 lists beamforming with two directional antennas."
+  },
+  {
+   "spec": "IP67",
+   "meaning": "Dust tight and resistant to temporary immersion, a weatherproof rating.",
+   "watchFor": "The WAVLINK AX3000 outdoor model lists IP67."
+  },
+  {
+   "spec": "Access point mode",
+   "meaning": "Using an extender with an Ethernet cable to the router, so it broadcasts a fresh WiFi signal without a wireless hop.",
+   "watchFor": "Extenders with Ethernet ports can often do this, as on the TP-Link AX3000 and RE550."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Standard and speed",
+   "description": "We compared WiFi standards and combined speed labels, from the AC1200 RE315 to the AX3000 models. We treated combined speeds as labels. Our scores are editorial assessments based on published specifications and owner feedback patterns."
+  },
+  {
+   "title": "Coverage claims",
+   "description": "We read claims from 2100 sq ft to 21099 sq ft and discounted the largest ones. Claims were weighed against what walls and floors do to a signal."
+  },
+  {
+   "title": "Ports and antennas",
+   "description": "We looked at Ethernet ports and antenna design, such as the TP-Link directional antennas and the RE550 adjustable antennas."
+  },
+  {
+   "title": "Use case",
+   "description": "We separated indoor plug-in units from the outdoor WAVLINK, and matched each to a job."
+  },
+  {
+   "title": "Value and honesty",
+   "description": "We judged each extender by relative cost tier and avoided price figures. Lesser-known brands were flagged for support risk."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Router Standard",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "WiFi 6 router",
+      "TP-Link AX3000",
+      "Matches the standard and adds beamforming."
+     ],
+     [
+      "WiFi 5 router",
+      "TP-Link RE550",
+      "Matched speed with Ethernet."
+     ],
+     [
+      "One weak room",
+      "TP-Link RE315",
+      "Compact and low cost."
+     ],
+     [
+      "Outbuildings",
+      "WAVLINK AX3000 Outdoor",
+      "IP67 weatherproof."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest spend",
+      "RAGOAT or TP-Link RE315",
+      "Low tier options."
+     ],
+     [
+      "Low to mid",
+      "JoyLantern AX3000",
+      "WiFi 6 at a low tier."
+     ],
+     [
+      "Mid",
+      "TP-Link RE550",
+      "Adjustable antennas."
+     ],
+     [
+      "Higher",
+      "TP-Link AX3000",
+      "Strongest single unit."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Extender vs Mesh",
+   "cards": [
+    {
+     "label": "Extender",
+     "text": "The TP-Link and others add coverage to one or two dead zones cheaply, but halve throughput on a shared radio."
+    },
+    {
+     "label": "Mesh",
+     "text": "A mesh set gives one network name and better handoff, and is usually the better answer for multi-story or large homes."
+    }
+   ],
+   "note": "Choose an extender for one or two dead zones. Choose mesh for a large or multi-story house."
+  },
+  {
+   "subheading": "By Location",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Back bedroom",
+      "TP-Link RE315",
+      "Single room fix."
+     ],
+     [
+      "Home office with a wired PC",
+      "TP-Link AX3000",
+      "Ethernet and WiFi 6."
+     ],
+     [
+      "Garage or barn",
+      "WAVLINK AX3000 Outdoor",
+      "Weatherproof."
+     ],
+     [
+      "Basement",
+      "TP-Link RE550",
+      "Adjustable antennas."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Large Homes Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A current WiFi standard, an Ethernet port, honest claims and a placement plan. Consider mesh first if you have several floors."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The TP-Link AX3000 leads on capability, the RE550 on value and the WAVLINK on reaching outbuildings."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You have a WiFi 6 router and need faster repeated speeds. The TP-Link AX3000 is the step up."
+    },
+    {
+     "label": "Save if",
+     "text": "You need one room covered. The RE315 does the job."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Update firmware",
+   "interval": "Every few months",
+   "why": "Updates fix bugs and security issues. Check the maker's app or page."
+  },
+  {
+   "task": "Reposition if speeds drop",
+   "interval": "As needed",
+   "why": "Furniture, new devices and appliances change the signal. Move it closer to the router if the link is weak."
+  },
+  {
+   "task": "Check the signal light",
+   "interval": "Monthly",
+   "why": "A poor link light means the extender is too far from the router. Move it midway."
+  },
+  {
+   "task": "Restart occasionally",
+   "interval": "Every few months",
+   "why": "Extenders can lose their connection to the router. A power cycle often restores it."
+  },
+  {
+   "task": "Inspect outdoor mounts and cables",
+   "interval": "Seasonally",
+   "why": "Weather wears seals and cables on the WAVLINK. Check the cable entry and seals."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Will an extender cover my large home?",
+   "a": "One extender rarely covers a large home. It adds coverage to a dead zone. For a large or multi-story house, a mesh system is usually better."
+  },
+  {
+   "q": "Why is my extended WiFi slower?",
+   "a": "Most extenders use one radio to receive and repeat, which can roughly halve speed. A wired Ethernet link or mesh avoids that."
+  },
+  {
+   "q": "Where should I put the extender?",
+   "a": "About halfway between the router and the dead zone, where the router signal is still strong."
+  },
+  {
+   "q": "Are the 20000 sq ft claims real?",
+   "a": "They are best-case marketing figures. Walls, floors and interference reduce real range a lot."
+  },
+  {
+   "q": "Should I use the same network name?",
+   "a": "Same name is convenient but devices can cling to a weak extender. A separate name gives control."
+  },
+  {
+   "q": "Can I plug a TV into the extender?",
+   "a": "Yes, with an Ethernet port. A wired link is faster and steadier than WiFi for a stationary device."
+  }
+ ],
+ "relatedGuides": [
+  {
+   "title": "Mesh WiFi vs Range Extender",
+   "href": "/guide/mesh-wifi-vs-range-extender"
+  },
+  {
+   "title": "Best Mesh WiFi Systems",
+   "href": "/guide/best-mesh-wifi-systems"
+  },
+  {
+   "title": "WiFi 6 vs WiFi 7",
+   "href": "/guide/wifi-6-vs-wifi-7"
+  }
+ ]
+}

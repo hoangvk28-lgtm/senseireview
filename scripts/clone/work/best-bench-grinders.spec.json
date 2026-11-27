@@ -1,0 +1,598 @@
+{
+ "guideSlug": "best-bench-grinders",
+ "categorySlug": "tools-diy",
+ "mainKeyword": "bench grinder",
+ "guideTitle": "Best Bench Grinders (2026)",
+ "metaTitle": "Best Bench Grinders",
+ "metaDescription": "Bench grinders compared on wheel size, induction motors, speed, tool rests and sharpening use, with honest safety notes on guards, wheel rest gaps and heat.",
+ "lastUpdated": "2026-11-27",
+ "readTime": "12 min",
+ "heroImage": "https://m.media-amazon.com/images/I/41zUTpcEs2L._SL500_.jpg",
+ "expertTake": "The DEWALT DW758 8 inch bench grinder is the best overall pick because a 3/4 HP induction motor, an 8 inch wheel and a sturdy base give smooth, steady grinding for a home shop. The WEN BG4260 6 inch is the value pick for light sharpening and deburring at a low cost tier. Anyone mainly sharpening woodworking chisels and plane irons should consider a low-speed grinder or a wet sharpening system, because a standard 3450 RPM grinder easily overheats and ruins a fine edge.",
+ "introParagraphs": [
+  "A bench grinder is a motor with a grinding wheel on each end, used to sharpen tools, shape metal, remove rust and deburr edges. It is one of the most useful and most dangerous machines in a home shop, so guards, eye protection and correct setup matter.",
+  "This guide compares bench grinders for home workshops. We evaluated each on published specifications, wheel size, motor type, speed, construction and extras such as wire wheels and lights, and we explain the safety setup that every grinder needs. Always read the manual and wear eye and ear protection."
+ ],
+ "products": [
+  {
+   "id": "B0000224J4",
+   "rank": 1,
+   "badge": "Best Overall",
+   "name": "DEWALT DW758 8 Inch Bench Grinder, 3/4 HP Induction Motor",
+   "amazonUrl": "https://www.amazon.com/dp/B0000224J4?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41zUTpcEs2L._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "8 in wheels",
+    "3/4 HP induction",
+    "Cast base",
+    "Heavy duty"
+   ],
+   "specList": [
+    {
+     "label": "Wheel size",
+     "value": "8 inch"
+    },
+    {
+     "label": "Motor",
+     "value": "3/4 HP induction"
+    },
+    {
+     "label": "Use",
+     "value": "Industrial grinding and sharpening"
+    },
+    {
+     "label": "Construction",
+     "value": "Heavy base and tool rests"
+    },
+    {
+     "label": "Class",
+     "value": "Upper-mid tier"
+    }
+   ],
+   "description": "The DEWALT DW758 is an 8 inch bench grinder driven by a 3/4 HP induction motor, positioned for industrial-grade grinding. An induction motor runs quieter and cooler than a brushed motor and is built for long service. It is the model most often named as the best overall bench grinder in roundups.\n\nThe 8 inch wheels have more surface speed and give a larger grinding area than 6 inch wheels. Compared with the WEN 6 inch grinders, it is heavier, steadier and more powerful. Compared with the JET 6 inch, it has bigger wheels and more motor. It is the one to buy if you will grind regularly, shape metal or sharpen mower blades and shovels.\n\nOwnership notes: bolt it to a heavy bench, because vibration makes a grinder walk and a loose wheel dangerous. Set the tool rest about 1/8 inch from the wheel and adjust it as the wheel wears. Keep the spark guards and the eye shields in place. Dress the wheels when they glaze or load, and check them for cracks with a ring test before fitting.",
+   "bestFor": "Regular home-shop grinding and tool sharpening where power and stability matter.",
+   "pros": [
+    "3/4 HP induction motor runs steadily and quietly",
+    "8 inch wheels give a large grinding surface",
+    "Heavy build reduces vibration",
+    "Widely recommended as a best overall pick"
+   ],
+   "cons": [
+    "Upper-mid cost tier",
+    "Heavy and bulky for a small bench",
+    "3450 RPM is too fast for delicate edges"
+   ]
+  },
+  {
+   "id": "B08ZVTFSHK",
+   "rank": 2,
+   "badge": "Best Value Pick",
+   "name": "WEN BG4260 6 Inch Single Speed Bench Grinder, 2.1 Amp",
+   "amazonUrl": "https://www.amazon.com/dp/B08ZVTFSHK?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41wEqXjiiaL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "6 in wheels",
+    "2.1 amp",
+    "3450 RPM",
+    "Single speed"
+   ],
+   "specList": [
+    {
+     "label": "Wheel size",
+     "value": "6 by 3/4 inch"
+    },
+    {
+     "label": "Motor",
+     "value": "2.1 amp"
+    },
+    {
+     "label": "Speed",
+     "value": "Up to 3450 RPM"
+    },
+    {
+     "label": "Use",
+     "value": "Light sharpening and deburring"
+    },
+    {
+     "label": "Class",
+     "value": "Low tier"
+    }
+   ],
+   "description": "The WEN BG4260 is a 6 inch single speed bench grinder with a 2.1 amp motor turning 6 by 3/4 inch wheels at up to 3450 RPM. It is a budget bench grinder that suits light work. Reviewers often name it as a best bang for the buck.\n\nA 2.1 amp motor is modest, and heavy grinding will slow it. Compared with the DEWALT DW758, it is lighter, cheaper and less powerful. Compared with the WEN BG4276 variant with a light, it is the same machine without the work light. It is a good first grinder for sharpening garden tools, cleaning up welds and deburring.\n\nOwnership notes: the stock wheels are basic, so consider upgrading them. Bolt it down, and set the rest gap to about 1/8 inch. Keep the guards in place, and wear eye protection. Do not push hard, and avoid overheating steel.",
+   "bestFor": "Light sharpening and cleanup in a small home shop at a low cost.",
+   "pros": [
+    "Low cost tier from a known budget brand",
+    "6 inch wheels are easy to handle",
+    "Compact enough for a small bench",
+    "Simple single-speed operation"
+   ],
+   "cons": [
+    "2.1 amp motor bogs down under heavy loads",
+    "Stock wheels are basic",
+    "Single speed is too fast for fine sharpening"
+   ]
+  },
+  {
+   "id": "B09T3XHS56",
+   "rank": 3,
+   "badge": "Best Variable Speed",
+   "name": "WEN BG625V 6 Inch Variable Speed Bench Grinder, 2000 to 3400 RPM",
+   "amazonUrl": "https://www.amazon.com/dp/B09T3XHS56?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41ibpC3lbDL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "6 in wheels",
+    "2.5 amp",
+    "2000 to 3400 RPM",
+    "Work light"
+   ],
+   "specList": [
+    {
+     "label": "Wheel size",
+     "value": "6 inch"
+    },
+    {
+     "label": "Motor",
+     "value": "2.5 amp variable speed"
+    },
+    {
+     "label": "Speed range",
+     "value": "2000 to 3400 RPM"
+    },
+    {
+     "label": "Extras",
+     "value": "Flexible work light"
+    },
+    {
+     "label": "Class",
+     "value": "Low to mid tier"
+    }
+   ],
+   "description": "The WEN BG625V is a 6 inch bench grinder with a 2.5 amp variable speed motor that runs from 2000 to 3400 RPM, with a flexible work light. Variable speed lets you slow the wheel for delicate work and speed it up for rough grinding. The light helps you see the work.\n\nA lower speed reduces heat, which protects the temper of a tool edge. Compared with the single-speed WEN BG4260, it offers control at a small step up in cost. Compared with the VEVOR 1750 RPM low-speed grinder, it covers a higher range and not a dedicated slow speed. It is a flexible choice for mixed work.\n\nOwnership notes: start at a lower speed for sharpening, and watch for color changes on the steel, which show overheating. Dip steel in water often. Bolt the grinder down, and set the rests. Keep the guards on.",
+   "bestFor": "Mixed grinding and sharpening where speed control helps.",
+   "pros": [
+    "Variable speed from 2000 to 3400 RPM",
+    "Slower speeds reduce heat on edges",
+    "Flexible work light included",
+    "Low to mid cost tier"
+   ],
+   "cons": [
+    "2.5 amp motor is modest",
+    "Even 2000 RPM is fast for fine edges",
+    "Speed control can wear under load"
+   ]
+  },
+  {
+   "id": "B07FP5WNG1",
+   "rank": 4,
+   "badge": "Best With Wire Wheel",
+   "name": "JET JBG-6W 6 Inch Bench Grinder with Wire Wheel, 1/2 HP, 3450 RPM",
+   "amazonUrl": "https://www.amazon.com/dp/B07FP5WNG1?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/315zJbjjEqL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "6 in",
+    "1/2 HP induction",
+    "Wire wheel",
+    "Cast iron body"
+   ],
+   "specList": [
+    {
+     "label": "Wheel size",
+     "value": "6 inch"
+    },
+    {
+     "label": "Motor",
+     "value": "1/2 HP, 115V induction"
+    },
+    {
+     "label": "Speed",
+     "value": "3450 RPM"
+    },
+    {
+     "label": "Extras",
+     "value": "Wire wheel included"
+    },
+    {
+     "label": "Class",
+     "value": "Mid tier"
+    }
+   ],
+   "description": "The JET JBG-6W is a 6 inch bench grinder with a 1/2 HP, 115V induction motor at 3450 RPM in a cast iron body, supplied with a wire wheel. A wire wheel removes rust and paint, which is useful for restoration work. The cast iron body reduces vibration.\n\nAn induction motor is a step above the universal motors in budget grinders, since it runs cooler and lasts. Compared with the WEN BG4260, it has a more robust motor and a wire wheel in the box. Compared with the DEWALT, it has smaller wheels and less power. It suits a hobbyist who restores tools and cleans parts.\n\nOwnership notes: wear a face shield with a wire wheel, since wires can fly off. Keep the guards and the rest in place. Use the grinding wheel for shaping and the wire wheel for cleaning. Replace the wire wheel when it sheds wires.",
+   "bestFor": "Restoration work that needs both grinding and wire-wheel cleaning.",
+   "pros": [
+    "1/2 HP induction motor in a cast iron body",
+    "Wire wheel included for rust and paint",
+    "Steady and low vibration",
+    "Mid cost tier"
+   ],
+   "cons": [
+    "6 inch wheels are smaller than the DEWALT",
+    "3450 RPM is too fast for fine edges",
+    "Wire wheel needs a face shield"
+   ]
+  },
+  {
+   "id": "B07T3L1T8S",
+   "rank": 5,
+   "badge": "Best Dual Speed Combo",
+   "name": "BUCKTOOL 8 Inch 1/2 HP Dual Speed Bench Grinder Buffer Combo, Cast Iron Base",
+   "amazonUrl": "https://www.amazon.com/dp/B07T3L1T8S?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/418cllGolZL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "8 in",
+    "1/2 HP induction",
+    "Dual speed",
+    "Cast iron base"
+   ],
+   "specList": [
+    {
+     "label": "Wheel size",
+     "value": "8 inch"
+    },
+    {
+     "label": "Motor",
+     "value": "1/2 HP dual-speed induction"
+    },
+    {
+     "label": "Speeds",
+     "value": "Low and high"
+    },
+    {
+     "label": "Base",
+     "value": "Cast iron"
+    },
+    {
+     "label": "Class",
+     "value": "Mid tier"
+    }
+   ],
+   "description": "The BUCKTOOL is an 8 inch bench grinder and buffer combo with a 1/2 HP dual-speed induction motor and a cast iron base. A low speed and a high speed let you choose between grinding and sharpening or buffing. The combination suits a shop that polishes as well as grinds.\n\nA dual-speed induction motor is a flexible design, since the low speed is gentler on edges. Compared with the DEWALT, it offers two speeds at a lower motor rating. Compared with the WEN variable-speed unit, it has two fixed speeds and 8 inch wheels. A buffer wheel is a fun extra for polishing metal.\n\nOwnership notes: use the low speed for sharpening and the high speed for rough work, and change speeds as the manual says. Dress and balance the wheels. Bolt the base down. Keep guards and rests in place and wear eye protection.",
+   "bestFor": "Shops that grind, sharpen and buff, and value a low speed.",
+   "pros": [
+    "Dual speeds for grinding and gentler sharpening",
+    "8 inch wheels with a cast iron base",
+    "Buffer combo adds polishing",
+    "Mid cost tier"
+   ],
+   "cons": [
+    "1/2 HP is less than the DEWALT",
+    "Buffing wheels can grab work",
+    "Lesser-known brand"
+   ]
+  },
+  {
+   "id": "B0FLHLPLHK",
+   "rank": 6,
+   "badge": "Best Low-Speed Sharpening",
+   "name": "VEVOR 6 Inch Low-Speed Bench Grinder, 1750 RPM, 250W Induction Motor",
+   "amazonUrl": "https://www.amazon.com/dp/B0FLHLPLHK?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41oAGmBZH6L._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "6 in",
+    "1750 RPM",
+    "250W induction",
+    "Low speed"
+   ],
+   "specList": [
+    {
+     "label": "Wheel size",
+     "value": "6 inch"
+    },
+    {
+     "label": "Speed",
+     "value": "1750 RPM"
+    },
+    {
+     "label": "Motor",
+     "value": "250W, 2A induction"
+    },
+    {
+     "label": "Use",
+     "value": "Low-speed, higher-precision sharpening"
+    },
+    {
+     "label": "Class",
+     "value": "Low to mid tier"
+    }
+   ],
+   "description": "The VEVOR is a 6 inch low-speed bench grinder with a 250W, 2A induction motor that runs at 1750 RPM. Half the speed of a standard grinder means less heat, which protects a tool's temper during sharpening. The listing emphasizes low speed and higher precision.\n\nLow speed is the feature that matters for chisels, plane irons and knives, since overheating ruins an edge. Compared with the standard 3450 RPM grinders, it removes metal more slowly but safely. Compared with the BUCKTOOL, it is a single slow speed with smaller wheels. It is a good match for a woodworker or knife sharpener.\n\nOwnership notes: choose a wheel suited to your steel, since stock wheels may be coarse. Use light pressure and a jig for consistent angles. Keep a quench cup of water handy. Bolt the grinder down, and set the rests properly.",
+   "bestFor": "Woodworkers and knife sharpeners who need a cooler, slower grinder.",
+   "pros": [
+    "1750 RPM cuts heat on delicate edges",
+    "Induction motor is smooth and quiet",
+    "6 inch size fits a small bench",
+    "Low to mid cost tier"
+   ],
+   "cons": [
+    "Low power removes metal slowly",
+    "Stock wheels may need upgrading",
+    "Lesser-known brand"
+   ]
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Wheel size",
+   "explanation": "Six inch wheels are common on home grinders, and eight inch wheels give a larger grinding surface and higher surface speed at the same RPM. The DEWALT and BUCKTOOL use 8 inch wheels, and the WEN, JET and VEVOR use 6 inch. Bigger wheels cost more and need a sturdier bench. Choose by the work, since small tools and light sharpening suit 6 inch, and heavy shaping suits 8 inch. Wheels shrink as they wear, so a larger new wheel gives you more working life before you need to replace it."
+  },
+  {
+   "criterion": "Motor type and power",
+   "explanation": "Induction motors, as in the DEWALT, JET, BUCKTOOL and VEVOR, run cooler and quieter and last longer than brushed motors. Power is listed in HP or amps, and a 3/4 HP motor handles load far better than a 2 amp one. Under-powered motors bog down and overheat. For regular use, choose an induction motor. A grinder that cannot reach full speed under load will glaze the wheel and heat the work."
+  },
+  {
+   "criterion": "Speed and heat",
+   "explanation": "Standard grinders run at about 3450 RPM, which heats steel quickly and can ruin the temper of a fine edge. Variable-speed or low-speed grinders, like the WEN BG625V at 2000 to 3400 RPM or the VEVOR at 1750 RPM, reduce heat. Woodworkers who sharpen chisels should choose slow speed. A water cup to cool steel is a good habit. Colors such as straw or blue on the steel are warning signs that the edge has lost some hardness, and you should cool the piece and grind less."
+  },
+  {
+   "criterion": "Guards, rests and safety",
+   "explanation": "Spark guards, eye shields and wheel guards must stay in place. The tool rest should sit about 1/8 inch from the wheel to prevent a workpiece from jamming. Check wheels for cracks with a ring test, and never use a damaged wheel. Wear eye and ear protection, and do not use gloves that can catch. Stand to one side of the wheel when you switch on, in case a faulty wheel fails."
+  },
+  {
+   "criterion": "Build, base and vibration",
+   "explanation": "A heavy cast iron base, as on the JET and BUCKTOOL, reduces vibration. A grinder that walks is dangerous, so bolt it to a bench. Wheel balance matters, and a poorly balanced wheel shakes the machine. Dress wheels to keep them true. Rubber feet are not enough, so use bolts through the base holes."
+  },
+  {
+   "criterion": "Extras and wheels",
+   "explanation": "Work lights, wire wheels and buffing wheels add function. The JET includes a wire wheel, and the BUCKTOOL is a buffer combo. Stock wheels are often basic, so upgrading to better wheels improves results. Replacement wheels must match the arbor size and the rated speed. A good light at the work saves you from pressing too hard and overgrinding."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Wheel diameter",
+   "meaning": "The size of the grinding wheel, such as 6 or 8 inches. Larger wheels cover more surface and run at higher surface speed.",
+   "watchFor": "The DEWALT and BUCKTOOL use 8 inch wheels, and the WEN, JET and VEVOR use 6 inch."
+  },
+  {
+   "spec": "Induction motor",
+   "meaning": "A motor type with no brushes. It runs cooler, quieter and longer than a universal motor.",
+   "watchFor": "The DEWALT, JET, BUCKTOOL and VEVOR list induction motors."
+  },
+  {
+   "spec": "RPM",
+   "meaning": "Wheel rotation speed. High RPM grinds fast but heats steel quickly.",
+   "watchFor": "The VEVOR lists 1750 RPM and the others list about 3450 RPM or a variable range."
+  },
+  {
+   "spec": "Tool rest",
+   "meaning": "An adjustable shelf that supports the workpiece. It should be set close to the wheel.",
+   "watchFor": "All the grinders here have tool rests, so set them about 1/8 inch from the wheel."
+  },
+  {
+   "spec": "Wire wheel",
+   "meaning": "A wheel made of wire strands used to remove rust and paint. It requires a face shield.",
+   "watchFor": "The JET JBG-6W includes a wire wheel."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Motor and speed",
+   "description": "We compared induction and universal motors, HP and amp ratings and speeds from 1750 to 3450 RPM. Our scores are editorial assessments based on published specifications and owner feedback patterns."
+  },
+  {
+   "title": "Wheel size and build",
+   "description": "We compared 6 and 8 inch wheels and bases, and noted cast iron versus lighter builds."
+  },
+  {
+   "title": "Safety setup",
+   "description": "We noted guards, rests and the need to bolt the grinder down. We assumed the grinder would be bolted to a heavy bench."
+  },
+  {
+   "title": "Extras",
+   "description": "We looked at wire wheels, buffers and lights."
+  },
+  {
+   "title": "Value and honesty",
+   "description": "We judged each grinder by relative cost tier and avoided price figures. Marketing about power was discounted."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Work",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "General shop grinding",
+      "DEWALT DW758",
+      "Power and stability."
+     ],
+     [
+      "Light sharpening and cleanup",
+      "WEN BG4260",
+      "Low cost."
+     ],
+     [
+      "Chisels and plane irons",
+      "VEVOR 1750 RPM",
+      "Low speed."
+     ],
+     [
+      "Rust and paint removal",
+      "JET JBG-6W",
+      "Wire wheel."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest spend",
+      "WEN BG4260",
+      "Low tier."
+     ],
+     [
+      "Low to mid",
+      "WEN BG625V or VEVOR",
+      "Variable or low speed."
+     ],
+     [
+      "Mid",
+      "JET JBG-6W or BUCKTOOL",
+      "Induction and extras."
+     ],
+     [
+      "Upper-mid",
+      "DEWALT DW758",
+      "Industrial feel."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Standard Speed vs Low Speed",
+   "cards": [
+    {
+     "label": "Standard speed",
+     "text": "The DEWALT, WEN BG4260 and JET run at about 3450 RPM and remove metal quickly, but heat steel fast."
+    },
+    {
+     "label": "Low or variable speed",
+     "text": "The VEVOR, BUCKTOOL and WEN BG625V run slower and suit sharpening with less risk of overheating."
+    }
+   ],
+   "note": "Choose standard speed for shaping and cleanup. Choose low speed if you sharpen fine tools."
+  },
+  {
+   "subheading": "By Bench",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Small bench",
+      "WEN BG4260 or VEVOR",
+      "6 inch."
+     ],
+     [
+      "Heavy bench",
+      "DEWALT DW758",
+      "Heavy 8 inch."
+     ],
+     [
+      "Polishing too",
+      "BUCKTOOL Combo",
+      "Buffer wheel."
+     ],
+     [
+      "Mixed use",
+      "WEN BG625V",
+      "Variable speed and light."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Bench Grinders Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "An induction motor, wheel size for your work, a speed that suits your tools and a solid base. Set the rests and guards correctly."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The DEWALT leads on power, the WEN BG4260 on value and the VEVOR on gentle sharpening."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You grind regularly or need power and smoothness. The DEWALT or JET pays back."
+    },
+    {
+     "label": "Save if",
+     "text": "You grind occasionally. A WEN is enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Dress the wheels",
+   "interval": "When glazed or out of round",
+   "why": "A glazed wheel heats the work and a lumpy wheel vibrates. Use a dressing tool. Wear a face shield and a dust mask when dressing."
+  },
+  {
+   "task": "Reset the tool rests",
+   "interval": "Every session",
+   "why": "Wheels wear and the gap grows. Keep the rest about 1/8 inch from the wheel. Never adjust the rest while the wheel is spinning."
+  },
+  {
+   "task": "Check wheels for cracks",
+   "interval": "Before fitting and periodically",
+   "why": "A cracked wheel can break apart at speed. Do the ring test and replace damaged wheels. Tap a wheel gently and listen for a clear ring, not a dull thud."
+  },
+  {
+   "task": "Clean dust and sparks",
+   "interval": "After use",
+   "why": "Grit and sparks can damage bearings and start fires. Brush off the housing and clear the bench."
+  },
+  {
+   "task": "Check the bolts and base",
+   "interval": "Monthly",
+   "why": "A loose grinder walks. Tighten the mounting bolts."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is a bench grinder dangerous?",
+   "a": "It can be. Keep guards in place, set rests properly, wear eye and ear protection and never use a cracked wheel. Treat it with the same respect as any power tool with exposed spinning parts."
+  },
+  {
+   "q": "Can I sharpen chisels on a standard grinder?",
+   "a": "Yes, but it heats steel quickly. Use light pressure, a water cup and a low-speed grinder if possible. A jig that holds the angle makes the job easier and more consistent."
+  },
+  {
+   "q": "What is the tool rest gap?",
+   "a": "About 1/8 inch from the wheel. A wide gap lets work jam."
+  },
+  {
+   "q": "Do I need to bolt it down?",
+   "a": "Yes. Vibration makes unfastened grinders walk."
+  },
+  {
+   "q": "How do I know when to replace a wheel?",
+   "a": "When it is cracked, too small or badly worn. Never use a damaged wheel. Wheels also have a maximum speed rating printed on the label."
+  },
+  {
+   "q": "Which wheel do I need?",
+   "a": "Match the wheel to the steel. Aluminum oxide suits general steel, and softer wheels cut cooler. Use a wheel rated for at least the grinder's speed."
+  }
+ ],
+ "relatedGuides": [
+  {
+   "title": "Best Angle Grinders",
+   "href": "/guide/best-angle-grinders"
+  },
+  {
+   "title": "Best Whetstones for Japanese Knives",
+   "href": "/guide/best-whetstones-for-japanese-knives"
+  },
+  {
+   "title": "Best Workbenches",
+   "href": "/guide/best-workbenches"
+  }
+ ]
+}

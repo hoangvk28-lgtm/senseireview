@@ -67,3 +67,48 @@
 - Placement and sun exposure for the climbing plant is mentioned.
 - Picks split by decorative arch, vegetable trellis, and container support.
 - Missed angle: ground anchoring and wind load for tall arches, coating wear at stake points, opening size versus tendril type, wet vine weight, how assembly pieces loosen after seasons, galvanized versus powder coated steel.
+## best-weed-torches
+- Top guides lead with BTU, hose length and igniter type.
+- They split picks by best overall, value, heavy duty backpack and paver or wide flame models.
+- They note 300,000 to 500,000 BTU is enough for most weeds and a burn permit check.
+- Gap we cover: BTU as maximum input, regulator and hose limits, fire safety rules and gas leak checks.
+## best-plant-stands-for-indoor-plants
+- Top guides lead with tier count, footprint and style (corner, ladder, wheeled).
+- They split picks by space-saving, portable, decorative and small plants.
+- They note open stands suit plants that need drainage.
+- Gap we cover: weight per tier, water on wood, built-in grow light limits and stability when tall.
+## best-self-watering-planters
+- Top guides lead with reservoir design, water level indicators and size.
+- They split picks by overall, budget, window box, hanging and rolling tomato pots.
+- They advise filling the reservoir rather than watering the soil from above.
+- Gap we cover: plant types that rot in constant moisture, algae and mosquitoes, wicking versus sub-irrigation and root rot.
+## best-mini-greenhouses-for-backyards
+- Top guides lead with frame strength, size and cover type, then walk-in versus tiered.
+- They split picks by best overall walk-in, pop-up, tiered shelf and tabletop.
+- They note lightweight models struggle in strong winds and may need bracing.
+- Gap we cover: anchoring, ventilation on sunny days, cover UV life and the lack of real frost protection.
+## best-trail-cameras-for-wildlife
+- Top guides lead with image quality, trigger speed and flash type, then cellular versus standard.
+- They split picks by best overall, cellular, budget, beginner and fast-moving subjects.
+- They note cellular needs a plan and battery life varies with use.
+- Gap we cover: megapixel inflation, no-glow versus low-glow range, mounting height and false triggers.
+## best-lawn-aerators-for-small-yards
+- Top guides lead with manual core versus spike, then tine depth and handle design.
+- They split picks by stand-up coring, handheld spot and tow-behind for bigger lawns.
+- They note manual aeration is tiring and suits small lawns.
+- Gap we cover: aerator shoes limits, clay soil and hollow tines, timing and overseeding.
+## best-log-splitters-for-home-use
+- Top guides lead with tonnage, electric versus gas and cycle time.
+- They split picks by best electric, gas, budget hydraulic and manual kindling splitters.
+- They note some electric units need two people to mount on the stand.
+- Gap we cover: tonnage versus log capacity, safety around the wedge, vertical versus horizontal use and fuel and oil upkeep.
+
+## best-budget-compost-tumblers
+- Miracle-Gro dual chamber, VIVOSUN, FCMP Outdoor lead tumbler lists; dual chamber batch design is the common recommendation.
+- Criteria: capacity, aeration vents, door size, ease of turning when full, stand stability, UV-resistant plastic.
+- Caveat: a full tumbler is heavy; balance of greens and browns and moisture matter more than the bin.
+
+## best-budget-rain-barrels
+- Good Ideas Rain Wizard, RTS Home Accents and Algreen/Step2 lead lists; flat-back and stand designs recur.
+- Criteria: capacity, spigot, overflow port, screen, UV plastic, food-grade, stand height.
+- Caveat: local rules on rainwater harvesting vary; water is for gardens not drinking.

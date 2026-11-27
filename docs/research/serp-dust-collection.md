@@ -6,3 +6,8 @@
 - Wall units save floor space; some cautions about heavy units hard to move in small shops.
 - Many guides affiliate led and some dated.
 - Missed angle: free air CFM versus airflow after hose loss, static pressure, cyclone pre separation to keep filters clear, fine dust below 10 microns needs good filtration and a respirator, bag capacity versus filling frequency, noise.
+## best-workshop-air-filtration-systems
+- Top guides lead with CFM, filter micron rating and shop size.
+- They split picks by budget, HEPA, large shop and ceiling-hung units.
+- They note air filtration differs from a dust collector and suggest matching CFM to room size.
+- Gap we cover: air changes per hour, California regulation notes, filter cost and noise, and that a unit is not a respirator.

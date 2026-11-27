@@ -1,0 +1,16 @@
+# weed control (propane weed torches)
+- A weed torch uses a propane flame to heat and rupture plant cells; it does not need to burn the weed to ash, a quick pass that wilts leaves is enough.
+- Works best on young annual weeds; established perennials with deep roots regrow and need repeat passes.
+- BTU ratings are the burner's maximum input, not a measure of effectiveness; many torches list 300,000 to 500,000 BTU, with larger numbers used as marketing.
+- The regulator and hose limit real output; a high-pressure regulator and a clean hose matter as much as the headline BTU figure.
+- Propane tank size: a 20 lb tank is typical; high-output torches empty it faster; the tank is not included with most torches.
+- Most kits include a long wand and a hose of about 10 to 12 ft; check the hose rating and replace cracked hoses.
+- Piezo or push-button igniters fail; a backup lighter or striker is useful.
+- Fire risk is real: do not use on dry grass, near mulch, fences, structures or in windy or drought conditions; keep a hose or extinguisher near.
+- Check local burn rules and permits; some areas ban open flame during dry seasons.
+- Hold the flame briefly over weeds; scorching the soil harms beneficial organisms and does nothing extra.
+- Gravel, driveways, patios and cracks suit torches; planted beds with desirable plants do not.
+- Never use on or near flammable materials, or leave a hot torch unattended; let the nozzle cool before storing.
+- Store the tank upright, outdoors or in a ventilated space; check hose connections with soapy water for leaks.
+- CSA or UL listed regulators and hoses are a safety sign; unbranded kits vary.
+- Year three: hose cracking, igniter failure, regulator leaks and corroded fittings.

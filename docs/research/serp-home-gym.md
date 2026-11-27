@@ -56,3 +56,43 @@
 - Picks split by home use, large or beam style, textured, and budget; often suggested for older adults and low impact training.
 - Older lists from 2021 to 2023 mixed with 2026 ones.
 - Missed angle: thickness versus firmness (thicker is not always harder), size for single leg versus two feet, foam compression and rebound over a year, odor of cheap foam, barefoot versus shoe use, floor surface under the pad.
+## best-yoga-wheels
+- Top guides lead with diameter, padding thickness and weight capacity.
+- They split picks by best overall, budget, cork eco option and sets with multiple sizes.
+- They note beginners and back stretching use cases.
+- Gap we cover: wheel diameter versus body size, padding thickness versus stability, TPE versus cork, and that wheels are for stretching and not a treatment.
+## best-weighted-jump-ropes
+- Top guides lead with where the weight sits (rope versus handles), then length and bearings.
+- They split picks by beginner, budget, heavy steel and adjustable or smart ropes.
+- They note weight in the rope gives better results than weight in handles.
+- Gap we cover: calorie claims, wrist and shoulder load of heavier ropes, and rope material versus floor surface.
+## best-standing-desk-mats
+- Top guides lead with thickness, size (at least 2 by 3 feet) and material.
+- They split picks by best overall, flat versus contoured and budget.
+- They note thicker mats cushion more but can feel unstable.
+- Gap we cover: that too soft a mat tires the legs and can be a trip edge, cleaning, and kitchen versus desk fit.
+## best-home-gym-flooring-tiles
+- Top guides lead with rubber versus EVA foam, thickness and drop impact.
+- They split picks by heavy lifting rubber, budget foam and mixed rubber-top tiles.
+- They note foam may not last under heavy weights and rubber tiles smell at first.
+- Gap we cover: tile thickness versus weight dropped, edge pieces and expansion, and subfloor moisture.
+## best-dumbbell-racks
+- Top guides lead with capacity, tier count and footprint.
+- They split picks by best overall 3-tier, A-frame budget, heavy-duty and customizable.
+- They note rack sizing for hex dumbbells and different peg spacing for adjustables.
+- Gap we cover: matching rack to dumbbell shape, floor anchoring and tip risk, and capacity numbers that cover the rack but not tiers.
+
+## best-budget-mini-steppers
+- Sunny Health & Fitness and Stamina lead mini stepper lists; twist and hydraulic designs recur; LCD counters common.
+- Criteria: step height adjustability, noise, pedal grip, weight capacity, resistance bands; low-impact cardio framing.
+- Caveat: hydraulic cylinders lose smoothness over time; no clinical calorie claims.
+
+## best-budget-balance-boards
+- Wobble boards and roller boards; Indo Board and Revolution lead step-up lists; Amazon Basics wood board common budget pick.
+- Criteria: wood vs plastic, weight capacity, stoppers, non-slip surface; ankle rehab and core use.
+- Caveat: roller boards need a spotter and a clear floor.
+
+## best-budget-suspension-trainers
+- TRX GO is the benchmark; budget straps imitate with door anchors, extensions and carry bags.
+- Criteria: stitching, buckle, anchor type, strap length, handle grip; door safety is the recurring warning.
+- Caveat: anchor failure risk; follow rated load and check the door.

@@ -1,0 +1,16 @@
+# automotive diagnostics (OBD2 scanners)
+- Every gasoline car sold in the US since 1996 has an OBD2 port, usually under the dashboard on the driver side; diesel and EU coverage dates differ.
+- A basic code reader shows generic powertrain trouble codes and clears the check engine light; it does not say which part to replace.
+- A code points at a system or circuit, not a failed part; a misfire code can come from plugs, coils, fuel or a vacuum leak.
+- Enhanced diagnostics add manufacturer-specific codes for ABS, airbag (SRS), transmission and TPMS; coverage varies by make, so check the vehicle list.
+- Live data (sensor streams) lets you watch fuel trims, coolant temperature and O2 sensors; useful for diagnosis, not just codes.
+- Freeze frame data stores the conditions when the fault happened.
+- I/M readiness monitors show whether emissions self-tests have completed, which matters before an emissions inspection.
+- Bluetooth dongles pair with a phone app; some apps are free, some bill by subscription or for enhanced coverage.
+- Handheld scanners need no phone and have a fixed screen; app-based tools get updates and bigger screens through the phone.
+- Bidirectional controls send commands to the car (for example to run an EVAP leak test or cycle an ABS pump); real bidirectional tools cost far more and coverage differs by make.
+- Service resets (oil light, electronic parking brake, battery registration, steering angle) are common in mid-tier tools; each works only on listed vehicles.
+- Clearing codes erases freeze frame data and resets readiness monitors; do not clear before an emissions test.
+- Update policy matters: lifetime free updates differ from limited-year updates and paid subscriptions.
+- Do not plug in or out with the engine running unless the manual says so; keep the key on, engine off, for most scans.
+- Year three: cable wear on handhelds, app support ending for old Bluetooth dongles and software that stops updating.

@@ -6,3 +6,8 @@
 - Slim card style trackers for wallets and a lanyard version for keys are called out.
 - Several guides note a paid tier for some Tile features and that AirTag needs no subscription.
 - Missed angle: RF key finders are a separate, offline technology that guides rarely explain, how crowd networks fail in remote areas, unwanted tracking alerts, and multi pack value versus single tags.
+## best-smart-locks-under-200
+- Top guides lead with unlock methods, ecosystem (Matter, Apple Home Key) and security grade.
+- They split picks by best value fingerprint, ecosystem, Matter and keypad models.
+- They note battery type and cost matter and several lists are dated.
+- Gap we cover: backup entry plans, ANSI grades versus smart features, door fit and privacy settings.

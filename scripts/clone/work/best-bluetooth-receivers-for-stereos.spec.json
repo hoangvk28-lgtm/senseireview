@@ -1,0 +1,598 @@
+{
+ "guideSlug": "best-bluetooth-receivers-for-stereos",
+ "categorySlug": "tech-electronics",
+ "mainKeyword": "bluetooth receiver for stereo",
+ "guideTitle": "Best Bluetooth Receivers for Stereos (2026)",
+ "metaTitle": "Best Bluetooth Receivers for Stereos",
+ "metaDescription": "Bluetooth receivers for stereos compared: adapters that add wireless to an amp and stereo receivers with Bluetooth built in, with honest power ratings.",
+ "lastUpdated": "2026-11-27",
+ "readTime": "12 min",
+ "heroImage": "https://m.media-amazon.com/images/I/31UgR-QHyXL._SL500_.jpg",
+ "expertTake": "The 1Mii DS200Pro is the best pick for an existing amplifier because it adds Bluetooth 5.3 with LDAC and aptX HD through a better-than-basic DAC. The Yamaha R-S202BL is the best pick for a first stereo because it is a complete receiver with Bluetooth, a phono input and a subwoofer output. Anyone who just wants wireless music in a room should skip both and buy powered speakers, because the receiver route only pays off if you want to own proper speakers.",
+ "introParagraphs": [
+  "The phrase Bluetooth receiver means two different products. One is a small adapter that plugs into an amplifier or powered speakers and adds wireless streaming. The other is a stereo receiver, an amplifier with inputs and Bluetooth built in, that drives passive speakers.",
+  "This guide covers both, since shoppers searching for a Bluetooth receiver often need either. We evaluated each on published specifications, connections, codecs, rated power and owner feedback patterns, and we explain which kind suits an existing system and which suits a new one."
+ ],
+ "products": [
+  {
+   "id": "B08NCXZHRB",
+   "rank": 1,
+   "badge": "Best Bluetooth Adapter",
+   "name": "1Mii DS200Pro Bluetooth Receiver, LDAC, aptX HD, ESS SABRE DAC",
+   "amazonUrl": "https://www.amazon.com/dp/B08NCXZHRB?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31UgR-QHyXL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "Bluetooth 5.3",
+    "LDAC and aptX HD",
+    "ESS SABRE DAC",
+    "Adds wireless to any amp"
+   ],
+   "specList": [
+    {
+     "label": "Bluetooth",
+     "value": "Version 5.3"
+    },
+    {
+     "label": "Codecs",
+     "value": "LDAC, aptX HD and others"
+    },
+    {
+     "label": "DAC",
+     "value": "ESS SABRE"
+    },
+    {
+     "label": "Use",
+     "value": "Adds Bluetooth to an existing amp or speakers"
+    },
+    {
+     "label": "Class",
+     "value": "Low to mid tier"
+    }
+   ],
+   "description": "The 1Mii DS200Pro is a Bluetooth adapter for an existing home stereo, with Bluetooth 5.3, LDAC and aptX HD codec support and an ESS SABRE DAC. You connect it to an amplifier or powered speakers and stream from a phone. It is the only pure adapter in this guide.\n\nCodec support matters only if your phone supports the same codec. LDAC is mainly found on Android phones, and iPhones use AAC, so an iPhone will not use LDAC. Compared with the stereo receivers here, it does not amplify anything, so it needs a system that already does. Compared with a basic adapter, it adds a better DAC and higher-quality codecs, which can improve clarity on a good system.\n\nSetup is easy: plug it into power, connect the output to a spare amp input and pair your phone. The device is small, and a clean power source reduces noise. Range is shorter through walls, so keep the adapter near the stereo. Bluetooth can introduce a short delay, so it suits music more than video.",
+   "bestFor": "People with a good amplifier or powered speakers who want to add wireless streaming.",
+   "pros": [
+    "Bluetooth 5.3 with LDAC and aptX HD support",
+    "ESS SABRE DAC improves conversion over basic adapters",
+    "Adds wireless to any amp or powered speakers",
+    "Low to mid cost tier"
+   ],
+   "cons": [
+    "Does not amplify, so it needs an existing amp",
+    "LDAC works only with supporting phones",
+    "Bluetooth delay is not ideal for video"
+   ]
+  },
+  {
+   "id": "B01EMQI2CU",
+   "rank": 2,
+   "badge": "Best Stereo Receiver Overall",
+   "name": "Yamaha R-S202BL Stereo Receiver, Bluetooth, Phono, Subwoofer Out",
+   "amazonUrl": "https://www.amazon.com/dp/B01EMQI2CU?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/311M8qu67oL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "Bluetooth",
+    "Phono input",
+    "Subwoofer output",
+    "AM FM tuner"
+   ],
+   "specList": [
+    {
+     "label": "Type",
+     "value": "Two-channel stereo receiver"
+    },
+    {
+     "label": "Inputs",
+     "value": "Phono, line inputs"
+    },
+    {
+     "label": "Outputs",
+     "value": "Subwoofer output, two speaker sets"
+    },
+    {
+     "label": "Extras",
+     "value": "Bluetooth and AM FM tuner"
+    },
+    {
+     "label": "Class",
+     "value": "Mid tier"
+    }
+   ],
+   "description": "The Yamaha R-S202BL is a two-channel stereo receiver with Bluetooth, a phono input for a turntable, a subwoofer output and an AM FM tuner. A speaker selector supports two sets of speakers. It is a complete hub for a first stereo system built around passive speakers.\n\nThe features cover what most people want: wireless streaming from a phone, a turntable and a sub. Compared with the Sony STR-DH190, it adds a subwoofer output and a speaker selector. Compared with the Donner receivers, it is a more traditional design with a long record, and its power figures come from a more conventional rating. It suits an apartment or small room with a pair of bookshelf speakers.\n\nOwnership notes: match speaker impedance to the receiver's rating, and leave space around the unit for ventilation. Phono inputs need a matching cartridge type, so check your turntable. Bluetooth quality is fine for casual listening but lower than wired sources. Keep the unit away from heat, and replace speaker wire if it frays.",
+   "bestFor": "A first stereo system with bookshelf speakers, a turntable and a phone.",
+   "pros": [
+    "Bluetooth, phono and subwoofer output in one unit",
+    "Two-speaker-set selector for flexibility",
+    "AM FM tuner included",
+    "Established brand with a long record"
+   ],
+   "cons": [
+    "Mid cost tier for a basic receiver",
+    "Bluetooth is lower quality than wired inputs",
+    "Needs passive speakers, which you must buy"
+   ]
+  },
+  {
+   "id": "B078WFDR8D",
+   "rank": 3,
+   "badge": "Best Phono Receiver Value",
+   "name": "Sony STR-DH190 2-Channel Stereo Receiver, Phono, Bluetooth",
+   "amazonUrl": "https://www.amazon.com/dp/B078WFDR8D?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/3112y-XNkVL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "2 channels",
+    "Phono input",
+    "Bluetooth",
+    "100 W x 2 listed"
+   ],
+   "specList": [
+    {
+     "label": "Type",
+     "value": "Two-channel stereo receiver"
+    },
+    {
+     "label": "Power",
+     "value": "Listed 100 W x 2 at 8 ohms, 1 kHz"
+    },
+    {
+     "label": "Speaker impedance",
+     "value": "6 to 16 ohms"
+    },
+    {
+     "label": "Inputs",
+     "value": "Phono and line"
+    },
+    {
+     "label": "Class",
+     "value": "Low to mid tier"
+    }
+   ],
+   "description": "The Sony STR-DH190 is a two-channel stereo receiver with phono inputs and Bluetooth, with a listed output of 100 W per channel at 8 ohms and 1 kHz and a speaker impedance range of 6 to 16 ohms. It is a no-frills receiver at a modest cost tier. It suits a simple stereo with a turntable.\n\nRead the power rating with care. A figure measured at a single 1 kHz tone with one channel driven is more generous than a full-range measurement with both channels driven. Compared with the Yamaha, it lacks a subwoofer output but costs less. Compared with the Donner 600W, its rating is stated under clear conditions, which is a point in its favor.\n\nIn practice, check speaker impedance, and leave ventilation space above the unit. Phono input is for turntables with a moving magnet cartridge, so confirm yours. Bluetooth is convenient for streaming but not audiophile quality. For small rooms, this is plenty of power for typical bookshelf speakers.",
+   "bestFor": "Small rooms with a turntable and a pair of efficient bookshelf speakers.",
+   "pros": [
+    "Phono input for a turntable at a low to mid cost tier",
+    "Listed 100 W per channel is plenty for small rooms",
+    "Bluetooth for streaming from a phone",
+    "Wide 6 to 16 ohm speaker impedance range"
+   ],
+   "cons": [
+    "No subwoofer output",
+    "Power rating is at one frequency, not full range",
+    "Basic features compared with the Yamaha"
+   ]
+  },
+  {
+   "id": "B0F7GY4TM7",
+   "rank": 4,
+   "badge": "Best Digital Inputs",
+   "name": "Donner 2-Channel Stereo Receiver, 60 W x 2 RMS, Bluetooth 5.3, Optical",
+   "amazonUrl": "https://www.amazon.com/dp/B0F7GY4TM7?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/418fpXgf1DL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "60 W x 2 RMS",
+    "Bluetooth 5.3",
+    "Phono, optical, coax",
+    "Remote"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "60 W x 2 RMS (600 W peak claimed)"
+    },
+    {
+     "label": "Bluetooth",
+     "value": "Version 5.3"
+    },
+    {
+     "label": "Inputs",
+     "value": "Phono, optical, coaxial"
+    },
+    {
+     "label": "Control",
+     "value": "Multifunction remote"
+    },
+    {
+     "label": "Class",
+     "value": "Low to mid tier"
+    }
+   ],
+   "description": "The Donner two-channel receiver lists 60 W per channel RMS, with a 600 W peak claim in the headline, Bluetooth 5.3, phono, optical and coaxial inputs and a multifunction remote. The RMS figure is the useful number; the peak is marketing. Digital inputs let you connect a TV or a streamer directly.\n\nThe optical and coaxial inputs are a practical advantage for a TV setup, which the Sony and Yamaha lack. Compared with the Yamaha, it offers digital inputs and a lower RMS rating, but fewer brand credentials. Compared with the 1000 W four-channel Donner, it is a simpler two-channel design with a clearer power spec. It is a good match for small to medium speakers.\n\nOwnership notes: ignore the peak figure, and compare the RMS rating to the speakers' recommended power. Check ventilation and keep the unit away from heat. Remote control is useful, but small buttons and menus vary. Lesser-known brands have less long-term support, so check warranty terms.",
+   "bestFor": "TV and turntable setups that need digital inputs and a clear RMS power rating.",
+   "pros": [
+    "60 W x 2 RMS stated alongside the peak claim",
+    "Optical and coaxial inputs for TV and streamers",
+    "Bluetooth 5.3 and phono input",
+    "Low to mid cost tier with a remote"
+   ],
+   "cons": [
+    "600 W peak claim is marketing, not usable power",
+    "Lesser-known brand with limited track record",
+    "No subwoofer output listed"
+   ]
+  },
+  {
+   "id": "B0D5H5JPF9",
+   "rank": 5,
+   "badge": "Best Four-Channel Option",
+   "name": "Donner 4-Channel Stereo Receiver, 25 W x 4 RMS, Bluetooth",
+   "amazonUrl": "https://www.amazon.com/dp/B0D5H5JPF9?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31Wu18N11RL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "25 W x 4 RMS",
+    "4 channels",
+    "1000 W peak claim",
+    "Bluetooth"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "25 W x 4 RMS (1000 W peak claimed)"
+    },
+    {
+     "label": "Channels",
+     "value": "Four, for multi-room or zones"
+    },
+    {
+     "label": "Bluetooth",
+     "value": "Included"
+    },
+    {
+     "label": "Control",
+     "value": "Multifunction remote"
+    },
+    {
+     "label": "Class",
+     "value": "Mid tier"
+    }
+   ],
+   "description": "The Donner four-channel receiver lists 25 W per channel RMS across four channels, with a 1000 W peak claim in the headline, plus Bluetooth and a multifunction remote. Four channels let you run two pairs of speakers, such as indoor and patio, or a second zone. The RMS number shows the real capacity per channel.\n\nThe 1000 W peak figure is marketing, since 25 W times four is 100 W of continuous power. Compared with the two-channel Donner, it spreads the same type of power across more channels, so each speaker gets less. Compared with the Yamaha, it is a multi-zone solution and not a refined stereo. It suits small rooms or a shared patio and room setup.\n\nIn use, match speaker impedance and keep expectations modest for volume. Four-channel receivers drive two pairs of speakers at once, which halves the load on each pair or reduces the available power. Ventilation matters when running four speakers. Check the manual for how the channels are assigned.",
+   "bestFor": "People who want to run two pairs of speakers in separate spots with a single unit.",
+   "pros": [
+    "Four channels power two pairs of speakers",
+    "25 W x 4 RMS rating stated clearly",
+    "Bluetooth and a remote included",
+    "Mid-tier cost for a multi-zone unit"
+   ],
+   "cons": [
+    "1000 W peak claim is misleading marketing",
+    "Each channel has modest power",
+    "Lesser-known brand with limited support"
+   ]
+  },
+  {
+   "id": "B0CDM9WVXP",
+   "rank": 6,
+   "badge": "Best Karaoke-Style Budget Unit",
+   "name": "Pyle Home Stereo Receiver with Bluetooth, 4 Channel, 800 W Max, Dual Mic In",
+   "amazonUrl": "https://www.amazon.com/dp/B0CDM9WVXP?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41oVQEh2RuL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "4 channels",
+    "800 W max claim",
+    "Bluetooth 5.0",
+    "Dual mic inputs"
+   ],
+   "specList": [
+    {
+     "label": "Power claim",
+     "value": "800 W peak (RMS not highlighted)"
+    },
+    {
+     "label": "Channels",
+     "value": "Four"
+    },
+    {
+     "label": "Bluetooth",
+     "value": "Version 5.0"
+    },
+    {
+     "label": "Extras",
+     "value": "Dual microphone inputs for karaoke"
+    },
+    {
+     "label": "Class",
+     "value": "Low tier"
+    }
+   ],
+   "description": "The Pyle receiver is a four-channel amplifier with Bluetooth 5.0, dual microphone inputs for karaoke and an 800 W maximum claim. The headline number is a peak figure with no RMS rating highlighted, which is the key caution. It is a party-oriented unit at a low cost tier.\n\nIt is the least clear on real power, so treat the 800 W as marketing. Compared with the Donner four-channel, it does not state a per-channel RMS in the headline. Compared with the Yamaha or Sony, it lacks a phono input and brand credentials. It suits casual use, such as a karaoke setup or background music.\n\nOwnership notes: expect modest real power, and do not push it hard. Check the return policy, since unknown power ratings lead to disappointment. Use proper speaker wire and match impedance. If sound quality is your goal, a receiver with a clear RMS rating is a safer purchase.",
+   "bestFor": "Casual party and karaoke use where sound quality is not the priority.",
+   "pros": [
+    "Dual microphone inputs for karaoke",
+    "Four channels for multiple speakers",
+    "Bluetooth 5.0 for streaming",
+    "Lowest cost tier in the lineup"
+   ],
+   "cons": [
+    "800 W figure is a peak claim without clear RMS",
+    "Lacks a phono input",
+    "Less trusted brand for sound quality"
+   ]
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Adapter or receiver",
+   "explanation": "An adapter like the 1Mii DS200Pro adds Bluetooth to a system that already has an amplifier or powered speakers. A stereo receiver, like the Yamaha, Sony or Donner models, is the amplifier itself and needs passive speakers. Buying a receiver when you only needed an adapter wastes money, and buying an adapter without an amp gives silence. A quick check is to look at your existing gear: if it has speaker terminals and a volume knob, it is already an amplifier."
+  },
+  {
+   "criterion": "Rated power, not peak",
+   "explanation": "RMS ratings state continuous power per channel, such as 60 W x 2 on the Donner or 25 W x 4 on the four-channel Donner. Peak claims like 600 W or 1000 W are marketing. The Sony STR-DH190 lists 100 W per channel at one frequency, which is generous. Match the receiver's RMS rating to your speakers' recommended range and room size. As a rough guide, doubling power adds only a small step in loudness, so a modest RMS figure is often enough for a small room."
+  },
+  {
+   "criterion": "Speaker impedance",
+   "explanation": "Speakers are rated in ohms, usually 4, 6 or 8. The Sony lists a 6 to 16 ohm range. Connecting speakers outside the range can overheat the amplifier. Check both the receiver and the speakers. Running two pairs at once lowers the impedance the receiver sees."
+  },
+  {
+   "criterion": "Inputs and outputs",
+   "explanation": "Phono, optical, coaxial and line inputs decide what you can connect. The Yamaha offers phono and a subwoofer output, and the Donner adds optical and coaxial for TVs. Count your sources before you buy. A missing input is the most common regret. Digital inputs are worth having if you plan to connect a TV, since a TV optical output keeps the sound path simple."
+  },
+  {
+   "criterion": "Bluetooth version and codecs",
+   "explanation": "Bluetooth 5.x improves range and stability. Codecs such as LDAC and aptX HD, on the 1Mii, matter only if your phone supports them. iPhones use AAC. Bluetooth is convenient but lower quality than wired inputs, and it adds a short delay. If you stream from an iPhone, the codec list matters less than a stable Bluetooth connection."
+  },
+  {
+   "criterion": "Ventilation and placement",
+   "explanation": "Receivers run warm. Leave open space above and around the unit, and do not stack heavy items on it. Heat is the main cause of early failure. Placement also affects Bluetooth range."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "RMS watts per channel",
+   "meaning": "Continuous power the amplifier delivers to each speaker. It is the number to compare with speaker ratings.",
+   "watchFor": "The Donner lists 60 W x 2 and 25 W x 4 RMS, and the Sony lists 100 W at 1 kHz."
+  },
+  {
+   "spec": "Peak power",
+   "meaning": "A short burst figure that is not sustained. It is often used in marketing and says little about performance.",
+   "watchFor": "The Donner models and the Pyle lead with 600, 1000 and 800 W peak figures."
+  },
+  {
+   "spec": "LDAC and aptX HD",
+   "meaning": "High-quality Bluetooth codecs that need support on both phone and receiver.",
+   "watchFor": "The 1Mii lists LDAC and aptX HD."
+  },
+  {
+   "spec": "Phono input",
+   "meaning": "An input with a preamp for a turntable's low-level signal. Most need a moving magnet cartridge.",
+   "watchFor": "The Yamaha, Sony and Donner 600W list phono inputs."
+  },
+  {
+   "spec": "Impedance range",
+   "meaning": "The speaker ohm ratings an amplifier can drive safely.",
+   "watchFor": "The Sony lists 6 to 16 ohms."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Type and fit",
+   "description": "We separated adapters from receivers, because they solve different problems. Our scores are editorial assessments based on published specifications and owner feedback patterns. We also noted whether each unit states its power under clear conditions."
+  },
+  {
+   "title": "Power ratings",
+   "description": "We read RMS and peak figures, such as the Donner 60 W x 2 RMS and the Pyle 800 W claim, and discounted peak numbers."
+  },
+  {
+   "title": "Connections",
+   "description": "We compared phono, optical, coaxial and subwoofer outputs and what each system needs."
+  },
+  {
+   "title": "Bluetooth",
+   "description": "We looked at Bluetooth versions and codecs, noting that high-end codecs need matching phones."
+  },
+  {
+   "title": "Value and honesty",
+   "description": "We judged each unit by relative cost tier and avoided price figures. Marketing claims about peak watts were discounted."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Your System",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "You own an amp already",
+      "1Mii DS200Pro",
+      "Adds Bluetooth only."
+     ],
+     [
+      "First stereo with a turntable",
+      "Yamaha R-S202BL",
+      "Phono and subwoofer out."
+     ],
+     [
+      "TV and turntable",
+      "Donner 2-Channel",
+      "Optical and coax inputs."
+     ],
+     [
+      "Two zones",
+      "Donner 4-Channel",
+      "Four channels."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest spend",
+      "Pyle Receiver",
+      "Lowest tier, casual use."
+     ],
+     [
+      "Low",
+      "Sony STR-DH190",
+      "Phono receiver."
+     ],
+     [
+      "Low to mid",
+      "1Mii DS200Pro or Donner 2-Channel",
+      "Adapter or receiver."
+     ],
+     [
+      "Mid",
+      "Yamaha R-S202BL",
+      "Brand and features."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Adapter vs Receiver",
+   "cards": [
+    {
+     "label": "Adapter",
+     "text": "The 1Mii DS200Pro adds wireless to an existing amp, and costs little."
+    },
+    {
+     "label": "Receiver",
+     "text": "The Yamaha, Sony, Donner and Pyle units include an amplifier and drive passive speakers."
+    }
+   ],
+   "note": "Choose an adapter if you already own an amp. Choose a receiver if you are building a system."
+  },
+  {
+   "subheading": "By Source",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Turntable",
+      "Yamaha R-S202BL",
+      "Phono input."
+     ],
+     [
+      "TV optical",
+      "Donner 2-Channel",
+      "Optical and coaxial."
+     ],
+     [
+      "Phone streaming only",
+      "1Mii DS200Pro",
+      "Bluetooth adapter."
+     ],
+     [
+      "Karaoke",
+      "Pyle Receiver",
+      "Dual mic inputs."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Home Stereos Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "RMS power that matches your speakers, the inputs you need, a Bluetooth version and codecs your phone supports and good ventilation."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The 1Mii leads for adapters, the Yamaha for receivers and the Donner for digital inputs."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You want a long-lived receiver with a clear rating and extra outputs. The Yamaha earns its cost."
+    },
+    {
+     "label": "Save if",
+     "text": "You just need wireless on an existing amp. The 1Mii does it for little."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Keep vents clear",
+   "interval": "Ongoing",
+   "why": "Receivers run warm. Leave space above and around the unit. Never cover the unit with cloth while it is running."
+  },
+  {
+   "task": "Check speaker wire",
+   "interval": "Every six months",
+   "why": "Frayed wire can short and damage the amplifier. Replace worn wire."
+  },
+  {
+   "task": "Dust the unit",
+   "interval": "Monthly",
+   "why": "Dust traps heat. Wipe with a dry cloth."
+  },
+  {
+   "task": "Reset Bluetooth pairing",
+   "interval": "When dropouts occur",
+   "why": "Old pairings cause glitches. Forget the device and pair again."
+  },
+  {
+   "task": "Clean input jacks",
+   "interval": "Yearly",
+   "why": "Dirt causes crackle. Use a contact cleaner as the manual advises."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Do I need a receiver or an adapter?",
+   "a": "An adapter adds Bluetooth to an existing amp. A receiver is an amp with Bluetooth built in. Choose by what you own."
+  },
+  {
+   "q": "Are peak watt claims real?",
+   "a": "They are marketing. Use the RMS per channel rating to compare with speakers. Reputable makers state RMS under clear conditions, and the lack of one is a warning sign."
+  },
+  {
+   "q": "Is Bluetooth good enough for hi-fi?",
+   "a": "It is good for casual listening. Wired inputs sound better, and codecs like LDAC help if your phone supports them. For critical listening, connect a source by cable to a digital input."
+  },
+  {
+   "q": "Can I connect a turntable?",
+   "a": "Only with a phono input or an external phono preamp. Check the cartridge type. A cheap USB turntable with a built-in preamp can use a line input instead."
+  },
+  {
+   "q": "How much power do I need?",
+   "a": "For small rooms and efficient speakers, 30 to 60 W per channel is plenty. Match the speaker's recommended range. Larger rooms and inefficient speakers need more power."
+  },
+  {
+   "q": "Why is there a delay?",
+   "a": "Bluetooth adds latency. It suits music, but video may lag unless the source compensates."
+  }
+ ],
+ "relatedGuides": [
+  {
+   "title": "Bluetooth Headphone Codecs Explained",
+   "href": "/guide/bluetooth-headphone-codecs-explained"
+  },
+  {
+   "title": "Best Soundbars",
+   "href": "/guide/best-soundbars"
+  },
+  {
+   "title": "Best Bluetooth Speakers",
+   "href": "/guide/best-bluetooth-speakers"
+  }
+ ]
+}

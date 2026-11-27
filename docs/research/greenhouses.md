@@ -1,0 +1,13 @@
+# mini greenhouses
+- Mini greenhouses with PVC, PE or polyethylene covers trap warmth and humidity for seedlings, herbs and tender plants; they do not provide heat.
+- Cover transparency (for example 75 or 85 percent clear) and thickness affect light and durability; thin covers tear in wind.
+- Frames: steel tubes resist wind better than thin plastic; wood frames last but need weather care.
+- Wind is the main enemy: anchor with stakes, sandbags or bricks and place against a wall or fence if possible.
+- Ventilation matters: on sunny days even a mild day can overheat a small greenhouse; roll up doors or open vents.
+- Condensation and mildew grow in sealed units; open on dry mornings.
+- Tiered shelf greenhouses hold many pots in a small footprint, and the lower shelves receive less light.
+- Walk-in mini greenhouses give headroom but need a flat base and anchoring.
+- Zip doors fail first; check zippers and seams.
+- Do not expect frost protection in hard freezes; use extra cover or move plants.
+- UV degrades PE and PVC covers over seasons; plan to replace the cover.
+- Year three: brittle cover, rusted frame joints, torn zippers and wind damage.

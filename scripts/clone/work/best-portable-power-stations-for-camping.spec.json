@@ -1,0 +1,598 @@
+{
+ "guideSlug": "best-portable-power-stations-for-camping",
+ "categorySlug": "tech-electronics",
+ "mainKeyword": "portable power station",
+ "guideTitle": "Best Portable Power Stations for Camping (2026)",
+ "metaTitle": "Best Power Stations for Camping",
+ "metaDescription": "Portable power stations for camping compared on watt-hours, AC output, weight and recharge time, with honest runtime math for fridges, CPAPs and lights.",
+ "lastUpdated": "2026-11-27",
+ "readTime": "12 min",
+ "heroImage": "https://m.media-amazon.com/images/I/41LPWKTY8CL._SL500_.jpg",
+ "expertTake": "The Anker SOLIX C1000 Gen 2 is the best overall pick because 1,024 Wh, 2,000 W of output and a 49 minute recharge claim cover a weekend of camping for most small families. The Jackery Explorer 300 is the value pick for lights, phones and a CPAP on short trips at a light 7.5 lb. Anyone who only needs to charge phones and a headlamp should skip power stations altogether and carry a power bank, which costs less and weighs far less.",
+ "introParagraphs": [
+  "A portable power station is a big battery with an inverter, so you can run lights, a fridge, a laptop or a CPAP at the campsite without a generator. The key numbers are capacity in watt-hours, how many watts it can output at once, and how long it takes to recharge.",
+  "This guide compares power stations sized for camping, from compact 300 Wh units to 1,000 Wh class stations. We evaluated each on published specifications, capacity, output, weight, ports, charging speed and owner feedback patterns, and we show the runtime math so you can match a station to your gear."
+ ],
+ "products": [
+  {
+   "id": "B0FN7MSY4L",
+   "rank": 1,
+   "badge": "Best Overall",
+   "name": "Anker SOLIX C1000 Gen 2 Power Station, 1,024 Wh, 2,000 W",
+   "amazonUrl": "https://www.amazon.com/dp/B0FN7MSY4L?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41LPWKTY8CL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "1,024 Wh LiFePO4",
+    "2,000 W output",
+    "3,000 W peak",
+    "49 min recharge"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "1,024 Wh LiFePO4"
+    },
+    {
+     "label": "AC output",
+     "value": "2,000 W, 3,000 W peak"
+    },
+    {
+     "label": "Ports",
+     "value": "10 output ports"
+    },
+    {
+     "label": "Recharge",
+     "value": "Full charge in 49 minutes at 1,600 W"
+    },
+    {
+     "label": "Class",
+     "value": "Upper-mid tier"
+    }
+   ],
+   "description": "The Anker SOLIX C1000 Gen 2 pairs a 1,024 Wh LiFePO4 battery with 2,000 W of AC output, 3,000 W peak and ten ports. The maker claims a full recharge in 49 minutes using up to 1,600 W of input. It is a strong all-round camp station for a family or a campsite with a fridge and lights.\n\nThe fast recharge is the standout: a station that refills in under an hour from a wall outlet is easy to top up before a trip or in a car park. Compared with the EcoFlow Delta 3 Classic, it offers similar capacity and a slightly higher continuous output. Compared with the BLUETTI Elite 100 Mini, it is heavier and more powerful but less compact. It handles most camp appliances, including a small electric cooler, a laptop and lights.\n\nIn use, estimate runtime by dividing capacity by load, then subtract about 15 percent for inverter losses. A 60 W fridge cycles, so it draws less on average than its label. Heating appliances such as kettles and hair dryers drain a station quickly, so avoid them. Keep the station shaded and ventilated, and store it partly charged between trips.",
+   "bestFor": "Families and car campers who want one station for a fridge, lights and laptops over a weekend.",
+   "pros": [
+    "1,024 Wh LiFePO4 capacity for multi-day use",
+    "2,000 W AC output runs most camp appliances",
+    "Claimed 49 minute full recharge",
+    "Ten ports cover AC, USB-C and car outputs"
+   ],
+   "cons": [
+    "Heavier and bulkier than 300 Wh class units",
+    "Upper-mid cost tier",
+    "High-draw heaters still drain it quickly"
+   ]
+  },
+  {
+   "id": "B0FQVC4RF5",
+   "rank": 2,
+   "badge": "Best High-Output Alternative",
+   "name": "EcoFlow Delta 3 Classic, 1,024 Wh, 1,800 W AC, 3,600 W Surge",
+   "amazonUrl": "https://www.amazon.com/dp/B0FQVC4RF5?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31F8BqUk3HL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "1,024 Wh",
+    "1,800 W AC",
+    "3,600 W surge",
+    "0 to 80% in 45 min"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "1,024 Wh"
+    },
+    {
+     "label": "AC output",
+     "value": "1,800 W with 3,600 W surge"
+    },
+    {
+     "label": "Recharge",
+     "value": "0 to 80 percent in about 45 minutes"
+    },
+    {
+     "label": "Chemistry",
+     "value": "LiFePO4 per the listing"
+    },
+    {
+     "label": "Class",
+     "value": "Upper-mid tier"
+    }
+   ],
+   "description": "The EcoFlow Delta 3 Classic is a 1,024 Wh station with 1,800 W of AC output and 3,600 W of surge, and a claimed charge from 0 to 80 percent in about 45 minutes. The surge rating helps with motors that draw a spike on startup, such as a compressor fridge. It is the main rival to the Anker C1000.\n\nCompared with the Anker, its continuous output is a little lower, with a higher listed surge. Compared with the LIBRIDS C600, it has much more capacity and power, at a higher cost tier. The EcoFlow ecosystem adds app control and expansion options. It is a good fit if you want to power a camp kitchen with a small induction cooktop for short bursts.\n\nOwnership notes: check the fan noise and the app, and keep the unit ventilated. Do not run it flat out for long in a hot tent. Charging from a car outlet is slower than wall charging, so plan your recharge. Store the station about half charged during long gaps, and check it every few months.",
+   "bestFor": "Campers with a compressor fridge or higher-surge appliances who like app control.",
+   "pros": [
+    "1,800 W continuous with 3,600 W surge handles motor loads",
+    "0 to 80 percent in about 45 minutes claimed",
+    "1,024 Wh capacity for a weekend",
+    "App and ecosystem expansion options"
+   ],
+   "cons": [
+    "Upper-mid cost tier",
+    "Heavy to carry far from the car",
+    "Surge rating does not extend run time"
+   ]
+  },
+  {
+   "id": "B0HD6GN86Q",
+   "rank": 3,
+   "badge": "Best Compact 1 kWh",
+   "name": "BLUETTI Elite 100 Mini, 1,004.8 Wh, 700 W LFP, 23.59 lb",
+   "amazonUrl": "https://www.amazon.com/dp/B0HD6GN86Q?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31M1kuAUL3L._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "1,004.8 Wh LFP",
+    "700 W output",
+    "23.59 lb",
+    "Under 10 W idle"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "1,004.8 Wh LFP"
+    },
+    {
+     "label": "AC output",
+     "value": "700 W"
+    },
+    {
+     "label": "Weight",
+     "value": "23.59 lb"
+    },
+    {
+     "label": "Size",
+     "value": "9.25 x 8.48 x 11.54 in"
+    },
+    {
+     "label": "Idle draw",
+     "value": "Under 10 W claimed"
+    }
+   ],
+   "description": "The BLUETTI Elite 100 Mini packs 1,004.8 Wh into a unit that weighs 23.59 lb and measures about 9.25 by 8.48 by 11.54 inches. The maker says it is 45 percent smaller and 36 percent lighter than a previous design, and lists idle consumption of under 10 W. AC output is 700 W, which limits what you can run.\n\nThe low output is the tradeoff: 700 W handles lights, laptops, a CPAP and a small fridge, but not a kettle or a microwave. Compared with the Anker C1000 or EcoFlow Delta 3 Classic, it has about the same capacity in a smaller and lighter package, but with much lower output. It is built for campers who prize carrying ease and low idle drain.\n\nIn practice, the low idle draw matters when you leave the inverter on overnight, because every watt of idle load eats stored energy. Estimate runtime with the same capacity-over-load math. The compact size fits a small car or a canoe. If you need to run a hot appliance, choose a higher-output station instead.",
+   "bestFor": "Campers who want about 1 kWh in a compact, lighter case and have modest power needs.",
+   "pros": [
+    "1,004.8 Wh in a compact 23.59 lb body",
+    "Low idle consumption of under 10 W claimed",
+    "LFP battery chemistry per the listing",
+    "Fits small vehicles and tight storage"
+   ],
+   "cons": [
+    "700 W output limits high-draw appliances",
+    "Upper-mid cost tier for the output",
+    "Lower output than the 1 kWh rivals"
+   ]
+  },
+  {
+   "id": "B0H9RWG765",
+   "rank": 4,
+   "badge": "Best Mid-Size Value",
+   "name": "LIBRIDS C600 Portable Power Station, 640 Wh, 600 W, 4 AC Outlets",
+   "amazonUrl": "https://www.amazon.com/dp/B0H9RWG765?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41RxbMjWhZL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "640 Wh",
+    "600 W AC",
+    "1,200 W surge",
+    "4 AC outlets"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "640 Wh LiFePO4"
+    },
+    {
+     "label": "AC output",
+     "value": "600 W rated, 1,200 W surge"
+    },
+    {
+     "label": "Ports",
+     "value": "8 output ports including 4 AC outlets"
+    },
+    {
+     "label": "Use",
+     "value": "Camping and solar generator"
+    },
+    {
+     "label": "Class",
+     "value": "Low to mid tier"
+    }
+   ],
+   "description": "The LIBRIDS C600 offers 640 Wh with 600 W of AC output, 1,200 W of surge and eight output ports, including four AC outlets. It is a lesser-known brand positioned as a solar generator. It sits in the low to mid tier, between compact 300 Wh units and 1 kWh stations.\n\nFour AC outlets are handy for a group, since you can power a lamp, a laptop charger and a small fridge at once. Compared with the Jackery Explorer 300, it has more than twice the capacity. Compared with the Anker C1000, it is smaller and cheaper, with much less capacity and output. It suits a weekend for two without a heavy electric load.\n\nOwnership notes: the brand has a shorter track record, so check warranty and support terms. Keep the unit ventilated and use the manufacturer's charging cables. Runtime depends on load, and a 640 Wh unit runs a 50 W load for roughly ten hours after inverter losses. Check the solar input specifications before buying panels.",
+   "bestFor": "Two or three campers who want multiple AC outlets and moderate capacity at a low to mid cost.",
+   "pros": [
+    "640 Wh capacity suits a weekend for two",
+    "Four AC outlets and eight ports in total",
+    "600 W rated output with 1,200 W surge",
+    "Low to mid cost tier"
+   ],
+   "cons": [
+    "Lesser-known brand with limited track record",
+    "Not enough for a hot appliance or a large fridge",
+    "Solar input details need checking"
+   ]
+  },
+  {
+   "id": "B082TMBYR6",
+   "rank": 5,
+   "badge": "Best Lightweight Value",
+   "name": "Jackery Explorer 300 Power Station, 292 Wh, 7.5 lb",
+   "amazonUrl": "https://www.amazon.com/dp/B082TMBYR6?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41WY4aAoRLL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "292 Wh",
+    "7.5 lb",
+    "2 AC outlets",
+    "100 W USB-C PD"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "292 Wh"
+    },
+    {
+     "label": "Weight",
+     "value": "7.5 lb"
+    },
+    {
+     "label": "Outlets",
+     "value": "2 AC outlets, 100 W USB-C PD, USB-A and more"
+    },
+    {
+     "label": "Battery",
+     "value": "LiFePO4 per the listing"
+    },
+    {
+     "label": "Class",
+     "value": "Low tier"
+    }
+   ],
+   "description": "The Jackery Explorer 300 stores 292 Wh in a 7.5 lb body and powers six devices through two AC outlets, a 100 W USB-C PD port and USB-A ports. It is the lightest and lowest cost station in this guide. It is a good fit for phones, lights, a laptop and a CPAP on a short trip.\n\nThe small capacity is its limit: 292 Wh runs a 30 W device for roughly eight hours after losses. Compared with the BLUETTI Elite 30 V2, it has similar capacity and weight, with a different brand and port layout. Compared with the LIBRIDS C600, it is much smaller. For someone who only needs light power at camp, it is the practical choice.\n\nOwnership notes: if you use a CPAP, check its wattage, and turn off the humidifier to extend runtime. Avoid running anything with a heating element. Recharge before each trip, and store the unit partly charged. For one-night trips or kayak camping, the light weight is a real benefit.",
+   "bestFor": "Short trips and light loads such as lights, phones, a laptop and a CPAP.",
+   "pros": [
+    "Light 7.5 lb body is easy to carry",
+    "Two AC outlets, 100 W USB-C PD and USB-A ports",
+    "Lowest cost tier in the lineup",
+    "Established brand with wide support"
+   ],
+   "cons": [
+    "292 Wh runs out quickly with larger loads",
+    "Cannot run heating appliances",
+    "Limited output for multiple devices"
+   ]
+  },
+  {
+   "id": "B0F42HLLSC",
+   "rank": 6,
+   "badge": "Best Compact High Output",
+   "name": "BLUETTI Elite 30 V2 Power Station, 288 Wh, 600 W, 9.4 lb",
+   "amazonUrl": "https://www.amazon.com/dp/B0F42HLLSC?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41YTEqBbTsL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "288 Wh",
+    "600 W output",
+    "9.4 lb",
+    "Power lifting 1,500 W"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "288 Wh LFP"
+    },
+    {
+     "label": "AC output",
+     "value": "600 W, with a 1,500 W power lifting mode"
+    },
+    {
+     "label": "Weight",
+     "value": "9.4 lb"
+    },
+    {
+     "label": "Claim",
+     "value": "Twice the output of similar-capacity units"
+    },
+    {
+     "label": "Class",
+     "value": "Low to mid tier"
+    }
+   ],
+   "description": "The BLUETTI Elite 30 V2 is a 288 Wh station that weighs 9.4 lb and offers 600 W of AC output, with a power lifting mode up to 1,500 W for some resistive loads. The maker says 600 W is twice as much as others in its class. It is aimed at storms and camping where a small unit must still run a real appliance.\n\nThe high output for the capacity is the draw, but capacity is what limits run time. Compared with the Jackery Explorer 300, it offers double the AC output at a similar capacity. Compared with the LIBRIDS C600, it is smaller, lighter and lower in capacity. Power lifting extends what it can run, but only for loads that behave simply, and it drains the battery quickly.\n\nIn use, plan runtime using capacity divided by load, and do not expect a hot appliance to run long. A 600 W load takes the 288 Wh to empty in well under half an hour. Use the unit for short, higher-power tasks, like a blender or a small tool, in addition to lights and phones. Keep it cool and charged.",
+   "bestFor": "Campers who want a small, light station that can run an occasional higher-wattage item.",
+   "pros": [
+    "600 W AC output from a 9.4 lb unit",
+    "Power lifting mode for some higher loads",
+    "LFP chemistry per the listing",
+    "Easy to carry and store"
+   ],
+   "cons": [
+    "288 Wh capacity limits run time",
+    "High loads drain the battery in minutes",
+    "Power lifting only suits certain appliances"
+   ]
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Capacity in watt-hours",
+   "explanation": "Capacity tells you how long you can run a load. Divide watt-hours by the load in watts, then take about 85 percent for inverter losses. A 1,024 Wh unit like the Anker C1000 runs a 50 W load for roughly 17 hours, and a 292 Wh Jackery Explorer 300 runs it for about 5 hours. Estimate your gear first, because overbuying adds weight and cost."
+  },
+  {
+   "criterion": "AC output and surge",
+   "explanation": "Output in watts limits what you can run at once. The Elite 100 Mini lists 700 W, while the Anker C1000 lists 2,000 W and the EcoFlow Delta 3 Classic lists 1,800 W with 3,600 W surge. Motors, such as fridge compressors, draw a startup surge, so surge ratings matter. Heating appliances use huge power and are poor camp loads."
+  },
+  {
+   "criterion": "Weight and carry",
+   "explanation": "Power stations are heavy. The Jackery Explorer 300 weighs 7.5 lb, the BLUETTI Elite 30 V2 weighs 9.4 lb and the Elite 100 Mini weighs 23.59 lb. A 1 kWh unit with high output is heavier still. If you carry it far from the car, weight dominates. Campsites near the car allow a larger station."
+  },
+  {
+   "criterion": "Recharge speed and sources",
+   "explanation": "Wall charging speed varies, with claims such as 49 minutes for the Anker C1000 and 0 to 80 percent in 45 minutes for the EcoFlow. Car and solar charging are slower, and solar input depends on the panels. Check the maximum input for each source. A fast recharge helps if you can top up between trips."
+  },
+  {
+   "criterion": "Battery chemistry and life",
+   "explanation": "LiFePO4 or LFP batteries last more charge cycles than older lithium types, which matters over years. The listings for the Anker, BLUETTI and LIBRIDS state LFP chemistry. Cycle life claims are maker figures. All lithium batteries should be stored partly charged and kept out of heat."
+  },
+  {
+   "criterion": "Ports and safety",
+   "explanation": "Check AC outlets, USB-C PD wattage and a car port. The LIBRIDS C600 has four AC outlets. Do not use power stations in enclosed tents with poor ventilation, and keep them away from fuel and heat. Power stations are not allowed on aircraft in most cases, because of their battery size. Follow the manual."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Watt-hours (Wh)",
+   "meaning": "The energy stored in the battery. It sets how long a given load can run.",
+   "watchFor": "The Jackery lists 292 Wh, the LIBRIDS lists 640 Wh and the Anker and EcoFlow list 1,024 Wh."
+  },
+  {
+   "spec": "Continuous vs surge watts",
+   "meaning": "Continuous watts are what the inverter can supply steadily. Surge is a short burst for startup spikes.",
+   "watchFor": "The EcoFlow lists 1,800 W with 3,600 W surge and the LIBRIDS lists 600 W with 1,200 W surge."
+  },
+  {
+   "spec": "LiFePO4 or LFP",
+   "meaning": "A lithium chemistry known for long cycle life and thermal stability, at some cost in weight.",
+   "watchFor": "The BLUETTI, Anker and LIBRIDS listings state LFP."
+  },
+  {
+   "spec": "Idle consumption",
+   "meaning": "The power the inverter uses while on with no load. It drains the battery overnight.",
+   "watchFor": "The Elite 100 Mini claims under 10 W."
+  },
+  {
+   "spec": "Input wattage",
+   "meaning": "The maximum power the station accepts when charging. Higher input means faster charging.",
+   "watchFor": "The Anker C1000 lists 1,600 W for its 49 minute recharge."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Capacity and output",
+   "description": "We compared watt-hours and AC output, from the 288 Wh BLUETTI Elite 30 V2 to the 1,024 Wh Anker and EcoFlow, and showed the runtime math. Our scores are editorial assessments based on published specifications and owner feedback patterns."
+  },
+  {
+   "title": "Weight and size",
+   "description": "We compared weights from 7.5 lb to the heavier 1 kWh units and the size of the BLUETTI Elite 100 Mini."
+  },
+  {
+   "title": "Charging",
+   "description": "We read recharge claims and input limits and treated them as maker figures."
+  },
+  {
+   "title": "Battery and safety",
+   "description": "We noted chemistry claims and basic safety, such as ventilation and avoiding heating appliances."
+  },
+  {
+   "title": "Value and honesty",
+   "description": "We judged each station by relative cost tier and avoided price figures. The LIBRIDS was flagged for limited track record."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Trip",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "One night, light loads",
+      "Jackery Explorer 300",
+      "7.5 lb and low cost."
+     ],
+     [
+      "Weekend for two",
+      "LIBRIDS C600",
+      "640 Wh with four AC outlets."
+     ],
+     [
+      "Family weekend with a fridge",
+      "Anker SOLIX C1000 Gen 2",
+      "1,024 Wh and 2,000 W."
+     ],
+     [
+      "Compact 1 kWh",
+      "BLUETTI Elite 100 Mini",
+      "Smaller and lighter."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest spend",
+      "Jackery Explorer 300",
+      "Cheapest tier."
+     ],
+     [
+      "Low to mid",
+      "LIBRIDS C600 or BLUETTI Elite 30 V2",
+      "Mid capacity or compact output."
+     ],
+     [
+      "Upper-mid",
+      "Anker C1000 Gen 2 or EcoFlow Delta 3 Classic",
+      "1 kWh stations."
+     ],
+     [
+      "Compact 1 kWh",
+      "BLUETTI Elite 100 Mini",
+      "Smaller, lower output."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Compact vs High Output",
+   "cards": [
+    {
+     "label": "Compact",
+     "text": "The Jackery Explorer 300, BLUETTI Elite 30 V2 and Elite 100 Mini are light and easy to carry, with limited output or capacity."
+    },
+    {
+     "label": "High output",
+     "text": "The Anker C1000 and EcoFlow Delta 3 Classic power fridges and small appliances, but weigh more."
+    }
+   ],
+   "note": "Choose compact for hikes from the car and light loads. Choose high output for a family car camp."
+  },
+  {
+   "subheading": "By Load",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Phones and lights",
+      "Jackery Explorer 300",
+      "Low draw."
+     ],
+     [
+      "CPAP overnight",
+      "BLUETTI Elite 100 Mini",
+      "Capacity and low idle draw."
+     ],
+     [
+      "Compressor fridge",
+      "EcoFlow Delta 3 Classic",
+      "High surge rating."
+     ],
+     [
+      "Laptop and small tools",
+      "BLUETTI Elite 30 V2",
+      "600 W for short tasks."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Camping Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Watt-hours that match your loads, enough surge for motors, a weight you can carry and a recharge plan. Keep it shaded and ventilated."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Anker C1000 leads on power, the Elite 100 Mini on portability and the Jackery on weight."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You run a fridge, camp for several days or want fast recharge. The Anker or EcoFlow pays back in capacity."
+    },
+    {
+     "label": "Save if",
+     "text": "You only charge devices and run lights. A Jackery or BLUETTI Elite 30 V2 is enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Store partly charged",
+   "interval": "Between trips",
+   "why": "Lithium cells age faster when stored full or empty. Keep them around half charged."
+  },
+  {
+   "task": "Top up before storage ends",
+   "interval": "Every few months",
+   "why": "Batteries self-discharge slowly. Charge to the recommended level."
+  },
+  {
+   "task": "Keep it cool and dry",
+   "interval": "Always",
+   "why": "Heat and moisture shorten battery life and affect safety. Store indoors."
+  },
+  {
+   "task": "Check vents and fans",
+   "interval": "Before trips",
+   "why": "Dust blocks cooling. Wipe the vents with a dry cloth."
+  },
+  {
+   "task": "Inspect cables and ports",
+   "interval": "Before trips",
+   "why": "Damaged cables are a fire and shock risk. Replace worn cables."
+  }
+ ],
+ "faq": [
+  {
+   "q": "How long will a power station run a fridge?",
+   "a": "Divide capacity by the fridge's average draw, then subtract losses. A compressor fridge cycles on and off, so average draw is lower than its label."
+  },
+  {
+   "q": "Can I run a CPAP?",
+   "a": "Usually yes. Check your CPAP's wattage and turn off the humidifier to extend runtime."
+  },
+  {
+   "q": "Can I bring one on a plane?",
+   "a": "Generally no. Airlines restrict large lithium batteries, and most power stations exceed the limit."
+  },
+  {
+   "q": "Is LFP better than other lithium?",
+   "a": "It offers longer cycle life and good thermal stability, but weighs more. Cycle life claims are maker figures."
+  },
+  {
+   "q": "Can I use it in a tent?",
+   "a": "Power stations do not burn fuel, but keep them ventilated and out of heat. Follow the manual."
+  },
+  {
+   "q": "Do I need solar panels?",
+   "a": "Not for a weekend if you can recharge at home. Solar helps on long trips, and input limits vary."
+  }
+ ],
+ "relatedGuides": [
+  {
+   "title": "Best Power Banks",
+   "href": "/guide/best-power-banks"
+  },
+  {
+   "title": "Best Coolers",
+   "href": "/guide/best-coolers"
+  },
+  {
+   "title": "Battery Voltage and Amp Hours Explained",
+   "href": "/guide/battery-voltage-and-amp-hours-explained"
+  }
+ ]
+}

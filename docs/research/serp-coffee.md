@@ -10,3 +10,23 @@
 - They answer steel versus ceramic burrs, grind consistency, grinding time and cleaning.
 - Many lists mix pricey names; budget picks are named in one line with little detail.
 - Gap we cover: external versus internal adjustment, the capacity-per-batch trap and why fine moka and espresso grinds take far longer.
+## best-coffee-grinders-for-espresso
+- Top guides lead with adjustment step size and burr type, then single-dose versus hopper.
+- They split picks by flat burr, conical burr, budget, manual, single-dose and commercial.
+- They say fine, minute adjustment steps matter most for espresso.
+- Gap we cover: why settings count alone misleads, timed versus weighed dosing, and that entry burr grinders suit pressurized baskets only.
+## best-variable-temperature-kettles
+- Top guides lead with temperature accuracy and preset range, then boil speed and build.
+- They split picks by best overall, precision, gooseneck, retro and budget.
+- They note premium models are cooler to touch and quieter.
+- Gap we cover: which temperatures matter per tea, presets versus continuous range, descaling access and wattage versus outlets.
+## best-pour-over-coffee-drippers
+- Top guides lead with Hario V60 and Kalita Wave, then Chemex as a glass option.
+- They split picks by beginner-friendly flat bottom, ceramic, glass carafe and budget.
+- They note conical drippers need more pouring skill.
+- Gap we cover: paper versus metal filter tradeoffs, material heat retention, cone versus flat geometry.
+## best-automatic-milk-frothers
+- Top guides lead with foam quality, then hot versus cold foam and capacity.
+- They split picks by premium countertop, budget, Nespresso-style and non-dairy.
+- They note low-protein or flavored milk froths poorly.
+- Gap we cover: protein content and non-dairy limits, jug capacity min and max lines, cleaning the whisk and dishwasher claims.

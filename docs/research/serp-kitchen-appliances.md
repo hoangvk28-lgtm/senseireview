@@ -34,3 +34,48 @@
 - They answer metal versus plastic gears, cleaning, noise and plate sizes.
 - Several flag that listed peak or locked watts are marketing figures; rated watts or horsepower matter.
 - Gap we cover: chilling meat before grinding, the smear problem from dull blades, and sizing a unit by batch weight.
+## best-air-fryers-for-small-kitchens
+- Top guides lead with footprint, basket quarts and wattage, then price tier.
+- They split picks by smallest footprint, one-person, budget and best overall compact.
+- They note wet batter and light greens do not suit compact baskets.
+- Gap we cover: counter clearance and exhaust, circuit load of low versus high wattage, coating versus glass baskets.
+## best-blenders-for-frozen-smoothies
+- Top guides lead with motor power, blade design and jar size, then frozen-drink performance.
+- They split picks by premium high-speed, mid-range Ninja, personal cup and budget.
+- They note low-end models leave fibrous frozen fruit grainy.
+- Gap we cover: peak watts versus sustained power, load order, jar size versus batch.
+## best-toaster-ovens-for-air-frying
+- Top guides lead with air frying performance, toasting evenness and capacity.
+- They split picks by best overall, premium, budget and compact.
+- They note the footprint is much larger than a basket air fryer.
+- Gap we cover: door style clearance, circuit draw at 1800 W, moving-part wear on flip and roll-top designs.
+## best-portable-ice-makers
+- Top guides lead with ice per day, time to first batch and portability.
+- They split picks by best overall, compact, quiet, budget and nugget alternatives.
+- They note storage baskets hold only a pound or two and that some are noisy.
+- Gap we cover: that 26 lbs per day is a ceiling, the meltwater and cleaning routine, and bullet versus nugget ice.
+## best-meal-prep-containers
+- Top guides lead with glass versus plastic, lid seal and microwave or freezer safety.
+- They split picks by glass, budget plastic, compartment and freezer-friendly.
+- They note lids with gaskets are hard to clean and that older lists are dated.
+- Gap we cover: lid safety limits versus base, headspace for freezing, single use versus reusable rotation.
+## best-meat-grinders-under-100
+- Top guides lead with rated wattage, grinding capacity per minute and reverse function.
+- They split picks by best value, best for sausage, budget and manual grinders.
+- They note listed prices move and several lists are dated.
+- Gap we cover: rated versus locked peak watts, plastic gears, chilling meat and spare plates.
+## best-budget-vacuum-sealers
+- Top guides lead with suction strength, ease of cleaning and bag compatibility.
+- They split picks by best budget, value, no cutter and brand-name basic sealers.
+- They note budget sealers take longer and have weaker suction than pricier models.
+- Gap we cover: kPa claims as maker figures, pre-freezing wet foods, bag cost and gasket care.
+## best-budget-ice-cream-makers
+- Top guides lead with churn type (bowl, salt and ice, compressor) and batch size.
+- They split picks by budget bowl makers, salt and ice buckets and mini mugs.
+- They note freezer bowls need pre-freezing and salt buckets need ice and rock salt.
+- Gap we cover: pre-freeze time, bowl size limits, soft versus hard texture and scoop-ready expectations.
+## best-budget-waffle-makers
+- Top guides lead with Cuisinart classic round, Belgian depth and temperature control.
+- They split picks by budget round, Belgian flip and mini waffle makers.
+- They note cheaper models need more attention to browning.
+- Gap we cover: plate coating wear, batter overflow, depth versus crispness and storage.

@@ -4,3 +4,8 @@
 - Common questions: what size do I need, steel versus aluminum versus fiberglass, how much weight is safe.
 - Most roundups mix true step ladders and 2-step stools; we separate stools from ladders with handrails and trays.
 - Gap to cover: the honest tradeoff that cheap folding steel ladders trade finish, tread life and rated class for low cost, and capacity labels are ceilings.
+## best-sawhorses
+- Top guides lead with load rating, folded size and height adjustment.
+- They split picks by best overall, value, heavy duty, adjustable legs and workstation types.
+- They note per-pair versus per-horse capacity differs between brands.
+- Gap we cover: capacity rating confusion, plastic versus steel, fold and lock durability and stability on uneven ground.

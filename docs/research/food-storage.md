@@ -1,0 +1,16 @@
+# food-storage (meal prep containers)
+- Glass (often borosilicate) does not stain or hold odors, can go from fridge to oven when the lid is removed, but is heavier and can break.
+- Plastic containers are lighter and cheaper, but stain with tomato and curry, retain odors and warp in the dishwasher or microwave over time.
+- Polypropylene (number 5) is the common microwave-safe plastic; thin disposable tubs are not made for repeated heating.
+- Lids are the weak point: snap-locking lids with silicone gaskets seal best; check whether the lid is oven, microwave or dishwasher safe separately from the base.
+- Remove the gasket for cleaning or mold and smell build up; some gaskets are hard to take out.
+- Never put a lid in a hot oven unless it says so; most plastic lids are for cold and microwave use only.
+- Leakproof claims usually mean fine for solid food and sauces carried upright, not for thin soups carried in a bag.
+- Single compartment containers hold bulkier meals; divided ones keep foods from mixing but have less volume per section.
+- Typical volumes are 16 oz for snacks, 22 to 32 oz for a full meal; a 4 cup container is about 32 oz.
+- Cooked food is generally stored in the fridge for a few days and the freezer for longer; leave headspace so liquids can expand when frozen.
+- Cool food before sealing to avoid condensation and warped lids.
+- Disposable and compostable containers are single use or limited reuse; they are convenient for gifting and events, not for daily rotation.
+- Stackable nesting lids save fridge space; matching one lid size across the set avoids a lid drawer mess.
+- Microwave: vent the lid or crack a corner to avoid pressure and steam burns.
+- Year three: cloudy, stained or warped plastic, cracked glass edges and lids that no longer snap; replace lids individually if the maker sells them.

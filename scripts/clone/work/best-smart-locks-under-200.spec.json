@@ -1,0 +1,598 @@
+{
+ "guideSlug": "best-smart-locks-under-200",
+ "categorySlug": "tech-electronics",
+ "mainKeyword": "smart lock",
+ "guideTitle": "Best Smart Locks Under $200 (2026)",
+ "metaTitle": "Best Smart Locks Under $200",
+ "metaDescription": "Smart locks under $200 compared on fingerprint, keypad, Wi-Fi or Matter support, battery life and security grade, with honest notes on door fit and backup keys.",
+ "lastUpdated": "2026-11-27",
+ "readTime": "12 min",
+ "heroImage": "https://m.media-amazon.com/images/I/41HLSGMV-1L._SL500_.jpg",
+ "expertTake": "The Wyze Lock Bolt v2 is the best overall pick because a fast fingerprint scanner, Wi-Fi connectivity and a long battery life claim suit most front doors without a hub. The TEEHO keypad deadbolt is the value pick for households that want codes and no smartphone dependence at the lowest cost tier. Anyone who needs Apple Home Key or Matter should look at the Aqara U400 or the ULTRALOQ Bolt SE, and renters should confirm that the lock can be swapped back without damage.",
+ "introParagraphs": [
+  "A smart lock replaces your deadbolt or the thumb turn with a lock that opens by fingerprint, code, app or key, and some also lock automatically and send alerts. The best ones are easy to install, last long on batteries and still work if the Wi-Fi or phone fails. A smart lock is a convenience upgrade, and it should never be the only way into your home.",
+  "This guide compares smart deadbolts that fit the price cap, based on live listing prices when the guide was updated. We evaluated each on published specifications, unlock methods, connectivity, battery claims and owner feedback patterns, and we explain door fit and backup steps. Prices move, and the cap reflects listing prices when this guide was updated. Check the lock you want against the cap before ordering."
+ ],
+ "products": [
+  {
+   "id": "B0FD3WMV2T",
+   "rank": 1,
+   "badge": "Best Overall",
+   "name": "WYZE Auto-Lock Bolt v2 Wi-Fi Fingerprint Smart Deadbolt",
+   "amazonUrl": "https://www.amazon.com/dp/B0FD3WMV2T?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41HLSGMV-1L._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "Fingerprint 0.5 s",
+    "Wi-Fi",
+    "8-month battery claim",
+    "Auto-lock"
+   ],
+   "specList": [
+    {
+     "label": "Unlock",
+     "value": "Fingerprint in about 0.5 seconds, plus other methods"
+    },
+    {
+     "label": "Connectivity",
+     "value": "Wi-Fi built in"
+    },
+    {
+     "label": "Battery",
+     "value": "Up to 8 months claimed"
+    },
+    {
+     "label": "Scanner",
+     "value": "AI-learning fingerprint scanner"
+    },
+    {
+     "label": "Price tier",
+     "value": "Low to mid in this lineup"
+    }
+   ],
+   "description": "The Wyze Lock Bolt v2 is a Wi-Fi smart deadbolt with an AI-learning fingerprint scanner that the maker says unlocks in about 0.5 seconds, with a battery claim of up to eight months. It auto-locks and connects through Wi-Fi without a hub. The earlier Lock Bolt is widely named as a best-value budget lock.\n\nThe fingerprint reader is the main convenience, since you do not need a key or a code at the door. Compared with the TEEHO keypad lock, it adds fingerprint and Wi-Fi at a higher price. Compared with the ULTRALOQ Bolt SE, it lacks the Matter support. A battery claim of eight months depends on usage and Wi-Fi activity, and heavy use will shorten it.\n\nOwnership notes: confirm that your door has a standard deadbolt prep hole and the right backset. Register several fingerprints, including a spare, and set up a code as a backup. Keep a physical key or battery backup in mind. Check the manufacturer's firmware updates and security guidance.",
+   "bestFor": "Households that want fast fingerprint entry and Wi-Fi control without a hub.",
+   "pros": [
+    "Fingerprint unlock in about 0.5 seconds claimed",
+    "Wi-Fi built in with no hub required",
+    "Auto-lock feature",
+    "Long battery claim of up to eight months"
+   ],
+   "cons": [
+    "Battery life depends on use and connectivity",
+    "No Matter support listed",
+    "Fingerprint readers can struggle with wet or worn fingers"
+   ]
+  },
+  {
+   "id": "B0FQC6VCDW",
+   "rank": 2,
+   "badge": "Best for Matter",
+   "name": "ULTRALOQ Bolt SE Wi-Fi Smart Deadbolt, Matter, 7-in-1 Keyless Entry",
+   "amazonUrl": "https://www.amazon.com/dp/B0FQC6VCDW?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41NcYkCuCFL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "Matter support",
+    "Wi-Fi built in",
+    "Fingerprint up to 50",
+    "7 unlock methods"
+   ],
+   "specList": [
+    {
+     "label": "Smart home",
+     "value": "Matter support"
+    },
+    {
+     "label": "Connectivity",
+     "value": "Built-in Wi-Fi"
+    },
+    {
+     "label": "Fingerprints",
+     "value": "Up to 50 stored"
+    },
+    {
+     "label": "Unlock",
+     "value": "Seven ways including fingerprint and passcode"
+    },
+    {
+     "label": "Price tier",
+     "value": "Mid in this lineup"
+    }
+   ],
+   "description": "The ULTRALOQ Bolt SE is a Wi-Fi smart deadbolt that supports Matter and unlocks seven ways, including fingerprint and passcode, with storage for up to 50 fingerprints. Matter support makes it work with several smart home platforms. It is the choice here for people who care about open standards.\n\nMatter compatibility reduces the risk of being locked into a single brand's ecosystem. Compared with the Wyze Lock Bolt v2, it adds Matter and a larger fingerprint capacity. Compared with the Aqara U400, it uses a conventional fingerprint scanner and not UWB. It suits a household that uses several platforms.\n\nOwnership notes: check door fit and backset before ordering. Register fingerprints for each user and a spare. Choose a passcode backup, and understand how to use the mechanical key or emergency power if the battery dies. Keep the app and firmware current.",
+   "bestFor": "Smart home users who want Matter support and many fingerprint slots.",
+   "pros": [
+    "Matter support for multiple smart home platforms",
+    "Stores up to 50 fingerprints",
+    "Seven unlock methods",
+    "Built-in Wi-Fi"
+   ],
+   "cons": [
+    "Mid cost tier",
+    "Battery life depends on Wi-Fi use",
+    "Matter features vary by platform"
+   ]
+  },
+  {
+   "id": "B0FRS6T6HL",
+   "rank": 3,
+   "badge": "Best for Apple Home Key",
+   "name": "Aqara U400 UWB Smart Lock, Front Deadbolt, Apple Home Key, Matter",
+   "amazonUrl": "https://www.amazon.com/dp/B0FRS6T6HL?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31Pzef9VbeL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "UWB hands-free",
+    "Apple Home Key",
+    "Matter",
+    "Deadbolt"
+   ],
+   "specList": [
+    {
+     "label": "Entry",
+     "value": "Hands-free unlocking with UWB technology"
+    },
+    {
+     "label": "Apple",
+     "value": "Apple Home Key support"
+    },
+    {
+     "label": "Smart home",
+     "value": "Matter support"
+    },
+    {
+     "label": "Format",
+     "value": "Front deadbolt, black"
+    },
+    {
+     "label": "Price tier",
+     "value": "Upper in this lineup"
+    }
+   ],
+   "description": "The Aqara U400 uses ultra-wideband technology for hands-free unlocking, supports Apple Home Key and Matter, and is a deadbolt for the front door. UWB can sense your phone as you approach, so the door unlocks without taking the phone out. It is the most advanced lock in this guide.\n\nHands-free entry is a convenience that depends on the phone and platform, and it is not for everyone. Compared with the Wyze and ULTRALOQ locks, it relies on your phone and the Apple ecosystem for the headline features. Compared with the TEEHO keypad lock, it is far more complex. A good setup includes a keypad or key backup for guests.\n\nOwnership notes: confirm phone compatibility for UWB and Home Key. Test the unlock distance and behavior at the door so it does not unlock when you are only near. Keep a mechanical key or code option. Check the battery type and replacement cost.",
+   "bestFor": "Apple households that want hands-free unlocking and Home Key.",
+   "pros": [
+    "UWB hands-free unlocking",
+    "Apple Home Key and Matter support",
+    "Modern design",
+    "Deadbolt fit for front doors"
+   ],
+   "cons": [
+    "Upper cost tier",
+    "Best features need compatible phones",
+    "Hands-free unlocking needs careful setup"
+   ]
+  },
+  {
+   "id": "B0F61WG9F2",
+   "rank": 4,
+   "badge": "Best Keypad With Handle",
+   "name": "Philips WiFi Keypad Deadbolt with Handle, Built-In Wi-Fi, App Remote Control",
+   "amazonUrl": "https://www.amazon.com/dp/B0F61WG9F2?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41iUQeuGaVL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "Keypad",
+    "Handle set",
+    "2.4 GHz Wi-Fi",
+    "No hub"
+   ],
+   "specList": [
+    {
+     "label": "Entry",
+     "value": "Keypad with app control"
+    },
+    {
+     "label": "Hardware",
+     "value": "Deadbolt with matching handle"
+    },
+    {
+     "label": "Connectivity",
+     "value": "2.4 GHz Wi-Fi, no hub needed"
+    },
+    {
+     "label": "App",
+     "value": "Remote lock and unlock"
+    },
+    {
+     "label": "Price tier",
+     "value": "Mid in this lineup"
+    }
+   ],
+   "description": "The Philips WiFi keypad deadbolt with handle connects to 2.4 GHz Wi-Fi without a hub and offers app remote control with a keypad, sold with a matching handle. A combined handle and deadbolt can suit a door where you also want to replace the door handle. The Philips 4200 series is described as connecting without a hub.\n\nA keypad is reliable and avoids dependence on phones or fingerprints. Compared with the TEEHO, it adds Wi-Fi and the handle. Compared with the Wyze Lock Bolt v2, it has no fingerprint scanner. It suits a household that wants simple keypad entry and remote control.\n\nOwnership notes: check that the handle and deadbolt match your door preparation and backset. Use a long code that you do not reuse elsewhere. Remember that 2.4 GHz Wi-Fi must reach the door. Keep batteries fresh, and know the backup entry method.",
+   "bestFor": "Households that want a keypad deadbolt and matching handle with Wi-Fi control.",
+   "pros": [
+    "Built-in 2.4 GHz Wi-Fi with no hub needed",
+    "Matching handle in the set",
+    "Keypad entry works without a phone",
+    "Remote app control"
+   ],
+   "cons": [
+    "No fingerprint scanner",
+    "Mid cost tier",
+    "Wi-Fi must reach the door"
+   ]
+  },
+  {
+   "id": "B0C7C69FPS",
+   "rank": 5,
+   "badge": "Best Multi-Method Fingerprint Lock",
+   "name": "eufy Security Smart Lock C220 Fingerprint Keyless Entry Door Lock",
+   "amazonUrl": "https://www.amazon.com/dp/B0C7C69FPS?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31X9LblwqZL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "Fingerprint under 1 s",
+    "6 ways to unlock",
+    "Built-in Wi-Fi",
+    "App remote"
+   ],
+   "specList": [
+    {
+     "label": "Fingerprint",
+     "value": "Unlock in under 1 second"
+    },
+    {
+     "label": "Unlock methods",
+     "value": "Six ways"
+    },
+    {
+     "label": "Connectivity",
+     "value": "Built-in Wi-Fi"
+    },
+    {
+     "label": "Control",
+     "value": "App remote access"
+    },
+    {
+     "label": "Price tier",
+     "value": "Low to mid in this lineup"
+    }
+   ],
+   "description": "The eufy Security Smart Lock C220 offers a fingerprint unlock in under a second, six ways to unlock, built-in Wi-Fi and app remote access. The multiple methods include fingerprint, code, app and key. It is a straightforward smart deadbolt from a smart home security brand.\n\nThe six unlock methods give flexibility for family and guests. Compared with the Wyze Lock Bolt v2, it is similar in concept with a different ecosystem. Compared with the Philips keypad deadbolt, it adds fingerprint. It suits a household already using eufy cameras.\n\nOwnership notes: check the door fit and the backset. Set up several fingerprints and a code. Keep the mechanical key somewhere safe outside the home. Read the app privacy settings.",
+   "bestFor": "Households that want several unlock methods and use the eufy ecosystem.",
+   "pros": [
+    "Fingerprint unlock in under one second claimed",
+    "Six ways to unlock",
+    "Built-in Wi-Fi with app control",
+    "Low to mid cost tier"
+   ],
+   "cons": [
+    "Ecosystem fit matters for the full benefit",
+    "Battery life depends on use",
+    "Fingerprint readers can fail with wet hands"
+   ]
+  },
+  {
+   "id": "B09P56Z4JC",
+   "rank": 6,
+   "badge": "Best Value Keypad",
+   "name": "TEEHO TE001 Keyless Entry Deadbolt with Keypad, ANSI Grade 3",
+   "amazonUrl": "https://www.amazon.com/dp/B09P56Z4JC?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41YEcbSEVhL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "Keypad",
+    "ANSI Grade 3",
+    "20 access codes",
+    "Auto-lock"
+   ],
+   "specList": [
+    {
+     "label": "Entry",
+     "value": "Keypad with up to 20 codes"
+    },
+    {
+     "label": "Security",
+     "value": "ANSI Grade 3"
+    },
+    {
+     "label": "Codes",
+     "value": "Includes a temporary code option"
+    },
+    {
+     "label": "Connectivity",
+     "value": "Standalone keypad"
+    },
+    {
+     "label": "Price tier",
+     "value": "Lowest in this lineup"
+    }
+   ],
+   "description": "The TEEHO TE001 is a keypad deadbolt with an ANSI Grade 3 rating, space for 20 access codes and a temporary code option. It is the lowest-cost lock in this guide. It works as a standalone keypad without Wi-Fi or an app.\n\nANSI Grade 3 is the lowest of the three grades, so it suits a modest security need. Compared with the Wyze and eufy locks, it has no fingerprint, no Wi-Fi and no app. Compared with the Philips keypad lock, it is simpler and cheaper. It is a good fit for a back door, a garage entry or a rental.\n\nOwnership notes: choose a code that is hard to guess and change it from time to time. Check the door fit and install carefully. Keep fresh batteries, and know the backup key location. Remember that a keypad shows wear on the most pressed keys.",
+   "bestFor": "Back doors, garages and rentals where a simple keypad lock is enough.",
+   "pros": [
+    "Lowest cost tier",
+    "20 access codes and temporary codes",
+    "No phone or Wi-Fi dependence",
+    "Simple installation"
+   ],
+   "cons": [
+    "ANSI Grade 3 is the lowest security grade",
+    "No app or remote control",
+    "Keypad wear can reveal common digits"
+   ]
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "How you want to unlock",
+   "explanation": "Fingerprint, keypad, app and key each suit different households. Fingerprint locks, like the Wyze and eufy, are fast, but struggle with wet or worn fingers. Keypads, like the TEEHO and Philips, work with guests and no phone. UWB, like the Aqara, is hands-free but depends on your phone. Choose the method you will actually use, and keep a backup. Think about children, visitors and cleaners as well, since a household with many users benefits from codes that can be changed or expire."
+  },
+  {
+   "criterion": "Security grade and build",
+   "explanation": "ANSI grades rate deadbolt strength and durability, with Grade 1 the highest and Grade 3 the lowest. The TEEHO lists Grade 3. Smart locks add electronics and a battery to a mechanical lock, so the quality of the deadbolt still matters. A smart lock does not make a weak door secure. Door quality, strike plates and frame reinforcement matter as much as the lock, so check that the door frame is solid and the screws are long."
+  },
+  {
+   "criterion": "Connectivity and standards",
+   "explanation": "Wi-Fi locks, like the Wyze, ULTRALOQ, Philips and eufy, work without a hub but use more battery. Matter, on the ULTRALOQ and Aqara, supports multiple platforms. Apple Home Key, on the Aqara, adds tap or hands-free entry. Check which platforms you use and what the lock supports. Wi-Fi locks that run on batteries may use the radio only when needed, which is why a lock that sits behind a thick door or far from a router can show delays."
+  },
+  {
+   "criterion": "Battery life and backup",
+   "explanation": "Claims such as eight months on the Wyze depend on use and Wi-Fi activity. A lock that dies at the door is a hazard, so learn the backup, such as a physical key, a keypad code or an emergency power port. Replace batteries when the app warns you. Keep a spare set of batteries near the door and test the emergency power or key method at least once so you know it works."
+  },
+  {
+   "criterion": "Door fit and installation",
+   "explanation": "Most smart deadbolts fit a standard door with a 2-1/8 inch bore and a 2-3/8 or 2-3/4 inch backset, but check your door. A handle set, as with the Philips, needs the right prep. Poor alignment causes sticking and jams. Take your time to align the strike plate. Measure the door thickness and the diameter of the hole before you order, and check whether the lock requires extra adapters."
+  },
+  {
+   "criterion": "Privacy and software",
+   "explanation": "Smart locks connect to apps and sometimes cloud accounts. Check what data is stored and how updates are delivered. Use a strong password and two-factor authentication. Firmware updates fix problems, and brands vary in how long they support products. If you are uneasy about cloud accounts, a keypad lock that works without an account is a sensible choice."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "ANSI Grade",
+   "meaning": "A standard for lock durability and strength. Grade 1 is the highest and Grade 3 the lowest. Even Grade 3 locks must meet basic strength tests.",
+   "watchFor": "The TEEHO lists Grade 3."
+  },
+  {
+   "spec": "Matter",
+   "meaning": "A smart home standard that lets devices work across platforms.",
+   "watchFor": "The ULTRALOQ Bolt SE and Aqara U400 list Matter."
+  },
+  {
+   "spec": "UWB",
+   "meaning": "Ultra-wideband radio that lets a lock sense your phone's position for hands-free unlocking.",
+   "watchFor": "The Aqara U400 uses UWB."
+  },
+  {
+   "spec": "Backset",
+   "meaning": "The distance from the door edge to the center of the lock hole. Common sizes are 2-3/8 and 2-3/4 inches.",
+   "watchFor": "Check your door before buying."
+  },
+  {
+   "spec": "Auto-lock",
+   "meaning": "A setting that relocks the door after a set time. It reduces the chance of leaving it unlocked.",
+   "watchFor": "The Wyze lists an auto-lock feature."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Unlock methods",
+   "description": "We compared fingerprint, keypad, UWB and app entry and the backups each offers. Our scores are editorial assessments based on published specifications and owner feedback patterns. We also considered how each lock behaves if the phone or network is unavailable."
+  },
+  {
+   "title": "Connectivity",
+   "description": "We compared Wi-Fi, Matter and Apple Home Key support."
+  },
+  {
+   "title": "Security grade",
+   "description": "We noted stated ANSI grades and the limits of smart features. Fingerprint readers were judged on published speed claims."
+  },
+  {
+   "title": "Battery and backup",
+   "description": "We treated battery claims as claims and looked at emergency entry."
+  },
+  {
+   "title": "Value and honesty",
+   "description": "We judged each lock by relative price tier, with all qualifying under the cap on listing prices when updated. Marketing speed claims were discounted."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Entry Style",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Fast fingerprint entry",
+      "Wyze Lock Bolt v2",
+      "About 0.5 seconds claimed."
+     ],
+     [
+      "Keypad only",
+      "TEEHO TE001",
+      "Simple and low cost."
+     ],
+     [
+      "Keypad with Wi-Fi and handle",
+      "Philips WiFi Keypad",
+      "Handle set."
+     ],
+     [
+      "Hands-free on iPhone",
+      "Aqara U400",
+      "UWB and Home Key."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest spend",
+      "TEEHO TE001",
+      "Lowest tier."
+     ],
+     [
+      "Low to mid",
+      "Wyze or eufy",
+      "Fingerprint and Wi-Fi."
+     ],
+     [
+      "Mid",
+      "ULTRALOQ or Philips",
+      "Matter or handle set."
+     ],
+     [
+      "Upper in the band",
+      "Aqara U400",
+      "UWB."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Wi-Fi vs Standalone",
+   "cards": [
+    {
+     "label": "Wi-Fi",
+     "text": "The Wyze, ULTRALOQ, Philips, eufy and Aqara locks give app control and alerts, with more battery use."
+    },
+    {
+     "label": "Standalone",
+     "text": "The TEEHO keypad works without Wi-Fi or an app, so it has fewer failure points."
+    }
+   ],
+   "note": "Choose Wi-Fi if you want remote control. Choose a standalone keypad for simplicity."
+  },
+  {
+   "subheading": "By Smart Home",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Apple Home",
+      "Aqara U400",
+      "Home Key and Matter."
+     ],
+     [
+      "Multiple platforms",
+      "ULTRALOQ Bolt SE",
+      "Matter support."
+     ],
+     [
+      "eufy cameras",
+      "eufy C220",
+      "Same ecosystem."
+     ],
+     [
+      "No smart home",
+      "TEEHO or Philips",
+      "Keypad entry."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Smart Locks Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "An unlock method you will use, a backup plan, a security grade that fits your door and compatibility with your smart home. Check your backset."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Wyze leads on balance, the TEEHO on value and the Aqara on features."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You want Matter, Home Key or hands-free entry. The ULTRALOQ or Aqara earns its cost. Check the price against the cap before buying."
+    },
+    {
+     "label": "Save if",
+     "text": "You just want keyless entry. A TEEHO or Wyze is enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Replace the batteries",
+   "interval": "When the app warns or every few months",
+   "why": "A dead lock is a lockout. Use fresh batteries of the type the maker recommends. Mark the date on a note in your phone."
+  },
+  {
+   "task": "Update firmware",
+   "interval": "When available",
+   "why": "Updates fix bugs and security issues. Use the maker's app. Read the release notes for changes to unlock behavior."
+  },
+  {
+   "task": "Clean the fingerprint sensor and keypad",
+   "interval": "Monthly",
+   "why": "Dirt reduces accuracy. Wipe with a soft dry cloth. Avoid sprays that can reach the electronics."
+  },
+  {
+   "task": "Check alignment and the strike plate",
+   "interval": "Every six months",
+   "why": "Doors shift with seasons. Misalignment strains the motor. A tight door that needs a slam is a sign it has shifted."
+  },
+  {
+   "task": "Review user codes and fingerprints",
+   "interval": "Every few months",
+   "why": "Remove old guests and unused codes. Keep a record of active users. Delete the app user when someone leaves. Review the activity log too."
+  }
+ ],
+ "faq": [
+  {
+   "q": "What if the battery dies?",
+   "a": "Most locks have a backup key or an emergency power point. Learn yours before you need it. A weak battery warning usually appears days or weeks before the lock stops working."
+  },
+  {
+   "q": "Are smart locks secure?",
+   "a": "They can be, if the deadbolt is strong and you use strong codes and updates. A weak door is still weak. Strong deadbolt grades, a reinforced strike plate and long screws all help."
+  },
+  {
+   "q": "Will it fit my door?",
+   "a": "Check the bore, backset and door thickness against the lock's requirements. A paper template in the box helps check the fit."
+  },
+  {
+   "q": "Do I need Wi-Fi?",
+   "a": "Not for keypad or fingerprint entry. Wi-Fi adds remote control and alerts. Without Wi-Fi, you lose remote unlocking and alerts."
+  },
+  {
+   "q": "What is Matter?",
+   "a": "A smart home standard that lets devices work across platforms. It reduces brand lock-in. Not every Matter feature works on every platform, so check the details."
+  },
+  {
+   "q": "Can I use it in a rental?",
+   "a": "Check your lease and keep the original lock so you can swap it back. Some landlords also require a copy of the key. Removable adhesive and no-drill options are rare for deadbolts."
+  }
+ ],
+ "relatedGuides": [
+  {
+   "title": "Best Smart Locks for Apartments",
+   "href": "/guide/best-smart-locks-for-apartments"
+  },
+  {
+   "title": "Best Video Doorbells Under 50",
+   "href": "/guide/best-video-doorbells-under-50"
+  },
+  {
+   "title": "Smart Home Protocols Explained",
+   "href": "/guide/smart-home-protocols-explained"
+  }
+ ]
+}
