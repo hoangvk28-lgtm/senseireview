@@ -16,6 +16,10 @@ export const SOCIAL_LINKS: { platform: string; url: string }[] = [];
 // Confirmed by the user 2026-11-21.
 export const AMAZON_ASSOCIATE_TAG = "senseireview-20";
 
+// Microsoft Clarity project id, confirmed by the user 2026-11-27.
+// NEXT_PUBLIC_CLARITY_ID overrides it at build time if ever needed.
+export const CLARITY_PROJECT_ID = "zjz3d1omfi";
+
 export const AUDIENCE_DESCRIPTION =
   "Practical shoppers who want to understand what a product actually does, and what it does not, before they spend.";
 

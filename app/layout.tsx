@@ -3,6 +3,7 @@ import { Newsreader, Inter_Tight } from "next/font/google";
 import Script from "next/script";
 import "./globals.css";
 import { SITE_NAME, SITE_DESCRIPTION, SITE_URL } from "@/lib/seo";
+import { CLARITY_PROJECT_ID } from "@/lib/brand";
 import { ScrollToTop } from "@/components/ScrollToTop";
 
 const newsreader = Newsreader({ variable: "--font-newsreader", subsets: ["latin"], display: "swap" });
@@ -60,9 +61,9 @@ const websiteSchema = {
 };
 
 const GA_ID = process.env.NEXT_PUBLIC_GA_ID;
-// Microsoft Clarity project id. Unset means no Clarity script is emitted,
-// which keeps a new deployment out of another site's Clarity project.
-const CLARITY_ID = process.env.NEXT_PUBLIC_CLARITY_ID;
+// Microsoft Clarity project id. Defaults to senseireview's own project so the
+// script ships without depending on a Cloudflare Pages build variable.
+const CLARITY_ID = process.env.NEXT_PUBLIC_CLARITY_ID || CLARITY_PROJECT_ID;
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
