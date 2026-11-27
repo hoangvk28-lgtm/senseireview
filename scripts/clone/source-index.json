@@ -2806,5 +2806,610 @@
   "title": "",
   "asins": [],
   "status": "inprogress"
+ },
+ {
+  "slug": "best-air-fryers-for-small-kitchens",
+  "category": "home-kitchen",
+  "mainKeyword": "compact air fryer",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-blenders-for-frozen-smoothies",
+  "category": "home-kitchen",
+  "mainKeyword": "blender for frozen fruit",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-dutch-ovens-for-bread-baking",
+  "category": "home-kitchen",
+  "mainKeyword": "bread baking dutch oven",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-toaster-ovens-for-air-frying",
+  "category": "home-kitchen",
+  "mainKeyword": "air fryer toaster oven",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-coffee-grinders-for-espresso",
+  "category": "home-kitchen",
+  "mainKeyword": "espresso coffee grinder",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-variable-temperature-kettles",
+  "category": "home-kitchen",
+  "mainKeyword": "variable temperature electric kettle",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-pour-over-coffee-drippers",
+  "category": "home-kitchen",
+  "mainKeyword": "pour over coffee dripper",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-automatic-milk-frothers",
+  "category": "home-kitchen",
+  "mainKeyword": "automatic milk frother",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-stainless-steel-cookware-sets",
+  "category": "home-kitchen",
+  "mainKeyword": "stainless steel cookware set",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-carbon-steel-pans",
+  "category": "home-kitchen",
+  "mainKeyword": "carbon steel frying pan",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-meal-prep-containers",
+  "category": "home-kitchen",
+  "mainKeyword": "meal prep food containers",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-pressure-canners",
+  "category": "home-kitchen",
+  "mainKeyword": "pressure canner",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-portable-ice-makers",
+  "category": "home-kitchen",
+  "mainKeyword": "portable countertop ice maker",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-usb-c-hubs-for-macbook",
+  "category": "tech-electronics",
+  "mainKeyword": "usb c hub for macbook",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-wireless-earbuds-for-workouts",
+  "category": "tech-electronics",
+  "mainKeyword": "workout wireless earbuds",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-headsets-for-video-calls",
+  "category": "tech-electronics",
+  "mainKeyword": "headset for video calls",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-portable-ssds-for-video-editing",
+  "category": "tech-electronics",
+  "mainKeyword": "portable ssd for video editing",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-wifi-extenders-for-large-homes",
+  "category": "tech-electronics",
+  "mainKeyword": "wifi extender long range",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-powerline-adapters",
+  "category": "tech-electronics",
+  "mainKeyword": "powerline network adapter",
+  "title": "",
+  "asins": [],
+  "status": "skip",
+  "skipReason": "junk.mjs soft term 'adapter' filters every powerline adapter title"
+ },
+ {
+  "slug": "best-car-chargers-for-road-trips",
+  "category": "tech-electronics",
+  "mainKeyword": "usb c car charger",
+  "title": "",
+  "asins": [],
+  "status": "skip",
+  "skipReason": "junk.mjs soft term 'compatible with' filters nearly every car charger title"
+ },
+ {
+  "slug": "best-microphone-arms-for-streaming",
+  "category": "tech-electronics",
+  "mainKeyword": "microphone boom arm",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-capture-cards-for-streaming",
+  "category": "tech-electronics",
+  "mainKeyword": "video capture card",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-monitor-arms-for-dual-setups",
+  "category": "tech-electronics",
+  "mainKeyword": "dual monitor arm",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-bluetooth-receivers-for-stereos",
+  "category": "tech-electronics",
+  "mainKeyword": "bluetooth receiver for stereo",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-portable-power-stations-for-camping",
+  "category": "tech-electronics",
+  "mainKeyword": "portable power station",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-resistance-bands-for-physical-therapy",
+  "category": "health-fitness",
+  "mainKeyword": "physical therapy resistance bands",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-yoga-wheels",
+  "category": "health-fitness",
+  "mainKeyword": "yoga wheel",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-weighted-jump-ropes",
+  "category": "health-fitness",
+  "mainKeyword": "weighted jump rope",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-knee-braces-for-running",
+  "category": "health-fitness",
+  "mainKeyword": "knee brace for running",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-standing-desk-mats",
+  "category": "health-fitness",
+  "mainKeyword": "anti fatigue standing desk mat",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-home-gym-flooring-tiles",
+  "category": "health-fitness",
+  "mainKeyword": "gym flooring tiles",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-dumbbell-racks",
+  "category": "health-fitness",
+  "mainKeyword": "dumbbell rack stand",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-solar-spotlights-for-landscaping",
+  "category": "outdoor-garden",
+  "mainKeyword": "solar landscape spotlight",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-weed-torches",
+  "category": "outdoor-garden",
+  "mainKeyword": "propane weed torch",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-plant-stands-for-indoor-plants",
+  "category": "outdoor-garden",
+  "mainKeyword": "indoor plant stand",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-self-watering-planters",
+  "category": "outdoor-garden",
+  "mainKeyword": "self watering planter",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-mini-greenhouses-for-backyards",
+  "category": "outdoor-garden",
+  "mainKeyword": "mini greenhouse",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-trail-cameras-for-wildlife",
+  "category": "outdoor-garden",
+  "mainKeyword": "trail camera",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-lawn-aerators-for-small-yards",
+  "category": "outdoor-garden",
+  "mainKeyword": "lawn aerator",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-log-splitters-for-home-use",
+  "category": "outdoor-garden",
+  "mainKeyword": "log splitter",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-cordless-screwdrivers",
+  "category": "tools-diy",
+  "mainKeyword": "cordless screwdriver",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-bench-grinders",
+  "category": "tools-diy",
+  "mainKeyword": "bench grinder",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-hole-saw-kits",
+  "category": "tools-diy",
+  "mainKeyword": "hole saw kit",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-knee-pads-for-flooring-work",
+  "category": "tools-diy",
+  "mainKeyword": "work knee pads",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-airless-paint-sprayers",
+  "category": "tools-diy",
+  "mainKeyword": "airless paint sprayer",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-ratcheting-wrench-sets",
+  "category": "tools-diy",
+  "mainKeyword": "ratcheting wrench set",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-router-tables",
+  "category": "tools-diy",
+  "mainKeyword": "router table woodworking",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-sawhorses",
+  "category": "tools-diy",
+  "mainKeyword": "folding sawhorse",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-workshop-air-filtration-systems",
+  "category": "tools-diy",
+  "mainKeyword": "workshop air filtration system",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-tool-bags-for-electricians",
+  "category": "tools-diy",
+  "mainKeyword": "electrician tool bag",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-budget-air-purifiers",
+  "category": "home-kitchen",
+  "mainKeyword": "air purifier",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-budget-vacuum-sealers",
+  "category": "home-kitchen",
+  "mainKeyword": "vacuum sealer",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-budget-ice-cream-makers",
+  "category": "home-kitchen",
+  "mainKeyword": "ice cream maker",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-budget-waffle-makers",
+  "category": "home-kitchen",
+  "mainKeyword": "waffle maker",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-budget-noise-cancelling-headphones",
+  "category": "tech-electronics",
+  "mainKeyword": "noise cancelling headphones",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-budget-gaming-headsets",
+  "category": "tech-electronics",
+  "mainKeyword": "gaming headset",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-budget-white-noise-machines",
+  "category": "tech-electronics",
+  "mainKeyword": "white noise machine",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-budget-smart-light-bulbs",
+  "category": "tech-electronics",
+  "mainKeyword": "smart light bulb",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-budget-acupressure-mats",
+  "category": "health-fitness",
+  "mainKeyword": "acupressure mat",
+  "title": "",
+  "asins": [],
+  "status": "skip",
+  "skipReason": "junk.mjs 'pillow set' phrase filters 14 of 15 acupressure mat titles"
+ },
+ {
+  "slug": "best-budget-balance-boards",
+  "category": "health-fitness",
+  "mainKeyword": "balance board",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-budget-suspension-trainers",
+  "category": "health-fitness",
+  "mainKeyword": "suspension trainer",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-budget-compost-tumblers",
+  "category": "outdoor-garden",
+  "mainKeyword": "compost tumbler",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-budget-rain-barrels",
+  "category": "outdoor-garden",
+  "mainKeyword": "rain barrel",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-budget-bench-vises",
+  "category": "tools-diy",
+  "mainKeyword": "bench vise",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-budget-belt-sanders",
+  "category": "tools-diy",
+  "mainKeyword": "belt sander",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-meat-grinders-under-100",
+  "category": "home-kitchen",
+  "mainKeyword": "meat grinder",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-smart-locks-under-200",
+  "category": "tech-electronics",
+  "mainKeyword": "smart lock",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-foot-massagers-under-100",
+  "category": "health-fitness",
+  "mainKeyword": "foot massager",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-grow-lights-under-50",
+  "category": "outdoor-garden",
+  "mainKeyword": "grow light",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-rotary-tool-kits-under-50",
+  "category": "tools-diy",
+  "mainKeyword": "rotary tool kit",
+  "title": "",
+  "asins": [],
+  "status": "skip",
+  "skipReason": "Amazon returned no prices, under-50 cap unverifiable"
+ },
+ {
+  "slug": "best-rotary-tool-kits-for-engraving",
+  "category": "tools-diy",
+  "mainKeyword": "rotary tool kit",
+  "title": "",
+  "asins": [],
+  "status": "skip",
+  "skipReason": "junk.mjs 'tools kit' phrase filters every real rotary tool kit title"
+ },
+ {
+  "slug": "best-benchtop-bandsaws",
+  "category": "tools-diy",
+  "mainKeyword": "benchtop band saw",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-conference-speakerphones",
+  "category": "tech-electronics",
+  "mainKeyword": "conference speakerphone",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-obd2-scanners",
+  "category": "tech-electronics",
+  "mainKeyword": "obd2 scanner",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
+ },
+ {
+  "slug": "best-budget-mini-steppers",
+  "category": "health-fitness",
+  "mainKeyword": "mini stepper",
+  "title": "",
+  "asins": [],
+  "status": "inprogress"
  }
 ]
