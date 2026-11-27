@@ -1,0 +1,18 @@
+# yogurt (yogurt makers)
+- A yogurt maker is a low-wattage incubator that holds milk at roughly 105 to 115 F while cultures ferment, typically 6 to 12 hours.
+- Fixed-temperature models only have an on/off switch; digital models add a timer, auto shut-off and adjustable temperature.
+- Temperature accuracy matters more than features; too hot kills cultures, too cool gives thin or slow yogurt.
+- Heating milk to about 180 F first and cooling to about 110 F before adding starter gives a thicker set.
+- Starter can be a spoonful of plain yogurt with live cultures or a freeze-dried powder packet.
+- Individual glass jars (6 oz is common) suit portion control and travel; one large container suits families and Greek straining.
+- Greek yogurt is regular yogurt strained to remove whey; a strainer accessory or cheesecloth does this.
+- Jar count claims (6, 7, 8, 12) matter for batch volume; check total ounces, not just count.
+- Non-standard cultures such as L. reuteri require long low-temperature ferments and specific starter, and need exact temperature holding.
+- Glass jars and ceramic or stainless steel inner pots are easier to keep clean than plastic.
+- Never submerge the heating base; wipe it with a damp cloth.
+- No auto shut-off means you must set a reminder; overlong fermenting makes yogurt sour.
+- Wattage is low, around 15 to 50 W for jar-style incubators.
+- Fresh yogurt keeps about a week in the fridge; reserve starter for future batches fades after several generations.
+- Ultra-pasteurized milk can set weakly; use fresh pasteurized whole milk for best results.
+- Do not move or stir jars during fermentation.
+- Homemade yogurt is thinner than store Greek yogurt unless strained.

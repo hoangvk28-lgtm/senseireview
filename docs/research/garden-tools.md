@@ -17,3 +17,20 @@
 - Drinking-water safe labelling: look for it; not all hoses carry it.
 - Store drained, out of sun; replace washers; leaks at connections.
 - Expandables fail from high pressure and abrasion.
+
+# hose nozzles (added round 10)
+- Garden hose nozzles thread onto a 3/4 inch GHT (garden hose thread) fitting; a rubber washer inside the female coupling makes the seal, and a missing or flattened washer is the top cause of leaks at the connection.
+- Styles: pistol-grip sprayers with a trigger, thumb-control sprayers with a lever or valve, twist (barrel) nozzles that adjust from jet to mist, and fireman-style nozzles with a bail shutoff.
+- Spray patterns (jet, cone, shower, flat, mist, center) matter less than a good shutoff and a flow control; most gardeners use two or three patterns.
+- Materials: brass is dense and corrodes slowly but is heavy; zinc alloy is cheaper and can corrode or crack; ABS plastic with rubber coating is light, comfortable and cheaper but can crack in a freeze.
+- Metal nozzles get hot in direct sun and cold in winter; a rubber grip helps.
+- Pistol-grip triggers tire the hand on long jobs; a lock or thumb flow control reduces strain.
+- Flow rate depends on hose diameter and water pressure as much as on the nozzle; a tight spray can sound powerful at low flow.
+- A threaded front lets you add wands, fan heads or soaker attachments.
+- Drain and detach nozzles before winter; trapped water freezes and cracks plastic bodies.
+- Do not leave a nozzle attached to a pressurized hose in hot sun for days; heat and pressure stress seals.
+- Leaks at the trigger pivot or head often mean a worn O-ring; replacement O-rings are cheap.
+- Flat or shower patterns suit gentle watering of seedlings; a jet suits cleaning patios and washing vehicles.
+- Brass twist nozzles have few parts, which is why they last; they have no shutoff trigger, so you shut off at the spigot.
+- Quick-connect fittings add convenience but can restrict flow slightly.
+- A pattern dial can stiffen with mineral buildup; rinse and use a drop of silicone grease on o-rings now and then.

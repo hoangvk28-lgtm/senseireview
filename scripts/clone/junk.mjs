@@ -32,8 +32,16 @@ const LEADING = /^(\S+\s+){0,3}(covers?|filters?|bags?|mats?|cases?|sleeves?)\b/
 // so these two only count as junk when the title is not itself an inverter or power station.
 const SOFT = [/\badapter\b/, /\bcompatible with\b/];
 const MACHINE = /\b(inverters?|power stations?)\b/;
-export function isJunk(title = "") {
+// A noun is only an accessory when the guide is not about that noun itself:
+// "best-treadmill-mats-for-carpet" and "best-punching-bags-for-home-garages" are mat and bag
+// guides, and "best-budget-powerline-adapters" is an adapter guide.
+const SUBJECT_NOUNS = ["cover", "filter", "bag", "mat", "case", "sleeve", "adapter"];
+export function isJunk(title = "", subject = "") {
   const t = title.toLowerCase();
-  if (PHRASES.some((re) => re.test(t)) || LEADING.test(title)) return true;
+  const subj = String(subject).toLowerCase();
+  const own = SUBJECT_NOUNS.filter((n) => new RegExp(`\\b${n}s?\\b`).test(subj));
+  if (PHRASES.some((re) => re.test(t))) return true;
+  if (LEADING.test(title) && !own.some((n) => new RegExp(`\\b${n}s?\\b`).test(t))) return true;
+  if (own.includes("adapter")) return false;
   return !MACHINE.test(t) && SOFT.some((re) => re.test(t));
 }

@@ -1,0 +1,18 @@
+# canopies (pop up canopy tents)
+- A pop-up canopy is a scissor-truss frame with a fabric top; one or two people expand it, then raise the legs to height and lock them.
+- Nominal 10x10 canopies have about 100 square feet at the base; slanted-leg designs lose usable floor area compared with straight legs.
+- Frame material: steel is cheap and sturdy but heavy and can rust; aluminum is lighter and costs more; the truss joints and sliders are where frames bend or fail.
+- Leg thickness and profile matter more than a quoted "heavy duty" label; thicker legs and a hex or square profile resist bending.
+- Fabric is described by denier (150D, 300D, 420D) or thread count (190T); higher denier is thicker, but coatings and stitching decide water resistance.
+- UPF 50+ means the fabric blocks about 98 percent of UV; a silver or PU backing adds sun reflection and some water resistance.
+- Water resistant is not waterproof; seams are rarely taped and water can pool on a sagging roof.
+- Wind is the main failure cause: a canopy acts as a sail; stake it at each leg, add weights of about 20 to 40 lb per leg, and take it down in strong gusts.
+- Never leave a pop-up canopy up unattended or overnight in wind or storm.
+- Sidewalls, mesh walls and vents extend use for sun, bugs and wind but add sail area in wind.
+- Typical weights are 20 to 40 lb in a roller bag for a 10x10 and a few pounds for a small backpack canopy.
+- One-person setups are possible but the frame is easier with two; push each corner up evenly to avoid bending.
+- Sandbags and stakes are often not included; check the listing.
+- Rinse and dry fabric completely before storing to prevent mildew; folded-wet fabric smells and degrades.
+- Backpack canopies (6 to 8 ft) give shade for one or two people and are not meant for wind.
+- Replacement top fabrics are only sold for some brands, so a torn top often ends the canopy's life.
+- Height adjustments with push-button legs give several settings, usually about 7 to 10 ft.

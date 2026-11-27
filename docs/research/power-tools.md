@@ -14,3 +14,20 @@
 - Li-ion packs last roughly 3 to 5 years; store at partial charge, avoid heat.
 - Keyless chuck slip under load is a common cheap-drill complaint.
 - No-name cordless drills often have scarce replacement batteries.
+
+# cordless screwdrivers (added round 10)
+- Small 3.6 to 4 V lithium screwdrivers drive small screws in furniture, electronics and light fixtures; they are not drills.
+- Torque is small, from about 0.6 N.m on precision units to around 3 to 5 N.m on pistol-grip models; check units, since N.m and in-lb are not the same.
+- Clutch or torque settings stop the bit before stripping a screw or cracking particleboard.
+- No-load speed (RPM) is a best-case number; under load speed drops.
+- Pivoting heads or pistol grips reach tight spots; a straight barrel suits inline work.
+- USB or USB-C charging is convenient; integral batteries are not user replaceable, so battery life limits tool life.
+- Capacity in mAh or Ah (for example 1.5 Ah) sets runtime; small packs drive dozens of screws per charge in light work.
+- Bit sets bundled with budget units vary; S2 steel is a common hardness grade, and extra bits are cheap to add.
+- 1/4 inch hex shank is the standard bit size for these tools.
+- A forward and reverse switch or collar is needed for removing screws.
+- A built-in LED helps in cabinets and under furniture.
+- Circuit sensor features detect live current in outlets and fixtures but are not a substitute for turning off the breaker.
+- Do not use for lag screws or decking; use a drill driver or impact driver.
+- Keep batteries partially charged for long storage, and charge them every few months.
+- Hand-start screws to avoid cam-out and stripping.

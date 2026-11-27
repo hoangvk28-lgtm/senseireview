@@ -1,0 +1,17 @@
+# calisthenics (gymnastic rings, bodyweight gear)
+- Gymnastic rings are two rings hung from straps that let hands move freely; the instability is the training effect.
+- Competition rings are about 28 mm thick with a roughly 18 cm inner diameter; home sets sold as 1.1 inch or 1.25 inch (32 mm) rings are thicker, which many find easier on the hands for a first set.
+- Materials: birch or beech wood gives grip and takes chalk; ABS plastic is cheap, light and slick when wet; metal rings exist but are costly.
+- Wood can splinter, crack or loosen at the strap slot over years; check the surface and sand or replace if rough.
+- Strap length is typically 9 to 15 feet; buckle systems are cam buckles or numbered quick-adjust loops with carabiners.
+- Numbered straps let you set both sides to the same length; mismatched heights twist the shoulders.
+- Strap width of 1.5 inch (38 mm) is more stable on the hand and kinder to a bar than thinner webbing.
+- Listing load ratings of 1,000 to 1,500 lb are strap and ring claims, not the anchor's rating; the beam or bar decides the real limit.
+- Anchor points: a pull-up bar, a sturdy tree branch (use tree-safe straps), a ceiling beam or a rack. Verify the anchor first.
+- Start with ring rows, push-ups and dips from low heights before ring muscle-ups.
+- Rings put high stress on shoulders and elbows; progress slowly.
+- Chalk or a dry cloth improves grip on wood; sweat on ABS is slippery.
+- Wash straps by hand, let them dry fully and keep them out of sunlight to reduce fraying.
+- Inspect stitching, carabiner gates and buckle teeth before each session; retire frayed straps.
+- Fixed-length strap sets are simpler but less adjustable for different exercises.
+- Rings are a supplementary tool; they do not replace gym machines for heavy lifting.

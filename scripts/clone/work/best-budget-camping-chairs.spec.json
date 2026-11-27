@@ -1,0 +1,543 @@
+{
+ "guideSlug": "best-budget-camping-chairs",
+ "categorySlug": "outdoor-garden",
+ "mainKeyword": "camping chair",
+ "guideTitle": "Best Budget Camping Chairs (2026)",
+ "metaTitle": "Best Budget Camping Chairs",
+ "metaDescription": "Five budget camping chairs compared on frame material, weight, capacity claims and comfort features, so you can match a chair to car camping or backpacking.",
+ "lastUpdated": "2026-11-21",
+ "readTime": "12 min",
+ "heroImage": "https://m.media-amazon.com/images/I/41cVnBCnRaL._SL500_.jpg",
+ "expertTake": "The Coleman Portable Camping Chair with the 4-can cooler is our top pick because its full cushioning, cup holder and side pocket cover the needs of most car campers for little money. The Damei folding chair is the value pick at the lowest price position. Skip the category if you backpack long distances, because a steel-frame budget chair weighs more than a dedicated compact model.",
+ "introParagraphs": [
+  "A budget camping chair has to do one thing well: give you a stable, comfortable seat at a campsite, a beach or a sideline without costing much. Most compromise somewhere, usually on weight, frame material or the durability of the fabric around the seat.",
+  "This guide compares budget chairs on frame material, weight, stated capacity, comfort features such as cushioning and backrest height, and how much extra the maker bundles in. We explain which chair suits car camping, which suits a short carry and which are better kept for the backyard. Think about where you will use the chair most before choosing."
+ ],
+ "products": [
+  {
+   "id": "B00339910A",
+   "badge": "Best Overall",
+   "name": "Coleman Portable Camping Chair with 4-Can Cooler Cushioned Seat and Back",
+   "specs": [
+    "4-can cooler",
+    "Cushioned seat",
+    "Cup holder",
+    "Carry bag"
+   ],
+   "specList": [
+    {
+     "label": "Cooler",
+     "value": "Built-in 4-can pouch"
+    },
+    {
+     "label": "Seat",
+     "value": "Fully cushioned seat and back"
+    },
+    {
+     "label": "Extras",
+     "value": "Mesh cup holder and side pocket"
+    },
+    {
+     "label": "Storage",
+     "value": "Carry bag included"
+    },
+    {
+     "label": "Price position",
+     "value": "Lower-middle of the group"
+    }
+   ],
+   "description": "The Coleman chair is the classic four-leg quad design with a cushioned seat and back, an armrest cup holder and a pouch that holds four cans. A side pocket stores a phone or keys, and it folds into a carry bag. It is the most familiar shape in the lineup, and that familiarity is a plus because it works on most campsites.\n\nThe tradeoff is weight and bulk. A steel-frame quad chair is heavier than a compact aluminum model such as the ONETIGRIS Tigerblade, and the cooler pouch is thin and keeps drinks cold only briefly. The padding is comfortable but holds heat and dries slowly. Compared with the WEIDIORME, which uses a similar steel-and-Oxford construction, the Coleman adds cushioning and features. It suits car campers and tailgaters who value comfort over weight.\n\nIn long-term use the weak points are the seams and the fabric at the frame joints. Dry the chair before storing to avoid rust and mildew, and store out of direct sun to slow fading. Check the stitching and rivets each season and retire a chair that sags or wobbles.",
+   "bestFor": "Car campers and tailgaters who want a padded chair with a cup holder and cooler pouch.",
+   "pros": [
+    "Fully cushioned seat and back suits long sits",
+    "Built-in 4-can pouch and mesh cup holder add convenience",
+    "Side pocket keeps a phone and keys within reach",
+    "Familiar four-leg design is stable on firm ground"
+   ],
+   "cons": [
+    "Steel frame is heavier than compact aluminum chairs",
+    "Padding holds heat and dries slowly after rain"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B00339910A?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41cVnBCnRaL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0BRMJ1DG9",
+   "badge": "Best Value",
+   "name": "Damei Folding Camping Chair with Full Back and Carry Bag",
+   "specs": [
+    "4 lb",
+    "Steel tube frame",
+    "Full back",
+    "Carry bag"
+   ],
+   "specList": [
+    {
+     "label": "Weight",
+     "value": "About 4 lb"
+    },
+    {
+     "label": "Frame",
+     "value": "16 mm powder-coated steel tube"
+    },
+    {
+     "label": "Fabric",
+     "value": "100% polyester"
+    },
+    {
+     "label": "Back",
+     "value": "Full back design"
+    },
+    {
+     "label": "Price position",
+     "value": "Lowest in the group"
+    }
+   ],
+   "description": "The Damei chair is the cheapest in the lineup and weighs about 4 lb with a carry bag. It uses a 16 mm powder-coated steel tube frame and polyester fabric, with a full-back design that offers more support than a slim sling. It needs no assembly and folds flat.\n\nThe tradeoff is the usual one for low-priced chairs: simpler construction, less padding and fewer extras. There is no cooler pouch or cup holder detail, and thin tubing flexes more than thicker frames under a heavy sitter. Compared with the Coleman, you give up cushioning and accessories in exchange for a lower price position. It suits occasional campers, beach days and backyard use.\n\nCheck the stitching at the seat corners when it arrives and again at the start of each season. Dry before storing, and do not store it folded in a damp car trunk. Treat the capacity as a rough guide and avoid shock loading by dropping into the seat.",
+   "bestFor": "Occasional campers and beach-goers who want the lowest cost for a basic chair.",
+   "pros": [
+    "Lowest price position in this comparison",
+    "About 4 lb weight is easy to carry",
+    "Full-back design gives more support than sling chairs",
+    "No assembly and a carry bag included"
+   ],
+   "cons": [
+    "No cooler pouch or padded seat",
+    "Thin steel tubing flexes more under heavy loads"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0BRMJ1DG9?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41oEyoIW15L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0C4NK8HD2",
+   "badge": "Best Two-Pack",
+   "name": "WEIDIORME 2-Pack Lightweight Folding Camping Chairs with Carry Bags",
+   "specs": [
+    "2 chairs",
+    "3.6 lb each",
+    "250 lb claim",
+    "600D Oxford"
+   ],
+   "specList": [
+    {
+     "label": "Pack",
+     "value": "2 chairs with separate carry bags"
+    },
+    {
+     "label": "Weight",
+     "value": "3.6 lb each"
+    },
+    {
+     "label": "Capacity claim",
+     "value": "250 lb"
+    },
+    {
+     "label": "Fabric",
+     "value": "600D Oxford"
+    },
+    {
+     "label": "Price position",
+     "value": "Second lowest here"
+    }
+   ],
+   "description": "This two-pack gives you two chairs at 3.6 lb each, with individual carry bags. The frame is steel and the fabric is 600D Oxford, a common durable weight in this class. Each chair carries a 250 lb capacity claim, so it suits average-sized adults rather than big and tall users.\n\nThe tradeoff is capacity and comfort. At 250 lb it offers less headroom than the oversized options in the wider market, and there is no cushioning or cooler pouch. Compared with the Damei, you get two chairs at a similar weight per chair for a lower cost per seat. The listing also invites you to check dimensions before ordering, which is a sign that fit varies. It suits couples and families who want matching chairs on a budget.\n\nOwnership is routine. Dry the chairs before storing, check the frame joints at the start of each season and keep them out of sun. A two-pack makes sense mostly because the cost per chair is lower, not because each chair is premium.",
+   "bestFor": "Couples and families who want two matching lightweight chairs for a low cost.",
+   "pros": [
+    "Two chairs in one purchase lowers cost per seat",
+    "3.6 lb each is light for a steel-frame chair",
+    "Individual carry bags keep each chair tidy",
+    "600D Oxford fabric is a durable class of material"
+   ],
+   "cons": [
+    "250 lb capacity claim leaves limited headroom",
+    "No cushioning or cooler pouch"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0C4NK8HD2?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/414PPzOqu+L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0CQJR8NLW",
+   "badge": "Best Lightweight Pick",
+   "name": "ONETIGRIS Tigerblade Lightweight Folding Backpacking Chair 330 lb Capacity",
+   "specs": [
+    "2.9 lb",
+    "7075 aluminum",
+    "330 lb claim",
+    "Compact"
+   ],
+   "specList": [
+    {
+     "label": "Weight",
+     "value": "2.9 lb (1.34 kg)"
+    },
+    {
+     "label": "Frame",
+     "value": "7075 aluminum alloy"
+    },
+    {
+     "label": "Fabric",
+     "value": "600D polyester"
+    },
+    {
+     "label": "Capacity claim",
+     "value": "330 lb"
+    },
+    {
+     "label": "Price position",
+     "value": "Lower-middle of the group"
+    }
+   ],
+   "description": "The ONETIGRIS Tigerblade is the lightest chair here at 2.9 lb, with a 7075 aluminum alloy frame and 600D polyester seat. It packs compactly, with a detachable frame and a triangle-based structure meant for stability. The stated capacity is 330 lb, which is higher than the WEIDIORME despite the lower weight.\n\nThe tradeoff is comfort and ground clearance. A compact seat is lower and less padded than a quad chair, and a detachable frame takes a moment to assemble. Compared with the Coleman, you give up cushioning, cooler pouch and cup holder for a saving of roughly one pound or more. It suits hikers, kayakers and anyone with limited packing space.\n\nCare is easy. Check the frame joints and the corner stitching each season, and brush off sand. Aluminum resists rust, so a damp trip is less of a concern, but store the chair dry to avoid mildew on the fabric.",
+   "bestFor": "Hikers and kayakers who want a compact aluminum chair under 3 lb.",
+   "pros": [
+    "2.9 lb is the lightest chair in the comparison",
+    "7075 aluminum frame resists corrosion",
+    "330 lb capacity claim is higher than several steel chairs",
+    "Compact packed size for backpacks"
+   ],
+   "cons": [
+    "Low, less padded seat than a quad chair",
+    "Frame needs assembly each time"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0CQJR8NLW?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31T6mYUjRLL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DHZSMZV6",
+   "badge": "Best High Back",
+   "name": "ONETIGRIS Tigerblade High Back Camping Chair with Pillow Design and Widened Seat",
+   "specs": [
+    "High back",
+    "Pillow design",
+    "Aluminum alloy",
+    "Wider seat"
+   ],
+   "specList": [
+    {
+     "label": "Back",
+     "value": "High back with pillow design"
+    },
+    {
+     "label": "Frame",
+     "value": "Corrosion-resistant aluminum alloy"
+    },
+    {
+     "label": "Seat",
+     "value": "Widened, heavy-duty fabric"
+    },
+    {
+     "label": "Structure",
+     "value": "Triangle frame, piece-together assembly"
+    },
+    {
+     "label": "Price position",
+     "value": "Lower-middle of the group"
+    }
+   ],
+   "description": "The Tigerblade High Back is the more comfort-minded sibling of the compact Tigerblade, with a taller back that includes a pillow-style headrest and a widened seat. The frame is a corrosion-resistant aluminum alloy in a triangle structure, and the seat fabric is described as heavy duty. It breaks down for storage and goes together by hand.\n\nThe tradeoff is weight and packed size. A taller back and wider seat add fabric and frame length, so it is heavier and bulkier than the 2.9 lb Tigerblade, and it is still lower to the ground than a steel quad chair. Compared with the Coleman, you give up the cup holder, side pocket and cooler pouch but gain a lighter frame that will not rust. It suits campers who want head support on a short carry from the car to the fire.\n\nCheck the frame joints and corner stitching each season and brush off sand. Dry the fabric before storing it to avoid mildew. Because the chair is assembled each time, make sure every joint is seated before you sit down.",
+   "bestFor": "Campers who want head and neck support in a rust-free aluminum chair.",
+   "pros": [
+    "Taller back with a pillow-style headrest supports the neck",
+    "Corrosion-resistant aluminum alloy frame",
+    "Widened seat is roomier than a compact backpacking chair",
+    "Breaks down for storage and packs smaller than a steel quad chair"
+   ],
+   "cons": [
+    "Heavier and bulkier than the standard Tigerblade",
+    "No cup holder, side pocket or cooler pouch"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0DHZSMZV6?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41dlR3QeDvL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Frame material",
+   "explanation": "Steel frames, as on the Coleman and Damei, are strong and cheap but heavier and prone to rust at joints. Aluminum, as on the ONETIGRIS 7075 frame, is lighter and corrosion resistant. Match the frame to how far you carry the chair, because weight matters more over distance than at the car. Pick the frame that fits your longest carry, not your average one. Sit in the chair before you commit if you can, because seat depth and back angle feel different from the photos. A chair that is comfortable for ten minutes in a shop can be tiring after an hour at the fire."
+  },
+  {
+   "criterion": "Weight and packed size",
+   "explanation": "The Tigerblade weighs 2.9 lb while the WEIDIORME is 3.6 lb and the Damei about 4 lb. A quad chair is bulkier when folded. If your campsite is next to the car, weight matters less than comfort. If you hike to your site, even a pound saved feels significant by the end of the walk. Frame joints take the strain when you get in and out, so look at how the legs connect. Riveted joints and thicker tubing tend to last longer than thin tubing with small bolts."
+  },
+  {
+   "criterion": "Capacity claim",
+   "explanation": "Capacity claims such as 250 lb on the WEIDIORME and 330 lb on the Tigerblade are maker figures, not certified standards. Leave a margin and avoid dropping into the seat. Heavier users should look at wider seats and higher claims. Heavier sitters should look for wider seats and thicker tubing rather than relying on the number alone. If you camp in cold weather, consider the seat fabric as well. Padding and thicker polyester hold a little warmth, while mesh feels cool on a chilly evening."
+  },
+  {
+   "criterion": "Comfort features",
+   "explanation": "Padding, tall backs and mesh panels change comfort. The Coleman cushions the seat and back, while the Tigerblade High Back adds a taller pillow-style back. Padding is warm and slow to dry, while mesh breathes. Consider your climate. Hot climates favor mesh, while cool shoulder-season camping favors padding. Match capacity to the person who will use the chair most. Leave a comfortable margin under the stated figure and avoid dropping into the seat with force."
+  },
+  {
+   "criterion": "Stability and ground",
+   "explanation": "Four-leg chairs stay steady on firm ground and can sink in soft sand. Wider chairs such as the Tigerblade High Back sit low and need firm ground. Low backpacking chairs are stable but harder to get out of. Soft ground and wind are the usual reasons a chair tips, so check where you will sit most. Weigh the extras against your habits. A cup holder is used every trip, while a cooler pouch is a convenience you may forget about."
+  },
+  {
+   "criterion": "Extras and durability",
+   "explanation": "Cup holders, cooler pouches and side pockets add convenience but also stress points. Cooler pouches hold about four cans and keep drinks cool briefly. Check the seams and joints, because failures happen there first. Fewer extras usually mean fewer things to fail, which is a fair trade at this price. Check how the chair packs. A bag with a good handle and a loose fit makes the chair easier to repack at the end of a long weekend."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Weight capacity",
+   "meaning": "The maximum load the maker states, such as 250 lb on the WEIDIORME or 330 lb on the Tigerblade.",
+   "watchFor": "It is a claim, not a certification."
+  },
+  {
+   "spec": "600D fabric",
+   "meaning": "A fabric thickness measure; 600 denier polyester or Oxford is a common durable weight for camp chairs.",
+   "watchFor": "Stitching and seams matter more than denier alone."
+  },
+  {
+   "spec": "7075 aluminum",
+   "meaning": "A strong aluminum alloy used in the Tigerblade for a light frame.",
+   "watchFor": "Light frames can flex and need careful assembly."
+  },
+  {
+   "spec": "Packed weight",
+   "meaning": "Weight as carried, from 2.9 lb for the Tigerblade to about 4 lb for the Damei.",
+   "watchFor": "Carry bags and accessories add weight."
+  },
+  {
+   "spec": "Cooler capacity",
+   "meaning": "The number of cans in the armrest pouch, such as 4 on the Coleman.",
+   "watchFor": "Thin pouches provide short-term cooling only."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Specification review",
+   "description": "We compared published weights, frame materials, capacity claims and fabric specs. We looked at what each listing documents and what it omits. The 2.9 lb Tigerblade was set against the 4 lb Damei."
+  },
+  {
+   "title": "Owner feedback patterns",
+   "description": "We looked at recurring themes in owner feedback such as seam failures, rust and wobble. Single complaints were set aside. We did not use star ratings."
+  },
+  {
+   "title": "Design approach",
+   "description": "We considered how each chair is built, from steel quad frames to two aluminum backpacking frames. We also noted how extras affect weight."
+  },
+  {
+   "title": "Value and price position",
+   "description": "We ordered chairs by relative price tier and asked what each step up adds. We did not quote prices."
+  },
+  {
+   "title": "What we did not do",
+   "description": "We did not sit in or load these chairs. Scores are editorial judgments built on published information. Capacity numbers remain the makers' claims."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Carry Distance",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Carry a mile or more",
+      "ONETIGRIS Tigerblade",
+      "2.9 lb aluminum"
+     ],
+     [
+      "Short carry from the car",
+      "Coleman",
+      "Cushioned comfort"
+     ],
+     [
+      "Beach or lawn",
+      "Damei",
+      "Light and low-cost"
+     ],
+     [
+      "Family trunk",
+      "WEIDIORME 2-pack",
+      "Two chairs"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest spend",
+      "Damei",
+      "Lowest price position"
+     ],
+     [
+      "Low spend per chair",
+      "WEIDIORME 2-pack",
+      "Two chairs"
+     ],
+     [
+      "Lower-mid with comfort",
+      "Coleman",
+      "Cushioning and cooler"
+     ],
+     [
+      "Mid, extra back support",
+      "ONETIGRIS High Back",
+      "Taller back, wider seat"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Steel vs Aluminum",
+   "cards": [
+    {
+     "label": "Steel frame",
+     "text": "The Coleman, Damei and WEIDIORME are strong and cheap but heavier and prone to rust at joints."
+    },
+    {
+     "label": "Aluminum frame",
+     "text": "The ONETIGRIS Tigerblade is lighter and resists corrosion, but is lower to the ground and has less padding."
+    }
+   ],
+   "note": "Pick steel for car camping and aluminum if you carry the chair far."
+  },
+  {
+   "subheading": "By Seating Style",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Upright with cup holder",
+      "Coleman",
+      "Quad chair"
+     ],
+     [
+      "Reclined with head support",
+      "ONETIGRIS High Back",
+      "Pillow-style back"
+     ],
+     [
+      "Two matching chairs",
+      "WEIDIORME 2-pack",
+      "Pair with carry bags"
+     ],
+     [
+      "Low and compact",
+      "ONETIGRIS Tigerblade",
+      "Packable seat"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Car Camping Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A padded seat, a cup holder and a sturdy frame, because weight matters less when the chair rides in the trunk."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Coleman offers a cooler pouch and padding, and the Tigerblade High Back adds a taller, wider seat for longer evenings."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You carry the chair long distances, need a higher capacity or want a longer-lasting frame."
+    },
+    {
+     "label": "Save if",
+     "text": "You camp near the car a few times a year, in which case the Damei or WEIDIORME pair is enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Dry before storing",
+   "interval": "After every trip",
+   "why": "Damp fabric breeds mildew and steel joints rust. Open the chair to air dry fully. Wipe the frame down with a damp cloth after muddy trips."
+  },
+  {
+   "task": "Inspect seams and stitching",
+   "interval": "Every season",
+   "why": "Seams are the first failure point. A frayed seat can fail suddenly. A drop of light oil on steel hinges keeps them quiet."
+  },
+  {
+   "task": "Check joints and rivets",
+   "interval": "Every season",
+   "why": "Rivets loosen over time and cause wobble. Replace a chair that shifts under load. Keep the carry bag with the chair so it does not get lost."
+  },
+  {
+   "task": "Rinse sand and mud",
+   "interval": "After beach or muddy trips",
+   "why": "Grit wears hinges and fabric. A quick rinse and dry extends life. Replace missing feet caps before they wear a hole in the leg."
+  },
+  {
+   "task": "Store out of sun",
+   "interval": "Between trips",
+   "why": "UV weakens polyester fabric. A garage or closet keeps it intact. Store folded chairs off the ground."
+  }
+ ],
+ "faq": [
+  {
+   "q": "How long do budget camping chairs last?",
+   "a": "Several seasons of occasional use is common, but seams and joints can fail earlier with heavy use. Check them each season. Rinse sand off hinges before folding the chair away, since grit is a main cause of stiff joints. Brush off sand and dirt before you fold the chair, because grit grinds into hinges and the fabric as you pack it."
+  },
+  {
+   "q": "Are steel or aluminum chairs better?",
+   "a": "Steel is cheaper and strong but heavier. Aluminum is lighter and resists rust, which matters if you carry the chair. A frame with a visible coating chip should be touched up with paint to slow rust. If one leg feels short or wobbly, check the rivets and the feet first, since a worn foot cap often causes the problem."
+  },
+  {
+   "q": "Do cooler pouches work?",
+   "a": "They hold about four cans and cool only for a short time. Treat them as a convenience, not a cooler. Keep a spare strap or bag for each chair, because replacing a torn carry bag is easier than replacing the chair. Test the chair at home before a trip so you know how it sets up, and so a missing part does not surprise you at the campsite."
+  },
+  {
+   "q": "Can heavy users use these chairs?",
+   "a": "Check the capacity claim and leave a margin. Wider, higher-claim chairs suit larger users better than the 250 lb models. If a chair creaks, check the rivets first, since a loose one is often easy to spot. Wide or high-back chairs are not always the best choice in a small tent vestibule, so think about where you will sit."
+  },
+  {
+   "q": "Do I need a high-back chair?",
+   "a": "A taller back supports the neck and shoulders on long sits but adds weight and packed size. A chair like the Tigerblade High Back suits a short carry from the car, while the standard Tigerblade suits longer walks. Check the seat width as well. A damp chair stored in a bag can mildew within days, so open it up to dry before you close the bag."
+  },
+  {
+   "q": "How do I stop my chair from rusting?",
+   "a": "Dry it before storing and avoid damp sheds. Touch up chipped coating when you see it. Sit down slowly and avoid dropping into the seat, which stresses seams more than steady weight. If a seat fabric starts to fray at a seam, retire the chair or have it stitched before you put weight on it again."
+  }
+ ],
+ "relatedGuides": [
+  {
+   "title": "Best Camping Chairs",
+   "href": "/guide/best-camping-chairs"
+  },
+  {
+   "title": "Best Camping Tents Under 100",
+   "href": "/guide/best-camping-tents-under-100"
+  },
+  {
+   "title": "Best Hammocks With Stands",
+   "href": "/guide/best-hammocks-with-stands"
+  }
+ ]
+}

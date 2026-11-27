@@ -55,7 +55,7 @@ const count = (slug) => {
   const seen = new Set();
   const ok = items.filter((i) => {
     const t = i.title || ""; const key = t.toLowerCase().replace(/[^a-z0-9]/g, "").slice(0, 28);
-    if (isJunk(t) || seen.has(key) || !c.test(t, i) || !nounRe(slug).test(t)) return false;
+    if (isJunk(t, slug) || seen.has(key) || !c.test(t, i) || !nounRe(slug).test(t)) return false;
     seen.add(key); return true;
   });
   return { c, n: ok.length, kw: d.mainKeyword };

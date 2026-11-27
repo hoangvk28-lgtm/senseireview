@@ -1,0 +1,16 @@
+# sheds (small outdoor storage, leaf rakes)
+- Small sheds: metal (galvanized steel), resin (plastic) and wood; metal is cheapest per cubic foot and can dent or rust at cut edges; resin does not rust and stays cooler but flexes in wind.
+- Footprint listed as width by depth in feet (such as 5x3 or 6x4); interior height is lower than exterior because of the sloped roof.
+- Base: a level pad is essential; patio pavers, compacted gravel or a wood platform; an uneven base makes doors stick and panels gap.
+- Anchoring: sheds are light and catch wind; anchor kits or ground screws matter more on small sheds.
+- Assembly: flat-pack metal sheds have many small screws and sharp edges; allow a full weekend with two adults; wear gloves.
+- Floor: many cheap metal sheds ship with no floor; a floor kit or pad is needed to protect from moisture.
+- Doors and locks: sliding doors rattle and jam; hinged doors need swing room; padlock hasp is usually included.
+- Condensation: metal sheds sweat in humidity; vents help and storing tools in a dry container helps.
+- Permits and rules: local zoning, setbacks and HOA rules may limit shed size and placement; check before buying.
+- Snow load: flat or low-pitch roofs on small sheds may not carry heavy snow; brush it off.
+- Weight capacity: shelving is usually not included; do not store very heavy items on the floor without a base.
+- Rake tines: poly tines flex and do not mark turf; steel tines are stiffer and can scratch; spring-steel tines dig into mulch.
+- Wide rake heads clear more per pass but tire your arms; 22 to 30 inch heads are common for large yards.
+- Handle: fiberglass and aluminum are light; wood is comfortable but can splinter; adjustable heads add convenience but can loosen.
+- Push lawn sweepers pick up leaves into a hopper and need dry leaves and an even lawn.

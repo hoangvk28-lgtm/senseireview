@@ -1,0 +1,18 @@
+# planters (self-watering pots and planters)
+- Self-watering planters hold a water reservoir below the soil and move water up by a cotton wick or a soil column; the plant draws moisture as it needs it.
+- Wick systems use a cotton rope or strip; if the wick dries out or is blocked, watering stops, so check it when planting.
+- Sub-irrigation reservoirs (nested pots with legs) rely on soil contact with the water or a wick to start.
+- They suit moisture-loving plants such as herbs, ferns, pothos, African violets and many tropicals; succulents and cacti prefer to dry out and rot in constant moisture.
+- Use a light, airy potting mix; heavy garden soil compacts and wicks poorly or stays soggy.
+- Water from the top for the first weeks to settle the soil and prime the wick, then fill the reservoir.
+- Water-level windows or indicators save guesswork; clear plastic reservoirs can grow algae in bright light.
+- Drainage holes and a saucer or overflow port stop the pot from drowning plants in heavy rain outdoors.
+- Reservoir capacity relative to pot size sets how long you can leave plants; a few days to a couple of weeks is typical for small pots, depending on plant and light.
+- Outdoor reservoirs can attract mosquitoes if left open; keep fill ports covered and flush standing water.
+- Fertilizer salts build up in soil; flush the pot with plain water every few months.
+- Plastic planters (PP, PET, resin) are light and cheap but can fade or crack in strong sun; ceramic is heavier and breaks if dropped.
+- Nested pots can wedge together; lift the inner pot gently to avoid cracking.
+- Clean reservoirs every few months with mild soap or diluted vinegar to remove algae and mineral film.
+- Repot yearly or when roots circle the pot; a root-bound plant drinks faster than the reservoir fills.
+- Large planters with wheels help move heavy pots but add the weight of soil and water.
+- Self-watering reduces watering frequency, not care; light, feeding and pruning still matter.

@@ -1,0 +1,19 @@
+# juicing (cold press / masticating juicers)
+- Masticating (slow) juicers crush produce with an auger at roughly 40 to 80 RPM; centrifugal juicers shred at several thousand RPM. Slow models usually give drier pulp and quieter running.
+- "Cold press" is a marketing term for slow masticating extraction; no listing proves a temperature difference.
+- Feed chute width (about 3 inch narrow, 5.8 to 6.5 inch wide) decides how much chopping you do. Wide chutes save prep but the auger still works through the same produce.
+- Wide-chute self-feeding hoppers hold a batch (listings claim up to about 100 oz) so you can load and walk away.
+- Leafy greens and wheatgrass favor augers; soft fruit can clog or come out as puree if the strainer is coarse.
+- Juice yield claims such as 95 percent are best-case marketing figures; real yield depends on produce, ripeness and prep.
+- Pulp ejection is continuous on most; a sealed pulp bin or a 36 oz pulp container reduces mess.
+- Reverse function clears jams from fibrous celery and ginger.
+- 3-in-1 models add a sorbet strainer and nut milk use; nut milk from these is coarser than from a dedicated nut milk press and needs a nut milk bag for smooth results.
+- Motor ratings: 150 W to 300 W for budget units; low wattage with a high-torque gearbox is normal for slow juicers.
+- Most budget units run short continuous cycles; manuals often advise rest periods after 20 to 30 minutes.
+- Cleaning is the real cost: mesh strainers need a brush right after use or fibers dry in the holes. Mesh-free designs reduce this.
+- Plastic Tritan augers can stain from carrots and beets; soak with baking soda and warm water.
+- Juice oxidizes; drink within a day or keep sealed and full in the fridge for up to about 48 hours.
+- Warranty length is a useful ownership signal; some brands offer many years, most budget brands one to two.
+- Noise claims around 35 to 60 dB are quiet for a kitchen appliance but are measured by the maker.
+- Silicone seals and the juicing screw are the wear parts; keep spare gaskets in mind.
+- Counter footprint is tall; check cabinet clearance.

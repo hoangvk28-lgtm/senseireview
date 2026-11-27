@@ -1,0 +1,18 @@
+# camping-chairs (folding camp chairs)
+- Three families: classic quad chairs (steel frame, cushioned, cup holder), compact backpacking chairs (aluminum, 2 to 3 lb), and rockers or oversized chairs for car camping and sidelines.
+- Frame material: steel is cheap and strong but heavy and can rust at joints; aluminum such as 7075 alloy is lighter and corrosion resistant but costs more.
+- Fabric: 600D polyester or Oxford is the common durable weight; seam stitching and the point where the fabric meets the frame are where chairs fail first.
+- Weight capacity ratings run from about 250 lb on lightweight chairs to 400 and 500 lb on oversized models; they are maker claims, not tested standards.
+- Weight and pack size: 3 to 4 lb steel chairs fit a car trunk; backpacking chairs about 3 lb pack to a bottle size.
+- Seat height: low chairs are stable and light; higher chairs are easier to get out of for older users.
+- Built-in cooler pouches on armrests hold about 4 cans and are thin, so they keep drinks cool only briefly.
+- Cup holders and side pockets help, but mesh holders are small and can tip with large mugs.
+- Rocker chairs use spring or shock absorbers; they work best on firm flat ground and are unstable on sand or slopes.
+- Padded seats feel better short term but trap heat and dry slowly; mesh backs breathe and dry faster.
+- Armrests: solid armrests help getting up; fabric armrests sag.
+- Storage: a carry bag with a strap helps; check the bag is large enough to repack easily.
+- Rust prevention: dry the chair before storing and avoid leaving it in damp sheds.
+- Sun fades and weakens polyester over several seasons; store out of direct sun.
+- Sand and mud wear at hinges and rivets; rinse and dry.
+- Stitching and rivets loosen with time; check them each season.
+- Two-packs reduce cost per chair and suit families.

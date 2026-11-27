@@ -1,0 +1,18 @@
+# jump-starters (portable car jump starters)
+- A portable jump starter is a lithium battery pack with clamps that supplies cranking current to a dead 12 V car battery without a second vehicle.
+- Peak amps (1000 A, 4000 A, 8000 A) are marketing numbers measured for a split second; they do not map to cranking power the way cold cranking amps do, and the 1000 A baseline starts most cars.
+- Engine size ratings matter more: listings say things like up to 6.5 L diesel or 9 L gas; match to your engine, with diesels needing more current.
+- Cold weather lowers lithium battery output; keep the unit charged and inside the cabin in winter if possible.
+- Reverse polarity and spark-proof protection stop sparks if clamps are connected wrongly; look for it on any model you buy.
+- Recheck any lithium jump starter every 3 to 6 months and top it up; a drained unit cannot start anything.
+- Do not leave a jump starter in a hot parked car for long periods; heat shortens lithium battery life and can be a safety risk.
+- Many models double as power banks via USB or USB-C; some support 100 W USB-C charging for laptops.
+- Models with an air compressor add tire inflation but are bulkier and cost more; a separate inflator is often better if you need it often.
+- A flashlight with strobe or SOS modes is standard.
+- A boost or override button can start vehicles whose battery is completely flat, since the unit may not detect a battery below a minimum voltage; read the manual before using it.
+- Clamp cable length varies and short cables can be awkward to reach the battery in some engine bays.
+- Battery capacity in mAh or Wh indicates how many jumps you get; small packs may give a few jumps per charge.
+- Check the vehicle manual for jump-starting hybrids and EVs; some 12 V systems should not be jumped with a standard starter.
+- Use the unit for starting only; avoid long cranking attempts and let it rest between tries.
+- Safety certifications such as UL listing on the lithium pack are worth checking for.
+- Store with the cover closed and clamps seated.

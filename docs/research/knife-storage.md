@@ -1,0 +1,18 @@
+# knife-storage (countertop knife blocks and block sets)
+- Three families: slotted wood blocks that come with knives, universal blocks sold empty, and magnetic blocks that hold blades on a flat face.
+- Universal blocks use horizontal or angled slots or a bed of flexible rods so any knife shape fits; fixed-slot blocks only fit the knives sold with them.
+- Count slots and check slot width and depth: most countertop blocks hold knives up to about 8 inch blade length; long slicers and bread knives may not fit.
+- Horizontal slots let the blade rest on its spine and are kinder to edges than vertical slots where the edge drags on the way in.
+- Built-in sharpeners in a slot grind a little steel each time a knife is drawn; convenient but they wear blades faster and sharpen coarsely; use them sparingly.
+- Wood blocks can trap moisture; wipe and dry knives before putting them away, and never store them wet.
+- Acacia and bamboo are common block materials; acacia is hard and attractive, bamboo is lightweight and renewable but can scuff.
+- Rubber feet stop a block from sliding; heavier blocks are more stable when drawing knives.
+- Magnetic blocks hold ferrous steel; ceramic and some aluminum knives will not stick; strong magnets can pull a knife into the block, so place the spine first.
+- Double-sided magnetic blocks hold more knives but need clear counter space and must be stable.
+- Footprint matters: a 15 to 25 slot block can take as much counter as a toaster; measure under wall cabinets, as tall blocks may not fit.
+- Knife sets with blocks (6, 15, 17 pieces) bundle steak knives and shears you may never use; a few good knives often serve better than many average ones.
+- Forged versus stamped blades: forged knives are heavier with a bolster; stamped are lighter and cheaper.
+- Dishwasher safe claims shorten knife life; hand washing is kinder to edges and handles.
+- Clean slots with a bottle brush or compressed air every few months to remove crumbs.
+- Keep blocks away from the stove and sink to limit grease and moisture.
+- Position knives spine-first or edge-up depending on the block design to protect edges.

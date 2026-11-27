@@ -27,3 +27,24 @@
 - They split picks by best overall, premium gas spring, budget, large monitors and thin-desk fit.
 - They advise checking desk thickness and clamp type before buying.
 - Gap we cover: gas versus mechanical spring drift, leverage of heavy ultrawides on the clamp, and swivel for portrait use.
+
+## best-budget-laptop-cooling-pads
+- Top guides lead with fan count versus fan size, then noise, then USB pass-through and height adjustment.
+- Picks are split by laptop size (15.6 versus 17 inch) and by gaming versus office use.
+- Common questions: do cooling pads work, do they matter for thin ultrabooks, how loud are they.
+- Missed angle: a pad only helps if the laptop has bottom intake vents; a raised angle alone gives some benefit.
+- Honest tradeoff: many fans do not mean more airflow, and a USB hub passes through a laptop port that can be a limit.
+
+## best-budget-usb-flash-drives
+- Top guides lead with capacity, then read speed and USB generation, then connector type (USB-A, USB-C, dual).
+- Picks are split by speed tier and by use: documents, photos, phone transfers.
+- Common questions: how much capacity do you need, is USB 3.0 worth it, are cheap no-name drives safe.
+- Missed angle: advertised speed is read only, and write speed is slower; counterfeit capacity is a real risk on no-name drives.
+- Honest tradeoff: a flash drive is not a backup; multi-packs suit one-off handoffs.
+
+## best-desk-pads-for-home-offices
+- Top guides lead with surface material (PU leather versus fabric), size and non-slip backing.
+- Picks are split by minimalist leather blotters, large cloth mouse mats and premium desk mats.
+- Common questions: do mice track on leather, what size to buy, how to clean it.
+- Missed angle: some optical mice struggle on glossy leather, rubber backing can mark finishes, and new PU smells.
+- Honest tradeoff: thin pads give little cushioning; leather can peel at the edges after years.

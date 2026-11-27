@@ -112,3 +112,24 @@
 - Good Ideas Rain Wizard, RTS Home Accents and Algreen/Step2 lead lists; flat-back and stand designs recur.
 - Criteria: capacity, spigot, overflow port, screen, UV plastic, food-grade, stand height.
 - Caveat: local rules on rainwater harvesting vary; water is for gardens not drinking.
+
+## best-budget-self-watering-planters
+- Top guides lead with reservoir capacity, water-level indicators and size options, then material and drainage.
+- Picks are split by indoor versus outdoor, small desktop pots versus large floor planters, and herb boxes.
+- Common questions: do they overwater, what plants suit them, how often to refill the reservoir.
+- Missed angle: wick contact and soil choice decide whether it waters evenly; succulents do poorly in constant moisture.
+- Honest tradeoff: transparent reservoirs grow algae and open outdoor reservoirs can breed mosquitoes.
+
+## best-weed-barrier-fabric
+- Top guides lead with woven versus non-woven, ounce weight and where to use it (beds, paths, driveways).
+- Picks are split by planted beds, gravel and paths, and large areas by roll size.
+- Common questions: does it really stop weeds, how long does it last, can you put mulch on top.
+- Missed angle: weeds root in the mulch on top, fabric under planted beds hinders soil life, and UV exposure shortens life.
+- Honest tradeoff: listing dimensions can differ from actual; fabric is best under gravel and paths.
+
+## best-hose-nozzles-for-watering
+- Top guides lead with spray patterns, material (metal versus plastic) and handle style (trigger versus thumb control).
+- Picks are split by general watering, gentle watering for seedlings and heavy-duty cleaning.
+- Common questions: metal or plastic, how many patterns do I need, why does it leak.
+- Missed angle: leaks usually trace to the rubber washer, and fewer patterns with a good shutoff beat many that stiffen.
+- Honest tradeoff: brass twist nozzles last longest but have no shutoff; plastic ones crack in freezes.

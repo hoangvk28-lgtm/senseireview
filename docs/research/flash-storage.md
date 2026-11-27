@@ -1,0 +1,20 @@
+# flash-storage (USB flash drives and SD cards)
+- Advertised speeds on flash drives and cards are read speeds, usually the best case; sustained write speed is lower and is what matters for copying big files or recording video.
+- USB 3.0 (USB 3.2 Gen 1) drives can read far faster than USB 2.0 drives, but the port, cable and host also limit speed.
+- USB 2.0 drives are cheaper and fine for documents; moving large video files takes much longer.
+- Capacity: a drive shows less than its label because manufacturers count decimal gigabytes and file systems add overhead.
+- FAT32 cannot store a single file over 4 GB; exFAT removes that limit and works on modern Windows and macOS, NTFS suits Windows only.
+- Counterfeit drives report a false size; buy from authorized sellers and test with a capacity checker before filing important data.
+- Flash memory wears with write cycles; a drive is not a backup. Keep a second copy of anything important.
+- Retractable or swivel connectors protect the plug but add moving parts that can wear.
+- Dual USB-C and USB-A drives work on phones, tablets and laptops; the phone must support OTG.
+- Password and encryption software that ships on a drive often runs only on Windows and macOS.
+- Always eject before unplugging to avoid file system corruption.
+- Multi-packs of small drives suit classrooms, giveaways and one-off file handoffs.
+- SD card speed classes: Class 10 is a minimum sustained write; UHS speed classes U1 and U3 guarantee 10 and 30 MB/s; Video Speed Classes V30 guarantees 30 MB/s.
+- SDHC cards are up to 32 GB (FAT32); SDXC cards are above 32 GB and use exFAT; check the camera supports the type.
+- High-bitrate 4K video needs a sustained write guarantee; a fast read speed alone does not ensure no dropped frames.
+- A1 and A2 application classes matter for running apps from a card, not for camera use.
+- Format a card in the camera, not the computer, so the file structure matches what the camera expects.
+- Keep cards in a case; write-protect switches rarely help in cameras and can cause a "card locked" error.
+- Cards fail suddenly; copy files off after a shoot and avoid deleting on the camera.

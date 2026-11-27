@@ -1,0 +1,35 @@
+# fitness-gear (battle ropes, slam balls, boxing gloves)
+- Battle rope: diameter and length set difficulty; 1 in is lighter, 1.5 in is the common gym standard, 2 in is demanding for beginners.
+- Length: 30 ft folded over an anchor gives 15 ft working arms; 40 and 50 ft ropes need more room and more arm effort.
+- Material: polyester (dacron) resists fraying outdoors; nylon or poly-blend ropes absorb water; cloth sleeves reduce rope burn and wear at the ends.
+- Anchor: a strap or a post is required; a rope looped around a sturdy post, tree or heavy stand works, but a rope sliding on a sharp edge frays.
+- Ropeless (cordless) battle ropes use weighted handles on a cable and fit small spaces but give a different feel.
+- Rope wears at the ground contact point; use a mat or grass, not rough concrete, and flip the rope end for end.
+- Slam ball: dead-weight ball with sand or similar fill that does not bounce; tough shell resists splitting; grip texture matters when hands are sweaty.
+- Weight choice: 10 to 20 lb is typical for general conditioning; heavier balls are for power work and larger people.
+- Slam balls split at the seam when thrown on rough concrete; use a rubber floor.
+- Boxing gloves: ounce weight is a size and padding class; 12 oz suits lighter bag work, 14 to 16 oz is the usual beginner and sparring class.
+- Glove fit: wrist closure (hook and loop vs lace), thumb attachment and palm padding matter for knuckle and wrist protection.
+- Hand wraps go under gloves; gloves are not a substitute for wraps.
+- Leather versus synthetic: synthetic is cheaper and easier to wipe; leather lasts longer but costs more and needs care.
+- Gloves should dry open and be deodorized; sweat breaks down padding and the lining.
+- Compression socks: graduated compression, mmHg values, 15 to 20 mmHg is a common mild level; fit by calf circumference matters.
+- Massager: shiatsu nodes rotate; heat, strap, and intensity levels; do not use on swollen or injured areas.
+
+# punching bags (added round 10)
+- A hanging heavy bag typically weighs 70 to 100 lb; a common rule of thumb is about half your body weight so it swings but does not fly.
+- Fill matters: compacted cloth or fabric fill keeps an even density; sand-filled bags can settle and form a hard spot at the bottom unless packed with fiber.
+- Covers: synthetic leather (vinyl or PU) is cheap and wipes clean; real leather costs more and lasts longer; seams and the strap attachment points are where bags fail.
+- Cold garages stiffen vinyl and make bags feel hard and brittle; temperatures near freezing increase the chance of splits.
+- Mounting: the support must hold the bag's weight plus the dynamic load of punches; a 100 lb bag in motion exerts well above 100 lb on the beam. Use a rated wood beam hanger or ceiling mount bolted into a joist or beam, not drywall.
+- Joists must be solid; check spacing and span; do not hang from a garage door track or truss without checking the rating.
+- Hang height: the bag's bottom should sit a few inches to a foot above the floor, giving room to swing; leave several feet of clearance around the bag.
+- Swivel and chain mounts reduce twisting; dual straps give a quieter, more stable hang.
+- Freestanding bags use a base filled with water or sand and often suction cups; they suit renters and low ceilings but are less like a heavy bag for kicks and power.
+- A freestanding base must be filled to its marked level; water leaks if the plug is loose, and the base can slide on dusty concrete.
+- Gloves: 12 oz is a light bag class; heavier bags need 14 to 16 oz gloves and hand wraps to protect wrists.
+- Concrete floors are hard on feet; use a rubber mat or shoes with grip; a mat also protects the floor if a bag drops.
+- Noise carries through the structure; a bag hung from a shared wall can annoy neighbors.
+- Inspect straps, chains and stitching monthly, and rotate the bag so it wears evenly.
+- Start with basic punches; kicks on a lighter freestanding bag can tip it.
+- Do not hang a bag from a ceiling fan box or a single screw eye.

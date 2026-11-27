@@ -35,3 +35,10 @@
 - They split picks by best overall, budget, compact, backpacking and RV.
 - They advise checking CPAP wattage and matching Wh to the loads you plan to run.
 - Gap we cover: runtime math with inverter losses, surge versus continuous watts, idle draw, and why heaters are poor camp loads.
+
+## best-usb-c-cables-for-fast-charging
+- Top guides lead with wattage rating (60 W, 100 W, 240 W), then data speed, then durability and length.
+- Picks are split by phone, laptop and travel cables, and by USB-C to C versus A to C.
+- Common questions: does a 240 W cable charge a phone faster, why is my cable slow, what is an e-marker.
+- Missed angle: the charger sets the limit, many cables are USB 2.0 data only, and bend-life claims are not comparable.
+- Honest tradeoff: high-wattage cables cost more and most devices never use that power.

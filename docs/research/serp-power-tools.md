@@ -44,3 +44,10 @@
 - Makita 9403, DeWalt, Metabo HPT and WEN lead lists; 3x21 and 4x24 belt sizes; Skil is the entry corded pick.
 - Criteria: motor amps, belt size, variable speed, dust bag, belt tracking, tool weight.
 - Caveat: belt sanders remove material fast; cordless models need battery bought separately.
+
+## best-budget-cordless-screwdrivers
+- Top guides lead with torque and clutch settings, battery capacity and charging, and bit set value.
+- Picks are split by furniture assembly, electronics and general household tasks.
+- Common questions: electric screwdriver versus drill, how many screws per charge, is USB charging worth it.
+- Missed angle: integral batteries are not replaceable, and torque units differ between brands.
+- Honest tradeoff: budget kits bundle many bits of mixed quality; the tool is for light work only.

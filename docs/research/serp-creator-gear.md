@@ -20,3 +20,10 @@
 - They split picks by best overall, 4K, budget, high-end PC and external.
 - They note most people only need 1080p and that high latency causes sync drift.
 - Gap we cover: pass-through versus capture resolution, USB 3.0 bandwidth, HDCP limits on consoles and thermal behavior.
+
+## best-sd-cards-for-cameras
+- Top guides lead with speed class (U1, U3, V30, V60), then UHS-I versus UHS-II, then capacity.
+- Picks are split by 4K video, burst photography, and everyday point and shoot cameras.
+- Common questions: do I need UHS-II, what V30 means, how much capacity, SD versus microSD.
+- Missed angle: advertised read speed is not the write speed that video needs, and a UHS-II card in a UHS-I camera runs at UHS-I speed.
+- Honest tradeoff: bigger cards put more eggs in one basket; format in camera and copy off often.

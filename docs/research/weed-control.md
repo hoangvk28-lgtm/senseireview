@@ -14,3 +14,20 @@
 - Store the tank upright, outdoors or in a ventilated space; check hose connections with soapy water for leaks.
 - CSA or UL listed regulators and hoses are a safety sign; unbranded kits vary.
 - Year three: hose cracking, igniter failure, regulator leaks and corroded fittings.
+
+# landscape fabric (weed barrier fabric) (added round 10)
+- Landscape fabric is a woven or non-woven polypropylene sheet laid over soil to block light and suppress weeds while letting water and air pass.
+- Weight in ounces per square yard (2.4, 3.2, 3.5, 5 oz) tells you thickness and strength; thin 2 oz sheets tear and are for light-duty beds, 3 to 3.5 oz suits most home beds and 5 oz is for paths, driveways and heavy use.
+- Woven fabric looks like a mesh of tapes, passes water well, and tends to fray at cut edges; non-woven felt-like fabric is denser and may resist weeds better but passes water slower.
+- Fabric works best under gravel, stone, wood chip paths and driveways where nothing is meant to grow; it is a poor fit for planted beds where roots and soil life need to spread.
+- Weeds root in the mulch that builds up on top of fabric over time, so a fabric bed still needs weeding; seeds blow in and sprout in the mulch layer.
+- Perennial weeds with strong rhizomes can push through or under fabric, so remove them before laying it.
+- UV breaks down polypropylene; cover the fabric with at least 2 to 3 inches of mulch or gravel, and note that bare, exposed fabric degrades quickly.
+- Lay it on level, weed-free, raked soil; overlap seams by about 6 to 12 inches and secure with landscape staples every 1 to 2 feet.
+- Cut X slits for plants rather than large holes, and fold the edges down to reduce fraying.
+- Guide lines printed on some fabrics help with spacing plants.
+- Roll sizes matter: 3 to 4 ft widths suit beds, 6 ft or more suit large areas; check actual dimensions as listings can vary.
+- Avoid placing fabric under vegetable gardens long term, as it blocks organic matter from reaching soil and complicates replanting.
+- Fabric can slow water in clay soils and cause pooling; choose a permeable woven type and keep the soil slightly sloped.
+- Over several years, soil and debris build up on top and fabric can clog; plan to replace it rather than expect it to last for ever.
+- Wear gloves and cut with sharp scissors or a utility knife; heavy rolls are awkward to carry and unroll.

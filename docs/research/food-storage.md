@@ -14,3 +14,20 @@
 - Stackable nesting lids save fridge space; matching one lid size across the set avoids a lid drawer mess.
 - Microwave: vent the lid or crack a corner to avoid pressure and steam burns.
 - Year three: cloudy, stained or warped plastic, cracked glass edges and lids that no longer snap; replace lids individually if the maker sells them.
+
+# freezer containers (added round 10)
+- Liquids expand about 10 percent when frozen; leave roughly half an inch to an inch of headspace in soup containers.
+- Polypropylene (number 5) copes with freezer temperatures better than polystyrene (number 6), which turns brittle and can crack when cold; thin deli tubs are meant for short-term use.
+- Twist-top lids on deli-style tubs seal better against leaks than push-on lids but the threads can crack with repeated freezing.
+- Freeze soups and sauces flat or in portion molds, then store the frozen blocks in bags or stacked containers to save space.
+- Silicone freezer trays with lids make 1 or 2 cup soup blocks that pop out when frozen; silicone is flexible and handles freezer cold, but stains and holds odors from tomato or curry.
+- Cool food in the fridge before freezing; hot food raises the freezer temperature and creates ice crystals and condensation.
+- Label with the date and contents; frozen food stays safe indefinitely at 0 F but quality drops over months.
+- Thaw in the fridge overnight, not on the counter; reheat to steaming.
+- Microwave-safe lids may warp with freezer-to-microwave temperature jumps; vent them and defrost on a lower setting.
+- Glass can crack with sudden temperature change; borosilicate handles it better, but thaw glass in the fridge first.
+- Stackable square containers use freezer space better than round ones.
+- Clear containers show contents; dark ones hide freezer burn.
+- Freezer burn is dehydration from air; fill containers well and press out air.
+- Lids lose seal over time; replace lids individually when the maker sells them.
+- Dishwasher heat warps thin plastic; hand wash or use the top rack.

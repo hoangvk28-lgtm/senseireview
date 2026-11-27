@@ -1,0 +1,14 @@
+# headlamps (rechargeable)
+- Lumens listed on budget headlamps are often peak or burst numbers; sustained output after a few minutes is lower, and 1,000 plus lumen claims on small cells are rarely held.
+- FL1 standard (ANSI/PLATO FL 1) defines lumens, beam distance, runtime and impact resistance; many budget listings do not follow it.
+- Battery: built-in lithium-ion packs in mAh; larger mAh gives longer runtime but a heavier lamp; 18650 packs are common in bigger headlamps.
+- Charging: USB-C is more convenient than micro-USB; charging indicator and low-battery warning matter.
+- Beam: wide flood for close work and walking, spot for distance; some lamps combine with a switch or zoom.
+- Motion sensor wave switch lets you turn the lamp on and off hands-free, but can trigger by accident in a pack.
+- IPX4 handles splashes; IPX6 handles heavy water; IPX8 submersion; check that the charging port is covered.
+- Red light preserves night vision; a strobe or SOS mode is a safety extra.
+- Tilting head and an adjustable band matter for comfort; weight forward on the forehead causes headaches.
+- Lock mode prevents accidental activation in a bag; battery drain from accidental switching is a common complaint.
+- Cells degrade after a few hundred cycles; do not store fully drained.
+- Cold weather shortens runtime.
+- Keep the charging port cover closed and clean the contacts.

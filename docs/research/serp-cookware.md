@@ -37,3 +37,17 @@
 - They split picks by best overall, high sides, budget pre-seasoned and rust-resistant nitrided.
 - They note some pans need re-seasoning for months and one maker had batch recalls.
 - Gap we cover: seasoning versus wash habits, usable cooking surface versus listed diameter, nitrided versus bare finishes.
+
+## best-budget-carbon-steel-pans
+- Top guides split picks by French-style (de Buyer, Matfer) versus lower-cost American and import pans, and call out pre-seasoned versus bare.
+- They lead with weight, heat response and handle comfort, then seasoning effort.
+- Common questions: carbon steel versus cast iron, how to season, is it nonstick, can it go on induction.
+- Missed angle: a bare pan with beeswax needs a first-night wash and season, whereas pre-seasoned pans still build patina over weeks.
+- Honest tradeoff: thinner pans warp on high heat and handles can get very hot.
+
+## best-knife-blocks-for-countertops
+- Top guides lead with universal versus fixed-slot blocks, magnetic versus slotted, and block size.
+- Picks are split by small counters, large collections and bundled knife sets.
+- Common questions: do blocks dull knives, universal versus magnetic, can long knives fit.
+- Missed angle: built-in sharpeners wear edges, and moisture in wood slots matters; measure under cabinets.
+- Honest tradeoff: bundled sets pad count with knives you may not use; magnetic blocks do not hold ceramic.

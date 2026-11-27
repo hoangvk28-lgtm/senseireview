@@ -30,3 +30,10 @@
 - They split picks by premium countertop, budget, Nespresso-style and non-dairy.
 - They note low-protein or flavored milk froths poorly.
 - Gap we cover: protein content and non-dairy limits, jug capacity min and max lines, cleaning the whisk and dishwasher claims.
+
+## best-automatic-milk-frothers-under-50
+- Top guides lead with hot versus cold foam modes, capacity, and whether the jug is non-stick or stainless.
+- Picks are split by heat-and-froth jugs versus handheld wands, and by single cup versus family size.
+- Common questions: does it froth plant milk, how hot does it get, is it dishwasher safe.
+- Missed angle: froth capacity is half of heating capacity; heating limit is around 150 F.
+- Honest tradeoff: non-stick interiors wear and plant milks froth less well.

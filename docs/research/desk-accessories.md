@@ -14,3 +14,20 @@
 - Cable boxes hide power strips; ventilation slots and cable entry size decide fit, enclosed strips can run warm.
 - Phone tripods: leg lock type, max load and phone clamp width decide stability; remotes use Bluetooth shutter.
 - Graphics tablets for beginners: active area, pressure levels (8192 is common), and pen battery-free design.
+
+# desk pads and mouse mats (added round 10)
+- A desk pad is a large mat that covers the work area under keyboard and mouse; it protects the desk from scratches and spills, quiets typing and gives a consistent mouse surface.
+- Two main surfaces: PU leather (synthetic) is smooth, wipeable and waterproof; cloth micro-weave gives more control for a mouse and often has stitched edges and a rubber base.
+- Some optical mice track poorly on glossy leather surfaces; a matte fabric surface is the safer pick if you use a mouse with a basic sensor.
+- Backing matters: suede or rubber backing grips the desk and stops sliding; some rubber backings can leave marks on delicate wood finishes.
+- Sizes: about 23.6 x 13.7 inch fits a keyboard and mouse; 31.5 x 15.7 inch adds room for a phone and a drink; 36 x 17 inch or 36.6 x 15.7 inch covers a full-width setup.
+- Stitched edges stop fabric pads from fraying; leather pads can peel at the edge over several years of hard use.
+- New PU leather can have a chemical odor for a few days; air it out before putting it on the desk.
+- Heat from a laptop or hot mug can mark PU leather; use a coaster.
+- Cleaning: wipe leather with a damp cloth; cloth pads can be hand washed with mild soap and air dried flat, and should not go in a dryer.
+- Dual-sided pads let you flip the pad when one face wears.
+- Pad thickness affects keyboard feel: thin pads feel firm, thicker pads soften typing and give wrist support.
+- Edge curl: pads shipped rolled can curl; lay them flat under a book for a day or two.
+- Cord management and wireless charging pads add features but also failure points and cost.
+- Spill-proof coatings repel liquids briefly; still wipe spills quickly.
+- Keep the pad clean of dust and skin oils so mouse sensors track well.

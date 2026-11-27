@@ -1,0 +1,592 @@
+{
+ "guideSlug": "best-nas-drives-for-home-media",
+ "categorySlug": "tech-electronics",
+ "mainKeyword": "nas drive home media",
+ "guideTitle": "Best NAS Drives for Home Media (2026)",
+ "metaTitle": "Best NAS Drives for Home Media",
+ "metaDescription": "NAS drives for home media compared on bay count, included disks, streaming and transcoding ability, and network speed, so movies and photos stay in one place.",
+ "lastUpdated": "2026-11-21",
+ "readTime": "13 min",
+ "expertTake": "The UGREEN DXP2800 is the best overall pick because it is a true two-bay media server that you populate with your own disks and expand later, and the Buffalo LinkStation 220 is the value pick for people who want disks included and a simple setup. Anyone who treats a NAS as their only copy of photos should plan a second backup and may be better served by a plain external drive and a cloud backup.",
+ "introParagraphs": [
+  "A network attached storage box is a small computer with one or more disk bays that serves files, photos and video to every device on your network. For home media the questions are how many bays you need, whether the box can handle video transcoding and whether disks come included.",
+  "This guide focuses on home media use and is honest about the limits. We evaluated each model from published specifications and patterns in owner feedback, with attention to bay count, processor class, network speed and year-three disk and software reliability. A NAS with disk redundancy protects against one drive failing. It is not a backup, so a second copy somewhere else still matters."
+ ],
+ "products": [
+  {
+   "id": "B0D22HBFK1",
+   "badge": "Best Overall",
+   "name": "UGREEN DXP2800 2-bay NAS home media server, diskless",
+   "specs": [
+    "2 bays",
+    "Media server",
+    "Diskless",
+    "Share and stream"
+   ],
+   "specList": [
+    {
+     "label": "Bays",
+     "value": "2"
+    },
+    {
+     "label": "Kit",
+     "value": "Diskless, bring your own drives"
+    },
+    {
+     "label": "Use",
+     "value": "Media streaming and file sharing"
+    },
+    {
+     "label": "Software",
+     "value": "Vendor NAS operating system"
+    },
+    {
+     "label": "Audience",
+     "value": "Home and creators"
+    }
+   ],
+   "description": "The UGREEN DXP2800 is a two-bay home media server sold without disks. The design approach is a compact box that runs a vendor operating system with media apps, file sharing and photo backup, and lets you choose the drives you want. For a home with a movie library and family photos, two bays is the sensible starting point.\n\nCompared with the larger UGREEN DXP4800 GT, the DXP2800 is smaller and cheaper but has less room to grow. Compared with the Buffalo LinkStation units, it is more capable as a media server, but you must buy disks separately. It suits people who want to build a proper media server on a budget.\n\nOwnership is about disks and backups. Choose NAS-rated drives, set up mirrored storage for protection and keep an offsite copy of what you cannot replace. Update the operating system on a schedule and keep the vents clear of dust. A second drive of the same size makes mirroring simple, and buying two different batches of disks reduces the chance that both fail at once.",
+   "bestFor": "Households that want a flexible two-bay media server.",
+   "pros": [
+    "Two bays suit mirrored storage for a media library",
+    "Diskless design lets you choose your own drives",
+    "Media server apps handle streaming to TVs and phones",
+    "Compact body fits on a shelf"
+   ],
+   "cons": [
+    "You must buy disks separately",
+    "Vendor software is newer than the long-established rivals"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0D22HBFK1?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/311aAabpOYL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0GTZC19FX",
+   "badge": "Best 4-Bay Growth",
+   "name": "UGREEN DXP4800 GT 4-bay NAS for media servers and creators",
+   "specs": [
+    "4 bays",
+    "Media server",
+    "Diskless",
+    "Expandable"
+   ],
+   "specList": [
+    {
+     "label": "Bays",
+     "value": "4"
+    },
+    {
+     "label": "Kit",
+     "value": "Diskless"
+    },
+    {
+     "label": "Use",
+     "value": "Media, creators, office"
+    },
+    {
+     "label": "Software",
+     "value": "Vendor NAS operating system"
+    },
+    {
+     "label": "Audience",
+     "value": "Large libraries"
+    }
+   ],
+   "description": "The UGREEN DXP4800 GT is a four-bay NAS aimed at larger libraries and creators. The design approach gives you room for four disks, which allows more capacity or protection levels such as RAID 5. For a family with a growing video collection, extra bays mean you will not outgrow it quickly.\n\nCompared with the DXP2800, the GT offers more bays and more capacity but costs more and takes more space. Compared with the Asustor, it is a bigger machine with newer branding. It suits households with a lot of video or those who want to add storage over time.\n\nOwnership requires a plan for disks and backups. Buy NAS-rated drives, consider a protection level that fits your capacity and keep an offsite copy. A four-bay box draws more power and makes more noise, so place it where you will not mind the hum. Plan for a UPS or at least a surge protector too, since a power cut during a write is a common cause of array trouble.",
+   "bestFor": "Large libraries and households that expect to grow.",
+   "pros": [
+    "Four bays allow more capacity and protection options",
+    "Room to expand without replacing the box",
+    "Media server apps support streaming and sharing",
+    "Diskless design lets you choose your drives"
+   ],
+   "cons": [
+    "More expensive than a two-bay box",
+    "Draws more power and takes more space"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0GTZC19FX?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41Ijkod0uZL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0FTFSGBB1",
+   "badge": "Best Established Brand",
+   "name": "Asustor Drivestor 2 Gen 2 AS1202T 2-bay NAS for home users",
+   "specs": [
+    "2 bays",
+    "Photo backup",
+    "Home users",
+    "Diskless"
+   ],
+   "specList": [
+    {
+     "label": "Bays",
+     "value": "2"
+    },
+    {
+     "label": "Kit",
+     "value": "Diskless"
+    },
+    {
+     "label": "Use",
+     "value": "Personal home storage"
+    },
+    {
+     "label": "Software",
+     "value": "ADM operating system"
+    },
+    {
+     "label": "Audience",
+     "value": "Beginners"
+    }
+   ],
+   "description": "The Asustor Drivestor 2 Gen 2 is a two-bay NAS aimed at home users who want photo backup and file sharing. The design approach is simple hardware with a mature operating system known for ease of use. It does not try to be a heavy media server, but it covers the essentials.\n\nCompared with the UGREEN DXP2800, the Asustor has a longer software record but less media muscle. Compared with the Buffalo LinkStation 220, it is diskless, so you choose your own drives. It suits users who want a reliable, easy-to-use box for photos and files.\n\nOwnership is about drives and updates. Choose NAS-rated drives, set up mirrored storage and apply operating system updates. Keep the box ventilated and back up important data elsewhere. Its app store is smaller than some rivals, but the core jobs of file sharing, backup and photo albums are handled cleanly.",
+   "bestFor": "Beginners who want an easy NAS for photos and files.",
+   "pros": [
+    "Mature operating system is easy to learn",
+    "Two bays suit mirrored storage",
+    "Photo backup features work well for families",
+    "Established brand with a long track record"
+   ],
+   "cons": [
+    "Less media transcoding power than a dedicated media server",
+    "Diskless, so you must buy drives"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0FTFSGBB1?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/319qh9SJhIL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B00JY4QD4A",
+   "badge": "Best Value With Disks",
+   "name": "Buffalo LinkStation 220 4TB 2-bay NAS with included drives",
+   "specs": [
+    "2 bays",
+    "4TB included",
+    "Drives included",
+    "Simple setup"
+   ],
+   "specList": [
+    {
+     "label": "Bays",
+     "value": "2"
+    },
+    {
+     "label": "Capacity",
+     "value": "4 TB included"
+    },
+    {
+     "label": "Kit",
+     "value": "Drives included"
+    },
+    {
+     "label": "Protection",
+     "value": "Mirror or stripe"
+    },
+    {
+     "label": "Use",
+     "value": "Home file storage"
+    }
+   ],
+   "description": "The Buffalo LinkStation 220 is a two-bay NAS that ships with 4 TB of disks installed. The design approach is to make setup simple, so you plug it in, connect to the network and start copying files. For a first NAS, that simplicity is the main attraction.\n\nCompared with the LinkStation 210, the 220 has two bays, so you can mirror drives for protection. Compared with the UGREEN DXP2800, it is less capable as a media server and has older hardware. It suits people who want a plug-and-play box for photos and files.\n\nOwnership requires attention to protection and backups. Set the box to mirror mode if you want redundancy, keep firmware updated and keep an offsite copy. Disks are included but not easily upgraded, so plan for the capacity you need. Because the disks are fixed to the model, a failed drive means a warranty claim rather than a quick swap from a spare.",
+   "bestFor": "First-time buyers who want a plug-and-play NAS.",
+   "pros": [
+    "Drives are included, so setup is simple",
+    "Two bays allow mirrored protection",
+    "Established brand with a long NAS track record",
+    "Lower price than building your own"
+   ],
+   "cons": [
+    "Older hardware limits media transcoding",
+    "Included disks are less flexible than a diskless box"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B00JY4QD4A?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/316ECGKsdML._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B08V5L1X1C",
+   "badge": "Best Private Cloud",
+   "name": "Buffalo LinkStation 720 8TB 2-bay home office private cloud",
+   "specs": [
+    "2 bays",
+    "8TB included",
+    "Private cloud",
+    "Home office"
+   ],
+   "specList": [
+    {
+     "label": "Bays",
+     "value": "2"
+    },
+    {
+     "label": "Capacity",
+     "value": "8 TB included"
+    },
+    {
+     "label": "Kit",
+     "value": "Drives included"
+    },
+    {
+     "label": "Use",
+     "value": "Private cloud storage"
+    },
+    {
+     "label": "Audience",
+     "value": "Home office"
+    }
+   ],
+   "description": "The Buffalo LinkStation 720 is a two-bay NAS with 8 TB included, pitched as a private cloud for a home office. The design approach adds remote access features and more capacity than the 220. It suits households with larger media libraries that still want a simple setup.\n\nCompared with the LinkStation 220, the 720 has more capacity and a more capable platform, but it costs more. Compared with the UGREEN DXP2800, it is easier to set up but less flexible. It suits users who want remote access to files and a large pool of storage out of the box.\n\nOwnership requires thought about protection and security. Use mirror mode if you want redundancy, keep firmware updated and use strong passwords for remote access. Keep an offsite copy of important data. Remote access means exposing a device to the internet, so turn on the maker's two-step sign-in and keep the firmware current.",
+   "bestFor": "Home offices that want remote access and large included storage.",
+   "pros": [
+    "8 TB included gives plenty of room for media",
+    "Two bays allow mirrored protection",
+    "Private cloud features support remote access",
+    "Simple setup for non-technical users"
+   ],
+   "cons": [
+    "Costs more than the entry-level LinkStation",
+    "Less flexible than a diskless media server"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B08V5L1X1C?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31sl9NJEMFL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B00JKM0ES2",
+   "badge": "Best Single-Bay Entry",
+   "name": "Buffalo LinkStation 210 4TB 1-bay NAS with included drive",
+   "specs": [
+    "1 bay",
+    "4TB included",
+    "Drive included",
+    "Entry NAS"
+   ],
+   "specList": [
+    {
+     "label": "Bays",
+     "value": "1"
+    },
+    {
+     "label": "Capacity",
+     "value": "4 TB included"
+    },
+    {
+     "label": "Kit",
+     "value": "Drive included"
+    },
+    {
+     "label": "Protection",
+     "value": "None, single drive"
+    },
+    {
+     "label": "Use",
+     "value": "Basic file sharing"
+    }
+   ],
+   "description": "The Buffalo LinkStation 210 is a single-bay NAS with a 4 TB drive included. The design approach is the simplest possible NAS: one drive, no redundancy and a basic interface. It is a low-cost way to share files and stream basic media around the house.\n\nCompared with the LinkStation 220, the 210 has one bay and no protection against drive failure. Compared with the UGREEN DXP2800, it is far simpler and less capable. It suits users who want to try a NAS cheaply and already have a backup plan.\n\nOwnership requires a backup plan. A single drive means a drive failure loses the data, so copy important files elsewhere. Keep firmware updated and avoid using it as your only copy. Treat it as a convenience copy, and use a second drive or a cloud service for anything irreplaceable.",
+   "bestFor": "Cheap trials and secondary shared storage.",
+   "pros": [
+    "Lowest cost way to try a NAS",
+    "Drive is included and set up quickly",
+    "Simple interface suits beginners",
+    "Compact body fits anywhere"
+   ],
+   "cons": [
+    "Single bay offers no protection against drive failure",
+    "Limited media features compared with newer boxes"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B00JKM0ES2?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31gLzyv-GtL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Bay count and growth",
+   "explanation": "Two bays allow mirrored storage, which protects against one drive failing, while four bays allow more capacity and levels like RAID 5. A single bay offers no redundancy. The UGREEN DXP4800 GT offers four bays, the DXP2800 and Asustor offer two, and the LinkStation 210 offers one. Pick the bay count you can grow into, since you cannot add bays later. As a guide, two bays with mirrored disks suit most families, and four bays make sense only once a library passes what two large disks can hold."
+  },
+  {
+   "criterion": "Disks included or diskless",
+   "explanation": "Buffalo LinkStations ship with drives, which simplifies setup. Diskless boxes like the UGREEN and Asustor let you choose NAS-rated drives and capacity. Diskless costs more upfront but is more flexible. Included drives may be harder to upgrade."
+  },
+  {
+   "criterion": "Processor and transcoding",
+   "explanation": "Streaming to a TV on the same network usually needs little processing. Transcoding video for phones or remote viewing needs a stronger processor. Check whether the box supports hardware transcoding if you stream away from home. Older boxes like the LinkStation struggle with it. A device with a slower processor can still play a movie to a TV that supports the file format directly, which is called direct play and needs almost no processing."
+  },
+  {
+   "criterion": "Network speed",
+   "explanation": "A gigabit port tops out around 110 megabytes per second in practice. Faster ports, such as 2.5 gigabit, help only if your network supports them. For streaming movies, gigabit is plenty. Wi-Fi often becomes the bottleneck. Cheap switches and long thin cables can also cap speed, so check the whole path from the NAS to the TV rather than just the NAS."
+  },
+  {
+   "criterion": "Software and apps",
+   "explanation": "Operating system quality decides how easy the box is to use. Mature systems like Asustor ADM are easy to learn, while newer systems add features. Check for photo backup, media server apps and remote access. Poor software makes good hardware frustrating."
+  },
+  {
+   "criterion": "Protection and backups",
+   "explanation": "Mirroring protects against one drive failing but not against deletion, malware or fire. Keep a second copy offsite or in the cloud. A NAS is a convenience, not a backup. Plan for both. The 3-2-1 rule is a good habit: three copies, on two kinds of storage, with one off site."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Bays",
+   "meaning": "The number of drive slots. More bays allow more capacity and protection options.",
+   "watchFor": "The UGREEN DXP4800 GT has four, the DXP2800 two and the LinkStation 210 one. The UGREEN DXP4800 GT has four, the DXP2800 two and the LinkStation 210 one, and you cannot add bays later."
+  },
+  {
+   "spec": "RAID 1 (mirror)",
+   "meaning": "Two drives hold the same data, so one can fail without data loss. It halves usable capacity.",
+   "watchFor": "Two-bay boxes like the DXP2800 and LinkStation 220 support it."
+  },
+  {
+   "spec": "Diskless",
+   "meaning": "A NAS sold without drives. You choose and install the disks yourself.",
+   "watchFor": "The UGREEN and Asustor models are diskless, so budget for drives."
+  },
+  {
+   "spec": "Transcoding",
+   "meaning": "Converting video to a format a device can play. It needs processing power.",
+   "watchFor": "Check whether the box supports hardware transcoding if you stream remotely."
+  },
+  {
+   "spec": "NAS-rated drive",
+   "meaning": "A hard drive built for constant use and vibration in multi-bay boxes. It is tuned for reliability.",
+   "watchFor": "Do not use desktop drives in a multi-bay NAS for years of 24 hour use."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Bays and growth",
+   "description": "We compared bay counts and what they allow. The UGREEN DXP4800 GT offers the most room, while the LinkStation 210 offers the least. We matched bay counts to typical library sizes."
+  },
+  {
+   "title": "Media capability",
+   "description": "We looked at processors and media apps. The UGREEN boxes lean toward media, while the Buffalo boxes lean toward file storage. Transcoding support was a key factor."
+  },
+  {
+   "title": "Setup and software",
+   "description": "We read owner feedback on setup and software quality. The LinkStations are simple, the Asustor is mature and the UGREEN is newer. Ease of use was weighted for non-technical buyers."
+  },
+  {
+   "title": "Protection and backups",
+   "description": "We considered redundancy options and what owners say about reliability. Mirrored two-bay boxes beat single-bay units. We stressed that a NAS is not a backup."
+  },
+  {
+   "title": "Value in context",
+   "description": "We placed each box in the home range and asked what it gives up. The LinkStation 220 is the value pick, the DXP2800 is the best balance and the DXP4800 GT is the growth pick. Warranty terms were a tiebreaker."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Library Size",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Small library and photos",
+      "Buffalo LinkStation 220",
+      "Included disks and simple setup"
+     ],
+     [
+      "Medium movie collection",
+      "UGREEN DXP2800",
+      "Two bays and media apps"
+     ],
+     [
+      "Large or growing library",
+      "UGREEN DXP4800 GT",
+      "Four bays for more capacity"
+     ],
+     [
+      "Large included storage",
+      "Buffalo LinkStation 720",
+      "8 TB out of the box"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest cost trial",
+      "Buffalo LinkStation 210",
+      "Single bay with a drive included"
+     ],
+     [
+      "Best value with disks",
+      "Buffalo LinkStation 220",
+      "Two bays and 4 TB included"
+     ],
+     [
+      "Best balance",
+      "UGREEN DXP2800",
+      "Diskless media server"
+     ],
+     [
+      "Spend for growth",
+      "UGREEN DXP4800 GT",
+      "Four bays and room to expand"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Included Disks vs Diskless",
+   "cards": [
+    {
+     "label": "Disks included",
+     "text": "The Buffalo LinkStations ship ready to use. They are simple but less flexible and harder to upgrade."
+    },
+    {
+     "label": "Diskless",
+     "text": "The UGREEN and Asustor boxes need drives. They cost more upfront but let you choose NAS-rated disks and capacity."
+    }
+   ],
+   "note": "Choose included disks for simplicity and diskless for flexibility and long-term upgrades."
+  },
+  {
+   "subheading": "Media and Streaming Needs",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "TV streaming at home",
+      "Any two-bay box",
+      "Little processing is needed"
+     ],
+     [
+      "Streaming away from home",
+      "UGREEN DXP2800 or DXP4800 GT",
+      "Stronger media platform"
+     ],
+     [
+      "Photo backup for the family",
+      "Asustor Drivestor 2",
+      "Mature software and apps"
+     ],
+     [
+      "Remote file access",
+      "Buffalo LinkStation 720",
+      "Private cloud features"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Home Media Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "At least two bays, NAS-rated drives, a media server app, a gigabit port and a plan for backups."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The UGREEN DXP2800 is the all-rounder, the DXP4800 GT is the growth pick and the LinkStation 220 is the simple pick."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You have a large library, stream away from home or want room to grow. The UGREEN boxes are built for that."
+    },
+    {
+     "label": "Save if",
+     "text": "You want basic file sharing and photo storage. The LinkStation 210 or 220 is enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Update the operating system",
+   "interval": "Every few months",
+   "why": "Updates fix security issues and improve stability. Check the release notes first. Updates fix security issues and improve stability. Check the release notes first, and avoid updating in the middle of a large copy or a backup run."
+  },
+  {
+   "task": "Check drive health",
+   "interval": "Monthly",
+   "why": "SMART status shows early signs of failure. Replace failing drives before data is at risk."
+  },
+  {
+   "task": "Run a data scrub or parity check",
+   "interval": "Quarterly",
+   "why": "Scrubs find and fix silent errors. They keep mirrored data consistent."
+  },
+  {
+   "task": "Dust the vents",
+   "interval": "Every few months",
+   "why": "Dust traps heat and shortens drive life. A brush or vacuum keeps airflow clear."
+  },
+  {
+   "task": "Test your backups",
+   "interval": "Every few months",
+   "why": "A backup you have not restored is a guess. A quick test confirms it works."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Do I need a NAS for home media?",
+   "a": "Not always. A USB drive on a router or a streaming box may be enough. A NAS helps if many devices share a library or you want photo backup and remote access. If you only watch downloaded movies on one TV, a USB drive may be the cheaper and simpler answer."
+  },
+  {
+   "q": "How much should a home NAS cost?",
+   "a": "Prices move, so check the current listing. Single-bay units with a drive are cheapest, two-bay boxes cost more and four-bay media servers sit near the top. Remember to budget for drives if the box is diskless."
+  },
+  {
+   "q": "Is RAID a backup?",
+   "a": "No. RAID protects against a drive failing but not against deletion, malware or fire. Keep a second copy offsite or in the cloud. A mirrored pair also copies mistakes instantly, so a deleted folder disappears from both drives at once."
+  },
+  {
+   "q": "What drives should I buy for a NAS?",
+   "a": "Choose drives rated for NAS use, which are built for constant operation and vibration. Desktop drives may fail sooner in multi-bay boxes. Matching the capacity and speed of both drives in a pair keeps performance steady."
+  },
+  {
+   "q": "Can a NAS transcode video?",
+   "a": "Some can, if the processor and software support it. Older boxes struggle. Check the specifications if you stream to phones or away from home. Remote playback also depends on your home upload speed, which is often much lower than your download speed."
+  },
+  {
+   "q": "Can I use Wi-Fi with a NAS?",
+   "a": "The NAS itself should connect by Ethernet. Your devices can use Wi-Fi, but speeds will vary. For big transfers, use a wired connection."
+  }
+ ],
+ "relatedGuides": [
+  {
+   "title": "SSD vs HDD",
+   "href": "/guide/ssd-vs-hdd"
+  },
+  {
+   "title": "Best Ethernet Switches for Home",
+   "href": "/guide/best-ethernet-switches-for-home"
+  },
+  {
+   "title": "Best Mesh Wifi Systems",
+   "href": "/guide/best-mesh-wifi-systems"
+  }
+ ],
+ "heroImage": "https://m.media-amazon.com/images/I/311aAabpOYL._SL500_.jpg"
+}

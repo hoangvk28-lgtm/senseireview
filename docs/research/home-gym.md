@@ -14,3 +14,20 @@
 - Rowing is low impact, but form (legs, then back, then arms) matters; poor technique strains the back.
 - Storage: folding or upright; check stored footprint.
 - Weight capacity is a static rating, not comfort or stability.
+
+# treadmill and equipment mats (added round 10)
+- An equipment mat sits under a treadmill, bike or rower to protect the floor, reduce noise and vibration and catch sweat and lubricant drips.
+- Common materials: PVC (cheap, light, often foam-textured), rubber (denser, heavier, better at damping but with a rubber smell) and EVA foam interlocking tiles.
+- Typical thickness runs from about 1/8 to 3/8 inch; thin mats protect floors, thicker ones damp noise more, and very soft thick mats can feel spongy under a heavy treadmill.
+- Size the mat to the treadmill footprint plus a margin: common sizes are 72 x 30, 79 x 35.5 and 79 x 39 inch for full treadmills; 55 x 24 and 68 x 24 inch for walking pads.
+- On carpet the main problems are mat creep and treadmill rocking; a textured non-slip surface, a thicker mat and level feet help.
+- A mat does not fix an unlevel treadmill; adjust the feet so the deck sits level on all four.
+- Mats absorb some vibration but cannot stop noise passing through structure; upstairs use may still need a thick rubber mat and a quieter motor.
+- New PVC and rubber mats can smell for days; unroll and air them out.
+- Folding mats creased in packaging may stay wavy; lay them flat under a heavy item for a day or two.
+- Mats trap moisture under them; lift and dry the floor now and then to prevent mildew on carpet.
+- Waterproof surfaces make sweat wipe-clean; absorbent surfaces soak it up and need washing.
+- Heavy treadmills (200 lb and up) can compress carpet; a mat spreads the load.
+- Dual-sided anti-slip designs grip the floor on one side and the equipment feet on the other.
+- Check that the mat is wide enough for feet and the front roller area if you use a folding treadmill.
+- Never place a mat under a treadmill's air vents or motor cover, because it can block airflow and collect dust.

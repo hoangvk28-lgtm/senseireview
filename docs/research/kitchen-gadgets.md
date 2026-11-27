@@ -1,0 +1,18 @@
+# kitchen-gadgets (pasta makers, mandolines, dish racks)
+- Manual pasta machine: two steel rollers set by a thickness dial; dough is folded and passed at the widest setting several times to knead, then thinned step by step.
+- Roller width is about 150 mm (6 in) on most hand-crank machines; narrower rollers make shorter sheets and more passes.
+- Clamp must grip a counter edge of ordinary thickness; thick butcher block or granite overhangs defeat many clamps.
+- Never wash the rollers; dry-brush or let scraps dry and flake off. Water causes rust and gummy residue.
+- Cutters on budget machines are usually fettuccine and spaghetti; extra shapes need extra attachments.
+- Stand-mixer attachments need the hub on the mixer; they are faster but cost more and need the mixer.
+- Electric extruder machines mix and extrude through discs; they cut hand work but are slower to clean than hand-crank rollers.
+- Dough hydration: pasta dough is stiff; too wet dough sticks to the rollers, too dry crumbles at the widest setting.
+- Mandoline: slice thickness set by a plate or dial; v-blade slices tomatoes and soft produce more cleanly than a straight blade.
+- Handheld mandolines are cheaper and store in a drawer; frame models with a stable base and hand guard are safer for large batches.
+- The hand guard is the safety feature that matters; cut-resistant gloves are a sensible add-on, not a substitute.
+- Julienne inserts and thickness plates are the parts that break or go missing; check how they store.
+- Blades dull on dishwashers and abrasive pads; hand wash and dry the blade edge carefully.
+- Dish rack: footprint, tray drainage, and a swivel spout decide whether it drains into the sink or pools on the counter.
+- Coated wire racks can chip and rust at the cut ends; stainless steel resists rust longer.
+- Utensil cups sit in the dish area; mold grows in stagnant trays, so lift and rinse the tray weekly.
+- Compact racks trade capacity for footprint; count plates and bowls you actually wash per meal.

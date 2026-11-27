@@ -1,0 +1,17 @@
+# posture (posture correctors and braces)
+- A posture corrector is a strap or brace that pulls the shoulders back; it works as a reminder more than a fix, and is not a medical device unless sold as one.
+- Common styles: figure-8 clavicle straps, upper-back braces with panels, and full back braces with rigid stays that extend to the lumbar area.
+- Experts quoted in consumer guides advise wearing correctors in short sessions, often 15 to 30 minutes, then building up; constant wear can lead to reliance.
+- A brace that is too tight can cause pain, numbness or skin irritation; loosen it if you feel any.
+- Sizing: measure chest, waist or shoulder width as the maker specifies; a wrong size makes the straps ride up or slip.
+- Underarm straps can chafe or restrict circulation; padded straps or soft neoprene help.
+- Rigid stays (fiberglass or aluminum) add structure but can poke or shift when sitting.
+- Breathable mesh suits warm weather; neoprene holds heat and can cause sweat.
+- Worn under a shirt, thin braces stay discreet; thick braces show through fitted clothing.
+- Velcro and elastic wear out first; hand wash and air dry to keep elasticity.
+- Strengthening and stretching, along with ergonomic setup, are the standard recommended approach; a corrector is an aid, not a replacement.
+- Chronic pain, scoliosis, spinal injury or numbness need a clinician; a consumer brace should not substitute medical advice.
+- Sitting posture depends on chair height, screen height and breaks; a brace does not fix a poor desk setup.
+- Not recommended while driving or operating machinery if it limits movement; do not sleep in one unless the maker says so.
+- Unisex sizing runs broad; smaller frames often need XS/S options.
+- Odors build up in elastic; wash after heavy use.

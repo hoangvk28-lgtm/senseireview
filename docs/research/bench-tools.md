@@ -1,0 +1,18 @@
+# bench-tools (bench grinders, rotary hammers, hearing protection, shop stools)
+- Bench grinder: two wheels on one motor shaft, usually coarse grit on one side and fine on the other; wheel diameter (6 or 8 in) and motor power (amps or HP) are the headline specs.
+- 3,450 RPM is the standard high speed; slow-speed grinders around 1,750 RPM run cooler and are favoured for sharpening chisels, plane irons and knives without blueing the edge.
+- Tool rests and eye shields must be adjusted close to the wheel (about 1/8 in gap); spark guards also need setting.
+- Wheel dressing keeps wheels round and flat; a glazed or out of round wheel vibrates.
+- Aluminium oxide wheels suit steel; avoid grinding aluminium or soft metals on them because it loads the wheel.
+- Cast iron base cuts vibration versus stamped steel; budget stamped bases walk on the bench unless bolted.
+- Cheap grinder wheels are often soft and out of round; replace stock wheels for sharpening work.
+- Variable speed on a grinder helps with sharpening but is not common on the cheapest models.
+- Buffer polisher: wheels for polishing metal, not for grinding; different arbor and guards.
+- Rotary hammer (SDS-Plus): hammers with piston impact (joules) for concrete; impact energy in joules and bit capacity (e.g. 1-1/4 in) matter more than amps.
+- Corded rotary hammers usually beat cordless ones on impact energy per cost; 18 or 20V cordless suit light work.
+- A rotary hammer is not a hammer drill; hammer drills clutch ratchet, rotary hammers use a pneumatic piston.
+- Safety clutch protects the wrist if the bit binds; vibration control reduces fatigue.
+- Hearing protection: NRR is the labeled noise reduction rating in decibels; real-world protection is lower; earmuffs are fast to put on, plugs are compact and combine well with muffs.
+- Combine earplugs with earmuffs for very loud tools such as chainsaws and rotary hammers.
+- Shop stool: adjustable height, 300 lb typical capacity, caster quality, backrest or not; pneumatic height adjusters leak down over time.
+- Swivel stools with locking casters work better on concrete garage floors than cheap hard plastic wheels.

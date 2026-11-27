@@ -1,0 +1,592 @@
+{
+ "guideSlug": "best-budget-powerline-adapters",
+ "categorySlug": "tech-electronics",
+ "mainKeyword": "powerline adapter",
+ "guideTitle": "Best Budget Powerline Adapters (2026)",
+ "metaTitle": "Best Budget Powerline Adapters",
+ "metaDescription": "Budget powerline adapter kits compared on speed class, gigabit ports, passthrough outlets and wiring limits, so you can get wired internet into a far room.",
+ "lastUpdated": "2026-11-21",
+ "readTime": "12 min",
+ "expertTake": "The TP-Link AV1000 passthrough kit is the best overall budget pick because it pairs gigabit ports with a pass-through outlet at a modest price, and the AV600 is the value pick for a basic streaming box. Anyone living in an older building with several breaker panels, or who can run Ethernet cable, should skip powerline and look at a wired or mesh alternative.",
+ "introParagraphs": [
+  "A powerline adapter pair sends network data over the electrical wiring already in the walls, which can bring a wired connection to a room where running a cable is impractical. At the budget end the real differences are the speed class, whether the Ethernet port is gigabit and whether the adapter gives up a wall outlet or passes it through.",
+  "This guide focuses on the lower half of the price range and is honest about the limits. We evaluated each kit from published specifications and patterns in owner feedback, with attention to real-world throughput, wiring conditions and year-three reliability. The speed numbers on the box are theoretical link rates, and actual speeds depend heavily on your home's wiring."
+ ],
+ "products": [
+  {
+   "id": "B08M13B8B6",
+   "badge": "Best Overall",
+   "name": "TP-Link AV1000 powerline kit, gigabit port, passthrough outlet",
+   "specs": [
+    "AV1000 class",
+    "Gigabit port",
+    "Passthrough",
+    "Plug-and-play"
+   ],
+   "specList": [
+    {
+     "label": "Speed class",
+     "value": "AV1000"
+    },
+    {
+     "label": "Ethernet",
+     "value": "1 gigabit port per adapter"
+    },
+    {
+     "label": "Outlet",
+     "value": "Passthrough with noise filtering"
+    },
+    {
+     "label": "Setup",
+     "value": "Pair and play"
+    },
+    {
+     "label": "Kit",
+     "value": "Two adapters"
+    }
+   ],
+   "description": "The TP-Link AV1000 passthrough kit is the most balanced budget option. Each adapter has a gigabit Ethernet port and a built-in power outlet with noise filtering, so you do not lose a wall socket. The design approach is to keep the setup simple: plug one adapter next to the router, plug the other in the far room and the pair connects automatically.\n\nCompared with the nano AV1000 kit, the passthrough version is slightly larger but keeps the outlet usable, which matters in rooms with few sockets. Compared with the AV600, the AV1000 has a gigabit port and a higher speed class, which gives more headroom for streaming and gaming. It will not match the AV2000 in theoretical speed, but it costs less.\n\nOwnership is mostly about placement. Plug directly into a wall outlet, not a power strip, and keep the adapters away from noisy appliances. If speeds drop, try a different outlet or press the pairing button again to re-establish the link.",
+   "bestFor": "Most households that want a reliable wired link without losing a socket.",
+   "pros": [
+    "Gigabit Ethernet port supports faster wired devices",
+    "Passthrough outlet keeps the wall socket usable",
+    "Plug-and-play pairing needs no software",
+    "Filters noise from other devices on the same outlet"
+   ],
+   "cons": [
+    "Actual throughput is well below the AV1000 label",
+    "Larger than the nano model and covers adjacent outlets"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B08M13B8B6?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31fQOc5CwxS._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B084CZMYNM",
+   "badge": "Best Compact",
+   "name": "TP-Link AV1000 nano powerline kit, gigabit port",
+   "specs": [
+    "AV1000 class",
+    "Gigabit port",
+    "Nano size",
+    "Plug-and-play"
+   ],
+   "specList": [
+    {
+     "label": "Speed class",
+     "value": "AV1000"
+    },
+    {
+     "label": "Ethernet",
+     "value": "1 gigabit port per adapter"
+    },
+    {
+     "label": "Size",
+     "value": "Nano, no passthrough"
+    },
+    {
+     "label": "Setup",
+     "value": "Pair and play"
+    },
+    {
+     "label": "Kit",
+     "value": "Two adapters"
+    }
+   ],
+   "description": "The nano AV1000 kit is the smallest and cheapest gigabit option in the lineup. Each adapter plugs flush into the wall and does not block neighbouring sockets. The design approach is minimal: a gigabit port, a pairing button and nothing else. That makes it ideal for tight spaces or behind furniture.\n\nCompared with the passthrough AV1000, the nano model does not offer an outlet on the adapter, so it uses up a wall socket. Compared with the AV600, it has a gigabit port and a faster speed class. The tradeoff is that small adapters can run hot and have less room for noise filtering, so they work best when plugged in alone.\n\nOwnership is simple. Plug into a wall outlet, pair the adapters and leave them alone. If the network drops, unplug both for a minute and reconnect. Dust and heat can accumulate behind furniture, so keep airflow in mind.",
+   "bestFor": "Tight spaces where a small gigabit adapter is needed.",
+   "pros": [
+    "Small body leaves neighbouring sockets free",
+    "Gigabit port supports streaming and gaming",
+    "Low price among the gigabit kits in this list",
+    "Simple pairing with no software"
+   ],
+   "cons": [
+    "No passthrough outlet, so it uses up a wall socket",
+    "Less filtering than the larger passthrough version"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B084CZMYNM?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31tyRuax62L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B00AWRUICG",
+   "badge": "Best Value",
+   "name": "TP-Link AV600 powerline kit with 100 Mbps Ethernet ports",
+   "specs": [
+    "AV600 class",
+    "100 Mbps port",
+    "Power saving",
+    "Plug-and-play"
+   ],
+   "specList": [
+    {
+     "label": "Speed class",
+     "value": "AV600"
+    },
+    {
+     "label": "Ethernet",
+     "value": "100 Mbps port"
+    },
+    {
+     "label": "Mode",
+     "value": "Power saving"
+    },
+    {
+     "label": "Setup",
+     "value": "Pair and play"
+    },
+    {
+     "label": "Kit",
+     "value": "Two adapters"
+    }
+   ],
+   "description": "The AV600 is the cheapest kit here and is built for light jobs. It has a 100 Mbps Ethernet port, which caps speed at about 100 megabits regardless of the powerline link rate. For a streaming stick, smart TV or printer, that is often enough. The design approach is basic, with a pairing button and a power saving mode.\n\nCompared with the AV1000 kits, the AV600 gives up the gigabit port and a faster powerline standard. If you have a fast internet plan, the 100 Mbps port will be the bottleneck, so pick this only for light use. Compared with the AV2000, it is a fraction of the capability but also a fraction of the cost.\n\nOwnership is minimal. Plug in, pair and forget. Keep the adapters off power strips, and avoid placing them next to space heaters, hair dryers or other noisy appliances.",
+   "bestFor": "Smart TVs and streaming sticks on a modest internet plan.",
+   "pros": [
+    "Lowest cost in the lineup",
+    "Power saving mode reduces idle draw",
+    "Plug-and-play pairing with no software",
+    "Good enough for HD streaming and basic browsing"
+   ],
+   "cons": [
+    "100 Mbps port caps speed below gigabit plans",
+    "Older standard shows less headroom on busy circuits"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B00AWRUICG?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31+RWGULftL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B07B5SGQDG",
+   "badge": "Best Alternative Brand",
+   "name": "TRENDnet TPL-422E2K Powerline 1300 AV2 adapter kit",
+   "specs": [
+    "1300 AV2",
+    "Gigabit port",
+    "Pair kit",
+    "Plug-and-play"
+   ],
+   "specList": [
+    {
+     "label": "Speed class",
+     "value": "1300 AV2"
+    },
+    {
+     "label": "Ethernet",
+     "value": "Gigabit port"
+    },
+    {
+     "label": "Outlet",
+     "value": "No passthrough"
+    },
+    {
+     "label": "Setup",
+     "value": "Pair and play"
+    },
+    {
+     "label": "Kit",
+     "value": "Two adapters"
+    }
+   ],
+   "description": "The TRENDnet TPL-422E2K is a 1300 AV2 kit with gigabit Ethernet ports, offered as an alternative to the TP-Link line. It uses the same plug-and-play approach: pair the two adapters and plug them into wall outlets. The design approach is a compact body with a single Ethernet port.\n\nCompared with the TP-Link AV1000, the TRENDnet claims a higher speed class, but remember that both numbers are theoretical. Compared with the TPL-423E2K, this model lacks a passthrough outlet, so it is cheaper and smaller. It is a reasonable choice if you prefer a second brand or find it at a better price.\n\nOwnership is similar to other kits. Keep it plugged directly into the wall, avoid noisy appliances and re-pair if the link drops. Some owners report that long runs across different circuits reduce speed, which is a wiring issue rather than a defect.",
+   "bestFor": "Buyers who want a gigabit kit from a non-TP-Link brand.",
+   "pros": [
+    "Gigabit Ethernet port suits fast wired devices",
+    "1300 AV2 class offers headroom on clean wiring",
+    "Compact body keeps the outlet footprint small",
+    "Pairing takes one button press on each adapter"
+   ],
+   "cons": [
+    "No passthrough outlet, so it uses up a wall socket",
+    "Real speeds fall well below the 1300 label"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B07B5SGQDG?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/418+p7OoBoL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B07B5BTKS3",
+   "badge": "Best with Outlet",
+   "name": "TRENDnet TPL-423E2K 1300 AV2 kit with built-in outlet",
+   "specs": [
+    "1300 AV2",
+    "Gigabit port",
+    "Passthrough",
+    "Plug-and-play"
+   ],
+   "specList": [
+    {
+     "label": "Speed class",
+     "value": "1300 AV2"
+    },
+    {
+     "label": "Ethernet",
+     "value": "Gigabit port"
+    },
+    {
+     "label": "Outlet",
+     "value": "Built-in passthrough"
+    },
+    {
+     "label": "Setup",
+     "value": "Pair and play"
+    },
+    {
+     "label": "Kit",
+     "value": "Two adapters"
+    }
+   ],
+   "description": "The TPL-423E2K adds a built-in outlet to the TRENDnet 1300 AV2 platform, so the adapter does not use up a wall socket. It keeps the gigabit Ethernet port and pairing button, and adds a passthrough that lets you plug a device into the adapter. The design approach is to preserve outlet count in rooms with few sockets.\n\nCompared with the TPL-422E2K, the passthrough version is a little bigger and costs a little more. Compared with the TP-Link AV1000 passthrough kit, the TRENDnet advertises a higher speed class, though real throughput depends on wiring. It is a good fit for a living room with limited outlets.\n\nOwnership is simple. Plug the adapter directly into the wall, keep high-draw appliances off the passthrough and watch for heat. If speeds drop, re-pair the adapters and try a different outlet.",
+   "bestFor": "Rooms with few outlets where a passthrough is needed.",
+   "pros": [
+    "Built-in outlet keeps the wall socket usable",
+    "Gigabit Ethernet port supports fast wired devices",
+    "Higher advertised speed class than the AV1000 kits",
+    "Pair-and-go setup suits a non-technical household"
+   ],
+   "cons": [
+    "Larger than the non-passthrough models",
+    "Real speed depends heavily on home wiring"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B07B5BTKS3?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41PpMrv2L2L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B01H74VKZU",
+   "badge": "Best for Speed",
+   "name": "TP-Link AV2000 powerline kit, passthrough, 2 gigabit ports",
+   "specs": [
+    "AV2000 class",
+    "2 gigabit ports",
+    "Passthrough",
+    "MIMO"
+   ],
+   "specList": [
+    {
+     "label": "Speed class",
+     "value": "AV2000"
+    },
+    {
+     "label": "Ethernet",
+     "value": "2 gigabit ports per adapter"
+    },
+    {
+     "label": "Outlet",
+     "value": "Passthrough"
+    },
+    {
+     "label": "Setup",
+     "value": "Pair and play"
+    },
+    {
+     "label": "Kit",
+     "value": "Two adapters"
+    }
+   ],
+   "description": "The AV2000 is the top-speed kit in this lineup and the most expensive of the budget picks. Each adapter has two gigabit Ethernet ports and a passthrough outlet, so one adapter can feed a console and a TV or a switch. The design approach is the same plug-and-play layout as the smaller kits, with a bigger body and a faster powerline chipset.\n\nCompared with the AV1000 passthrough, the AV2000 adds a second Ethernet port and a higher speed class. It only pays off on clean wiring with a good path between the two adapters. Compared with the AV600, the difference in capability is large, but so is the difference in cost.\n\nOwnership is similar to other kits. Plug directly into the wall, avoid power strips and re-pair if the link drops. The larger body may block adjacent sockets, so check the layout.",
+   "bestFor": "Households with two wired devices in the far room.",
+   "pros": [
+    "Two gigabit ports per adapter connect two devices at once",
+    "Passthrough outlet keeps the wall socket usable",
+    "Highest speed class in the lineup",
+    "Pairing button on each unit keeps setup simple"
+   ],
+   "cons": [
+    "Costs the most among these picks and may be overkill",
+    "Large body can block adjacent wall sockets"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B01H74VKZU?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41CFybVaqOL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Speed class and reality",
+   "explanation": "Numbers like AV600, AV1000 and AV2000 are theoretical link rates between the adapters, not the speed you will get from the internet. Real throughput is often a fraction, and it varies with wiring quality and distance. Pick a class that exceeds your internet plan's speed, but do not expect to see the box number. The TP-Link AV2000 and TRENDnet 1300 AV2 offer the most headroom."
+  },
+  {
+   "criterion": "Gigabit vs 100 Mbps port",
+   "explanation": "The Ethernet port on the adapter sets the maximum wired speed. A 100 Mbps port, as on the AV600, caps speed at roughly 100 megabits regardless of the powerline link rate. If your internet plan is faster than that, choose a gigabit port. The mistake is paying for a fast powerline class and ending up with a slow port."
+  },
+  {
+   "criterion": "Passthrough outlet",
+   "explanation": "A passthrough outlet lets you plug a device into the adapter, so you do not lose a wall socket. It also adds noise filtering on some models, such as the TP-Link AV1000 passthrough. The tradeoff is a larger body that may block adjacent sockets. In rooms with few outlets, passthrough is worth the extra size."
+  },
+  {
+   "criterion": "Home wiring conditions",
+   "explanation": "Powerline works best when both adapters are on the same electrical circuit or at least the same breaker panel. Old wiring, long runs and noisy appliances reduce speed. Plugging into a power strip or surge protector filters the signal and often kills it. If your home has several panels or you are in an apartment building, the kit may not pair at all."
+  },
+  {
+   "criterion": "Ports and flexibility",
+   "explanation": "One Ethernet port suits a single device, while two ports, as on the AV2000, let you connect a console and a TV or add a switch. The mistake is buying an extra-port kit and then plugging in only one device. Count what you need to connect in the far room first."
+  },
+  {
+   "criterion": "Powerline vs alternatives",
+   "explanation": "Powerline is a patch for rooms where cabling is impossible. Mesh Wi-Fi often performs better for portable devices, and a real Ethernet cable is still the best option for desks and consoles. If you can run a cable, do that. If not, powerline is a decent way to add a wired port."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "AV1000",
+   "meaning": "A powerline speed class indicating a theoretical link rate near 1000 megabits between adapters. Real speeds are much lower.",
+   "watchFor": "The TP-Link AV1000 kits advertise this, but throughput depends on your wiring."
+  },
+  {
+   "spec": "Passthrough outlet",
+   "meaning": "A built-in outlet on the adapter that lets you plug in another device. Some adapters also filter noise through it.",
+   "watchFor": "The TP-Link AV1000 passthrough and TRENDnet TPL-423E2K have one, while the nano and AV600 kits do not."
+  },
+  {
+   "spec": "Gigabit port",
+   "meaning": "An Ethernet port that supports speeds up to 1000 megabits per second. It avoids capping a fast plan.",
+   "watchFor": "The AV600 has a 100 Mbps port, which limits speed on faster plans."
+  },
+  {
+   "spec": "HomePlug AV2",
+   "meaning": "A standard that adds features such as MIMO to improve throughput on electrical wiring. It is backward compatible with AV.",
+   "watchFor": "The TRENDnet 1300 AV2 kits use it, but mixed brands may not interoperate fully."
+  },
+  {
+   "spec": "MIMO",
+   "meaning": "A technique that uses multiple wires in the electrical system to send data. It can boost speed on wiring that has a ground conductor.",
+   "watchFor": "The AV2000 lists it, but results depend on whether your outlets have a ground."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Speed class and port type",
+   "description": "We compared the published speed class and Ethernet port type. The AV2000 and TRENDnet 1300 AV2 lead on class, while the AV600 falls short with a 100 Mbps port. We treated the gigabit port as a baseline for modern plans."
+  },
+  {
+   "title": "Passthrough and footprint",
+   "description": "We considered how each kit uses wall outlets and how it fits behind furniture. The TP-Link AV1000 passthrough and TRENDnet TPL-423E2K keep the outlet, while the nano and AV600 use it up. Body size was a factor in tight rooms."
+  },
+  {
+   "title": "Wiring tolerance",
+   "description": "We read owner feedback about speed drops and pairing failures. Old wiring and multiple breaker panels are the most common causes. We favoured kits with noise filtering and proven pairing behaviour."
+  },
+  {
+   "title": "Setup and reliability",
+   "description": "We looked at how each kit pairs and how often owners report disconnects. Plug-and-play pairing is standard, but some kits need re-pairing after power cuts. We weighted simple setup highly for non-technical buyers."
+  },
+  {
+   "title": "Value in context",
+   "description": "We placed each kit in the lower half of the price range and asked what it gives up. The AV600 is the cheapest, the AV1000 passthrough is the best balance and the AV2000 is the fastest. Warranty and brand support were tiebreakers."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Use Case",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Smart TV or streaming stick",
+      "TP-Link AV600",
+      "Cheap and enough for HD video"
+     ],
+     [
+      "Gaming console in a far room",
+      "TP-Link AV1000 passthrough",
+      "Gigabit port with filtered outlet"
+     ],
+     [
+      "Console plus TV in one spot",
+      "TP-Link AV2000",
+      "Two gigabit ports on the far adapter"
+     ],
+     [
+      "Gigabit plan with limited outlets",
+      "TRENDnet TPL-423E2K",
+      "Passthrough keeps the socket usable"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest cost",
+      "TP-Link AV600",
+      "Cheapest kit with a basic port"
+     ],
+     [
+      "Best balance",
+      "TP-Link AV1000 passthrough",
+      "Gigabit and passthrough at a mid price"
+     ],
+     [
+      "Small gigabit kit",
+      "TP-Link AV1000 nano",
+      "Compact body and gigabit port"
+     ],
+     [
+      "Spend for headroom",
+      "TP-Link AV2000",
+      "Fastest class and two ports"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Passthrough vs Nano",
+   "cards": [
+    {
+     "label": "Passthrough",
+     "text": "The TP-Link AV1000 passthrough, TRENDnet TPL-423E2K and AV2000 keep the wall outlet usable and filter some noise. They are larger and may block adjacent sockets."
+    },
+    {
+     "label": "Nano or basic",
+     "text": "The TP-Link AV1000 nano, AV600 and TRENDnet TPL-422E2K are smaller but use up a socket. They suit rooms with spare outlets."
+    }
+   ],
+   "note": "Choose passthrough in outlet-poor rooms and nano where space is tight but sockets are plentiful."
+  },
+  {
+   "subheading": "Home Wiring Conditions",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Single breaker panel, newer home",
+      "AV1000 or AV2000",
+      "Clean wiring lets the faster classes shine"
+     ],
+     [
+      "Older wiring or long runs",
+      "AV1000 passthrough",
+      "Filtering helps with noisy circuits"
+     ],
+     [
+      "Multiple panels or apartment",
+      "Consider mesh Wi-Fi",
+      "Powerline may not pair across panels"
+     ],
+     [
+      "Noisy appliances nearby",
+      "Passthrough models",
+      "Noise filtering reduces interference"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Streaming and Gaming Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A gigabit port, a speed class above your internet plan and direct wall placement. Avoid power strips and noisy circuits."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The TP-Link AV1000 passthrough is the all-rounder, the AV2000 handles two devices and the AV600 suits light streaming."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You have a gigabit plan, two wired devices in the far room or a mix of old and new wiring. The AV2000 gives the most headroom."
+    },
+    {
+     "label": "Save if",
+     "text": "You need a single connection for a TV or streamer on a modest plan. The AV600 or AV1000 nano is enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Re-pair the adapters",
+   "interval": "After power cuts or moves",
+   "why": "Pairing can be lost when adapters are unplugged for long periods. Pressing the pair button on both restores the link."
+  },
+  {
+   "task": "Check the wall outlet",
+   "interval": "When speeds drop",
+   "why": "Outlets on different circuits or near noisy appliances reduce throughput. Trying another outlet is often the quickest fix."
+  },
+  {
+   "task": "Keep off power strips",
+   "interval": "Always",
+   "why": "Power strips and surge protectors filter the signal that powerline depends on. Plug adapters directly into the wall."
+  },
+  {
+   "task": "Dust the vents",
+   "interval": "Every few months",
+   "why": "Dust traps heat in small adapters. A quick brush keeps airflow clear."
+  },
+  {
+   "task": "Update firmware if offered",
+   "interval": "Yearly",
+   "why": "Some makers release firmware that improves stability. Check the maker's support page for updates."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is powerline better than Wi-Fi?",
+   "a": "It depends on the home. Powerline can be more stable than Wi-Fi for a fixed device behind thick walls, but it depends on wiring. Mesh Wi-Fi often works better for portable devices."
+  },
+  {
+   "q": "How much should a budget powerline kit cost?",
+   "a": "Prices move, so check the current listing. The AV600 is the cheapest, the AV1000 kits sit in the middle and the AV2000 is the top of this list. Pay more only if you need the ports or speed."
+  },
+  {
+   "q": "Why is my powerline speed slower than the box says?",
+   "a": "The label is a theoretical link rate between the adapters. Real throughput is lower because of wiring quality, distance and noise. Plugging into a power strip also reduces speed."
+  },
+  {
+   "q": "Can I use powerline across different breaker panels?",
+   "a": "Sometimes, but often poorly or not at all. The signal can jump between circuits in the same panel, but crossing panels or sub-panels commonly fails. If the kit will not pair, try different outlets or consider mesh Wi-Fi."
+  },
+  {
+   "q": "Do I need a passthrough outlet?",
+   "a": "Only if the room has few sockets. Passthrough adapters keep the wall outlet usable and often filter noise. They are bigger, so check for blocked neighbouring sockets."
+  },
+  {
+   "q": "Can I mix brands of powerline adapters?",
+   "a": "Often yes, if they share the same standard, but performance may drop to the lowest common standard. For best results, buy a matched kit from one brand."
+  }
+ ],
+ "relatedGuides": [
+  {
+   "title": "Best Mesh Wifi Systems",
+   "href": "/guide/best-mesh-wifi-systems"
+  },
+  {
+   "title": "Mesh Wifi vs Range Extender",
+   "href": "/guide/mesh-wifi-vs-range-extender"
+  },
+  {
+   "title": "Best Ethernet Switches for Home",
+   "href": "/guide/best-ethernet-switches-for-home"
+  }
+ ],
+ "heroImage": "https://m.media-amazon.com/images/I/31fQOc5CwxS._SL500_.jpg"
+}

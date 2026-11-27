@@ -14,3 +14,20 @@
 - Li-ion cells degrade after several hundred cycles; store partly charged and cool.
 - Retire swollen or hot banks; avoid unbranded chargers without safety certification marks.
 - Power stations (300 Wh class) are a different category: AC outlets, heavy.
+
+# usb-c cables (added round 10)
+- A USB-C plug does not tell you power or data speed; cables differ inside. Power rating (60 W, 100 W, 240 W) and data rating (USB 2.0 at 480 Mbps, 5, 10 or 20 Gbps) are separate.
+- 60 W cables (20 V at 3 A) need no e-marker chip; 100 W and 240 W cables require an e-marker chip that tells the charger the cable can carry the current. USB PD 3.1 Extended Power Range (EPR) covers up to 240 W (48 V at 5 A).
+- The charger and the device negotiate the power; the cable only sets the ceiling. A 240 W cable on a 30 W charger delivers 30 W.
+- Most phones charge fine at 20 to 45 W; laptops want 65 to 100 W; very few devices use 240 W.
+- Many charging cables carry only USB 2.0 data (480 Mbps); they sync photos slowly and do not drive monitors. Video needs a cable rated for DisplayPort Alt Mode, such as USB 3 or Thunderbolt.
+- USB-A to USB-C cables cannot do USB PD fast charging at laptop wattages; they are limited by the A port, often to about 18 W or less.
+- Braided nylon jackets resist abrasion better than plain TPE; reinforced strain relief at both ends is where cables fail first.
+- Bend-life claims (5,000, 50,000 or 300,000) are lab figures from the maker and not comparable between brands.
+- Longer cables lose more power to resistance; 6 ft is typical for 60 W, and long cables at 240 W need thicker conductors.
+- Cheap unbranded cables can lack proper resistors or e-markers and risk damaging devices; buy from makers that state certified specs.
+- Check the cable for a USB-IF certification or a stated PD 3.1 compliance when you need high wattage.
+- Retire cables with frayed jackets, bent plugs or hot ends; heat means resistance.
+- LED indicators on cables show power flow but do not make charging faster.
+- Keep one short cable for the car and a long one at the bedside; length changes how you use it.
+- For iPhone USB-C models and Android phones alike, the same C to C cable works; the phone sets its own limit.

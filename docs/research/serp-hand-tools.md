@@ -60,3 +60,10 @@
 - Wilton, Yost and Irwin lead bench vise lists; WORKPRO and VEVOR appear in budget picks with ductile iron claims.
 - Criteria: jaw width and opening, throat depth, swivel base lock, ductile vs cast iron, anvil, pipe jaws, clamping force claims.
 - Caveat: swivel locks and thin castings are the usual weak points; do not hammer on jaws.
+
+## best-electric-staple-guns-under-50
+- Top guides lead with corded versus cordless, staple size compatibility and driving power in hardwood versus softwood.
+- Picks are split by upholstery, insulation and house wrap, and craft projects.
+- Common questions: electric versus manual, which staples fit, can it drive into plywood.
+- Missed angle: 4 V cordless units suit soft materials only; the cord is a feature for consistency.
+- Honest tradeoff: bundled staples are often only one size and 2-in-1 brad nailers are light duty.

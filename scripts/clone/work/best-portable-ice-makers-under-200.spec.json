@@ -1,0 +1,588 @@
+{
+ "guideSlug": "best-portable-ice-makers-under-200",
+ "categorySlug": "home-kitchen",
+ "mainKeyword": "portable ice maker under 200",
+ "guideTitle": "Best Portable Ice Makers Under $200 (2026)",
+ "metaTitle": "Best Portable Ice Makers Under $200",
+ "metaDescription": "Portable ice makers under $200 compared on daily output, bullet versus nugget ice, reservoir size and cleaning, so a countertop machine suits how you drink.",
+ "lastUpdated": "2026-11-21",
+ "readTime": "12 min",
+ "expertTake": "The EUHOMY nugget ice maker is the best overall pick under $200 because it turns out soft, chewable ice at a higher daily rate than the bullet machines, and the Frigidaire 26 lb unit is the value pick for plain cold drinks. Anyone who wants ice in volume for parties, or who has no spot with clear airflow around a compressor, should skip the category and buy bagged ice.",
+ "introParagraphs": [
+  "A portable ice maker is a countertop compressor machine that freezes water into ice and drops it into a basket, with no plumbing needed. Under the $200 cap the real differences are the daily output, the shape of the ice, the size of the water reservoir and how easy the machine is to clean.",
+  "This guide focuses on machines at or below the cap and is honest about the limits. Prices move, so the cap reflects listing prices when the guide was last updated. We evaluated each machine from published specifications and patterns in owner feedback, with attention to output claims, noise and year-three scale buildup. Daily output is a best-case figure, and a machine that makes ice quickly still stops when the basket is full."
+ ],
+ "products": [
+  {
+   "id": "B0GXB6VJCY",
+   "badge": "Best Overall",
+   "name": "EUHOMY nugget ice maker countertop, 44 lb per day, self-cleaning",
+   "specs": [
+    "Nugget ice",
+    "44 lb per day",
+    "7 to 10 min cycle",
+    "Self-cleaning"
+   ],
+   "specList": [
+    {
+     "label": "Ice type",
+     "value": "Nugget"
+    },
+    {
+     "label": "Daily output",
+     "value": "44 lb per 24 hours"
+    },
+    {
+     "label": "Cycle",
+     "value": "7 to 10 minutes"
+    },
+    {
+     "label": "Cleaning",
+     "value": "Self-cleaning cycle"
+    },
+    {
+     "label": "Format",
+     "value": "Countertop"
+    }
+   ],
+   "description": "The EUHOMY nugget machine is the highest-output pick under the cap, listing 44 lb of ice per 24 hours and a first batch in 7 to 10 minutes. The design approach is a countertop compressor unit that makes soft, chewable nugget ice rather than hard bullets. A self-cleaning cycle simplifies descaling, which is the maintenance task that matters most on any ice maker.\n\nCompared with the Kismile nugget machine, which lists 35 lb per day, the EUHOMY makes more ice and costs a little more. Compared with the bullet-ice Frigidaire at 26 lb, it produces about 18 lb more per day and a softer texture. It is a good fit for people who love chewable ice in soda and iced coffee.\n\nOwnership is mostly about water and space. Use filtered water to slow scale, empty the basket when the machine stops and give the vents room to breathe. Run the self-cleaning cycle on the maker's schedule, and wipe the interior with a soft cloth.",
+   "bestFor": "People who want chewable nugget ice in volume.",
+   "pros": [
+    "44 lb per day output is the highest under the cap",
+    "Nugget ice is soft and chewable and cools drinks evenly",
+    "Self-cleaning cycle simplifies descaling",
+    "First batch arrives in 7 to 10 minutes"
+   ],
+   "cons": [
+    "Compressor hum is audible in a quiet room",
+    "Needs clear space around the vents for airflow"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0GXB6VJCY?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51WJWyG0PaL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B07JBJWP2W",
+   "badge": "Best Value",
+   "name": "Frigidaire 26 lb portable compact ice maker, stainless steel",
+   "specs": [
+    "26 lb per day",
+    "Bullet ice",
+    "Stainless",
+    "Compact"
+   ],
+   "specList": [
+    {
+     "label": "Ice type",
+     "value": "Bullet"
+    },
+    {
+     "label": "Daily output",
+     "value": "26 lb per day"
+    },
+    {
+     "label": "Finish",
+     "value": "Stainless steel"
+    },
+    {
+     "label": "Format",
+     "value": "Countertop compact"
+    },
+    {
+     "label": "Brand",
+     "value": "Frigidaire"
+    }
+   ],
+   "description": "The Frigidaire is a well-known name in a category full of anonymous brands, and it lists 26 lb of bullet ice per day in a stainless steel body. The design approach is a compact countertop unit that makes ice in cycles and holds it in a basket. It does not try to be fancy, which is part of its appeal.\n\nCompared with the EUHOMY nugget machine, the Frigidaire makes less ice and the ice is harder, but it costs less. Compared with the Silonn, it has the same daily output but a more established brand and finish. It is a sensible pick for plain cold drinks and small gatherings.\n\nOwnership requires regular cleaning. Empty the reservoir when the machine is not in use, descale on a schedule and use filtered water. Do not let ice sit in the basket for days, since it melts back into the reservoir and can taste stale.",
+   "bestFor": "Everyday cold drinks from a known brand.",
+   "pros": [
+    "Established brand with wider support than most rivals",
+    "26 lb per day suits a small household",
+    "Stainless steel body looks good on a counter",
+    "Compact footprint fits a small kitchen"
+   ],
+   "cons": [
+    "Bullet ice is harder than nugget ice",
+    "Lower output than the nugget machines"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B07JBJWP2W?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41c+SzlddgL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0BXXKFJK2",
+   "badge": "Best Cheapest",
+   "name": "Silonn countertop ice maker with carry handle, self-cleaning",
+   "specs": [
+    "Bullet ice",
+    "Carry handle",
+    "Self-cleaning",
+    "Portable"
+   ],
+   "specList": [
+    {
+     "label": "Ice type",
+     "value": "Bullet"
+    },
+    {
+     "label": "Daily output",
+     "value": "About 26 lb"
+    },
+    {
+     "label": "Cleaning",
+     "value": "Self-cleaning cycle"
+    },
+    {
+     "label": "Handle",
+     "value": "Carry handle"
+    },
+    {
+     "label": "Format",
+     "value": "Countertop"
+    }
+   ],
+   "description": "The Silonn is the cheapest machine in the lineup and adds a carry handle and self-cleaning cycle. The design approach is a light, portable unit that you can move to a patio or a camper. For occasional use, it offers the basics of bullet ice at a low price.\n\nCompared with the Frigidaire, the Silonn has a lower price but a less established brand. Compared with the EUHOMY 26 lb, it is a similar proposition, with details differing slightly. It is a good fit for someone who wants a low-cost machine that can move around.\n\nOwnership comes down to cleaning and storage. Drain the reservoir after use, run the self-cleaning cycle and wipe the interior. Because it is light, keep it on a level surface and give it room to ventilate.",
+   "bestFor": "Occasional ice needs and moving between spaces.",
+   "pros": [
+    "Lowest price among the lineup",
+    "Carry handle makes it easy to move",
+    "Self-cleaning cycle helps with descaling",
+    "Light enough for a patio or camper"
+   ],
+   "cons": [
+    "Less established brand than Frigidaire",
+    "Bullet ice is harder and melts faster than nugget"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0BXXKFJK2?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41N-WMbGQdL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DCJ78D27",
+   "badge": "Best Fast Bullet Ice",
+   "name": "EUHOMY countertop ice maker, 9 cubes in 6 minutes, 26 lb per day",
+   "specs": [
+    "9 cubes per cycle",
+    "6 min cycle",
+    "26 lb per day",
+    "Self-cleaning"
+   ],
+   "specList": [
+    {
+     "label": "Ice type",
+     "value": "Bullet"
+    },
+    {
+     "label": "Cycle",
+     "value": "About 6 minutes"
+    },
+    {
+     "label": "Cubes per batch",
+     "value": "9"
+    },
+    {
+     "label": "Daily output",
+     "value": "26 lb per 24 hours"
+    },
+    {
+     "label": "Cleaning",
+     "value": "Self-cleaning cycle"
+    }
+   ],
+   "description": "The EUHOMY bullet-ice machine lists nine cubes per cycle in about six minutes and 26 lb per day. The design approach is a fast-cycle compressor unit with a self-cleaning function. For anyone who wants ice quickly without waiting for a long first batch, it fits the bill.\n\nCompared with the EUHOMY nugget model, this machine makes less ice and harder ice, but it costs less. Compared with the Aeitto, it has a similar cycle time and a longer list of owner comments. It suits small households that want a quick start for drinks.\n\nOwnership requires regular descaling and emptying. Use filtered water, empty the basket when it is full and wipe the interior. If ice stops forming, check the water level and the vents.",
+   "bestFor": "Small households that want a fast first batch.",
+   "pros": [
+    "Six minute cycle gives a quick first batch",
+    "Listed 26 lb per 24 hours covers a couple or small family",
+    "Self-cleaning function simplifies descaling",
+    "Compact body fits a counter"
+   ],
+   "cons": [
+    "Bullet ice is harder than nugget",
+    "Daily output is a best-case figure"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0DCJ78D27?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41fX2fsSVdL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0HMWLDZ87",
+   "badge": "Best Two Ice Sizes",
+   "name": "Aeitto countertop ice maker, 26 lb per day, 2 ice sizes",
+   "specs": [
+    "26 lb per day",
+    "2 ice sizes",
+    "6 min cycle",
+    "8 cubes"
+   ],
+   "specList": [
+    {
+     "label": "Ice type",
+     "value": "Bullet, two sizes"
+    },
+    {
+     "label": "Daily output",
+     "value": "26 lb per 24 hours"
+    },
+    {
+     "label": "Cycle",
+     "value": "About 6 minutes"
+    },
+    {
+     "label": "Cubes per batch",
+     "value": "8"
+    },
+    {
+     "label": "Format",
+     "value": "Countertop"
+    }
+   ],
+   "description": "The Aeitto offers two ice sizes, a small and a large bullet, which lets you choose between faster cooling and slower melting. The design approach is a countertop compressor unit with an eight-cube batch in about six minutes and 26 lb per day. Choosing the size is a simple way to match the ice to your drink.\n\nCompared with the EUHOMY bullet machine, the Aeitto adds a size choice but has fewer cubes per batch. Compared with the Frigidaire, it has a similar daily output but a newer brand name. It suits households that want a bit more control over the ice they make.\n\nOwnership is about cleaning and level placement. Wipe the interior, descale on a schedule and keep the machine on a flat surface. If ice sizes vary, check the water level and the reservoir.",
+   "bestFor": "People who want a choice of ice size.",
+   "pros": [
+    "Two ice sizes let you match the ice to the drink",
+    "Output of 26 lb a day handles everyday drinks for a few people",
+    "Six minute cycle gives a quick start",
+    "Compact body fits a counter"
+   ],
+   "cons": [
+    "Newer brand with a shorter record",
+    "Fewer cubes per batch than the EUHOMY"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0HMWLDZ87?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/414c7XozvJL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0GS552T5S",
+   "badge": "Best Sonic Nugget",
+   "name": "Kismile nugget ice maker, 35 lb per day, stainless steel",
+   "specs": [
+    "Nugget ice",
+    "35 lb per day",
+    "Stainless",
+    "Sonic ice"
+   ],
+   "specList": [
+    {
+     "label": "Ice type",
+     "value": "Nugget or sonic style"
+    },
+    {
+     "label": "Daily output",
+     "value": "35 lb per day"
+    },
+    {
+     "label": "Finish",
+     "value": "Stainless steel"
+    },
+    {
+     "label": "Format",
+     "value": "Countertop"
+    },
+    {
+     "label": "Use",
+     "value": "Drinks and iced coffee"
+    }
+   ],
+   "description": "The Kismile is a nugget ice maker that lists 35 lb per day and a stainless steel finish. The design approach is a countertop machine that produces soft, chewable ice similar to the style served at some restaurants. It sits between the bullet machines and the EUHOMY nugget model on output.\n\nCompared with the EUHOMY nugget machine, the Kismile makes less ice but costs a little less and has a smaller track record. Compared with the Frigidaire, it makes softer ice and more of it. It is a good fit for people who want nugget ice without paying for the highest output.\n\nOwnership requires cleaning and filtered water. Descale on a schedule, empty the basket when it is full and keep the vents clear. Nugget machines can be louder than bullet machines, so place it where the hum will not bother you.",
+   "bestFor": "Nugget ice fans who do not need the highest output.",
+   "pros": [
+    "Nugget ice is soft and chewable",
+    "35 lb per day beats the bullet machines",
+    "Stainless steel finish suits a modern kitchen",
+    "Lower price than the highest-output nugget unit"
+   ],
+   "cons": [
+    "Smaller brand with a shorter record",
+    "Nugget machines can be louder than bullet units"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0GS552T5S?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51fDHNHydyL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Ice type and texture",
+   "explanation": "Bullet ice is hard and melts slowly, which suits plain water and cocktails. Nugget ice is soft and chewable and absorbs flavour, which suits soda and iced coffee. The EUHOMY nugget and Kismile make nugget ice, while the Frigidaire, Silonn and Aeitto make bullet ice. Choose the texture you will actually use, because the daily output does not matter if you dislike the ice."
+  },
+  {
+   "criterion": "Daily output and cycle time",
+   "explanation": "Output is listed in pounds per 24 hours, such as 26 lb for the bullet machines and 44 lb for the EUHOMY nugget unit. That is a best-case figure, and a machine stops when the basket is full. Cycle time matters for the first batch. A six minute cycle is quick, but real life depends on room temperature and water temperature. Think about your busiest hour rather than your average day: a household that fills several glasses at dinner needs a machine that recovers quickly, not just one with a big daily number."
+  },
+  {
+   "criterion": "Reservoir and basket size",
+   "explanation": "A small reservoir means frequent refilling, while a small basket means the machine stops often. Most portable units hold a few pounds of ice in the basket, so they are not party machines. If you need ice for a crowd, a portable machine will not keep up. Match the machine to daily use, not to an occasional event."
+  },
+  {
+   "criterion": "Cleaning and descaling",
+   "explanation": "Scale builds up in the reservoir and on the sensors, especially with hard water. A self-cleaning cycle helps, but you still need to descale with a suitable solution. Use filtered water to slow scale. The EUHOMY and Silonn list self-cleaning cycles."
+  },
+  {
+   "criterion": "Noise and placement",
+   "explanation": "These are compressor machines, and they hum. Nugget machines can be louder because they have a grinding mechanism. Place the unit on a level surface with clear space around the vents. Avoid enclosed cabinets, which trap heat. Plan for a drip tray or a towel as well, because every portable machine drains meltwater when it is moved or emptied."
+  },
+  {
+   "criterion": "Brand support and longevity",
+   "explanation": "Frigidaire has a wider support network than most small brands. Owner feedback on budget units often mentions scale buildup and pump noise after a year or two. A machine that is easy to clean tends to last longer. Check the warranty terms before buying."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Lbs per 24 hours",
+   "meaning": "The maximum weight of ice the machine can make in a day under ideal conditions. It assumes the basket is emptied as it fills.",
+   "watchFor": "The EUHOMY nugget lists 44 lb, while the bullet machines list 26 lb."
+  },
+  {
+   "spec": "Bullet ice",
+   "meaning": "Hard, bullet-shaped ice that melts slowly. It is the most common type in portable machines.",
+   "watchFor": "The Frigidaire, Silonn and Aeitto make bullet ice."
+  },
+  {
+   "spec": "Nugget ice",
+   "meaning": "Soft, chewable ice formed from compressed flakes. It absorbs flavour and cools drinks evenly.",
+   "watchFor": "The EUHOMY nugget and Kismile make nugget ice, which can be louder."
+  },
+  {
+   "spec": "Cycle time",
+   "meaning": "The time to make a batch of ice, often listed as six minutes. It is a best-case figure.",
+   "watchFor": "The EUHOMY and Aeitto list around six minutes, but warm rooms slow it down."
+  },
+  {
+   "spec": "Self-cleaning",
+   "meaning": "A cycle that flushes the reservoir and lines with water or cleaner. It reduces but does not replace manual descaling.",
+   "watchFor": "The EUHOMY and Silonn list it, but hard water still needs regular descaling."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Output and cycle",
+   "description": "We compared published output and cycle times and what owners say about real use. The EUHOMY nugget leads on output, while the bullet machines cluster around 26 lb. We treated the figures as best-case numbers."
+  },
+  {
+   "title": "Ice type and use",
+   "description": "We matched ice type to common uses. Nugget machines suit soda and coffee, while bullet machines suit water and cocktails. Texture was weighted above small output differences."
+  },
+  {
+   "title": "Cleaning and scale",
+   "description": "We looked at self-cleaning features and reports of scale. All machines need descaling, but self-cleaning cycles help. We weighted ease of cleaning for long-term ownership."
+  },
+  {
+   "title": "Noise and placement",
+   "description": "We read owner comments on noise and heat. Nugget machines are often louder, and all need vent clearance. We favoured units with clear placement guidance."
+  },
+  {
+   "title": "Value under the cap",
+   "description": "We kept every pick at or under the $200 listing cap and asked what each gives up. The Silonn is the cheapest, the Frigidaire is the known brand and the EUHOMY nugget gives the most ice. Brand support was a tiebreaker."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Ice Type",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Chewable ice for soda and coffee",
+      "EUHOMY nugget",
+      "Highest nugget output under the cap"
+     ],
+     [
+      "Nugget on a lower budget",
+      "Kismile",
+      "35 lb per day at a lower tier"
+     ],
+     [
+      "Hard ice for water and cocktails",
+      "Frigidaire",
+      "Known brand with bullet ice"
+     ],
+     [
+      "Choice of ice size",
+      "Aeitto",
+      "Two sizes of bullet ice"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget Under the Cap",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Cheapest way in",
+      "Silonn",
+      "Carry handle and self-cleaning"
+     ],
+     [
+      "Known brand",
+      "Frigidaire",
+      "Wider support network"
+     ],
+     [
+      "Fast bullet ice",
+      "EUHOMY 26 lb",
+      "Six minute cycle"
+     ],
+     [
+      "Most output for the cap",
+      "EUHOMY nugget",
+      "44 lb per day"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Nugget vs Bullet",
+   "cards": [
+    {
+     "label": "Nugget",
+     "text": "The EUHOMY nugget and Kismile make soft, chewable ice that absorbs flavour. They are louder and cost more but suit soda and iced coffee."
+    },
+    {
+     "label": "Bullet",
+     "text": "The Frigidaire, Silonn, Aeitto and EUHOMY bullet make hard ice that melts slowly. They are quieter and cheaper and suit plain water and cocktails."
+    }
+   ],
+   "note": "Pick nugget if you chew ice, and bullet if you want slow melt and a lower price."
+  },
+  {
+   "subheading": "Space and Portability",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Moving between rooms or a camper",
+      "Silonn",
+      "Carry handle and light body"
+     ],
+     [
+      "Small kitchen counter",
+      "Frigidaire",
+      "Compact stainless body"
+     ],
+     [
+      "Patio use",
+      "Silonn or Aeitto",
+      "Portable bullet machines"
+     ],
+     [
+      "Dedicated drink station",
+      "EUHOMY nugget",
+      "Higher output suits regular use"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Home Use Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "The ice type you like, enough daily output for your household, a self-cleaning cycle and vent clearance."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The EUHOMY nugget is the output pick, the Frigidaire is the brand pick and the Silonn is the low-cost pick."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You use ice daily, want nugget texture or need higher output. The EUHOMY nugget and Kismile are the sturdier options under the cap."
+    },
+    {
+     "label": "Save if",
+     "text": "You want ice for the occasional drink. The Silonn or Frigidaire is enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Descale the reservoir",
+   "interval": "Monthly or as needed",
+   "why": "Mineral scale coats the sensors and pump. A descaling solution restores performance and extends life. Mineral scale coats the sensors and pump. A descaling solution restores performance and extends life, and a quick rinse afterward removes any taste of the cleaner."
+  },
+  {
+   "task": "Empty the basket and reservoir",
+   "interval": "After each use",
+   "why": "Standing water grows bacteria and tastes stale. Emptying prevents odour and mould."
+  },
+  {
+   "task": "Wipe the interior",
+   "interval": "Weekly",
+   "why": "A soft cloth removes slime and scale. It keeps ice tasting clean."
+  },
+  {
+   "task": "Clear the vents",
+   "interval": "Monthly",
+   "why": "Dust blocks airflow and makes the compressor work harder. A vacuum or brush clears the vents."
+  },
+  {
+   "task": "Use filtered water",
+   "interval": "Every fill",
+   "why": "Filtered water slows scale and improves taste. It also reduces cleaning frequency."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is a nugget ice maker worth it?",
+   "a": "If you love chewable ice in soda or iced coffee, yes. Nugget machines cost more and run louder, but the texture is the main attraction. For plain water, bullet ice is fine. The softer texture also means the ice dilutes drinks a little faster than bullet cubes, which is a fair trade for most people who prefer it."
+  },
+  {
+   "q": "How much ice does a portable ice maker really make?",
+   "a": "The listed figure is a best-case number, and machines stop when the basket is full. In practice, you get a few pounds at a time and steady output over the day. Do not expect party volume. A useful habit is to scoop the finished ice into a freezer bag every few hours so the machine keeps making fresh batches rather than idling with a full basket."
+  },
+  {
+   "q": "How long does a portable ice maker last?",
+   "a": "With regular cleaning and filtered water, many last several years. Owner feedback on budget units often mentions scale and pump noise after a year or two. Descaling is the main lifespan factor."
+  },
+  {
+   "q": "Can I leave ice in the basket?",
+   "a": "Not for long. The basket is not a freezer, so ice melts back into the reservoir and can taste stale. Move the ice to a freezer bag if you want to keep it."
+  },
+  {
+   "q": "Why does my ice maker make less ice than the box says?",
+   "a": "The figure assumes ideal conditions and constant emptying. Warm rooms, warm water and blocked vents slow it down. Check the vents and water temperature first. Room temperature has an outsized effect on compressor machines, so a unit in a hot garage can fall well short of its label compared with a cool kitchen."
+  },
+  {
+   "q": "Do these cap prices stay the same?",
+   "a": "No. Prices move, and the cap reflects listing prices when the guide was last updated. Check the current listing before buying."
+  }
+ ],
+ "relatedGuides": [
+  {
+   "title": "Best Portable Ice Makers",
+   "href": "/guide/best-portable-ice-makers"
+  },
+  {
+   "title": "Best Nugget Ice Makers",
+   "href": "/guide/best-nugget-ice-makers"
+  }
+ ],
+ "heroImage": "https://m.media-amazon.com/images/I/51WJWyG0PaL._SL500_.jpg"
+}

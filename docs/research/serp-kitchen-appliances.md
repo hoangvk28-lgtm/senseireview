@@ -79,3 +79,17 @@
 - They split picks by budget round, Belgian flip and mini waffle makers.
 - They note cheaper models need more attention to browning.
 - Gap we cover: plate coating wear, batter overflow, depth versus crispness and storage.
+
+## best-budget-cold-press-juicers
+- Top guides lead with slow versus centrifugal, then juice yield and pulp dryness, then cleanup time.
+- They split picks by budget slow juicer versus compact entry model, and some admit centrifugal suits a tight budget.
+- Common questions: is cold press worth it, how long does juice keep, how hard is cleaning.
+- Missed angle: the real cost of a budget slow juicer is strainer cleaning and a motor duty cycle, not the price.
+- Include honest note that yield percentages are maker claims.
+
+## best-budget-yogurt-makers
+- Top guides lead with jar count and batch volume, then temperature control and timer versus a simple on/off switch.
+- Picks are split by single-container versus multi-jar, and Greek-style straining versus basic incubation.
+- Budget pick commonly named is a simple on/off glass-jar unit with no auto shut-off.
+- Questions answered: do you need a yogurt maker versus an oven or Instant Pot, how long does it take, which milk to use.
+- Missed angle: no auto shut-off needs a reminder, and exact temperature holding matters more than jar count.

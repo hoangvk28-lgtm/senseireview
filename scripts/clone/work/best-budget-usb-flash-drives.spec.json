@@ -1,0 +1,592 @@
+{
+ "guideSlug": "best-budget-usb-flash-drives",
+ "categorySlug": "tech-electronics",
+ "mainKeyword": "usb flash drive",
+ "guideTitle": "Best Budget USB Flash Drives (2026)",
+ "metaTitle": "Best Budget USB Flash Drives",
+ "metaDescription": "Seven budget USB flash drives compared on capacity, USB generation, read speed claims and build, plus the honest limits of cheap storage for everyday use.",
+ "lastUpdated": "2026-11-21",
+ "readTime": "12 min",
+ "heroImage": "https://m.media-amazon.com/images/I/31ZClWSgLzL._SL500_.jpg",
+ "expertTake": "The SanDisk Ultra Flair 128GB is our top pick because it combines USB 3.0 speed, a metal-style body and a capacity that covers most people for years. The PNY Turbo Attache 3 three-pack is the value pick when you need several drives for the same money. Skip the category if you need a backup, since any flash drive can fail without warning and should never hold the only copy of a file.",
+ "introParagraphs": [
+  "A USB flash drive is the simplest way to carry files between computers, hand documents to someone or boot an installer. At the budget end the drives look similar, but differences in USB generation, write speed and build quality show up as soon as you copy something large.",
+  "This guide compares affordable drives on capacity, advertised read speed, connector design and how they behave over a few years of pocket and desk use. We also explain why a headline speed number deserves caution and why a flash drive is never a backup."
+ ],
+ "products": [
+  {
+   "id": "B015CH1PJU",
+   "badge": "Best Overall",
+   "name": "SanDisk Ultra Flair 128GB USB 3.0 Flash Drive up to 150MB/s Read",
+   "specs": [
+    "128GB",
+    "USB 3.0",
+    "150MB/s read",
+    "Metal-look body"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "128 GB"
+    },
+    {
+     "label": "Interface",
+     "value": "USB 3.0 Type-A"
+    },
+    {
+     "label": "Read speed",
+     "value": "Up to 150 MB/s"
+    },
+    {
+     "label": "Design",
+     "value": "Cap-less, textured body"
+    },
+    {
+     "label": "Price position",
+     "value": "Upper-middle of the group"
+    }
+   ],
+   "description": "The Ultra Flair is a cap-less USB 3.0 drive with a textured, durable-feeling body and a stated read speed of up to 150 MB/s. It comes in several capacities, and the 128 GB version is the sweet spot for most people because it holds large photo libraries and a few big video files. The maker claims it transfers a full-length movie in under 30 seconds, which is a best-case read figure.\n\nThe tradeoff is price against the basic drives. It costs more than the USB 2.0 sticks here, and the 150 MB/s figure applies to reading, not writing, so copying to the drive is slower. Compared with the PNY Turbo Attache 3, which lists 100 MB/s read, the Ultra Flair promises about half again as much read speed, though you need a USB 3.0 port to see any difference. It suits people who want a single reliable drive for years.\n\nOwnership is mostly about habit. Always eject before unplugging, keep important files in a second place and avoid leaving the drive in a port that gets knocked. Metal-style bodies shed heat better than thin plastic, which helps during long copies. Check capacity honestly: formatted space is a little under the label.",
+   "bestFor": "Everyday users who want one fast, durable drive with enough capacity to last.",
+   "pros": [
+    "USB 3.0 interface with stated read up to 150 MB/s",
+    "128 GB capacity covers large photo and document libraries",
+    "Cap-less design means no lid to lose",
+    "Textured body feels more durable than thin plastic sticks"
+   ],
+   "cons": [
+    "Costs more than the USB 2.0 sticks in this list",
+    "Write speed is lower than the headline read figure"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B015CH1PJU?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31ZClWSgLzL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B08Y2HMH5X",
+   "badge": "Best Value",
+   "name": "PNY Turbo Attache 3 64GB USB 3.0 Flash Drive 3-Pack",
+   "specs": [
+    "64GB x 3",
+    "USB 3.0",
+    "100MB/s read",
+    "Sliding collar"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "64 GB each, 3 drives"
+    },
+    {
+     "label": "Interface",
+     "value": "USB 3.0 Type-A"
+    },
+    {
+     "label": "Read speed",
+     "value": "Up to 100 MB/s"
+    },
+    {
+     "label": "Design",
+     "value": "Cap-less sliding collar"
+    },
+    {
+     "label": "Price position",
+     "value": "Middle of the group"
+    }
+   ],
+   "description": "PNY sells the Turbo Attache 3 in multi-packs, and this one has three 64 GB drives with USB 3.0 and a stated read speed of up to 100 MB/s. The sliding collar protects the connector and removes the need for a cap, and the drive is light enough for a key ring. A multi-pack lowers the effective cost per drive, which is the real advantage.\n\nThe compromise is speed. At up to 100 MB/s read it trails the SanDisk Ultra Flair 128GB, and the maker says it is only ten times faster than a USB 2.0 stick. The sliding collar is a mechanical part that can loosen after many cycles, so it is not the right pick for rough handling. It suits families, small teams and classrooms who want several drives for different jobs, such as one for photos, one for school files and one for backups of backups.\n\nIn practice, label each drive so you do not confuse them. Use eject, keep a note of what is on each, and avoid heavy writes on all three at once. Check that a drive has not worked loose in a front panel port. A pack of three means a failure on one is not a disaster, but you still should not store the only copy of anything on any of them.",
+   "bestFor": "Households and classrooms that want several drives at a low cost per unit.",
+   "pros": [
+    "Three drives in one pack give the lowest cost per drive here",
+    "USB 3.0 with stated read up to 100 MB/s",
+    "Cap-less sliding collar protects the connector",
+    "Light enough for a key ring"
+   ],
+   "cons": [
+    "Read speed trails the SanDisk Ultra Flair line",
+    "Sliding collar is a moving part that can loosen"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B08Y2HMH5X?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41IwSP9kOyL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0H1G8JBBW",
+   "badge": "Cheapest Single Drive",
+   "name": "ENUODA 8GB USB 2.0 Flash Drive Thumb Drive Single Pack",
+   "specs": [
+    "8GB",
+    "USB 2.0",
+    "Plug and play",
+    "Single pack"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "8 GB"
+    },
+    {
+     "label": "Interface",
+     "value": "USB 2.0"
+    },
+    {
+     "label": "Setup",
+     "value": "Plug and play, no software"
+    },
+    {
+     "label": "Compatibility",
+     "value": "Windows, Linux and macOS"
+    },
+    {
+     "label": "Price position",
+     "value": "Lowest in the group"
+    }
+   ],
+   "description": "The ENUODA is the smallest and cheapest drive in the lineup, an 8 GB USB 2.0 stick sold as a single pack. The maker says it holds thousands of photos, hours of music and everyday documents, which is a fair description of what 8 GB is good for. It needs no software and works with Windows, Linux and macOS.\n\nThe tradeoff is capacity and speed. USB 2.0 is slow for large files, and 8 GB fills quickly with video or a modern photo library. A lesser-known maker also gives you fewer clues about flash quality than SanDisk or PNY. Compared with the SanDisk Cruzer Blade 32GB, it costs less but offers a quarter of the space and no encryption software. It suits someone who needs a throwaway stick for a printer, a car stereo or a one-off document handoff.\n\nTreat it as disposable storage. Eject before unplugging, keep the original file elsewhere and replace it if it shows errors. Label it so it does not get mixed up with drives that hold important files.",
+   "bestFor": "One-off document handoffs and devices such as printers and car stereos.",
+   "pros": [
+    "Lowest price position in this comparison",
+    "Plug and play with no software to install",
+    "Works on Windows, Linux and macOS",
+    "Small enough to leave plugged into a device"
+   ],
+   "cons": [
+    "8 GB fills quickly with photos or video",
+    "USB 2.0 is slow for anything large"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0H1G8JBBW?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41J0UIyYPmL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B00P8XQPY4",
+   "badge": "Best Alternative to Ultra Flair",
+   "name": "SanDisk Ultra 128GB USB 3.0 Flash Drive up to 100MB/s Read",
+   "specs": [
+    "128GB",
+    "USB 3.0",
+    "100MB/s read",
+    "Recovery offer"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "128 GB"
+    },
+    {
+     "label": "Interface",
+     "value": "USB 3.0 Type-A"
+    },
+    {
+     "label": "Read speed",
+     "value": "Up to 100 MB/s"
+    },
+    {
+     "label": "Extras",
+     "value": "Rescue PRO Deluxe one-year offer"
+    },
+    {
+     "label": "Price position",
+     "value": "Middle of the group"
+    }
+   ],
+   "description": "This SanDisk Ultra is a plainer 128 GB USB 3.0 drive with a stated read speed of up to 100 MB/s. The listing includes an offer for one year of Rescue PRO Deluxe recovery software, which is a small value-add if you ever delete a file by mistake. It uses the same brand approach as the Ultra Flair but a simpler body.\n\nThe tradeoff is that it is slower on paper than the 150 MB/s Ultra Flair and costs a similar amount at the same capacity, so the choice comes down to look and the recovery offer. Compared with the PNY three-pack, you get a single 128 GB drive rather than three 64 GB drives. It suits someone who wants one reliable drive with brand backing and a recovery software option.\n\nTreat the recovery software as a bonus, not a safety net. Eject before unplugging, keep a backup and avoid filling the drive to the last gigabyte, because nearly full flash drives slow down. Check the listing terms for how long the software offer lasts.",
+   "bestFor": "Buyers who want a single 128 GB branded drive with a recovery software offer.",
+   "pros": [
+    "128 GB capacity in a single branded drive",
+    "USB 3.0 with stated read up to 100 MB/s",
+    "Includes a one-year recovery software offer",
+    "Compatible with older USB 2.0 ports"
+   ],
+   "cons": [
+    "Slower stated read speed than the Ultra Flair models",
+    "Recovery offer is time limited and no replacement for backups"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B00P8XQPY4?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31oUPf9fFbL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B005FYNT3G",
+   "badge": "Best for Basic Files",
+   "name": "SanDisk Cruzer Blade 32GB USB 2.0 Flash Drive",
+   "specs": [
+    "32GB",
+    "USB 2.0",
+    "SecureAccess",
+    "Compact"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "32 GB"
+    },
+    {
+     "label": "Interface",
+     "value": "USB 2.0"
+    },
+    {
+     "label": "Security",
+     "value": "SecureAccess software, 128-bit AES"
+    },
+    {
+     "label": "Design",
+     "value": "Compact, contoured"
+    },
+    {
+     "label": "Price position",
+     "value": "Second lowest here"
+    }
+   ],
+   "description": "The Cruzer Blade is a compact USB 2.0 drive that has been a staple for documents. It includes SanDisk SecureAccess software, which offers password protection using 128-bit AES encryption for a vault of private files. The contoured body is small enough for a pocket and works on older machines.\n\nThe tradeoff is speed. USB 2.0 is much slower than USB 3.0, so large files take a long time to copy, which makes this unsuitable for video. SecureAccess is software that runs from the drive and works on supported systems, so test it on your machine before relying on it. Compared with the SamData two-pack, you get a major brand and an encryption tool but only one drive. It suits office users who carry documents and want a basic password option.\n\nOwnership is simple: eject, keep a backup and do not expect speed. The small size makes it easy to lose, so attach a lanyard. Treat the encryption as convenience and not as a replacement for strong disk encryption.",
+   "bestFor": "People who carry documents and want a branded drive with a password vault.",
+   "pros": [
+    "Compact body slips into a pocket",
+    "SecureAccess software offers 128-bit AES password protection",
+    "Major brand with long market presence",
+    "Works with older USB 2.0 ports"
+   ],
+   "cons": [
+    "USB 2.0 is slow for large files",
+    "32 GB is small by current standards"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B005FYNT3G?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41lLWb9BXLL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B082ZGHXK8",
+   "badge": "Best Two-Pack",
+   "name": "SamData 32GB USB 2.0 Flash Drives 2-Pack with LED Light",
+   "specs": [
+    "32GB x 2",
+    "USB 2.0",
+    "LED light",
+    "360 clip"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "32 GB each, 2 drives"
+    },
+    {
+     "label": "Interface",
+     "value": "USB 2.0"
+    },
+    {
+     "label": "Colors",
+     "value": "Black and blue"
+    },
+    {
+     "label": "Design",
+     "value": "Rotating metal clip, ABS body"
+    },
+    {
+     "label": "Price position",
+     "value": "Low end of the group"
+    }
+   ],
+   "description": "SamData sells two 32 GB USB 2.0 drives in black and blue, which makes it easy to assign one drive per use. The metal clip rotates 360 degrees around an ABS plastic body, protecting the connector, and a small LED shows activity. It works with Windows, macOS and Linux without installing software.\n\nThe tradeoff is brand assurance and speed. USB 2.0 is slow, and a lesser-known maker gives you fewer signs of long-term quality or consistent flash chips. Compared with the SanDisk Cruzer Blade, you get two drives for a similar cost but no encryption software. It suits someone who needs two cheap drives for handoffs and does not care about speed.\n\nExpect a short life if the clip is stressed. The clip is the weak point, so keep the drive out of bags where it can snap. Eject before unplugging, and avoid using one as the only copy of important files.",
+   "bestFor": "Buyers who need two basic drives for handing files to others.",
+   "pros": [
+    "Two drives in contrasting colors help organize files",
+    "Rotating clip protects the connector",
+    "LED shows when the drive is active",
+    "Works on Windows, macOS and Linux"
+   ],
+   "cons": [
+    "USB 2.0 speed is slow for large transfers",
+    "Lesser-known brand with limited long-term track record"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B082ZGHXK8?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41qxrPd7qKL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "USB generation",
+   "explanation": "USB 3.0 drives like the SanDisk Ultra Flair read far faster than USB 2.0 drives such as the Cruzer Blade, but only in a USB 3.0 port. USB 2.0 is fine for documents and slow for video. Many people pay for USB 3.0 and then plug into a USB 2.0 hub."
+  },
+  {
+   "criterion": "Real speed vs headline",
+   "explanation": "The 150 MB/s on the Ultra Flair and 100 MB/s on the PNY and SanDisk Ultra are read speeds. Write speed, which matters for copying to the drive, is lower and rarely published. Do not judge a drive on the headline number alone."
+  },
+  {
+   "criterion": "Capacity needs",
+   "explanation": "A 32 GB drive handles documents, while 64 GB and 128 GB suit photos and some video. Formatted capacity is a little less than the label. Buying a larger drive is cheap, but fill it only to about 90 percent for steady speed."
+  },
+  {
+   "criterion": "File system",
+   "explanation": "FAT32 limits any one file to 4 GB, and exFAT removes that limit on modern systems. Drives often ship formatted FAT32 or exFAT. Reformat if you need to move large video files between Windows and macOS."
+  },
+  {
+   "criterion": "Connector protection",
+   "explanation": "Cap-less sliding collars, as on the PNY, and rotating clips, as on the SamData, protect the plug but add moving parts. A simple cap can be lost. Choose a design you will actually use."
+  },
+  {
+   "criterion": "Brand and counterfeit risk",
+   "explanation": "Counterfeit drives report a false size and fail when full. Buy from the maker or an authorized seller, and test capacity with a checker before filing important data. A known brand reduces but does not remove the risk."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Read speed (MB/s)",
+   "meaning": "How fast the drive sends data to the computer, as in up to 150 MB/s on the Ultra Flair.",
+   "watchFor": "Write speed is slower and often not published."
+  },
+  {
+   "spec": "USB 3.0",
+   "meaning": "A faster interface standard that is backward compatible with USB 2.0 ports.",
+   "watchFor": "A USB 2.0 port limits a USB 3.0 drive."
+  },
+  {
+   "spec": "Capacity (GB)",
+   "meaning": "The labeled storage, from 8 GB on the ENUODA to 128 GB on the Ultra.",
+   "watchFor": "Usable space is somewhat less than the label."
+  },
+  {
+   "spec": "AES encryption",
+   "meaning": "A method that scrambles files behind a password, offered through SanDisk SecureAccess.",
+   "watchFor": "Software runs only on supported systems and is not full-disk encryption."
+  },
+  {
+   "spec": "File system",
+   "meaning": "The format that organizes files, such as FAT32 or exFAT.",
+   "watchFor": "FAT32 cannot hold a single file over 4 GB."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Specification review",
+   "description": "We compared published capacities, interfaces and stated read speeds. We read each listing for connector design and extras. We set the 150 MB/s Ultra Flair against the 100 MB/s PNY."
+  },
+  {
+   "title": "Owner feedback patterns",
+   "description": "We looked at recurring themes in owner feedback such as slow writes, connector wear and counterfeit concerns. Single complaints were set aside. We did not use star ratings."
+  },
+  {
+   "title": "Design approach",
+   "description": "We considered connector protection, from cap-less collars to rotating clips. We also noted software extras such as encryption and recovery offers."
+  },
+  {
+   "title": "Value and price position",
+   "description": "We ordered the drives by relative price tier and weighed cost per drive and per gigabyte. We did not quote prices because they change."
+  },
+  {
+   "title": "What we did not do",
+   "description": "We did not run speed benchmarks or file transfers. Scores are editorial judgments built on published information. Speed numbers remain the makers' claims."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Speed Needs",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Fastest claimed read",
+      "SanDisk Ultra Flair 128GB",
+      "Up to 150 MB/s"
+     ],
+     [
+      "Cheapest possible",
+      "ENUODA 8GB",
+      "USB 2.0, lowest price"
+     ],
+     [
+      "Fast and several drives",
+      "PNY Turbo Attache 3 3-pack",
+      "100 MB/s each"
+     ],
+     [
+      "Documents only",
+      "SanDisk Cruzer Blade",
+      "USB 2.0 is enough"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest cost per drive",
+      "PNY 3-pack",
+      "Three drives"
+     ],
+     [
+      "Two basic drives",
+      "SamData 2-pack",
+      "Two colors"
+     ],
+     [
+      "One drive, brand",
+      "SanDisk Cruzer Blade",
+      "Well-known maker"
+     ],
+     [
+      "Higher spend for capacity and speed",
+      "SanDisk Ultra Flair 128GB",
+      "128 GB and USB 3.0"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "USB 3.0 vs USB 2.0",
+   "cards": [
+    {
+     "label": "USB 3.0",
+     "text": "The Ultra Flair, PNY and SanDisk Ultra read quickly and suit photos, video and big files."
+    },
+    {
+     "label": "USB 2.0",
+     "text": "The Cruzer Blade and SamData are slower but cost less and work fine for documents."
+    }
+   ],
+   "note": "Pick USB 3.0 if you copy files over a few hundred megabytes. Pick USB 2.0 for occasional documents."
+  },
+  {
+   "subheading": "By Capacity",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "32 GB for documents",
+      "SanDisk Cruzer Blade",
+      "Compact and simple"
+     ],
+     [
+      "8 GB for a few documents",
+      "ENUODA 8GB",
+      "Smallest and cheapest"
+     ],
+     [
+      "128 GB for video",
+      "SanDisk Ultra Flair 128GB",
+      "Largest here"
+     ],
+     [
+      "Several 64 GB drives",
+      "PNY 3-pack",
+      "Split by use"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Sharing Files Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Drives that are cheap enough to give away, with a connector that survives a bag, and no need to get the drive back."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The PNY three-pack and the SamData two-pack are the best fit for handing out drives."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You move large files often or need 128 GB and a durable body, as with the Ultra Flair 128GB."
+    },
+    {
+     "label": "Save if",
+     "text": "You carry documents, in which case the Cruzer Blade or SamData covers the need."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Eject before unplugging",
+   "interval": "Every use",
+   "why": "Cached writes can be lost if you pull the drive. Ejecting prevents file system corruption."
+  },
+  {
+   "task": "Copy files to a second place",
+   "interval": "Every time you edit",
+   "why": "Flash drives can fail without warning. A second copy is the only real protection."
+  },
+  {
+   "task": "Check capacity with a checker",
+   "interval": "When new",
+   "why": "Counterfeit drives report false sizes. A test before filing important data catches this."
+  },
+  {
+   "task": "Clean the connector",
+   "interval": "Yearly",
+   "why": "Pocket lint can lodge in the plug. A dry brush clears it."
+  },
+  {
+   "task": "Replace old drives",
+   "interval": "Every few years",
+   "why": "Flash cells wear with writes and age. Replace drives that show errors or slowdowns."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is a USB 3.0 drive worth it over USB 2.0?",
+   "a": "Yes if you move large files and have a USB 3.0 port. For small documents, USB 2.0 is adequate."
+  },
+  {
+   "q": "Are cheap flash drives safe?",
+   "a": "Branded drives from authorized sellers are generally fine. Counterfeit and no-name drives risk false capacity and failure, so test before trusting them."
+  },
+  {
+   "q": "Can I use a flash drive as a backup?",
+   "a": "Not as the only backup. Flash drives can fail suddenly, so keep another copy on a second device or cloud storage."
+  },
+  {
+   "q": "Why is my drive slower than advertised?",
+   "a": "The advertised number is read speed in ideal conditions. Write speed, the port, the cable and the file size all slow real transfers."
+  },
+  {
+   "q": "What file system should I use?",
+   "a": "exFAT works on modern Windows and macOS and handles files over 4 GB. FAT32 works everywhere but limits file size."
+  },
+  {
+   "q": "How long do flash drives last?",
+   "a": "Lifespan depends on writes and quality, and can range from years to sudden failure. Replace one that shows errors."
+  }
+ ],
+ "relatedGuides": [
+  {
+   "title": "Best USB Flash Drives",
+   "href": "/guide/best-usb-flash-drives"
+  },
+  {
+   "title": "Best External SSDs Under 200",
+   "href": "/guide/best-external-ssds-under-200"
+  },
+  {
+   "title": "SSD vs HDD",
+   "href": "/guide/ssd-vs-hdd"
+  }
+ ]
+}

@@ -65,3 +65,20 @@
 - Hand riveters with long handles and high leverage ratios reduce hand fatigue.
 - Rivet nut (threaded insert) tools are a different category.
 - Pneumatic hammer guns for solid rivets also need correct rivet sets and regulated air pressure.
+
+# electric staple guns (added round 10)
+- Electric staple guns come in corded motor-driven or solenoid models and small 4 V cordless USB-rechargeable models; none needs a compressor.
+- T50 is the common staple family, in 1/4, 5/16, 3/8, 1/2 and 9/16 inch lengths with a roughly 1/2 inch wide crown; check the listing for the lengths a tool accepts.
+- Light 4 V cordless units suit upholstery fabric, craft boards, thin softwood and house wrap; they struggle in hardwood and thick plywood.
+- Corded models fire consistently without battery fade and often drive 1/2 inch staples into pine more reliably; a cord limits reach, so use a short extension cord.
+- 2-in-1 tools add an 18 gauge brad nailer for trim; brads are small and hold lightly.
+- Contact safety (the tip must touch the work before firing) prevents misfires; never disable it.
+- Staple depth varies by wood and tool power; test on scrap before working on the real piece.
+- Jams happen with bent staples; clear the magazine with the battery removed or the cord unplugged.
+- Wear eye protection; staples can ricochet off knots and metal.
+- Keep fingers clear of the nose and use two hands for pressure on hard materials.
+- Cordless units weigh about 1.6 to 1.8 lb, a good fit for overhead and long upholstery jobs.
+- Recharge after use; small lithium packs hold their charge for months, but a trickle top-up before long storage helps.
+- Staple guns are not for structural fastening; use screws or nails for framing.
+- Cord length, about 8 feet on common corded models, decides how often you move an extension cord.
+- For tight corners, cordless tools with a pivot or small nose reach edges where a corded motor head cannot.

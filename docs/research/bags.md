@@ -1,0 +1,14 @@
+# bags (laptop backpacks)
+- Laptop compartment: listed size (15.6 or 17 in) refers to the largest screen diagonal, not the chassis; thick or rugged laptops need extra depth.
+- Padded sleeve with a raised floor keeps the laptop off the ground when the bag is dropped; suspended compartments are better than ones that touch the base.
+- TSA-friendly or checkpoint-friendly designs fold open flat so the laptop can stay in the bag; rules vary by country and are not a guarantee.
+- Weight: padded straps with a sternum strap and a back panel with airflow reduce shoulder strain; an empty weight of a few pounds is normal.
+- Water resistance usually means fabric treatment and not sealed seams; zippers are the weak point in rain.
+- Fabric denier (such as 600D or 900D) is a thread thickness figure; it hints at toughness but not weave quality.
+- Anti-theft features include hidden pockets, lockable zippers and a back-panel pocket; they deter opportunists, not determined thieves.
+- External USB charging ports pass power from a power bank you supply; they do not contain a battery.
+- Pockets: a top quick-access pocket, a water bottle pocket and a pass-through luggage strap matter on commutes.
+- Slim profiles fit under a seat and sit close to the back; expandable designs add volume for gym clothes.
+- Stitch quality at strap anchors and zipper pulls is where cheap bags fail first.
+- Keep cables and chargers in a separate pouch so they do not press into the laptop screen.
+- Wash by spot cleaning; machine washing damages padding and coatings.

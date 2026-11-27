@@ -1,0 +1,18 @@
+# kvm-powerline-nas (KVM switches, powerline adapters, NAS)
+- KVM switch shares one keyboard, mouse and monitor between computers; USB switching and video switching are separate paths.
+- HDMI 4K@60Hz needs the switch, cables and both computers to support HDMI 2.0; a 1.4 switch caps 4K at 30Hz.
+- EDID emulation keeps the computer from rearranging windows when you switch away; cheap switches without it reshuffle desktops.
+- Dual-monitor KVMs need one video input per monitor per computer, so the cable count doubles.
+- USB 3.0 hub ports on a KVM are for peripherals like drives; keyboard and mouse use dedicated USB ports on many models.
+- Hotkey or button switching; some switches drop the keyboard for a second at switch time.
+- Remote KVM-over-IP devices are a different product: they stream a computer over a network for remote management, not a desk share.
+- Powerline adapters send data over the electrical wiring; speed ratings like AV1000 are theoretical link rates, real throughput is often a fraction.
+- Wall outlet only: plug straight into the wall, not a power strip or surge protector, which filters the signal.
+- Different circuits or breaker panels, old wiring, and noisy appliances reduce speed; the pair must be on the same electrical system.
+- Passthrough outlet lets you keep the outlet but adds filtering; check it supports the load.
+- Gigabit ports are worth having; 100 Mbps ports cap speed at about 100 megabits.
+- Security: encryption button pairs adapters; pair before moving them.
+- Conference speakerphone: USB plug-and-play or Bluetooth, microphone pickup radius, full duplex so both sides can speak, and certified platforms.
+- NAS: one network drive vs multi-bay; media streaming depends on CPU transcoding; RAID is not a backup.
+- NAS drives for 24 hour use are CMR-rated and designed for vibration in multi-bay enclosures.
+- Ethernet cabling to the NAS and gigabit LAN are the main limits for streaming; Wi-Fi adds variability.

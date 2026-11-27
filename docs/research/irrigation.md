@@ -1,0 +1,16 @@
+# irrigation (drip kits)
+- Drip irrigation delivers water slowly at the root zone through emitters on small tubing, using less water than sprinklers and keeping foliage dry.
+- Typical home layout: hose bib, then backflow preventer, filter, pressure regulator, 1/2 in mainline, 1/4 in feeder tubing to emitters.
+- Most 1/4 in kits are low flow and are designed for roughly 15 to 30 psi; household pressure around 40 to 60 psi needs a regulator.
+- Pressure regulator and filter matter more than emitter count; clogs and blowouts are the common failures.
+- Run length: 1/4 in tubing loses pressure over long runs; keep feeder lines short and use 1/2 in mainline for the long haul.
+- Emitters: fixed-rate (such as 0.5 or 1 gal per hour) and adjustable; adjustable nozzles clog and drift more.
+- Flow match: total emitter flow must fit your hose bib flow; large kits on a slow spigot starve the far end.
+- Timers: a simple hose-end timer turns the kit on and off; battery timers fail in cold or from dead batteries.
+- UV: black tubing resists sun but becomes brittle over seasons; bury or mulch to extend life.
+- Winter: disconnect and drain above-ground tubing before freezing weather; frozen water cracks fittings.
+- Fittings: barbed connectors hold; quick-connect fittings are easier but can leak if tubing is cut crooked.
+- Hole punch: a proper punch makes clean holes; a rough hole leaks at the barb.
+- Flush the line before adding the final emitters to clear debris.
+- Low-cost kits often use thin tubing and brittle fittings; spare parts are a good idea.
+- Raised beds and containers suit 1/4 in micro tubing; rows and shrubs suit inline emitter tubing.

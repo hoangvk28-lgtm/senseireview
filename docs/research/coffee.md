@@ -12,3 +12,20 @@
 - Slower grinding is the tradeoff of a manual grinder; finer settings for espresso and moka take far longer.
 - Travel grinders should disassemble for cleaning and have a lid that keeps grounds in.
 - Do not grind oily dark roasts for long; oil clogs burrs, brush clean after each use.
+
+# milk frothers (added round 10)
+- Automatic jug frothers heat milk and spin a magnetic whisk; handheld wands only whip milk you heat separately.
+- Frothing capacity is about half of heating capacity, because milk expands; for example a unit might heat 350 to 500 mL but froth only 150 to 180 mL.
+- Whisk types: a disc whisk makes finer, silkier foam; a spring or coil whisk makes larger bubbles. Many jugs include two whisks and one without for warming.
+- Modes usually cover hot dense foam, hot airy foam, cold foam and warm milk, plus a few with chocolate stirring.
+- Heating tops out around 140 to 160 F; milk heated higher scorches and tastes flat.
+- Non-stick interior coatings make cleanup easy but wear with scouring; stainless 304 interiors resist wear but can stick burnt milk.
+- Fill between the minimum and maximum lines; overfilling for foam spills, underfilling gives no foam.
+- Dairy milk with higher protein froths best; barista oat blends froth well and many other plant milks give thin foam.
+- Auto shut-off protects against dry heating; check the stop temperature.
+- Never immerse the base or cord; rinse the jug and whisk right after use.
+- Milk film sticks if left to dry; soak the jug briefly with warm water and a drop of dish soap.
+- 500 W to 600 W heaters warm a cup of milk in a couple of minutes.
+- Noise ranges from conversation level to a blender hum; one-touch models are loud only for the froth cycle.
+- Limit to the use of milk; do not heat soup or water in a milk jug unless the manual says so.
+- Replace worn whisks and seals; magnets can lose grip over years.

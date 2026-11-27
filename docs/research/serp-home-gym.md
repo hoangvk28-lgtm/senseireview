@@ -96,3 +96,17 @@
 - TRX GO is the benchmark; budget straps imitate with door anchors, extensions and carry bags.
 - Criteria: stitching, buckle, anchor type, strap length, handle grip; door safety is the recurring warning.
 - Caveat: anchor failure risk; follow rated load and check the door.
+
+## best-budget-gymnastic-rings
+- Top guides lead with material (wood versus plastic), ring diameter and strap system (cam buckle versus numbered loops).
+- Picks are split by home use versus competition standard, and by beginner versus advanced.
+- Common questions: how much weight can they hold, where to hang them, wood or plastic.
+- Missed angle: the anchor point and strap stitching set the real limit, not the headline load rating.
+- Honest tradeoff: budget wood can splinter; plastic is slick with sweat.
+
+## best-treadmill-mats-for-carpet
+- Top guides lead with material (PVC versus rubber), thickness and size relative to the treadmill footprint.
+- Picks are split by full treadmills, walking pads and exercise bikes, and by foam versus dense rubber.
+- Common questions: do you need a mat on carpet, how thick, will it stop noise.
+- Missed angle: on carpet the mat creeps and the treadmill can rock; grip and level feet matter more than thickness.
+- Honest tradeoff: soft thick mats feel springy; PVC can smell; mats trap moisture on carpet.

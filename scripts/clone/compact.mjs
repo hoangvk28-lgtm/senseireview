@@ -17,7 +17,7 @@ for (const slug of slugs) {
     const t = clean(i.title);
     const key = t.toLowerCase().replace(/[^a-z0-9]/g, "").slice(0, 45);
     // NOJUNK=1 skips the accessory filter for topics whose real products trip it (e.g. "mat and pillow set").
-    if ((!process.env.NOJUNK && isJunk(t)) || seen.has(key)) return null;
+    if ((!process.env.NOJUNK && isJunk(t, slug)) || seen.has(key)) return null;
     seen.add(key);
     return { src, asin: i.asin, brand: i.brand, title: cut(t, 120), imageUrl: i.imageUrl, amazonUrl: i.amazonUrl, _p: num(i.price_internal_only),
       features: (i.features || []).map(clean).filter((f) => f.length > 20).slice(0, 3).map((f) => cut(f, 120)) };

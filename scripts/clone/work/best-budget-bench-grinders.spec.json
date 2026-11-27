@@ -1,0 +1,588 @@
+{
+ "guideSlug": "best-budget-bench-grinders",
+ "categorySlug": "tools-diy",
+ "mainKeyword": "bench grinder",
+ "guideTitle": "Best Budget Bench Grinders (2026)",
+ "metaTitle": "Best Budget Bench Grinders",
+ "metaDescription": "Budget bench grinders compared on wheel size, motor power, speed options, work lights and base weight, so you can sharpen and shape metal in a home shop.",
+ "lastUpdated": "2026-11-21",
+ "readTime": "12 min",
+ "expertTake": "The WEN BG4276 is the best overall budget pick because it pairs a 6 inch grinder with a flexible work light and sensible guards, and the VEVOR low-speed grinder is the value pick for anyone who sharpens chisels and knives. Anyone who rarely sharpens or shapes metal should consider a hand file set and a sharpening stone and skip the category.",
+ "introParagraphs": [
+  "A bench grinder is two abrasive wheels on a single motor shaft, used for sharpening tools, removing burrs and shaping metal. At the budget end the real differences are wheel size, motor power, speed, the quality of the tool rests and the weight of the base that keeps the grinder from walking.",
+  "This guide focuses on the lower half of the price range and is honest about the limits. We evaluated each grinder from published specifications and patterns in owner feedback, with attention to wheel quality, vibration and year-three wear. The stock wheels on budget grinders are usually coarse and slightly out of round, so a small wheel upgrade often makes more difference than a bigger motor."
+ ],
+ "products": [
+  {
+   "id": "B08ZVTC2VK",
+   "badge": "Best Overall",
+   "name": "WEN BG4276 6 in bench grinder, 2.1 A, flexible work light",
+   "specs": [
+    "6 in wheels",
+    "2.1 A motor",
+    "Work light",
+    "Single speed"
+   ],
+   "specList": [
+    {
+     "label": "Wheel size",
+     "value": "6 in"
+    },
+    {
+     "label": "Motor",
+     "value": "2.1 A"
+    },
+    {
+     "label": "Speed",
+     "value": "Single speed"
+    },
+    {
+     "label": "Light",
+     "value": "Flexible work light"
+    },
+    {
+     "label": "Use",
+     "value": "Sharpening and shaping"
+    }
+   ],
+   "description": "The WEN BG4276 is the most complete entry-level grinder because it adds a flexible work light to a basic 6 inch layout. The 2.1 amp motor drives two wheels at a single speed, with tool rests and eye shields fitted from the factory. The design approach keeps the price low while giving the home shop the features it actually uses.\n\nCompared with the Genesis GBG600L, the BG4276 has one light instead of two but comes from a better-known maker, and the light still makes a real difference when you are lining up a bevel. Compared with the BG625V, it is single speed, so it lacks the control for delicate work. It is a good fit for garden tool sharpening, mower blades and quick deburring.\n\nOwnership is mostly about wheel care. Dress the wheels when they glaze, set the tool rests close to the wheel and check the guards before each session. Upgrade the stock wheels if you sharpen often, since budget wheels can be uneven.",
+   "bestFor": "Home shops that sharpen garden tools and deburr metal.",
+   "pros": [
+    "Flexible work light helps line up the bevel",
+    "6 inch wheels suit most home shop jobs",
+    "Tool rests and eye shields come fitted",
+    "Low cost makes it an easy first grinder"
+   ],
+   "cons": [
+    "Single speed runs hot on delicate edges",
+    "Stock wheels are coarse and slightly out of round"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B08ZVTC2VK?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/4152ZJiQFrL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0FLHLPLHK",
+   "badge": "Best Value for Sharpening",
+   "name": "VEVOR 6 in slow-speed bench grinder, 1750 RPM, 250 W",
+   "specs": [
+    "6 in wheels",
+    "1750 RPM",
+    "250 W motor",
+    "Induction"
+   ],
+   "specList": [
+    {
+     "label": "Wheel size",
+     "value": "6 in"
+    },
+    {
+     "label": "Speed",
+     "value": "1750 RPM"
+    },
+    {
+     "label": "Motor",
+     "value": "250 W induction"
+    },
+    {
+     "label": "Use",
+     "value": "Sharpening edge tools"
+    },
+    {
+     "label": "Type",
+     "value": "Low-speed grinder"
+    }
+   ],
+   "description": "The VEVOR is a low-speed grinder that runs at about 1750 RPM, which is half the speed of a standard bench grinder. The slower speed keeps heat down, so chisels, plane irons and knives are less likely to lose their temper when you sharpen them. The design approach uses an induction motor and a 6 inch wheel, aimed at people who care about edge tools rather than heavy shaping.\n\nCompared with the WEN BG4276, the VEVOR is slower and quieter but removes metal more gently. Compared with the JET 8 inch grinder, it runs slower and removes less metal, though it keeps edges cooler. It is a sound choice if sharpening is your main use and you want to avoid blueing your edges.\n\nOwnership is simple. Fit a good wheel, set the tool rest close and keep a cup of water nearby for cooling. The induction motor is usually quiet and long lasting.",
+   "bestFor": "Woodworkers and cooks who sharpen chisels and knives.",
+   "pros": [
+    "Low speed reduces heat and the risk of blueing edges",
+    "Induction motor runs quietly",
+    "6 inch wheel suits chisels and plane irons",
+    "Low cost compared with dedicated sharpening systems"
+   ],
+   "cons": [
+    "Slower speed removes metal more gently on heavy jobs",
+    "Single speed limits versatility"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0FLHLPLHK?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41oAGmBZH6L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B004RDWLZI",
+   "badge": "Best Dual Lights",
+   "name": "Genesis GBG600L 6 in bench grinder, dual flexible lights",
+   "specs": [
+    "6 in wheels",
+    "Dual lights",
+    "Eye shield",
+    "Single speed"
+   ],
+   "specList": [
+    {
+     "label": "Wheel size",
+     "value": "6 in"
+    },
+    {
+     "label": "Lights",
+     "value": "Dual flexible"
+    },
+    {
+     "label": "Safety",
+     "value": "Eye shield"
+    },
+    {
+     "label": "Speed",
+     "value": "Single speed"
+    },
+    {
+     "label": "Use",
+     "value": "General grinding"
+    }
+   ],
+   "description": "The Genesis GBG600L adds dual flexible lights to a 6 inch grinder, one for each wheel. The design approach lights both sides of the grinder, which helps when you switch between coarse and fine wheels. Eye shields and tool rests complete the basic package.\n\nCompared with the WEN BG4276, the Genesis has two lights instead of one, but a smaller brand footprint. Compared with the VEVOR, it adds lighting on both wheels but runs at standard speed. It is a good fit for a shop with dim lighting or a workbench in a corner.\n\nOwnership requires wheel care and light checks. Dress the wheels when they glaze, check the lights for wear and keep the guards set. If a light fails, replace the bulb or add a clip-on lamp.",
+   "bestFor": "Dim workshops that need lighting on both wheels.",
+   "pros": [
+    "Dual flexible lights illuminate both wheels",
+    "6 inch size suits most home shop jobs",
+    "Eye shield and tool rests are included",
+    "Low cost for a lighted grinder"
+   ],
+   "cons": [
+    "Smaller brand with less owner feedback",
+    "Only one speed, so thin tool edges need frequent cooling"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B004RDWLZI?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/515v17hD-GL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B09T3XHS56",
+   "badge": "Best Variable Speed",
+   "name": "WEN BG625V 6 in variable speed bench grinder, 2.5 A",
+   "specs": [
+    "6 in wheels",
+    "2.5 A motor",
+    "Variable speed",
+    "Work light"
+   ],
+   "specList": [
+    {
+     "label": "Wheel size",
+     "value": "6 in"
+    },
+    {
+     "label": "Motor",
+     "value": "2.5 A"
+    },
+    {
+     "label": "Speed",
+     "value": "Variable"
+    },
+    {
+     "label": "Light",
+     "value": "Flexible work light"
+    },
+    {
+     "label": "Use",
+     "value": "Sharpening and polishing"
+    }
+   ],
+   "description": "The WEN BG625V adds variable speed to the 6 inch layout, with a 2.5 amp motor and a flexible work light. The design approach is to let you slow the wheels for delicate edge work and speed them up for shaping. That flexibility is rare in budget grinders and helps with knives and tools.\n\nCompared with the BG4276, the BG625V costs more but gives control over heat. Compared with the VEVOR, it offers a wider speed range but a less pure low-speed setup. It is a good fit for someone who both sharpens edges and shapes metal.\n\nOwnership is about wheel care and checking the speed control. Dress the wheels, keep the dial clean and avoid running at low speed for long periods under heavy load, since motors can run hotter when slowed.",
+   "bestFor": "Users who want one grinder for both shaping and sharpening.",
+   "pros": [
+    "Variable speed lets you slow down for delicate edges",
+    "2.5 amp motor has more reserve than the 2.1 amp WEN models",
+    "Flexible work light helps with bevels",
+    "One grinder covers more tasks"
+   ],
+   "cons": [
+    "Costs more than the single speed WEN models",
+    "Running slow under heavy load can heat the motor"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B09T3XHS56?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41ibpC3lbDL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0HHLCQYJB",
+   "badge": "Best 8 Inch With Coolant Tray",
+   "name": "JET JWBG-8HS 8 in bench grinder, 1/2 HP, LED lights, coolant tray",
+   "specs": [
+    "8 in wheels",
+    "1/2 HP motor",
+    "3,450 RPM",
+    "LED lights"
+   ],
+   "specList": [
+    {
+     "label": "Wheel size",
+     "value": "8 in"
+    },
+    {
+     "label": "Motor",
+     "value": "1/2 HP, 120V"
+    },
+    {
+     "label": "Speed",
+     "value": "3,450 RPM"
+    },
+    {
+     "label": "Lights",
+     "value": "LED work lights"
+    },
+    {
+     "label": "Extras",
+     "value": "Coolant tray"
+    }
+   ],
+   "description": "The JET JWBG-8HS is an 8 inch grinder with a 1/2 HP motor, LED lights and a built-in coolant tray. The design approach is a small-shop machine that keeps the wheels at the standard 3,450 RPM but gives you a water tray to dip hot steel. The lights and tray are the features that separate it from a bare-bones grinder.\n\nCompared with the WEN 6 inch grinders, the JET has a longer cutting surface and more motor, but it costs more and takes more bench space. Compared with the VEVOR, it removes metal much faster but does not run cool by itself, so the coolant tray matters on edge tools. It is a good fit for someone who both shapes metal and sharpens occasionally.\n\nOwnership requires wheel dressing and a bolted base. Keep the tray clean, set the tool rests close and replace stock wheels if you sharpen precision tools. Dry the tray after use so it does not rust the housing.",
+   "bestFor": "Small shops that shape metal and sharpen occasionally.",
+   "pros": [
+    "8 inch wheels give a longer cutting surface",
+    "LED lights show the bevel clearly",
+    "Coolant tray helps keep tools from overheating",
+    "1/2 HP motor handles heavier shaping"
+   ],
+   "cons": [
+    "Costs more and takes more bench space than 6 inch models",
+    "Standard speed still needs care on thin edges"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0HHLCQYJB?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/412IcZV2i3L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0D147PMXH",
+   "badge": "Best Digital Variable Speed",
+   "name": "Woodskil 8 in digital variable speed bench grinder, 3/4 HP, 5 A, for knives",
+   "specs": [
+    "8 in wheels",
+    "3/4 HP",
+    "Variable speed",
+    "Digital display"
+   ],
+   "specList": [
+    {
+     "label": "Wheel size",
+     "value": "8 in"
+    },
+    {
+     "label": "Motor",
+     "value": "3/4 HP, 5 A"
+    },
+    {
+     "label": "Speed",
+     "value": "Variable, digital readout"
+    },
+    {
+     "label": "Use",
+     "value": "Knife and tool sharpening"
+    },
+    {
+     "label": "Type",
+     "value": "Table grinder"
+    }
+   ],
+   "description": "The Woodskil is an 8 inch variable speed grinder with a digital display and a 3/4 HP, 5 amp motor, marketed for knife sharpening. The design approach puts a speed readout on the front so you can repeat a setting from one session to the next. Variable speed and a large motor are the combination that most budget grinders lack.\n\nCompared with the WEN BG625V, the Woodskil has bigger wheels, a stronger motor and a digital readout, but it costs more and has less brand history. Compared with the JET, it trades the coolant tray for speed control. It is a good fit for a hobbyist who sharpens knives and tools regularly.\n\nOwnership is about wheel quality and speed discipline. Start slow on thin edges, dress the wheels and keep water nearby for cooling. Check the display and the speed knob for dust, and replace stock wheels if the edge finish is rough.",
+   "bestFor": "Hobbyists who sharpen knives and tools regularly.",
+   "pros": [
+    "Digital readout makes speed settings repeatable",
+    "3/4 HP motor has reserve for heavier shaping",
+    "8 inch wheels give a longer sharpening surface",
+    "Variable speed lets you run slow on thin edges"
+   ],
+   "cons": [
+    "Costs more than the 6 inch variable speed option",
+    "Lesser-known brand with a shorter owner record"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0D147PMXH?tag=senseireview-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41m6f2cWnML._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Wheel size",
+   "explanation": "Six inch wheels suit most home jobs and keep cost down, while eight inch wheels give a longer cutting surface and a gentler curve on a gouge or chisel. Larger wheels wear more slowly and run cooler per pass, but they need a stronger motor and a heavier base. The WEN and Genesis models use 6 inch wheels, while the JET and Woodskil use 8 inch wheels."
+  },
+  {
+   "criterion": "Motor power and speed",
+   "explanation": "Motor power is listed in amps or horsepower. A 2.1 amp or 1/2 HP motor is enough for most home shop work. Standard speed is around 3,450 RPM, which can overheat thin edges, while slow-speed grinders around 1,750 RPM run cooler. The VEVOR is a low-speed grinder, while the WEN BG625V offers variable speed. The mistake is chasing amps alone, because a smooth, balanced wheel matters more to sharpening quality than a motor that is a few tenths of an amp stronger."
+  },
+  {
+   "criterion": "Wheel quality",
+   "explanation": "Stock wheels on budget grinders are often coarse and slightly out of round, which causes vibration and rough edges. Upgrading to better wheels makes a bigger difference than moving to a more powerful motor. Dressing the wheel keeps it flat. Plan to replace the wheels if you sharpen precision tools."
+  },
+  {
+   "criterion": "Base and vibration",
+   "explanation": "A heavy base absorbs vibration, while a light stamped base can walk across the bench. The 8 inch JET and Woodskil are the more substantial machines in this lineup, while the WEN grinders use lighter bases. Bolting the grinder to the bench cuts vibration on any model. A grinder that shakes is hard to control and wears wheels unevenly."
+  },
+  {
+   "criterion": "Tool rests and guards",
+   "explanation": "Tool rests should be adjustable close to the wheel, about an eighth of an inch, so the workpiece cannot jam. Eye shields and spark guards protect you from debris. Cheap rests can be flimsy, so check them for play. A loose rest is a safety issue as much as an accuracy issue."
+  },
+  {
+   "criterion": "Lights and extras",
+   "explanation": "Work lights help you see the bevel, especially on dim benches. The WEN BG4276 and BG625V have a single flexible light, while the Genesis has two and the JET lists LED lights. Extras like lights add comfort but do not replace good wheels and a stable base. Pay for the fundamentals first. A good clip-on lamp is cheaper than a grinder upgrade, so do not rule out a plain model just because it has no built-in light."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Wheel diameter",
+   "meaning": "The diameter of the grinding wheels, usually 6 or 8 inches. Larger wheels have a longer surface and wear more slowly.",
+   "watchFor": "The JET and Woodskil use 8 inch wheels, while the WEN and Genesis use 6 inch."
+  },
+  {
+   "spec": "RPM",
+   "meaning": "The wheel speed in revolutions per minute. Standard grinders run about 3,450 RPM, while slow-speed units run about 1,750 RPM.",
+   "watchFor": "The VEVOR runs about 1,750 RPM, which keeps edges cooler."
+  },
+  {
+   "spec": "Amps or HP",
+   "meaning": "A measure of motor power. Higher numbers mean more reserve for heavy grinding.",
+   "watchFor": "The WEN BG625V lists 2.5 amps, while the JET lists 1/2 HP and the Woodskil lists 3/4 HP."
+  },
+  {
+   "spec": "Variable speed",
+   "meaning": "A control that changes the wheel speed. It helps match speed to the task and reduce heat.",
+   "watchFor": "The WEN BG625V offers it, but slow speeds under heavy load can heat the motor."
+  },
+  {
+   "spec": "Tool rest",
+   "meaning": "An adjustable platform that supports the workpiece near the wheel. It should sit close to the wheel to prevent jams.",
+   "watchFor": "Budget rests can be flimsy, so check for play on any model."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Wheel size and motor",
+   "description": "We compared wheel diameters and motor ratings and what owners say about power. The JET and Woodskil lead on size and power, while the WEN models cover most home needs. We weighted motor reserve for heavier shaping."
+  },
+  {
+   "title": "Speed and heat",
+   "description": "We looked at speed options and reports of blueing edges. The VEVOR and WEN BG625V offer lower speeds, while the others run at standard speed. Heat control mattered most for sharpening."
+  },
+  {
+   "title": "Wheels and vibration",
+   "description": "We read feedback on stock wheel quality and vibration. Many owners upgrade the wheels, and heavier bases earn points for stability. Wheel quality was treated as a major factor."
+  },
+  {
+   "title": "Safety and adjustability",
+   "description": "We considered tool rests, eye shields and light placement. The Genesis and WEN models include shields and lights. Flimsy rests were the most common safety complaint."
+  },
+  {
+   "title": "Value in context",
+   "description": "We placed each grinder in the lower half of the price range and asked what it gives up. The WEN BG4276 is the cheapest and the best balance, the Genesis is the lighting pick and the Woodskil offers the most control. Replacement wheel availability was a tiebreaker."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Task",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Garden tool sharpening",
+      "WEN BG4276",
+      "6 inch wheels and a work light"
+     ],
+     [
+      "Chisels and plane irons",
+      "VEVOR slow-speed",
+      "Low speed keeps edges cool"
+     ],
+     [
+      "Mixed shaping and sharpening",
+      "WEN BG625V",
+      "Variable speed covers both"
+     ],
+     [
+      "Heavy shaping",
+      "JET 8 inch",
+      "Bigger wheels, more motor and a coolant tray"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest cost",
+      "WEN BG4276",
+      "6 inch grinder with a work light"
+     ],
+     [
+      "Lighting on both wheels",
+      "Genesis GBG600L",
+      "Dual flexible lights at a low tier"
+     ],
+     [
+      "Sharpening on a budget",
+      "VEVOR slow-speed",
+      "Low speed at a modest cost"
+     ],
+     [
+      "Spend for control",
+      "WEN BG625V",
+      "Variable speed and a larger motor"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "6 Inch vs 8 Inch",
+   "cards": [
+    {
+     "label": "6 inch",
+     "text": "The WEN, Genesis and VEVOR grinders are lighter and cheaper. They suit home shop sharpening and light shaping."
+    },
+    {
+     "label": "8 inch",
+     "text": "The JET and Woodskil have a longer cutting surface and more mass. They suit heavier shaping and knife work, and benefit from a bench bolt-down."
+    }
+   ],
+   "note": "Choose 6 inch for general home use and 8 inch if you shape metal often."
+  },
+  {
+   "subheading": "Speed and Edge Tools",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Chisels and knives",
+      "VEVOR",
+      "1,750 RPM keeps heat down"
+     ],
+     [
+      "Mixed use",
+      "WEN BG625V",
+      "Variable speed for each task"
+     ],
+     [
+      "Heavy metal removal",
+      "JET 8 inch",
+      "Larger wheels and a coolant tray"
+     ],
+     [
+      "Mower blades",
+      "WEN BG4276",
+      "Standard speed is fine for rough edges"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Home Shop Sharpening Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Low or variable speed, good wheels, adjustable tool rests and a stable base. Plan on upgrading the stock wheels."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The VEVOR is the sharpening pick, the WEN BG4276 is the all-rounder and the JET is the heavy pick."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You sharpen often, shape heavy stock or want less vibration. The WEN BG625V, JET and Woodskil are the sturdier options."
+    },
+    {
+     "label": "Save if",
+     "text": "You grind occasionally. The WEN BG4276 or the Genesis is enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Dress the wheels",
+   "interval": "When glazed or out of round",
+   "why": "A dressing tool restores a flat, sharp surface and reduces vibration. Dull or glazed wheels burn steel."
+  },
+  {
+   "task": "Set the tool rests",
+   "interval": "Before each session",
+   "why": "A rest too far from the wheel can let the workpiece jam. Keep about an eighth of an inch of clearance."
+  },
+  {
+   "task": "Check the eye shields",
+   "interval": "Each session",
+   "why": "Scratched shields reduce visibility. Replace them when they cloud or crack."
+  },
+  {
+   "task": "Bolt down the base",
+   "interval": "At setup",
+   "why": "A bolted base reduces vibration and keeps the grinder from walking. It improves control on every model."
+  },
+  {
+   "task": "Inspect the wheels for cracks",
+   "interval": "Each session",
+   "why": "Cracked wheels can fly apart. Replace any wheel with chips, cracks or wear to the arbor hole. Tap a wheel gently with a screwdriver handle before mounting it: a clear ring means it is sound, and a dull thud suggests a hidden crack."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is a 6 inch or 8 inch bench grinder better?",
+   "a": "Six inch grinders are cheaper and fine for most home jobs. Eight inch grinders offer a longer cutting surface and more power. Choose based on how much shaping you do. If you mostly sharpen mower blades and shovels, six inches is plenty, and the money saved can go toward better wheels instead of a larger frame."
+  },
+  {
+   "q": "How much should a budget bench grinder cost?",
+   "a": "Prices move, so check the current listing. Basic 6 inch grinders are cheapest, variable speed and 8 inch models cost more. Spend more only if you need the extra capacity."
+  },
+  {
+   "q": "Can I sharpen knives on a bench grinder?",
+   "a": "You can, but standard speed can overheat thin edges. A slow-speed grinder like the VEVOR or a variable speed unit is safer. Keep the blade moving and cool it often. A common trick is to dip the steel in water every few seconds and stop the moment the edge changes colour, because a blue tint means the temper has already softened."
+  },
+  {
+   "q": "Do I need to upgrade the stock wheels?",
+   "a": "If you sharpen precision tools, yes. Stock wheels on budget grinders are often coarse and out of round. Better wheels give smoother cuts. Many owners fit a white aluminium oxide wheel on the fine side, which cuts cooler than the grey stock wheel."
+  },
+  {
+   "q": "How do I stop the grinder from vibrating?",
+   "a": "Bolt the base to the bench, dress the wheels and check for loose parts. A heavy base helps, and so do balanced wheels. Rubber feet or a thin foam pad under the bench mount can also absorb the residual hum that a bolted base still passes to the bench top."
+  },
+  {
+   "q": "Is a bench grinder dangerous?",
+   "a": "It can be if used carelessly. Wear eye protection, set the tool rests close and stand to the side when starting. Never use a cracked wheel."
+  }
+ ],
+ "relatedGuides": [
+  {
+   "title": "Best Bench Grinders",
+   "href": "/guide/best-bench-grinders"
+  },
+  {
+   "title": "Best Angle Grinders",
+   "href": "/guide/best-angle-grinders"
+  }
+ ],
+ "heroImage": "https://m.media-amazon.com/images/I/4152ZJiQFrL._SL500_.jpg"
+}
